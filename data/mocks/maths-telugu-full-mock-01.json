@@ -1,0 +1,1995 @@
+{
+  "track": "maths",
+  "testId": "maths-telugu-full-mock-01",
+  "title": "Full-Length Mock Test 01 — Maths & Science (Telugu L1)",
+  "durationMinutes": 150,
+  "sections": [
+    {
+      "id": "cdp",
+      "title": "Child Development & Pedagogy",
+      "questions": [
+        {
+          "id": "mock-cdp-001",
+          "question": "Which statement best describes child development?",
+          "options": [
+            "A continuous process of change from conception through maturity",
+            "A process that ends at birth",
+            "A process determined only by heredity",
+            "A process that is identical for every child"
+          ],
+          "correctIndex": 0,
+          "explanation": "Child development involves continuous physical, cognitive, social and emotional changes over time.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-002",
+          "question": "The proximodistal principle refers to development proceeding:",
+          "options": [
+            "From the centre of the body outward",
+            "From feet to head",
+            "From complex to simple",
+            "At the same rate in all areas"
+          ],
+          "correctIndex": 0,
+          "explanation": "Proximodistal development proceeds from the body's central axis toward the extremities.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-003",
+          "question": "The term maturation refers primarily to:",
+          "options": [
+            "Biological unfolding influenced by genetic programming",
+            "Memorizing textbook facts",
+            "Rewarding a response",
+            "Learning only through observation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Maturation is biologically guided development, though experience can influence its expression.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-004",
+          "question": "According to Piaget, the sensorimotor stage occurs approximately from:",
+          "options": [
+            "Birth to 2 years",
+            "2 to 7 years",
+            "7 to 11 years",
+            "11 years onward"
+          ],
+          "correctIndex": 0,
+          "explanation": "Piaget's sensorimotor stage extends from birth to about two years.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-005",
+          "question": "Piaget used the term assimilation for:",
+          "options": [
+            "Changing a schema to fit new information",
+            "Interpreting new experience through an existing schema",
+            "Forgetting all prior knowledge",
+            "Learning only by reinforcement"
+          ],
+          "correctIndex": 1,
+          "explanation": "Assimilation incorporates experience into an existing cognitive schema.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-006",
+          "question": "The Zone of Proximal Development is the range between what a learner can do:",
+          "options": [
+            "Only with punishment and without punishment",
+            "Independently and with appropriate assistance",
+            "At home and at school",
+            "Before and after an examination"
+          ],
+          "correctIndex": 1,
+          "explanation": "The ZPD concerns tasks a learner can accomplish with guidance but not yet independently.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-007",
+          "question": "Erikson's psychosocial stage commonly associated with school-age children is:",
+          "options": [
+            "Trust versus mistrust",
+            "Autonomy versus shame and doubt",
+            "Industry versus inferiority",
+            "Identity versus role confusion"
+          ],
+          "correctIndex": 2,
+          "explanation": "Industry versus inferiority is the key psychosocial conflict during the school years.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-008",
+          "question": "Which classroom practice best supports intrinsic motivation?",
+          "options": [
+            "Offering meaningful choice and achievable challenge",
+            "Threatening punishment for every error",
+            "Using rewards as the only reason to learn",
+            "Publicly ranking children"
+          ],
+          "correctIndex": 0,
+          "explanation": "Choice, relevance and appropriately challenging work can support interest and internal motivation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-009",
+          "question": "Negative reinforcement involves:",
+          "options": [
+            "Punishing a learner",
+            "Removing an aversive condition to increase a behaviour",
+            "Adding an unpleasant stimulus to reduce behaviour",
+            "Withholding all feedback"
+          ],
+          "correctIndex": 1,
+          "explanation": "Negative reinforcement strengthens behaviour by removing or preventing an aversive condition.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-010",
+          "question": "Thorndike's Law of Effect proposes that responses followed by satisfying outcomes are:",
+          "options": [
+            "More likely to recur",
+            "Always forgotten",
+            "Unrelated to learning",
+            "Impossible to transfer"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Law of Effect links satisfying consequences with a strengthened likelihood of a response.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-011",
+          "question": "Which approach is most suitable for encouraging critical thinking?",
+          "options": [
+            "Ask learners to justify conclusions with evidence",
+            "Require only verbatim copying",
+            "Discourage questions",
+            "Reward guessing without explanation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Evidence-based justification prompts analysis and evaluation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-012",
+          "question": "A final examination at the end of a course is generally:",
+          "options": [
+            "Summative assessment",
+            "Formative assessment",
+            "Informal observation only",
+            "Peer scaffolding"
+          ],
+          "correctIndex": 0,
+          "explanation": "Summative assessment evaluates learning at the end of a unit, course or defined period.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-013",
+          "question": "A reliable assessment is one that:",
+          "options": [
+            "Produces reasonably consistent results under consistent conditions",
+            "Measures any unrelated trait",
+            "Has no scoring criteria",
+            "Always contains only essay questions"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reliability concerns consistency of measurement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-014",
+          "question": "Which feedback is most useful for learning?",
+          "options": [
+            "Specific, timely feedback describing how to improve",
+            "A vague comment such as 'bad work'",
+            "Public ridicule",
+            "Feedback given only months later"
+          ],
+          "correctIndex": 0,
+          "explanation": "Specific and timely feedback helps learners understand strengths and next steps.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-015",
+          "question": "A learner who finishes early may benefit from:",
+          "options": [
+            "An extension task requiring deeper application",
+            "Being made to repeat easy work indefinitely",
+            "Being excluded from class",
+            "Having all future tasks removed"
+          ],
+          "correctIndex": 0,
+          "explanation": "Extension tasks provide additional depth and challenge for learners who are ready.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-016",
+          "question": "Gifted learners may need:",
+          "options": [
+            "Enrichment, depth and appropriately challenging tasks",
+            "Only repetitive basic worksheets",
+            "No feedback",
+            "Automatic exemption from learning"
+          ],
+          "correctIndex": 0,
+          "explanation": "Enrichment and challenge can support gifted learners' continued growth.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-017",
+          "question": "Counselling in a school setting should be:",
+          "options": [
+            "Respectful, confidential within appropriate limits, and supportive",
+            "A public punishment",
+            "A guarantee that every problem disappears immediately",
+            "A replacement for safeguarding"
+          ],
+          "correctIndex": 0,
+          "explanation": "School counselling should protect dignity and privacy while observing safety and referral obligations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-018",
+          "question": "A learner's home language differs from the language of instruction. The teacher can support access by:",
+          "options": [
+            "Using visuals, examples, and opportunities to connect languages",
+            "Treating the home language as a defect",
+            "Preventing all peer interaction",
+            "Assuming the learner cannot understand concepts"
+          ],
+          "correctIndex": 0,
+          "explanation": "Language scaffolds and respectful use of prior linguistic knowledge support comprehension.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-019",
+          "question": "A teacher asks learners to explain different solution strategies. This primarily encourages:",
+          "options": [
+            "Metacognition and mathematical reasoning",
+            "Passive copying",
+            "Avoidance of reflection",
+            "Only rote recall"
+          ],
+          "correctIndex": 0,
+          "explanation": "Explaining strategies helps learners reflect on and monitor their thinking.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-020",
+          "question": "A teacher uses learners' errors to plan a follow-up lesson. This shows:",
+          "options": [
+            "Assessment-informed instruction",
+            "Punishment as curriculum",
+            "A refusal to assess",
+            "Summative grading only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Errors provide evidence about misconceptions and can guide responsive teaching.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-021",
+          "question": "Which question is most open-ended?",
+          "options": [
+            "What different ways could you solve this, and why?",
+            "Is the answer A?",
+            "Did you copy the example?",
+            "Is the page complete?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Open-ended questions allow multiple approaches and require explanation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-022",
+          "question": "Backward design begins by identifying:",
+          "options": [
+            "Desired learning outcomes and evidence of achievement",
+            "The colour of the classroom walls",
+            "The easiest activity regardless of purpose",
+            "Homework quantity only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Backward design starts with outcomes, then determines evidence and learning experiences.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-023",
+          "question": "A teacher responds to misbehaviour by calmly restating the expectation and offering a choice. This is:",
+          "options": [
+            "A supportive, proactive redirection",
+            "Public shaming",
+            "A diagnostic label",
+            "A reward schedule"
+          ],
+          "correctIndex": 0,
+          "explanation": "Calm redirection maintains expectations while helping the learner return to the task.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-024",
+          "question": "Which is a fair way to support a learner who needs more time?",
+          "options": [
+            "Provide an appropriate time accommodation when warranted",
+            "Automatically deny participation",
+            "Lower every learning goal without review",
+            "Announce the learner's difficulty to everyone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reasonable accommodations can improve access while preserving the intended construct where appropriate.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-025",
+          "question": "A child learns turn-taking during a structured game. This supports:",
+          "options": [
+            "Social development",
+            "Only physical growth",
+            "The disappearance of language",
+            "A fixed intelligence score"
+          ],
+          "correctIndex": 0,
+          "explanation": "Games can provide practice in cooperation, rules and managing interactions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-026",
+          "question": "Which is an example of a gross-motor skill?",
+          "options": [
+            "Hopping on one foot",
+            "Threading a needle",
+            "Writing a small letter",
+            "Buttoning a tiny button"
+          ],
+          "correctIndex": 0,
+          "explanation": "Gross-motor skills involve large muscle groups and whole-body movement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-027",
+          "question": "A teacher builds self-efficacy by providing:",
+          "options": [
+            "Achievable challenges, useful feedback and opportunities to experience progress",
+            "Only impossible tasks",
+            "Frequent humiliation",
+            "No feedback or practice"
+          ],
+          "correctIndex": 0,
+          "explanation": "Progress, supportive feedback and manageable challenges can strengthen learners' confidence in their capabilities.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-028",
+          "question": "A learner makes an error while attempting a new strategy. The teacher should:",
+          "options": [
+            "Treat the error as information and help the learner revise",
+            "Stop the learner from trying again",
+            "Use the error to shame the classmate",
+            "Assume the learner cannot improve"
+          ],
+          "correctIndex": 0,
+          "explanation": "Errors are useful evidence during learning and can guide feedback and revision.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-029",
+          "question": "Which is the most appropriate response to a suspected safeguarding concern?",
+          "options": [
+            "Follow the institution's safeguarding and reporting procedures promptly",
+            "Promise absolute secrecy regardless of risk",
+            "Investigate alone and confront everyone",
+            "Ignore the concern until the term ends"
+          ],
+          "correctIndex": 0,
+          "explanation": "Teachers should follow required safeguarding procedures and avoid making promises that conflict with safety obligations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-cdp-030",
+          "question": "A teacher asks learners to set a goal, monitor progress and reflect. This develops:",
+          "options": [
+            "Self-regulated learning",
+            "Only rote memorization",
+            "Punishment sensitivity",
+            "Physical maturation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Self-regulated learning involves goal-setting, monitoring and reflection.",
+          "explanationLanguage": "en"
+        }
+      ]
+    },
+    {
+      "id": "telugu-language-i",
+      "title": "Language-I — Telugu",
+      "questions": [
+        {
+          "id": "mock-telugu-l1-001",
+          "question": "తెలుగు భాషలో స్వరాలకు ఉదాహరణల సమూహం ఏది?",
+          "options": [
+            "క, ఖ, గ",
+            "అ, ఆ, ఇ",
+            "చ, జ, ట",
+            "య, ర, ల"
+          ],
+          "correctIndex": 1,
+          "explanation": "అ, ఆ, ఇ స్వరాలు; మిగిలిన ఎంపికల్లో హల్లులు ఉన్నాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-002",
+          "question": "‘క’ వర్ణం ఉచ్చారణ స్థానం ఏది?",
+          "options": [
+            "కంఠ్యం",
+            "తాలవ్యం",
+            "మూర్ధన్యం",
+            "దంత్యం"
+          ],
+          "correctIndex": 0,
+          "explanation": "క వర్గంలోని వర్ణాలు కంఠ్యాలు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-003",
+          "question": "‘చ’ వర్గంలోని మొదటి వర్ణం ఏది?",
+          "options": [
+            "జ",
+            "ఛ",
+            "చ",
+            "ఞ"
+          ],
+          "correctIndex": 2,
+          "explanation": "చ వర్గం: చ, ఛ, జ, ఝ, ఞ.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-004",
+          "question": "‘రాముడు పాఠశాలకు వెళ్లాడు’ వాక్యంలో క్రియ ఏది?",
+          "options": [
+            "రాముడు",
+            "పాఠశాలకు",
+            "వెళ్లాడు",
+            "ఏదీ కాదు"
+          ],
+          "correctIndex": 2,
+          "explanation": "వెళ్లాడు అనేది జరిగిన పనిని తెలిపే క్రియ.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-005",
+          "question": "‘నీలాకాశం’ పదంలో ఉన్న సమాసాన్ని గుర్తించండి.",
+          "options": [
+            "ద్వంద్వ సమాసం",
+            "కర్మధారయ సమాసం",
+            "బహువ్రీహి సమాసం",
+            "ద్విగు సమాసం"
+          ],
+          "correctIndex": 1,
+          "explanation": "నీలమైన ఆకాశం అనే విశేషణ-విశేష్య సంబంధం కర్మధారయ సమాస లక్షణం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-006",
+          "question": "‘అమ్మ చేత వండబడింది’ వాక్యం ఏ ప్రయోగానికి ఉదాహరణ?",
+          "options": [
+            "కర్తరి",
+            "కర్మణి",
+            "భావే",
+            "ఏదీ కాదు"
+          ],
+          "correctIndex": 1,
+          "explanation": "చేత అనే సూచనతో కర్మణి ప్రయోగంలో పని కర్మపై కేంద్రీకృతమవుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-007",
+          "question": "‘విద్యార్థి’ పదానికి బహువచన రూపం ఏది?",
+          "options": [
+            "విద్యార్థులు",
+            "విద్యార్థిని",
+            "విద్యార్థిత్వం",
+            "విద్యార్థిగా"
+          ],
+          "correctIndex": 0,
+          "explanation": "విద్యార్థి యొక్క సాధారణ బహువచన రూపం విద్యార్థులు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-008",
+          "question": "‘చంద్రుని వంటి ముఖం’ అనే భావాన్ని తెలిపే అలంకారం ఏది?",
+          "options": [
+            "ఉపమా",
+            "రూపకం",
+            "అతిశయోక్తి",
+            "శ్లేషం"
+          ],
+          "correctIndex": 0,
+          "explanation": "వంటి అనే ఉపమావాచకం పోలికను సూచిస్తుంది; ఇది ఉపమాలంకారం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-009",
+          "question": "‘అతడు సింహం’ అనే వాక్యంలో ప్రధానంగా కనిపించే అలంకారం ఏది?",
+          "options": [
+            "ఉపమా",
+            "రూపకం",
+            "యమకం",
+            "అనుప్రాస"
+          ],
+          "correctIndex": 1,
+          "explanation": "ఇక్కడ పోలికను ‘వంటి’ అని చెప్పకుండా నేరుగా సింహంగా పేర్కొనడం రూపకం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-010",
+          "question": "ఒకే పదం పునరావృతమై ధ్వని సౌందర్యం కలిగించడాన్ని సాధారణంగా ఏమంటారు?",
+          "options": [
+            "అనుప్రాస",
+            "ఉత్ప్రేక్ష",
+            "వ్యతిరేకం",
+            "దృష్టాంతం"
+          ],
+          "correctIndex": 0,
+          "explanation": "సమాన ధ్వనుల పునరావృత్తి అనుప్రాసకు లక్షణం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-011",
+          "question": "పద్యంలోని ప్రతి పాదంలో అక్షర/గణ నియమాల క్రమాన్ని ఏమంటారు?",
+          "options": [
+            "ఛందస్సు",
+            "సంధి",
+            "సమాసం",
+            "విభక్తి"
+          ],
+          "correctIndex": 0,
+          "explanation": "పద్య నిర్మాణంలో అక్షర, గణ, యతి, ప్రాస వంటి నియమాల సమాహారాన్ని ఛందస్సు అంటారు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-012",
+          "question": "పద్య పాదంలో నిర్దిష్ట స్థలంలో వచ్చే విరామాన్ని ఏమంటారు?",
+          "options": [
+            "ప్రాస",
+            "యతి",
+            "గణం",
+            "మాత్ర"
+          ],
+          "correctIndex": 1,
+          "explanation": "యతి అనేది పాదంలో నియమిత విరామ స్థానం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-013",
+          "question": "పద్యాలలో పాదాంత ధ్వని సామ్యాన్ని సూచించే అంశం ఏది?",
+          "options": [
+            "యతి",
+            "ప్రాస",
+            "విభక్తి",
+            "ఉపసర్గ"
+          ],
+          "correctIndex": 1,
+          "explanation": "పాదాల చివర లేదా నియమిత స్థానాల్లో ధ్వని సామ్యాన్ని ప్రాస అంటారు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-014",
+          "question": "‘అడవిలో’ పదంలో ‘లో’ ఏ సంబంధాన్ని సూచిస్తుంది?",
+          "options": [
+            "కరణం",
+            "అధికరణం",
+            "కర్త",
+            "సంప్రదానం"
+          ],
+          "correctIndex": 1,
+          "explanation": "‘లో’ స్థలాన్ని సూచిస్తుంది; ఇది అధికరణ సంబంధం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-015",
+          "question": "‘రామునికి పుస్తకం ఇచ్చాను’ వాక్యంలో ‘రామునికి’ ఏ విభక్తి సంబంధం?",
+          "options": [
+            "ద్వితీయా",
+            "తృతీయా",
+            "చతుర్థీ",
+            "పంచమీ"
+          ],
+          "correctIndex": 2,
+          "explanation": "ఎవరికి ఇచ్చాను? అనే ప్రశ్నకు సమాధానం చతుర్థీ విభక్తి సంబంధాన్ని సూచిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-016",
+          "question": "‘ధైర్యం’ పదానికి సమీపార్థక పదం ఏది?",
+          "options": [
+            "భయం",
+            "సాహసం",
+            "దుఃఖం",
+            "అలసట"
+          ],
+          "correctIndex": 1,
+          "explanation": "సాహసం ధైర్యానికి సమీపార్థక పదం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-017",
+          "question": "‘ఆరంభం’ పదానికి వ్యతిరేకపదం ఏది?",
+          "options": [
+            "ప్రారంభం",
+            "మొదలు",
+            "ముగింపు",
+            "ఉదయం"
+          ],
+          "correctIndex": 2,
+          "explanation": "ఆరంభానికి వ్యతిరేకార్థం ముగింపు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-018",
+          "question": "‘చెవిలో పువ్వులు పెట్టడం’ జాతీయానికి సరైన భావం ఏది?",
+          "options": [
+            "పూలు అలంకరించడం",
+            "మోసం చేయడం",
+            "సంతోషపడడం",
+            "శ్రద్ధగా వినడం"
+          ],
+          "correctIndex": 1,
+          "explanation": "ఈ జాతీయానికి సాధారణంగా మోసం చేయడం లేదా నమ్మించడం అనే భావం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-019",
+          "question": "‘కన్నుల పండువ’ అనే ప్రయోగం ఏ భావాన్ని తెలియజేస్తుంది?",
+          "options": [
+            "చూడటానికి ఎంతో ఆనందకరమైనది",
+            "కళ్లకు నొప్పి",
+            "నిద్ర రావడం",
+            "కోపం కలగడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "కన్నుల పండువ అంటే చూడటానికి ఎంతో మనోహరంగా, ఆనందంగా ఉండటం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-020",
+          "question": "తెలుగు గద్య బోధనలో పఠనానంతర ప్రశ్నల ప్రధాన ప్రయోజనం ఏది?",
+          "options": [
+            "విద్యార్థులను శిక్షించడం",
+            "అర్థగ్రహణాన్ని పరిశీలించడం",
+            "పాఠాన్ని కంఠస్థం చేయించడం మాత్రమే",
+            "పఠనాన్ని ఆపడం"
+          ],
+          "correctIndex": 1,
+          "explanation": "పఠనానంతర ప్రశ్నలు పాఠ్యాంశం అర్థమైందో లేదో, భావాలను అన్వయించగలరో లేదో తెలుసుకుంటాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-021",
+          "question": "విద్యార్థుల పదసంపదను పెంపొందించేందుకు అనుకూలమైన చర్య ఏది?",
+          "options": [
+            "కొత్త పదాలను సందర్భంలో ఉపయోగించడం",
+            "అర్థం చెప్పకుండా పదాలు రాయించడం",
+            "చదవడాన్ని తగ్గించడం",
+            "తప్పులకు మాత్రమే మార్కులు తగ్గించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "సందర్భోచిత వినియోగం ద్వారా పదాల అర్థం, ప్రయోగం రెండూ బలపడతాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-022",
+          "question": "భాషా తరగతిలో జంటలుగా సంభాషణ చేయించడం ప్రధానంగా ఏ నైపుణ్యాన్ని అభివృద్ధి చేస్తుంది?",
+          "options": [
+            "వినడం, మాట్లాడడం",
+            "కేవలం లేఖనం",
+            "కేవలం మౌన పఠనం",
+            "గణన"
+          ],
+          "correctIndex": 0,
+          "explanation": "జంట సంభాషణలో విద్యార్థులు వినడం, స్పందించడం, స్పష్టంగా మాట్లాడడం సాధన చేస్తారు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-023",
+          "question": "విద్యార్థి రచనలోని తప్పులను సరిచేసేటప్పుడు ఉపాధ్యాయుడు ఏ విధానాన్ని అనుసరించాలి?",
+          "options": [
+            "తప్పులను అవమానిస్తూ చెప్పడం",
+            "తప్పు నమూనా చూపి సవరణకు మార్గనిర్దేశం చేయడం",
+            "రచనను పట్టించుకోకపోవడం",
+            "మొత్తం రచనను తొలగించడం"
+          ],
+          "correctIndex": 1,
+          "explanation": "స్పష్టమైన, ప్రోత్సాహకరమైన అభిప్రాయం విద్యార్థికి తప్పును అర్థం చేసుకొని స్వయంగా సరిచేసుకునే అవకాశం ఇస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-024",
+          "question": "నిరంతర భాషా మూల్యాంకనానికి సరైన సాధనం ఏది?",
+          "options": [
+            "ఒకే వార్షిక పరీక్ష",
+            "పోర్ట్‌ఫోలియో, పరిశీలన, చిన్న పనులు",
+            "హాజరు పట్టిక మాత్రమే",
+            "కేవలం కంఠస్థ పరీక్ష"
+          ],
+          "correctIndex": 1,
+          "explanation": "వివిధ సందర్భాల్లో విద్యార్థి భాషా ప్రగతిని పోర్ట్‌ఫోలియో, పరిశీలన, పనుల ద్వారా నిరంతరం అంచనా వేయవచ్చు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-025",
+          "question": "వినికిడి నైపుణ్యాన్ని అంచనా వేయడానికి ఏ పని సరిపోతుంది?",
+          "options": [
+            "విన్న కథను క్రమంగా చెప్పడం",
+            "బోర్డు నుంచి నకలు చేయడం",
+            "చిత్రం రంగు వేయడం",
+            "గణిత సమస్య పరిష్కరించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "విన్న సమాచారాన్ని గుర్తుంచుకొని క్రమంగా చెప్పడం వినికిడి అర్థగ్రహణాన్ని పరీక్షిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-026",
+          "question": "పఠనంలో ‘స్కిమ్మింగ్’ అంటే ఏమిటి?",
+          "options": [
+            "ప్రతి పదాన్ని నెమ్మదిగా విశ్లేషించడం",
+            "మొత్తం పాఠ్యంలోని ప్రధాన భావాన్ని త్వరగా గ్రహించడం",
+            "పాఠ్యాన్ని కంఠస్థం చేయడం",
+            "శబ్దంగా మాత్రమే చదవడం"
+          ],
+          "correctIndex": 1,
+          "explanation": "స్కిమ్మింగ్‌లో పాఠ్యాన్ని వేగంగా పరిశీలించి ప్రధానాంశాన్ని తెలుసుకుంటారు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-027",
+          "question": "పఠనంలో ‘స్కానింగ్’ ప్రధానంగా దేనికి ఉపయోగపడుతుంది?",
+          "options": [
+            "ఒక నిర్దిష్ట సమాచారం వెతకడం",
+            "పాఠ్యాన్ని కవితగా మార్చడం",
+            "అన్ని పదాల వ్యుత్పత్తి తెలుసుకోవడం",
+            "రచనను సవరించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "స్కానింగ్ ద్వారా తేదీ, పేరు, సంఖ్య వంటి నిర్దిష్ట సమాచారాన్ని వేగంగా గుర్తిస్తారు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-028",
+          "question": "విద్యార్థులు తమ అనుభవాల ఆధారంగా కథ రాయడం ఏ అభ్యాస దృక్పథానికి దగ్గరగా ఉంటుంది?",
+          "options": [
+            "నిర్మాణవాదం",
+            "కేవలం శిక్షణ-ప్రతిస్పందన",
+            "శిక్షా విధానం",
+            "నిష్క్రియ కంఠస్థం"
+          ],
+          "correctIndex": 0,
+          "explanation": "విద్యార్థి తన అనుభవాలు, పూర్వజ్ఞానంతో అర్థాన్ని నిర్మించుకోవడం నిర్మాణవాద దృక్పథానికి అనుగుణం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-029",
+          "question": "బహుభాషా తరగతిలో విద్యార్థుల ఇంటి భాషలను గౌరవించడం వల్ల ఏమి సాధ్యమవుతుంది?",
+          "options": [
+            "పాల్గొనడం, అర్థనిర్మాణం మెరుగవడం",
+            "ఇతర భాషలను నిషేధించడం",
+            "అభ్యాసాన్ని నిలిపివేయడం",
+            "పరీక్షలన్నీ తొలగించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "ఇంటి భాషల వనరులను గౌరవించడం ద్వారా విద్యార్థుల ఆత్మవిశ్వాసం, భావగ్రహణం, తరగతి భాగస్వామ్యం పెరుగుతాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "mock-telugu-l1-030",
+          "question": "భాషా బోధనలో పాత్రధారణ (Role play) ప్రధానంగా ఏ అంశానికి తోడ్పడుతుంది?",
+          "options": [
+            "సందర్భానుసార సంభాషణ సాధన",
+            "కేవలం అక్షరాల లెక్కింపు",
+            "నిశ్శబ్దంగా కూర్చోవడం",
+            "పరీక్ష సమయాన్ని తగ్గించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "పాత్రధారణ నిజజీవిత సందర్భాలను అనుకరించి భాషను అర్థవంతంగా ఉపయోగించే అవకాశాన్ని కల్పిస్తుంది.",
+          "explanationLanguage": "te"
+        }
+      ]
+    },
+    {
+      "id": "english-language-ii",
+      "title": "Language-II — English",
+      "questions": [
+        {
+          "id": "mock-english-l2-001",
+          "question": "Choose the correct article: She bought ___ umbrella because it was raining.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 1,
+          "explanation": "Use 'an' before a vowel sound; 'umbrella' begins with a vowel sound.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-002",
+          "question": "Choose the correct preposition: She is interested ___ learning French.",
+          "options": [
+            "on",
+            "at",
+            "in",
+            "for"
+          ],
+          "correctIndex": 2,
+          "explanation": "The adjective 'interested' is followed by the preposition 'in'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-003",
+          "question": "Choose the correct comparative form of 'good'.",
+          "options": [
+            "gooder",
+            "more good",
+            "better",
+            "best"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Better' is the irregular comparative form of 'good'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-004",
+          "question": "Choose the correct question tag: You have finished your work, ___?",
+          "options": [
+            "have you",
+            "haven't you",
+            "didn't you",
+            "don't you"
+          ],
+          "correctIndex": 1,
+          "explanation": "A positive statement with 'have' takes the negative tag 'haven't you'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-005",
+          "question": "Choose the correct spelling.",
+          "options": [
+            "accomodation",
+            "accommodation",
+            "acommodation",
+            "accommadation"
+          ],
+          "correctIndex": 1,
+          "explanation": "The standard spelling is 'accommodation', with double 'c' and double 'm'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-006",
+          "question": "Choose the correct form: The children ___ playing outside when it began to rain.",
+          "options": [
+            "was",
+            "were",
+            "is",
+            "has"
+          ],
+          "correctIndex": 1,
+          "explanation": "The plural subject 'children' takes 'were' in the past continuous.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-007",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "There is fewer water in the tank.",
+            "There are less students today.",
+            "There is less water in the tank.",
+            "There are lesser water in the tank."
+          ],
+          "correctIndex": 2,
+          "explanation": "'Water' is uncountable, so 'less' is appropriate; 'there is' agrees with it.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-008",
+          "question": "Choose the correct form: I look forward to ___ from you.",
+          "options": [
+            "hear",
+            "heard",
+            "hearing",
+            "have heard"
+          ],
+          "correctIndex": 2,
+          "explanation": "In 'look forward to', 'to' is a preposition and is followed by a gerund.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-009",
+          "question": "Choose the antonym of 'scarce'.",
+          "options": [
+            "Rare",
+            "Limited",
+            "Abundant",
+            "Insufficient"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Abundant' means plentiful and is the opposite of 'scarce'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-010",
+          "question": "Choose the correct word: The instructions were so ___ that everyone understood them.",
+          "options": [
+            "ambiguous",
+            "clear",
+            "obscure",
+            "vague"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Clear' means easy to understand and contrasts with 'ambiguous', 'obscure' and 'vague'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-011",
+          "question": "Choose the correct prefix to make the opposite of 'legal'.",
+          "options": [
+            "il-",
+            "un-",
+            "mis-",
+            "dis-"
+          ],
+          "correctIndex": 0,
+          "explanation": "The negative prefix 'il-' forms 'illegal' before words beginning with 'l'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-012",
+          "question": "Choose the correct word: We need to ___ the problem before it gets worse.",
+          "options": [
+            "address",
+            "dress",
+            "adverse",
+            "assert"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Address a problem' means deal with or give attention to it.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-013",
+          "question": "Choose the correct form: The news ___ surprising.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "'News' is a singular uncountable noun and takes a singular verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-014",
+          "question": "Choose the correct form: Neither the teacher nor the students ___ ready.",
+          "options": [
+            "is",
+            "was",
+            "are",
+            "has"
+          ],
+          "correctIndex": 2,
+          "explanation": "With 'neither...nor', the verb commonly agrees with the nearer subject; 'students' is plural.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-015",
+          "question": "Choose the correct form: This road is ___ than the old one.",
+          "options": [
+            "narrow",
+            "narrower",
+            "more narrowest",
+            "narrowest"
+          ],
+          "correctIndex": 1,
+          "explanation": "For most short adjectives, add '-er' to form the comparative.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-016",
+          "question": "Choose the correct tense: Water ___ at 100°C at standard atmospheric pressure.",
+          "options": [
+            "boil",
+            "boils",
+            "is boiling always",
+            "boiled"
+          ],
+          "correctIndex": 1,
+          "explanation": "The simple present is used for general scientific facts.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-017",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "Unless you don't hurry, you will miss the bus.",
+            "Unless you hurry, you will miss the bus.",
+            "Unless you hurried, you miss the bus.",
+            "Unless you will hurry, you miss the bus."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Unless' already means 'if not', so the clause normally does not use an additional 'not'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-018",
+          "question": "Choose the correct passive form: They are repairing the bridge.",
+          "options": [
+            "The bridge is repaired by them.",
+            "The bridge was being repaired by them.",
+            "The bridge is being repaired by them.",
+            "The bridge has repaired by them."
+          ],
+          "correctIndex": 2,
+          "explanation": "The present continuous passive is 'is/are being + past participle'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-019",
+          "question": "Choose the correct modal: It ___ rain later, so take an umbrella.",
+          "options": [
+            "mustn't",
+            "might",
+            "ought",
+            "needn't to"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Might' expresses possibility.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-020",
+          "question": "Choose the correct form: I am used to ___ up early.",
+          "options": [
+            "get",
+            "getting",
+            "got",
+            "have got"
+          ],
+          "correctIndex": 1,
+          "explanation": "In 'be used to', 'to' is a preposition and is followed by a noun or gerund.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-021",
+          "question": "Choose the correct punctuation.",
+          "options": [
+            "Where are you going.",
+            "Where are you going?",
+            "Where are you going,",
+            "Where are you going!"
+          ],
+          "correctIndex": 1,
+          "explanation": "A direct question normally ends with a question mark.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-022",
+          "question": "Choose the correct connector: You may take the bus ___ you may walk.",
+          "options": [
+            "or",
+            "because",
+            "although",
+            "unless"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Or' links alternatives.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-023",
+          "question": "Choose the correct word: His explanation was not ___ enough for beginners.",
+          "options": [
+            "simply",
+            "simple",
+            "simplify",
+            "simplicity"
+          ],
+          "correctIndex": 1,
+          "explanation": "The adjective 'simple' follows 'was' and is modified by 'enough'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-024",
+          "question": "Choose the antonym of 'expand'.",
+          "options": [
+            "Enlarge",
+            "Extend",
+            "Contract",
+            "Increase"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Contract' means become smaller, the opposite of 'expand'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-025",
+          "question": "Choose the meaning of 'under the weather'.",
+          "options": [
+            "Feeling unwell",
+            "Standing outdoors",
+            "Feeling extremely wealthy",
+            "Working in the rain"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Under the weather' is an idiom meaning slightly ill or unwell.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-026",
+          "question": "Choose the correct word: Please keep a ___ copy of the receipt.",
+          "options": [
+            "personal",
+            "personnel",
+            "personality",
+            "personify"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Personal' means belonging to or intended for a particular person.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-027",
+          "question": "A learner uses surrounding sentences to infer an unfamiliar word's meaning. This is an example of:",
+          "options": [
+            "Using context clues",
+            "Translating every word",
+            "Memorizing spelling only",
+            "Ignoring the text"
+          ],
+          "correctIndex": 0,
+          "explanation": "Context clues help readers infer meanings from nearby information.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-028",
+          "question": "Which is an appropriate pre-reading activity?",
+          "options": [
+            "Discuss the title and predict the topic",
+            "Test every detail before learners see the text",
+            "Ask learners to memorize the passage",
+            "Correct pronunciation of unseen words"
+          ],
+          "correctIndex": 0,
+          "explanation": "Title discussion and prediction activate prior knowledge and prepare readers.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-029",
+          "question": "Which activity most directly practises listening for gist?",
+          "options": [
+            "Listen and choose the best summary of the conversation",
+            "Write down every word heard",
+            "Identify only the final consonant",
+            "Repeat a single isolated sound"
+          ],
+          "correctIndex": 0,
+          "explanation": "Listening for gist focuses on the overall meaning rather than every detail.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-english-l2-030",
+          "question": "Which approach is most helpful when correcting spoken errors during a fluency activity?",
+          "options": [
+            "Prioritize communication and give selected feedback without constantly interrupting",
+            "Stop every utterance immediately",
+            "Ignore all learning goals permanently",
+            "Correct errors publicly with ridicule"
+          ],
+          "correctIndex": 0,
+          "explanation": "During fluency work, excessive interruption can disrupt communication; selected feedback is often more appropriate.",
+          "explanationLanguage": "en"
+        }
+      ]
+    },
+    {
+      "id": "mathematics",
+      "title": "Mathematics",
+      "questions": [
+        {
+          "id": "mock-maths-001",
+          "question": "What is the place value of 7 in 4,72,915?",
+          "options": [
+            "7,000",
+            "70,000",
+            "700",
+            "7"
+          ],
+          "correctIndex": 1,
+          "explanation": "The digit 7 is in the ten-thousands place, so its place value is 70,000.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-002",
+          "question": "What is 5/6 − 1/3?",
+          "options": [
+            "1/2",
+            "2/3",
+            "4/3",
+            "1/3"
+          ],
+          "correctIndex": 0,
+          "explanation": "1/3 is 2/6, so 5/6 − 2/6 = 3/6 = 1/2.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-003",
+          "question": "The mean of 6, 8, 10 and 12 is:",
+          "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+          ],
+          "correctIndex": 1,
+          "explanation": "Their sum is 36; 36 divided by 4 is 9.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-004",
+          "question": "A train travels 180 km in 3 hours at a constant speed. What is its speed?",
+          "options": [
+            "50 km/h",
+            "55 km/h",
+            "60 km/h",
+            "65 km/h"
+          ],
+          "correctIndex": 2,
+          "explanation": "Speed = distance ÷ time = 180 ÷ 3 = 60 km/h.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-005",
+          "question": "A family uses 2.5 kg of rice each day. How much rice is used in 12 days?",
+          "options": [
+            "25 kg",
+            "28 kg",
+            "30 kg",
+            "32.5 kg"
+          ],
+          "correctIndex": 2,
+          "explanation": "2.5 × 12 = 30 kg.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-006",
+          "question": "Solve: 3x + 7 = 25.",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "correctIndex": 2,
+          "explanation": "Subtract 7 to get 3x = 18; divide by 3, x = 6.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-007",
+          "question": "What is the coefficient of y in 7x − 4y + 9?",
+          "options": [
+            "7",
+            "−4",
+            "9",
+            "4"
+          ],
+          "correctIndex": 1,
+          "explanation": "The term containing y is −4y, so its coefficient is −4.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-008",
+          "question": "Each interior angle of an equilateral triangle measures:",
+          "options": [
+            "45°",
+            "60°",
+            "90°",
+            "120°"
+          ],
+          "correctIndex": 1,
+          "explanation": "All three angles are equal and total 180°; each is 60°.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-009",
+          "question": "The area of a circle with radius 3 cm is:",
+          "options": [
+            "6π cm²",
+            "9π cm²",
+            "12π cm²",
+            "18π cm²"
+          ],
+          "correctIndex": 1,
+          "explanation": "Area = πr² = π × 3² = 9π cm².",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-010",
+          "question": "A straight angle measures:",
+          "options": [
+            "90°",
+            "120°",
+            "180°",
+            "360°"
+          ],
+          "correctIndex": 2,
+          "explanation": "A straight angle forms a straight line and measures 180°.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-011",
+          "question": "A fair coin is tossed once. The probability of getting heads is:",
+          "options": [
+            "0",
+            "1/4",
+            "1/2",
+            "1"
+          ],
+          "correctIndex": 2,
+          "explanation": "There are two equally likely outcomes, and one is heads; probability is 1/2.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-012",
+          "question": "Which is an irrational number?",
+          "options": [
+            "0.25",
+            "√2",
+            "7/9",
+            "−3"
+          ],
+          "correctIndex": 1,
+          "explanation": "√2 cannot be expressed as a ratio of two integers.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-013",
+          "question": "Which question is most open-ended?",
+          "options": [
+            "What is 6 × 7?",
+            "Name a triangle with three equal sides",
+            "Find different rectangles with perimeter 24 cm and compare their areas",
+            "What is the formula for area of a rectangle?"
+          ],
+          "correctIndex": 2,
+          "explanation": "The task permits multiple solutions and invites comparison and explanation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-014",
+          "question": "Which classroom practice best supports learners with different readiness levels?",
+          "options": [
+            "Give every learner an identical task with no support",
+            "Use varied scaffolds and appropriately challenging tasks",
+            "Keep struggling learners away from peers",
+            "Teach only the fastest learners"
+          ],
+          "correctIndex": 1,
+          "explanation": "Differentiated scaffolding supports access while maintaining suitable challenge.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-015",
+          "question": "For introducing the concept of zero in place value, a useful resource is:",
+          "options": [
+            "A place-value chart with counters",
+            "Only a long verbal lecture",
+            "A spelling worksheet",
+            "A history timeline"
+          ],
+          "correctIndex": 0,
+          "explanation": "Counters and a place-value chart make the role of an empty place visible.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-016",
+          "question": "Which activity best links mathematics to daily life?",
+          "options": [
+            "Finding the cost of items and calculating change in a mock shop",
+            "Copying a page without context",
+            "Memorizing a list of dates",
+            "Drawing unrelated shapes for decoration"
+          ],
+          "correctIndex": 0,
+          "explanation": "A mock shop applies number operations and money concepts in a familiar situation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-017",
+          "question": "Convert 3.6 kilometres to metres.",
+          "options": [
+            "36 m",
+            "360 m",
+            "3,600 m",
+            "36,000 m"
+          ],
+          "correctIndex": 2,
+          "explanation": "1 km = 1,000 m, so 3.6 km = 3,600 m.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-018",
+          "question": "Which transformation turns a figure around a fixed point?",
+          "options": [
+            "Translation",
+            "Rotation",
+            "Reflection",
+            "Enlargement"
+          ],
+          "correctIndex": 1,
+          "explanation": "Rotation turns a figure through an angle about a fixed point.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-019",
+          "question": "A rectangle has area 54 cm² and length 9 cm. Find its breadth.",
+          "options": [
+            "5 cm",
+            "6 cm",
+            "7 cm",
+            "8 cm"
+          ],
+          "correctIndex": 1,
+          "explanation": "Breadth = area ÷ length = 54 ÷ 9 = 6 cm.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-maths-020",
+          "question": "A data set has values 5, 7, 7, 9, 12. What is its median?",
+          "options": [
+            "5",
+            "7",
+            "7.5",
+            "9"
+          ],
+          "correctIndex": 1,
+          "explanation": "The ordered data contain five values; the third value, 7, is the median.",
+          "explanationLanguage": "en"
+        }
+      ]
+    },
+    {
+      "id": "physical-science",
+      "title": "Physical Science",
+      "questions": [
+        {
+          "id": "mock-physical-001",
+          "question": "SI unit of force is:",
+          "options": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Pascal"
+          ],
+          "correctIndex": 1,
+          "explanation": "Force is measured in newtons (N).",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-002",
+          "question": "A plane mirror forms an image that is:",
+          "options": [
+            "Real and inverted",
+            "Virtual and erect",
+            "Real and erect",
+            "Virtual and inverted"
+          ],
+          "correctIndex": 1,
+          "explanation": "A plane mirror forms a virtual, erect image of the same size.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-003",
+          "question": "Pitch of a sound mainly depends on its:",
+          "options": [
+            "Amplitude",
+            "Frequency",
+            "Speed",
+            "Loudness"
+          ],
+          "correctIndex": 1,
+          "explanation": "Higher frequency is perceived as higher pitch.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-004",
+          "question": "Which is a good conductor of electricity?",
+          "options": [
+            "Rubber",
+            "Glass",
+            "Copper",
+            "Dry wood"
+          ],
+          "correctIndex": 2,
+          "explanation": "Copper has high electrical conductivity.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-005",
+          "question": "The SI unit of electric charge is:",
+          "options": [
+            "Ampere",
+            "Coulomb",
+            "Volt",
+            "Ohm"
+          ],
+          "correctIndex": 1,
+          "explanation": "Electric charge is measured in coulombs (C).",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-006",
+          "question": "Which material is strongly attracted by a magnet?",
+          "options": [
+            "Copper",
+            "Aluminium",
+            "Iron",
+            "Glass"
+          ],
+          "correctIndex": 2,
+          "explanation": "Iron is a ferromagnetic material.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-007",
+          "question": "Mass is measured in:",
+          "options": [
+            "Newtons",
+            "Kilograms",
+            "Joules",
+            "Pascals"
+          ],
+          "correctIndex": 1,
+          "explanation": "The SI unit of mass is the kilogram.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-008",
+          "question": "The energy possessed by a moving object is:",
+          "options": [
+            "Chemical energy",
+            "Kinetic energy",
+            "Potential energy",
+            "Nuclear energy"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kinetic energy is energy due to motion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-009",
+          "question": "Rusting of iron requires oxygen and:",
+          "options": [
+            "Nitrogen only",
+            "Moisture",
+            "Carbon dioxide only",
+            "Sunlight only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Rusting typically occurs when iron is exposed to oxygen and water.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-010",
+          "question": "Which gas is released when many metals react with dilute acids?",
+          "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Carbon dioxide",
+            "Chlorine"
+          ],
+          "correctIndex": 1,
+          "explanation": "Metal-acid reactions commonly release hydrogen gas.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-011",
+          "question": "Which of these is a physical change?",
+          "options": [
+            "Burning paper",
+            "Souring milk",
+            "Melting wax",
+            "Cooking an egg"
+          ],
+          "correctIndex": 2,
+          "explanation": "Melting changes state without creating a new substance.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-012",
+          "question": "A change directly from solid to gas is called:",
+          "options": [
+            "Condensation",
+            "Sublimation",
+            "Freezing",
+            "Deposition"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sublimation is the direct transition from solid to gas.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-013",
+          "question": "The gas essential for aerobic respiration is:",
+          "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen",
+            "Carbon monoxide"
+          ],
+          "correctIndex": 1,
+          "explanation": "Aerobic respiration uses oxygen to release energy from food.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-014",
+          "question": "The variable measured as the outcome is the:",
+          "options": [
+            "Dependent variable",
+            "Independent variable",
+            "Control variable",
+            "Fixed constant"
+          ],
+          "correctIndex": 0,
+          "explanation": "The dependent variable is observed or measured in response.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-015",
+          "question": "A spring balance measures:",
+          "options": [
+            "Mass directly in kilograms",
+            "Force or weight",
+            "Temperature",
+            "Electric potential"
+          ],
+          "correctIndex": 1,
+          "explanation": "A spring balance measures force, commonly used to measure weight.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-016",
+          "question": "A student gets an unexpected experimental result. The teacher should first encourage the student to:",
+          "options": [
+            "Check procedure, measurements and possible sources of error",
+            "Alter the data to match the expected answer",
+            "Discard all observations automatically",
+            "Claim the hypothesis is proven"
+          ],
+          "correctIndex": 0,
+          "explanation": "Checking method and data supports scientific reasoning and integrity.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-017",
+          "question": "When teaching density, which activity best links formula and meaning?",
+          "options": [
+            "Measure mass and volume of objects, then compare mass per unit volume",
+            "Copy the word density repeatedly",
+            "Discuss only object colour",
+            "Memorise the formula without examples"
+          ],
+          "correctIndex": 0,
+          "explanation": "Measurements connect density as mass per unit volume to actual materials.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-018",
+          "question": "A student uses a graph to claim a relationship between two quantities. The teacher should ask the student to:",
+          "options": [
+            "Describe the pattern and consider whether the evidence supports the claim",
+            "Ignore axis labels",
+            "Assume correlation proves causation",
+            "Remove data points that disagree"
+          ],
+          "correctIndex": 0,
+          "explanation": "Interpreting the pattern and evidence supports a cautious scientific conclusion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-019",
+          "question": "A teacher uses local examples such as cooking, farming and household wiring in science lessons. This can:",
+          "options": [
+            "Connect scientific concepts with learners' everyday experiences",
+            "Replace scientific accuracy with anecdotes",
+            "Prevent transfer of learning",
+            "Make practical work unnecessary"
+          ],
+          "correctIndex": 0,
+          "explanation": "Relevant contexts can help learners connect formal concepts with familiar situations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-physical-020",
+          "question": "A teacher asks students to sort materials as conductors and insulators, then justify choices using test results. This combines:",
+          "options": [
+            "Classification with evidence-based reasoning",
+            "Only memorisation",
+            "Unstructured guessing",
+            "Assessment unrelated to science"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sorting and justification use both categorization and experimental evidence.",
+          "explanationLanguage": "en"
+        }
+      ]
+    },
+    {
+      "id": "biological-science",
+      "title": "Biological Science",
+      "questions": [
+        {
+          "id": "mock-biology-001",
+          "question": "The basic structural and functional unit of life is the:",
+          "options": [
+            "Tissue",
+            "Cell",
+            "Organ",
+            "Organ system"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cells are the basic structural and functional units of living organisms.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-002",
+          "question": "The green pigment essential for photosynthesis is:",
+          "options": [
+            "Haemoglobin",
+            "Chlorophyll",
+            "Melanin",
+            "Keratin"
+          ],
+          "correctIndex": 1,
+          "explanation": "Chlorophyll absorbs light energy used in photosynthesis.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-003",
+          "question": "Phloem is chiefly responsible for transporting:",
+          "options": [
+            "Manufactured organic nutrients",
+            "Only water",
+            "Only mineral salts",
+            "Carbon dioxide into roots"
+          ],
+          "correctIndex": 0,
+          "explanation": "Phloem translocates sugars and other organic substances from source to sink.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-004",
+          "question": "After fertilization in a flowering plant, the ovule usually develops into a:",
+          "options": [
+            "Fruit",
+            "Seed",
+            "Stamen",
+            "Petal"
+          ],
+          "correctIndex": 1,
+          "explanation": "The fertilized ovule develops into a seed.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-005",
+          "question": "The chamber that pumps oxygenated blood into the aorta is the:",
+          "options": [
+            "Right atrium",
+            "Right ventricle",
+            "Left atrium",
+            "Left ventricle"
+          ],
+          "correctIndex": 3,
+          "explanation": "The left ventricle pumps oxygenated blood into systemic circulation through the aorta.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-006",
+          "question": "Most gas exchange in human lungs occurs in the:",
+          "options": [
+            "Trachea",
+            "Bronchi",
+            "Alveoli",
+            "Larynx"
+          ],
+          "correctIndex": 2,
+          "explanation": "Alveoli provide a large, thin-walled surface for gas exchange.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-007",
+          "question": "Insulin is secreted by the:",
+          "options": [
+            "Thyroid gland",
+            "Pancreas",
+            "Adrenal cortex",
+            "Pituitary only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Beta cells in pancreatic islets secrete insulin, which helps lower blood glucose.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-008",
+          "question": "The part of the brain strongly associated with balance and coordination is the:",
+          "options": [
+            "Cerebellum",
+            "Medulla oblongata",
+            "Hypothalamus",
+            "Cerebrum only"
+          ],
+          "correctIndex": 0,
+          "explanation": "The cerebellum helps coordinate movement, posture and balance.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-009",
+          "question": "Vaccination primarily aims to:",
+          "options": [
+            "Induce immune memory against a specific antigen",
+            "Cause the full disease deliberately in all recipients",
+            "Replace all white blood cells",
+            "Destroy every microorganism in the body"
+          ],
+          "correctIndex": 0,
+          "explanation": "Vaccines train the immune system to respond more effectively to a target pathogen.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-010",
+          "question": "A balanced diet supplies:",
+          "options": [
+            "Needed nutrients in appropriate proportions",
+            "Only carbohydrates",
+            "Only proteins",
+            "Energy but no micronutrients"
+          ],
+          "correctIndex": 0,
+          "explanation": "A balanced diet provides energy, protein, fats, vitamins, minerals, water and fibre in suitable amounts.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-011",
+          "question": "A food chain begins most commonly with:",
+          "options": [
+            "Producers",
+            "Top predators",
+            "Decomposers only",
+            "Parasites"
+          ],
+          "correctIndex": 0,
+          "explanation": "Producers capture energy, usually from sunlight, and form the base of many food chains.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-012",
+          "question": "In parasitism, the parasite typically:",
+          "options": [
+            "Benefits while the host is harmed",
+            "Benefits and harms nobody",
+            "Is always larger than its host",
+            "Makes the host a producer"
+          ],
+          "correctIndex": 0,
+          "explanation": "Parasitism benefits one organism while negatively affecting the host.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-013",
+          "question": "The body of an insect is typically divided into:",
+          "options": [
+            "Head, thorax and abdomen",
+            "Cephalothorax and tail only",
+            "Head and foot",
+            "Four equal regions"
+          ],
+          "correctIndex": 0,
+          "explanation": "The typical insect body plan has head, thorax and abdomen.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-014",
+          "question": "The scientific naming system using two words is called:",
+          "options": [
+            "Binomial nomenclature",
+            "Artificial selection",
+            "Dichotomous feeding",
+            "Ecological succession"
+          ],
+          "correctIndex": 0,
+          "explanation": "Binomial nomenclature gives each species a genus name and specific epithet.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-015",
+          "question": "An organism's ecological niche includes its:",
+          "options": [
+            "Role, resource use and interactions in the ecosystem",
+            "Body colour only",
+            "Taxonomic name only",
+            "Geographical coordinates only"
+          ],
+          "correctIndex": 0,
+          "explanation": "A niche describes how an organism lives and functions within its ecological context.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-016",
+          "question": "In a simple Mendelian cross, a dominant allele is expressed in a heterozygote when:",
+          "options": [
+            "It masks the recessive allele's phenotype",
+            "It is always more common in a population",
+            "It changes into a recessive allele",
+            "It is found only on the Y chromosome"
+          ],
+          "correctIndex": 0,
+          "explanation": "In complete dominance, the dominant allele determines the heterozygote's phenotype.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-017",
+          "question": "The process by which populations become better suited to their environments through differential reproductive success is:",
+          "options": [
+            "Natural selection",
+            "Condensation",
+            "Fermentation only",
+            "Diffusion"
+          ],
+          "correctIndex": 0,
+          "explanation": "Natural selection changes inherited traits when some variants leave more offspring than others.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-018",
+          "question": "The dependent variable in that investigation could be:",
+          "options": [
+            "Seedling height after a fixed period",
+            "Light intensity assigned",
+            "Pot type kept constant",
+            "The research question"
+          ],
+          "correctIndex": 0,
+          "explanation": "Seedling height is an outcome measured in response to the changed light intensity.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-019",
+          "question": "Which classroom approach best supports inclusive biology learning?",
+          "options": [
+            "Combine diagrams, specimens or models, vocabulary scaffolds and varied ways to respond",
+            "Use text-only instruction for every learner regardless of access",
+            "Exclude students needing adaptations",
+            "Assess participation by speaking speed"
+          ],
+          "correctIndex": 0,
+          "explanation": "Multiple representations and appropriate supports broaden access to biology concepts.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "mock-biology-020",
+          "question": "A student reports results that contradict the hypothesis. The appropriate scientific response is to:",
+          "options": [
+            "Record and discuss the evidence rather than alter the results",
+            "Change the data to support the hypothesis",
+            "Discard the notebook",
+            "Claim the hypothesis is proven anyway"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scientific conclusions should follow the evidence, including unexpected results.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ],
+  "reviewMode": "after-test"
+}

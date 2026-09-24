@@ -1,0 +1,1314 @@
+{
+  "track": "maths",
+  "testId": "physical-science-content-batch-01",
+  "title": "AP Special TET Physical Science — Content & Pedagogy Batch 01",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "physical-science-content-01",
+      "title": "Physical Science Content and Pedagogy",
+      "questions": [
+        {
+          "id": "physical-science-content-001-001",
+          "question": "SI unit of force is:",
+          "options": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Pascal"
+          ],
+          "correctIndex": 1,
+          "explanation": "Force is measured in newtons (N).",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-002",
+          "question": "The SI unit of work is:",
+          "options": [
+            "Newton",
+            "Watt",
+            "Joule",
+            "Ampere"
+          ],
+          "correctIndex": 2,
+          "explanation": "Work is measured in joules (J).",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-003",
+          "question": "Which instrument measures electric current?",
+          "options": [
+            "Voltmeter",
+            "Ammeter",
+            "Barometer",
+            "Thermometer"
+          ],
+          "correctIndex": 1,
+          "explanation": "An ammeter is connected in series to measure current.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-004",
+          "question": "Which quantity is measured in watts?",
+          "options": [
+            "Power",
+            "Energy",
+            "Charge",
+            "Resistance"
+          ],
+          "correctIndex": 0,
+          "explanation": "The watt is the SI unit of power.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-005",
+          "question": "The approximate speed of light in vacuum is:",
+          "options": [
+            "3 × 10⁶ m/s",
+            "3 × 10⁷ m/s",
+            "3 × 10⁸ m/s",
+            "3 × 10⁹ m/s"
+          ],
+          "correctIndex": 2,
+          "explanation": "Light travels at about 3 × 10⁸ metres per second in vacuum.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-006",
+          "question": "A plane mirror forms an image that is:",
+          "options": [
+            "Real and inverted",
+            "Virtual and erect",
+            "Real and erect",
+            "Virtual and inverted"
+          ],
+          "correctIndex": 1,
+          "explanation": "A plane mirror forms a virtual, erect image of the same size.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-007",
+          "question": "The angle of incidence is 35°. The angle of reflection is:",
+          "options": [
+            "25°",
+            "35°",
+            "55°",
+            "70°"
+          ],
+          "correctIndex": 1,
+          "explanation": "By the law of reflection, the two angles are equal.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-008",
+          "question": "A convex lens is also called a:",
+          "options": [
+            "Diverging lens",
+            "Converging lens",
+            "Cylindrical mirror",
+            "Plane lens"
+          ],
+          "correctIndex": 1,
+          "explanation": "A convex lens converges parallel rays of light.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-009",
+          "question": "Which colour has the longest wavelength in visible light?",
+          "options": [
+            "Violet",
+            "Blue",
+            "Green",
+            "Red"
+          ],
+          "correctIndex": 3,
+          "explanation": "Red light has the longest visible wavelength.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-010",
+          "question": "Sound cannot travel through:",
+          "options": [
+            "Steel",
+            "Water",
+            "Air",
+            "Vacuum"
+          ],
+          "correctIndex": 3,
+          "explanation": "Sound requires a material medium and cannot travel through vacuum.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-011",
+          "question": "Pitch of a sound mainly depends on its:",
+          "options": [
+            "Amplitude",
+            "Frequency",
+            "Speed",
+            "Loudness"
+          ],
+          "correctIndex": 1,
+          "explanation": "Higher frequency is perceived as higher pitch.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-012",
+          "question": "The loudness of sound is associated mainly with:",
+          "options": [
+            "Amplitude",
+            "Wavelength only",
+            "Frequency only",
+            "Wave speed only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Greater amplitude generally corresponds to greater loudness.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-013",
+          "question": "Heat transfer through a solid mainly occurs by:",
+          "options": [
+            "Conduction",
+            "Convection",
+            "Radiation only",
+            "Evaporation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Conduction transfers energy through particle interactions in solids.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-014",
+          "question": "Heat from the Sun reaches Earth mainly by:",
+          "options": [
+            "Conduction",
+            "Convection",
+            "Radiation",
+            "Diffusion"
+          ],
+          "correctIndex": 2,
+          "explanation": "Radiation can transfer energy through the vacuum of space.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-015",
+          "question": "The boiling point of pure water at standard atmospheric pressure is:",
+          "options": [
+            "0°C",
+            "50°C",
+            "100°C",
+            "150°C"
+          ],
+          "correctIndex": 2,
+          "explanation": "At standard atmospheric pressure, pure water boils at 100°C.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-016",
+          "question": "During melting, the temperature of a pure substance generally:",
+          "options": [
+            "Rises continuously",
+            "Remains constant while melting occurs",
+            "Falls to zero",
+            "Becomes negative"
+          ],
+          "correctIndex": 1,
+          "explanation": "Energy supplied during the phase change is used as latent heat.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-017",
+          "question": "Which is a good conductor of electricity?",
+          "options": [
+            "Rubber",
+            "Glass",
+            "Copper",
+            "Dry wood"
+          ],
+          "correctIndex": 2,
+          "explanation": "Copper has high electrical conductivity.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-018",
+          "question": "A fuse is connected in a circuit to:",
+          "options": [
+            "Increase voltage",
+            "Protect against excessive current",
+            "Store charge",
+            "Measure resistance"
+          ],
+          "correctIndex": 1,
+          "explanation": "A fuse melts and breaks the circuit when current exceeds its rating.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-019",
+          "question": "In a series circuit, the current through each component is:",
+          "options": [
+            "Different always",
+            "The same",
+            "Zero",
+            "Doubled at each component"
+          ],
+          "correctIndex": 1,
+          "explanation": "There is only one path for current in a series circuit.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-020",
+          "question": "Two 2 Ω resistors connected in series have a total resistance of:",
+          "options": [
+            "1 Ω",
+            "2 Ω",
+            "4 Ω",
+            "8 Ω"
+          ],
+          "correctIndex": 2,
+          "explanation": "Series resistances add: 2 + 2 = 4 Ω.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-021",
+          "question": "Two 6 Ω resistors connected in parallel have an equivalent resistance of:",
+          "options": [
+            "3 Ω",
+            "6 Ω",
+            "12 Ω",
+            "18 Ω"
+          ],
+          "correctIndex": 0,
+          "explanation": "For two equal resistors in parallel, equivalent resistance is half: 3 Ω.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-022",
+          "question": "The SI unit of electric charge is:",
+          "options": [
+            "Ampere",
+            "Coulomb",
+            "Volt",
+            "Ohm"
+          ],
+          "correctIndex": 1,
+          "explanation": "Electric charge is measured in coulombs (C).",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-023",
+          "question": "A device that converts electrical energy into mechanical energy is an:",
+          "options": [
+            "Electric motor",
+            "Electric generator",
+            "Cell",
+            "Resistor"
+          ],
+          "correctIndex": 0,
+          "explanation": "An electric motor converts electrical energy into mechanical motion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-024",
+          "question": "An electric generator converts:",
+          "options": [
+            "Mechanical energy into electrical energy",
+            "Electrical energy into chemical energy",
+            "Heat into mass",
+            "Light into sound"
+          ],
+          "correctIndex": 0,
+          "explanation": "A generator uses electromagnetic induction to produce electrical energy.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-025",
+          "question": "Like magnetic poles:",
+          "options": [
+            "Attract",
+            "Repel",
+            "Have no interaction",
+            "Always neutralize"
+          ],
+          "correctIndex": 1,
+          "explanation": "Like poles repel and unlike poles attract.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-026",
+          "question": "The north-seeking end of a freely suspended magnet points approximately toward:",
+          "options": [
+            "Geographic north",
+            "Geographic south",
+            "The equator",
+            "The Sun"
+          ],
+          "correctIndex": 0,
+          "explanation": "It aligns approximately with Earth's geographic north direction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-027",
+          "question": "Which material is strongly attracted by a magnet?",
+          "options": [
+            "Copper",
+            "Aluminium",
+            "Iron",
+            "Glass"
+          ],
+          "correctIndex": 2,
+          "explanation": "Iron is a ferromagnetic material.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-028",
+          "question": "The force that opposes relative motion between surfaces is:",
+          "options": [
+            "Buoyancy",
+            "Friction",
+            "Gravity",
+            "Magnetism"
+          ],
+          "correctIndex": 1,
+          "explanation": "Friction acts against relative motion or its tendency.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-029",
+          "question": "An object continues in its state of rest or uniform straight-line motion unless acted on by a net external force. This is:",
+          "options": [
+            "Newton's first law",
+            "Newton's second law",
+            "Newton's third law",
+            "Law of gravitation"
+          ],
+          "correctIndex": 0,
+          "explanation": "This statement expresses Newton's first law of motion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-030",
+          "question": "If a net force of 12 N acts on a 3 kg object, its acceleration is:",
+          "options": [
+            "2 m/s²",
+            "3 m/s²",
+            "4 m/s²",
+            "36 m/s²"
+          ],
+          "correctIndex": 2,
+          "explanation": "Using F = ma, a = 12/3 = 4 m/s².",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-031",
+          "question": "The weight of an object is the force due to:",
+          "options": [
+            "Friction",
+            "Gravity",
+            "Magnetism",
+            "Air pressure"
+          ],
+          "correctIndex": 1,
+          "explanation": "Weight is the gravitational force acting on an object.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-032",
+          "question": "Mass is measured in:",
+          "options": [
+            "Newtons",
+            "Kilograms",
+            "Joules",
+            "Pascals"
+          ],
+          "correctIndex": 1,
+          "explanation": "The SI unit of mass is the kilogram.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-033",
+          "question": "Pressure is defined as:",
+          "options": [
+            "Force × area",
+            "Force per unit area",
+            "Area per unit force",
+            "Mass per unit volume"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pressure equals the perpendicular force divided by area.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-034",
+          "question": "For the same force, pressure increases when the contact area:",
+          "options": [
+            "Increases",
+            "Decreases",
+            "Stays unchanged",
+            "Doubles and force doubles"
+          ],
+          "correctIndex": 1,
+          "explanation": "A smaller area gives greater pressure for the same force.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-035",
+          "question": "The upward force exerted by a fluid on an immersed object is:",
+          "options": [
+            "Tension",
+            "Upthrust",
+            "Friction",
+            "Centripetal force"
+          ],
+          "correctIndex": 1,
+          "explanation": "Buoyant force, or upthrust, acts upward in a fluid.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-036",
+          "question": "An object floats when its average density is generally:",
+          "options": [
+            "Greater than the fluid's density",
+            "Less than the fluid's density",
+            "Always zero",
+            "Unrelated to fluid density"
+          ],
+          "correctIndex": 1,
+          "explanation": "An object with average density below that of the fluid can float.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-037",
+          "question": "The energy possessed by a moving object is:",
+          "options": [
+            "Chemical energy",
+            "Kinetic energy",
+            "Potential energy",
+            "Nuclear energy"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kinetic energy is energy due to motion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-038",
+          "question": "Gravitational potential energy near Earth's surface depends on:",
+          "options": [
+            "Mass, gravity and height",
+            "Colour and shape only",
+            "Temperature only",
+            "Electric charge only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Near Earth, gravitational potential energy is mgh.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-039",
+          "question": "A machine has mechanical advantage 4. Ideally, an effort of 25 N can balance a load of:",
+          "options": [
+            "6.25 N",
+            "25 N",
+            "75 N",
+            "100 N"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ideal mechanical advantage = load/effort, so load = 4 × 25 = 100 N.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-040",
+          "question": "The energy stored in a stretched spring is:",
+          "options": [
+            "Elastic potential energy",
+            "Sound energy",
+            "Nuclear energy",
+            "Electrical current"
+          ],
+          "correctIndex": 0,
+          "explanation": "A deformed elastic object stores elastic potential energy.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-041",
+          "question": "Which is a renewable energy source?",
+          "options": [
+            "Coal",
+            "Petroleum",
+            "Solar energy",
+            "Natural gas"
+          ],
+          "correctIndex": 2,
+          "explanation": "Solar energy is replenished naturally on human timescales.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-042",
+          "question": "A major product of complete combustion of a hydrocarbon is:",
+          "options": [
+            "Carbon dioxide",
+            "Helium",
+            "Sodium chloride",
+            "Ammonia"
+          ],
+          "correctIndex": 0,
+          "explanation": "Complete combustion of hydrocarbons produces carbon dioxide and water.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-043",
+          "question": "Rusting of iron requires oxygen and:",
+          "options": [
+            "Nitrogen only",
+            "Moisture",
+            "Carbon dioxide only",
+            "Sunlight only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Rusting typically occurs when iron is exposed to oxygen and water.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-044",
+          "question": "Which method can separate an insoluble solid from a liquid?",
+          "options": [
+            "Filtration",
+            "Distillation only",
+            "Sublimation only",
+            "Chromatography only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Filtration retains insoluble particles while liquid passes through.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-045",
+          "question": "Salt can be obtained from salt solution by:",
+          "options": [
+            "Evaporation",
+            "Magnetic separation",
+            "Sieving",
+            "Handpicking"
+          ],
+          "correctIndex": 0,
+          "explanation": "Evaporation removes the water, leaving salt behind.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-046",
+          "question": "A substance with pH 3 is:",
+          "options": [
+            "Acidic",
+            "Neutral",
+            "Basic",
+            "Always a salt"
+          ],
+          "correctIndex": 0,
+          "explanation": "Values below 7 indicate acidity in the usual aqueous pH scale.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-047",
+          "question": "Blue litmus paper in an acidic solution turns:",
+          "options": [
+            "Blue",
+            "Red",
+            "Green",
+            "Colourless"
+          ],
+          "correctIndex": 1,
+          "explanation": "Acids turn blue litmus red.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-048",
+          "question": "Which gas is released when many metals react with dilute acids?",
+          "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Carbon dioxide",
+            "Chlorine"
+          ],
+          "correctIndex": 1,
+          "explanation": "Metal-acid reactions commonly release hydrogen gas.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-049",
+          "question": "The chemical formula of water is:",
+          "options": [
+            "HO",
+            "H₂O",
+            "H₂O₂",
+            "OH₂₂"
+          ],
+          "correctIndex": 1,
+          "explanation": "A water molecule contains two hydrogen atoms and one oxygen atom.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-050",
+          "question": "The smallest unit of an element that retains its chemical identity is an:",
+          "options": [
+            "Atom",
+            "Mixture",
+            "Compound",
+            "Solution"
+          ],
+          "correctIndex": 0,
+          "explanation": "An atom is the smallest unit of an element retaining its chemical properties.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-051",
+          "question": "A molecule of oxygen gas is represented as:",
+          "options": [
+            "O",
+            "O₂",
+            "O₃",
+            "CO₂"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ordinary oxygen gas consists of diatomic O₂ molecules.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-052",
+          "question": "Which of these is a chemical change?",
+          "options": [
+            "Melting ice",
+            "Tearing paper",
+            "Rusting iron",
+            "Dissolving sugar"
+          ],
+          "correctIndex": 2,
+          "explanation": "Rusting forms new substances, so it is a chemical change.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-053",
+          "question": "Which of these is a physical change?",
+          "options": [
+            "Burning paper",
+            "Souring milk",
+            "Melting wax",
+            "Cooking an egg"
+          ],
+          "correctIndex": 2,
+          "explanation": "Melting changes state without creating a new substance.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-054",
+          "question": "In a chemical equation, the total number of atoms of each element is:",
+          "options": [
+            "Always different on each side",
+            "Conserved when balanced",
+            "Destroyed during reaction",
+            "Converted entirely into energy"
+          ],
+          "correctIndex": 1,
+          "explanation": "A balanced equation reflects conservation of atoms in a chemical reaction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-055",
+          "question": "The particles in a gas are generally:",
+          "options": [
+            "Fixed in regular positions",
+            "Closely packed and only vibrating",
+            "Far apart and moving randomly",
+            "Unable to move"
+          ],
+          "correctIndex": 2,
+          "explanation": "Gas particles are widely spaced and move randomly.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-056",
+          "question": "Diffusion is generally fastest in:",
+          "options": [
+            "Solids",
+            "Liquids",
+            "Gases",
+            "All states equally"
+          ],
+          "correctIndex": 2,
+          "explanation": "Particles diffuse faster in gases because they move freely and are farther apart.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-057",
+          "question": "Evaporation causes cooling because:",
+          "options": [
+            "High-energy particles escape from the surface",
+            "All particles stop moving",
+            "The liquid gains heat from nowhere",
+            "The mass becomes zero"
+          ],
+          "correctIndex": 0,
+          "explanation": "Escaping higher-energy particles lower the average energy of the remaining liquid.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-058",
+          "question": "A change directly from solid to gas is called:",
+          "options": [
+            "Condensation",
+            "Sublimation",
+            "Freezing",
+            "Deposition"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sublimation is the direct transition from solid to gas.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-059",
+          "question": "The periodic table is arranged in order of increasing:",
+          "options": [
+            "Atomic number",
+            "Neutron mass only",
+            "Density",
+            "Melting point"
+          ],
+          "correctIndex": 0,
+          "explanation": "The modern periodic table is ordered by atomic number.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-060",
+          "question": "Elements in the same group of the periodic table often have similar:",
+          "options": [
+            "Chemical properties",
+            "Atomic numbers",
+            "Numbers of shells",
+            "Mass numbers"
+          ],
+          "correctIndex": 0,
+          "explanation": "Group members have similar valence-electron configurations and often similar chemistry.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-061",
+          "question": "Which of these is a non-metal?",
+          "options": [
+            "Iron",
+            "Sulphur",
+            "Copper",
+            "Aluminium"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sulphur is classified as a non-metal.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-062",
+          "question": "Which oxide is generally basic?",
+          "options": [
+            "Magnesium oxide",
+            "Carbon dioxide",
+            "Sulphur dioxide",
+            "Nitrogen dioxide"
+          ],
+          "correctIndex": 0,
+          "explanation": "Many metal oxides, including magnesium oxide, are basic.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-063",
+          "question": "Carbon dioxide turns limewater:",
+          "options": [
+            "Blue",
+            "Milky",
+            "Red",
+            "Black"
+          ],
+          "correctIndex": 1,
+          "explanation": "Carbon dioxide forms insoluble calcium carbonate in limewater, making it milky.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-064",
+          "question": "The gas essential for aerobic respiration is:",
+          "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen",
+            "Carbon monoxide"
+          ],
+          "correctIndex": 1,
+          "explanation": "Aerobic respiration uses oxygen to release energy from food.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-065",
+          "question": "A classroom activity asks learners to infer that air occupies space using an inverted glass and tissue in water. This is primarily:",
+          "options": [
+            "Inquiry through observation",
+            "Rote memorisation",
+            "Summative ranking",
+            "Silent copying"
+          ],
+          "correctIndex": 0,
+          "explanation": "Learners observe evidence and infer a property of air.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-066",
+          "question": "Which is the most suitable first step when learners hold alternative ideas about a science concept?",
+          "options": [
+            "Elicit their prior ideas with questions or a diagnostic task",
+            "Immediately label the ideas as foolish",
+            "Skip the concept",
+            "Give only the final definition"
+          ],
+          "correctIndex": 0,
+          "explanation": "Eliciting prior conceptions helps the teacher plan instruction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-067",
+          "question": "A fair test generally changes:",
+          "options": [
+            "Several variables simultaneously",
+            "One independent variable while controlling others",
+            "No variable and collects no data",
+            "Only the conclusion"
+          ],
+          "correctIndex": 1,
+          "explanation": "Changing one independent variable helps isolate its effect.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-068",
+          "question": "In an experiment, the variable deliberately changed by the investigator is the:",
+          "options": [
+            "Dependent variable",
+            "Independent variable",
+            "Control result",
+            "Constant"
+          ],
+          "correctIndex": 1,
+          "explanation": "The independent variable is deliberately manipulated.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-069",
+          "question": "The variable measured as the outcome is the:",
+          "options": [
+            "Dependent variable",
+            "Independent variable",
+            "Control variable",
+            "Fixed constant"
+          ],
+          "correctIndex": 0,
+          "explanation": "The dependent variable is observed or measured in response.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-070",
+          "question": "Repeated measurements are useful because they can:",
+          "options": [
+            "Improve reliability and reveal anomalous results",
+            "Guarantee the hypothesis is true",
+            "Remove the need for instruments",
+            "Change the laws of nature"
+          ],
+          "correctIndex": 0,
+          "explanation": "Repeats help identify variation and support more reliable estimates.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-071",
+          "question": "Which safety practice is appropriate during a laboratory activity?",
+          "options": [
+            "Taste chemicals to identify them",
+            "Wear suitable eye protection when required",
+            "Run between workstations",
+            "Mix unknown chemicals freely"
+          ],
+          "correctIndex": 1,
+          "explanation": "Appropriate eye protection reduces risk from splashes and particles.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-072",
+          "question": "A student records temperature every minute and plots it against time. The graph is useful for:",
+          "options": [
+            "Showing how temperature changes over time",
+            "Proving all substances behave identically",
+            "Replacing the experiment",
+            "Showing only categories"
+          ],
+          "correctIndex": 0,
+          "explanation": "A time-series graph reveals trends in measured temperature.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-073",
+          "question": "Which instrument is most suitable for measuring the volume of a liquid in a school lab?",
+          "options": [
+            "Measuring cylinder",
+            "Spring balance",
+            "Ammeter",
+            "Compass"
+          ],
+          "correctIndex": 0,
+          "explanation": "A measuring cylinder is designed to measure liquid volume.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-074",
+          "question": "A spring balance measures:",
+          "options": [
+            "Mass directly in kilograms",
+            "Force or weight",
+            "Temperature",
+            "Electric potential"
+          ],
+          "correctIndex": 1,
+          "explanation": "A spring balance measures force, commonly used to measure weight.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-075",
+          "question": "To teach reflection, a useful investigation is to:",
+          "options": [
+            "Trace incident and reflected rays and compare their angles",
+            "Memorise unrelated chemical symbols",
+            "Heat a mirror until it melts",
+            "Measure the mass of water"
+          ],
+          "correctIndex": 0,
+          "explanation": "Tracing rays lets learners test the law of reflection.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-076",
+          "question": "To help learners understand a circuit, the teacher should encourage them to:",
+          "options": [
+            "Build and test simple circuits with cells, wires and bulbs",
+            "Copy a finished circuit without handling materials",
+            "Avoid predicting outcomes",
+            "Memorise circuit pictures only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Building and testing circuits links symbols and concepts to observable behaviour.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-077",
+          "question": "A concept map in science is especially useful for:",
+          "options": [
+            "Making relationships among concepts visible",
+            "Measuring current precisely",
+            "Replacing every practical activity",
+            "Ensuring all learners give identical wording"
+          ],
+          "correctIndex": 0,
+          "explanation": "Concept maps represent links between ideas and can expose misconceptions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-078",
+          "question": "Formative assessment in science is used mainly to:",
+          "options": [
+            "Inform teaching and learning while they are in progress",
+            "Assign only the final certificate",
+            "Rank learners without feedback",
+            "Replace practical work"
+          ],
+          "correctIndex": 0,
+          "explanation": "Formative assessment provides evidence for timely feedback and instructional adjustment.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-079",
+          "question": "A student gets an unexpected experimental result. The teacher should first encourage the student to:",
+          "options": [
+            "Check procedure, measurements and possible sources of error",
+            "Alter the data to match the expected answer",
+            "Discard all observations automatically",
+            "Claim the hypothesis is proven"
+          ],
+          "correctIndex": 0,
+          "explanation": "Checking method and data supports scientific reasoning and integrity.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-080",
+          "question": "Which task best assesses scientific explanation?",
+          "options": [
+            "Ask learners to make a claim and support it with evidence and reasoning",
+            "Ask learners to copy a paragraph",
+            "Test only handwriting",
+            "Ask for an unrelated definition"
+          ],
+          "correctIndex": 0,
+          "explanation": "A claim-evidence-reasoning response reveals explanatory thinking.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-081",
+          "question": "An inclusive science lesson can be strengthened by:",
+          "options": [
+            "Providing accessible materials and varied ways to participate",
+            "Restricting practical work to a few learners",
+            "Using inaccessible text without support",
+            "Treating learning differences as misconduct"
+          ],
+          "correctIndex": 0,
+          "explanation": "Accessible materials and participation options help reduce barriers.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-082",
+          "question": "A learner confuses heat with temperature. A productive approach is to:",
+          "options": [
+            "Use examples and investigations that distinguish energy transfer from a temperature measure",
+            "Tell the learner to memorise both words without context",
+            "Avoid discussion",
+            "Mark every response wrong without feedback"
+          ],
+          "correctIndex": 0,
+          "explanation": "Comparing examples helps clarify that heat is energy transfer while temperature indicates thermal state.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-083",
+          "question": "Which statement about a hypothesis is most appropriate?",
+          "options": [
+            "It is a testable proposed explanation or prediction",
+            "It is a fact that can never be questioned",
+            "It must be correct",
+            "It is the same as an observation"
+          ],
+          "correctIndex": 0,
+          "explanation": "A hypothesis should be framed so evidence can be used to test it.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-084",
+          "question": "When teaching density, which activity best links formula and meaning?",
+          "options": [
+            "Measure mass and volume of objects, then compare mass per unit volume",
+            "Copy the word density repeatedly",
+            "Discuss only object colour",
+            "Memorise the formula without examples"
+          ],
+          "correctIndex": 0,
+          "explanation": "Measurements connect density as mass per unit volume to actual materials.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-085",
+          "question": "Why should science teachers discuss the limitations of a model?",
+          "options": [
+            "Models represent selected features and may not capture every detail",
+            "Models are always exact copies of reality",
+            "Models cannot support learning",
+            "Models make evidence unnecessary"
+          ],
+          "correctIndex": 0,
+          "explanation": "Understanding limitations prevents learners from treating models as literal replicas.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-086",
+          "question": "A learner says heavier objects always fall faster. A useful response is to:",
+          "options": [
+            "Invite a controlled comparison and discuss the effect of air resistance",
+            "Accept the claim without examination",
+            "Avoid demonstrations",
+            "Use weight as the only evidence"
+          ],
+          "correctIndex": 0,
+          "explanation": "A carefully designed comparison can challenge the overgeneralization and consider air resistance.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-087",
+          "question": "Which activity best introduces conservation of matter in a reaction?",
+          "options": [
+            "Compare total mass in a closed system before and after reaction",
+            "Measure only the colour of the products",
+            "Allow gas to escape and assume no mass is lost",
+            "Count the number of containers"
+          ],
+          "correctIndex": 0,
+          "explanation": "A closed-system mass comparison illustrates conservation of matter.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-088",
+          "question": "A teacher asks learners to predict, observe and explain during a demonstration. This structure supports:",
+          "options": [
+            "Active conceptual engagement",
+            "Passive copying alone",
+            "Only summative grading",
+            "Avoidance of evidence"
+          ],
+          "correctIndex": 0,
+          "explanation": "Prediction-observation-explanation links prior ideas with evidence and reasoning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-089",
+          "question": "Which practice supports safe handling of electrical equipment?",
+          "options": [
+            "Switch off the supply before changing circuit connections",
+            "Touch bare wires to check current",
+            "Use wet hands on plugs",
+            "Connect a wire directly across a cell indefinitely"
+          ],
+          "correctIndex": 0,
+          "explanation": "Disconnecting power before altering connections reduces short-circuit and shock risks.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-090",
+          "question": "A student uses a graph to claim a relationship between two quantities. The teacher should ask the student to:",
+          "options": [
+            "Describe the pattern and consider whether the evidence supports the claim",
+            "Ignore axis labels",
+            "Assume correlation proves causation",
+            "Remove data points that disagree"
+          ],
+          "correctIndex": 0,
+          "explanation": "Interpreting the pattern and evidence supports a cautious scientific conclusion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-091",
+          "question": "Which teaching aid is best for showing the relative arrangement of particles in solids, liquids and gases?",
+          "options": [
+            "A particle model or diagram",
+            "A barometer",
+            "A musical instrument",
+            "A circuit tester"
+          ],
+          "correctIndex": 0,
+          "explanation": "Particle diagrams help visualize differences in spacing and arrangement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-092",
+          "question": "Which learning outcome is most measurable?",
+          "options": [
+            "Learners will understand electricity",
+            "Learners will be able to construct a closed circuit and explain its components",
+            "Learners will enjoy science",
+            "Learners will know everything about energy"
+          ],
+          "correctIndex": 1,
+          "explanation": "The outcome specifies an observable performance and explanation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-093",
+          "question": "A practical worksheet should normally include:",
+          "options": [
+            "Purpose, materials, steps, observation space and safety guidance",
+            "Only the final answer",
+            "Unrelated definitions",
+            "Instructions to conceal unexpected results"
+          ],
+          "correctIndex": 0,
+          "explanation": "These elements guide safe, purposeful practical work and evidence recording.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-094",
+          "question": "Which question best promotes higher-order thinking after an experiment?",
+          "options": [
+            "How could you modify the procedure to test a different explanation?",
+            "What is the title on the page?",
+            "Copy the first sentence",
+            "What colour is your pencil?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Designing a modification requires evaluation and planning a further test.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-095",
+          "question": "A teacher uses local examples such as cooking, farming and household wiring in science lessons. This can:",
+          "options": [
+            "Connect scientific concepts with learners' everyday experiences",
+            "Replace scientific accuracy with anecdotes",
+            "Prevent transfer of learning",
+            "Make practical work unnecessary"
+          ],
+          "correctIndex": 0,
+          "explanation": "Relevant contexts can help learners connect formal concepts with familiar situations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-096",
+          "question": "Which is an appropriate way to respond to a wrong answer during discussion?",
+          "options": [
+            "Ask the learner to explain the reasoning and use it as a learning opportunity",
+            "Ridicule the learner",
+            "End the discussion immediately",
+            "Give no opportunity to revise"
+          ],
+          "correctIndex": 0,
+          "explanation": "Exploring reasoning can reveal misconceptions and support learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-097",
+          "question": "A learner can follow a procedure but cannot explain why it works. The teacher should add tasks that emphasize:",
+          "options": [
+            "Reasoning and conceptual justification",
+            "Speed alone",
+            "Copying the procedure again",
+            "Memorizing page numbers"
+          ],
+          "correctIndex": 0,
+          "explanation": "Explanation tasks assess understanding beyond procedural execution.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-098",
+          "question": "Which method best evaluates practical process skills?",
+          "options": [
+            "Observe learners planning, measuring, recording and following safety practices",
+            "Use only a multiple-choice vocabulary test",
+            "Assess only attendance",
+            "Ask learners to copy a diagram"
+          ],
+          "correctIndex": 0,
+          "explanation": "Direct observation can assess performance of practical skills.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-099",
+          "question": "When learners compare two materials for thermal insulation, they should keep constant:",
+          "options": [
+            "Relevant conditions such as starting temperature and measurement interval",
+            "Every measured outcome",
+            "The conclusion",
+            "The material being compared"
+          ],
+          "correctIndex": 0,
+          "explanation": "Controlling conditions makes comparisons more meaningful.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-001-100",
+          "question": "A teacher asks students to sort materials as conductors and insulators, then justify choices using test results. This combines:",
+          "options": [
+            "Classification with evidence-based reasoning",
+            "Only memorisation",
+            "Unstructured guessing",
+            "Assessment unrelated to science"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sorting and justification use both categorization and experimental evidence.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

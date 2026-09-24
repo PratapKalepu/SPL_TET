@@ -1,0 +1,1314 @@
+{
+  "track": "maths",
+  "testId": "biology-content-batch-01",
+  "title": "AP Special TET Biological Science — Content & Pedagogy Batch 01",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "biology-content-01",
+      "title": "Biological Science Content and Pedagogy",
+      "questions": [
+        {
+          "id": "biology-content-001-001",
+          "question": "The basic structural and functional unit of life is the:",
+          "options": [
+            "Tissue",
+            "Cell",
+            "Organ",
+            "Organ system"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cells are the basic structural and functional units of living organisms.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-002",
+          "question": "Which organelle is the main site of aerobic respiration in eukaryotic cells?",
+          "options": [
+            "Ribosome",
+            "Mitochondrion",
+            "Golgi apparatus",
+            "Lysosome"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mitochondria generate much of the ATP during aerobic respiration.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-003",
+          "question": "Protein synthesis takes place on:",
+          "options": [
+            "Ribosomes",
+            "Vacuoles",
+            "Centrioles",
+            "Chloroplast envelopes"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ribosomes translate messenger RNA to form proteins.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-004",
+          "question": "The selectively permeable boundary of a cell is the:",
+          "options": [
+            "Cell wall",
+            "Plasma membrane",
+            "Nuclear envelope only",
+            "Middle lamella"
+          ],
+          "correctIndex": 1,
+          "explanation": "The plasma membrane regulates movement of substances into and out of the cell.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-005",
+          "question": "Which structure is present in plant cells and generally absent in animal cells?",
+          "options": [
+            "Cell wall",
+            "Mitochondrion",
+            "Cell membrane",
+            "Cytoplasm"
+          ],
+          "correctIndex": 0,
+          "explanation": "Plant cells have a cellulose-containing cell wall; animal cells do not.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-006",
+          "question": "The green pigment essential for photosynthesis is:",
+          "options": [
+            "Haemoglobin",
+            "Chlorophyll",
+            "Melanin",
+            "Keratin"
+          ],
+          "correctIndex": 1,
+          "explanation": "Chlorophyll absorbs light energy used in photosynthesis.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-007",
+          "question": "The raw materials for photosynthesis are primarily:",
+          "options": [
+            "Oxygen and glucose",
+            "Carbon dioxide and water",
+            "Nitrogen and oxygen",
+            "Protein and minerals"
+          ],
+          "correctIndex": 1,
+          "explanation": "Photosynthesis uses carbon dioxide and water to synthesize carbohydrates, releasing oxygen.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-008",
+          "question": "The gas released during oxygenic photosynthesis comes from:",
+          "options": [
+            "Carbon dioxide",
+            "Water",
+            "Glucose",
+            "Chlorophyll"
+          ],
+          "correctIndex": 1,
+          "explanation": "The oxygen released is produced by splitting water during the light reactions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-009",
+          "question": "Stomata mainly help in:",
+          "options": [
+            "Absorption of minerals from soil",
+            "Gas exchange and water-vapour loss",
+            "Transport of sugars through phloem",
+            "Anchorage"
+          ],
+          "correctIndex": 1,
+          "explanation": "Stomata allow gas exchange and regulate transpiration.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-010",
+          "question": "Xylem mainly transports:",
+          "options": [
+            "Sugars from leaves",
+            "Water and mineral salts",
+            "Hormones only",
+            "Oxygen to roots"
+          ],
+          "correctIndex": 1,
+          "explanation": "Xylem conducts water and dissolved minerals, mainly from roots toward aerial parts.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-011",
+          "question": "Phloem is chiefly responsible for transporting:",
+          "options": [
+            "Manufactured organic nutrients",
+            "Only water",
+            "Only mineral salts",
+            "Carbon dioxide into roots"
+          ],
+          "correctIndex": 0,
+          "explanation": "Phloem translocates sugars and other organic substances from source to sink.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-012",
+          "question": "Root hairs increase the plant's:",
+          "options": [
+            "Rate of flowering",
+            "Surface area for absorption",
+            "Number of chromosomes",
+            "Photosynthetic pigment"
+          ],
+          "correctIndex": 1,
+          "explanation": "Root hairs enlarge the surface area available for water and mineral uptake.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-013",
+          "question": "The plant hormone most associated with cell elongation and phototropic bending is:",
+          "options": [
+            "Auxin",
+            "Insulin",
+            "Thyroxine",
+            "Adrenaline"
+          ],
+          "correctIndex": 0,
+          "explanation": "Auxin promotes elongation in many shoot tissues and participates in phototropism.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-014",
+          "question": "Loss of water vapour from aerial plant parts is called:",
+          "options": [
+            "Translocation",
+            "Transpiration",
+            "Respiration",
+            "Germination"
+          ],
+          "correctIndex": 1,
+          "explanation": "Transpiration is the loss of water vapour, largely through stomata.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-015",
+          "question": "Which condition generally increases the rate of transpiration?",
+          "options": [
+            "High humidity",
+            "Still saturated air",
+            "Higher air movement around the leaf",
+            "Complete stomatal closure"
+          ],
+          "correctIndex": 2,
+          "explanation": "Moving air removes the humid boundary layer and can increase transpiration.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-016",
+          "question": "Pollination is the transfer of pollen grains from:",
+          "options": [
+            "Stigma to ovary",
+            "Anther to stigma",
+            "Ovule to anther",
+            "Petal to sepal"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pollination is the transfer of pollen from anther to stigma.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-017",
+          "question": "After fertilization in a flowering plant, the ovule usually develops into a:",
+          "options": [
+            "Fruit",
+            "Seed",
+            "Stamen",
+            "Petal"
+          ],
+          "correctIndex": 1,
+          "explanation": "The fertilized ovule develops into a seed.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-018",
+          "question": "The ovary of a flower usually develops into the:",
+          "options": [
+            "Seed coat",
+            "Fruit",
+            "Embryo only",
+            "Pollen grain"
+          ],
+          "correctIndex": 1,
+          "explanation": "After fertilization, the ovary typically develops into the fruit.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-019",
+          "question": "Which part of a seed commonly stores food for the embryo?",
+          "options": [
+            "Cotyledon or endosperm",
+            "Stigma",
+            "Anther",
+            "Root cap only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Food reserves are commonly stored in cotyledons and/or endosperm.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-020",
+          "question": "Germination usually requires water, oxygen and:",
+          "options": [
+            "Suitable temperature",
+            "Bright light in every species",
+            "Fertilizer in every case",
+            "Wind"
+          ],
+          "correctIndex": 0,
+          "explanation": "Water, oxygen and a suitable temperature are common basic requirements for germination.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-021",
+          "question": "The human heart has how many chambers?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "correctIndex": 2,
+          "explanation": "The human heart has two atria and two ventricles.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-022",
+          "question": "The chamber that pumps oxygenated blood into the aorta is the:",
+          "options": [
+            "Right atrium",
+            "Right ventricle",
+            "Left atrium",
+            "Left ventricle"
+          ],
+          "correctIndex": 3,
+          "explanation": "The left ventricle pumps oxygenated blood into systemic circulation through the aorta.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-023",
+          "question": "The blood vessel that carries blood from the heart to the lungs is the:",
+          "options": [
+            "Pulmonary artery",
+            "Pulmonary vein",
+            "Aorta",
+            "Vena cava"
+          ],
+          "correctIndex": 0,
+          "explanation": "The pulmonary artery carries deoxygenated blood from the right ventricle to the lungs.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-024",
+          "question": "The oxygen-carrying pigment in red blood cells is:",
+          "options": [
+            "Insulin",
+            "Haemoglobin",
+            "Bile",
+            "Fibrinogen"
+          ],
+          "correctIndex": 1,
+          "explanation": "Haemoglobin binds and transports oxygen in red blood cells.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-025",
+          "question": "Which blood component is most directly involved in clot formation?",
+          "options": [
+            "Platelets",
+            "Red blood cells",
+            "Plasma water only",
+            "Lymphocytes only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Platelets help initiate clotting and form a platelet plug.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-026",
+          "question": "The functional unit of the kidney is the:",
+          "options": [
+            "Neuron",
+            "Nephron",
+            "Alveolus",
+            "Villus"
+          ],
+          "correctIndex": 1,
+          "explanation": "Nephrons filter blood and carry out processes that form urine.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-027",
+          "question": "Most gas exchange in human lungs occurs in the:",
+          "options": [
+            "Trachea",
+            "Bronchi",
+            "Alveoli",
+            "Larynx"
+          ],
+          "correctIndex": 2,
+          "explanation": "Alveoli provide a large, thin-walled surface for gas exchange.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-028",
+          "question": "The muscle primarily responsible for quiet inhalation is the:",
+          "options": [
+            "Diaphragm",
+            "Biceps",
+            "Masseter",
+            "Trapezius"
+          ],
+          "correctIndex": 0,
+          "explanation": "Contraction of the diaphragm increases thoracic volume during inhalation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-029",
+          "question": "The enzyme in saliva that begins starch digestion is:",
+          "options": [
+            "Pepsin",
+            "Salivary amylase",
+            "Trypsin",
+            "Lipase from pancreas only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Salivary amylase begins the breakdown of starch into smaller carbohydrates.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-030",
+          "question": "Bile helps digestion mainly by:",
+          "options": [
+            "Breaking proteins into amino acids",
+            "Emulsifying fats",
+            "Converting glucose to glycogen",
+            "Digesting cellulose in humans"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bile salts emulsify fats, increasing their surface area for lipase action.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-031",
+          "question": "Most absorption of digested nutrients occurs in the:",
+          "options": [
+            "Stomach",
+            "Small intestine",
+            "Oesophagus",
+            "Large intestine"
+          ],
+          "correctIndex": 1,
+          "explanation": "The small intestine's villi and microvilli provide a large absorptive surface.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-032",
+          "question": "Insulin is secreted by the:",
+          "options": [
+            "Thyroid gland",
+            "Pancreas",
+            "Adrenal cortex",
+            "Pituitary only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Beta cells in pancreatic islets secrete insulin, which helps lower blood glucose.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-033",
+          "question": "The hormone that generally increases blood calcium level is:",
+          "options": [
+            "Parathyroid hormone",
+            "Insulin",
+            "Melatonin",
+            "Oxytocin"
+          ],
+          "correctIndex": 0,
+          "explanation": "Parathyroid hormone raises blood calcium through effects on bone, kidney and vitamin D activation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-034",
+          "question": "The basic functional cell of the nervous system is the:",
+          "options": [
+            "Neuron",
+            "Nephron",
+            "Osteocyte",
+            "Erythrocyte"
+          ],
+          "correctIndex": 0,
+          "explanation": "Neurons receive and transmit information through electrical and chemical signalling.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-035",
+          "question": "The junction across which a neuron communicates with another cell is a:",
+          "options": [
+            "Synapse",
+            "Tendon",
+            "Ligament",
+            "Alveolus"
+          ],
+          "correctIndex": 0,
+          "explanation": "A synapse is the specialized junction for communication between neurons or target cells.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-036",
+          "question": "Reflex actions are commonly coordinated through:",
+          "options": [
+            "A reflex arc",
+            "The pancreas",
+            "The liver only",
+            "The lymphatic duct"
+          ],
+          "correctIndex": 0,
+          "explanation": "A reflex arc provides a rapid pathway from receptor through nervous tissue to an effector.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-037",
+          "question": "The part of the brain strongly associated with balance and coordination is the:",
+          "options": [
+            "Cerebellum",
+            "Medulla oblongata",
+            "Hypothalamus",
+            "Cerebrum only"
+          ],
+          "correctIndex": 0,
+          "explanation": "The cerebellum helps coordinate movement, posture and balance.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-038",
+          "question": "The main role of red bone marrow is:",
+          "options": [
+            "Blood cell formation",
+            "Bile storage",
+            "Urine concentration",
+            "Air filtration"
+          ],
+          "correctIndex": 0,
+          "explanation": "Red bone marrow is a major site of haematopoiesis.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-039",
+          "question": "The joint between the skull bones is generally:",
+          "options": [
+            "Immovable fibrous joint",
+            "Ball-and-socket joint",
+            "Hinge joint",
+            "Pivot joint"
+          ],
+          "correctIndex": 0,
+          "explanation": "Most skull sutures are fibrous joints with little or no movement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-040",
+          "question": "Which type of muscle is typically under voluntary control?",
+          "options": [
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Smooth muscle of intestine",
+            "Smooth muscle of blood vessels"
+          ],
+          "correctIndex": 0,
+          "explanation": "Skeletal muscles are generally controlled voluntarily through the somatic nervous system.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-041",
+          "question": "A pathogen is an organism or agent that:",
+          "options": [
+            "Causes disease",
+            "Always improves digestion",
+            "Produces vitamins in every host",
+            "Cannot enter a host"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pathogens cause infectious disease in susceptible hosts.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-042",
+          "question": "Antibodies are produced by differentiated:",
+          "options": [
+            "B lymphocytes (plasma cells)",
+            "Red blood cells",
+            "Platelets",
+            "Neurons"
+          ],
+          "correctIndex": 0,
+          "explanation": "Activated B cells can differentiate into plasma cells that secrete antibodies.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-043",
+          "question": "Vaccination primarily aims to:",
+          "options": [
+            "Induce immune memory against a specific antigen",
+            "Cause the full disease deliberately in all recipients",
+            "Replace all white blood cells",
+            "Destroy every microorganism in the body"
+          ],
+          "correctIndex": 0,
+          "explanation": "Vaccines train the immune system to respond more effectively to a target pathogen.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-044",
+          "question": "Antibiotics are generally ineffective against:",
+          "options": [
+            "Viruses",
+            "Many susceptible bacteria",
+            "Some bacterial infections",
+            "Bacterial cell-wall synthesis"
+          ],
+          "correctIndex": 0,
+          "explanation": "Antibiotics target bacterial structures or processes and do not treat viral infections.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-045",
+          "question": "Malaria is transmitted to humans by the bite of an infected:",
+          "options": [
+            "Female Anopheles mosquito",
+            "Housefly",
+            "Male honeybee",
+            "Sand crab"
+          ],
+          "correctIndex": 0,
+          "explanation": "Female Anopheles mosquitoes transmit Plasmodium parasites that cause malaria.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-046",
+          "question": "Tuberculosis is caused by a:",
+          "options": [
+            "Bacterium",
+            "Virus",
+            "Protozoan",
+            "Prion"
+          ],
+          "correctIndex": 0,
+          "explanation": "Tuberculosis is caused by bacteria in the Mycobacterium tuberculosis complex.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-047",
+          "question": "The organism that causes dengue is a:",
+          "options": [
+            "Virus",
+            "Bacterium",
+            "Fungus",
+            "Helminth"
+          ],
+          "correctIndex": 0,
+          "explanation": "Dengue is caused by dengue virus and transmitted mainly by Aedes mosquitoes.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-048",
+          "question": "A balanced diet supplies:",
+          "options": [
+            "Needed nutrients in appropriate proportions",
+            "Only carbohydrates",
+            "Only proteins",
+            "Energy but no micronutrients"
+          ],
+          "correctIndex": 0,
+          "explanation": "A balanced diet provides energy, protein, fats, vitamins, minerals, water and fibre in suitable amounts.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-049",
+          "question": "Vitamin D is important for:",
+          "options": [
+            "Calcium absorption and bone health",
+            "Formation of bile only",
+            "Carrying oxygen in haemoglobin directly",
+            "Transmission of sound"
+          ],
+          "correctIndex": 0,
+          "explanation": "Vitamin D supports calcium and phosphate homeostasis and healthy bones.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-050",
+          "question": "Deficiency of vitamin C can cause:",
+          "options": [
+            "Scurvy",
+            "Rickets",
+            "Night blindness",
+            "Goitre"
+          ],
+          "correctIndex": 0,
+          "explanation": "Vitamin C deficiency causes scurvy, with impaired collagen-related functions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-051",
+          "question": "Iodine deficiency can lead to:",
+          "options": [
+            "Goitre",
+            "Scurvy",
+            "Anaemia in every case",
+            "Beriberi"
+          ],
+          "correctIndex": 0,
+          "explanation": "Insufficient iodine can impair thyroid hormone production and cause thyroid enlargement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-052",
+          "question": "The nutrient chiefly needed for growth and tissue repair is:",
+          "options": [
+            "Protein",
+            "Water only",
+            "Mineral salts only",
+            "Dietary fibre only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Proteins supply amino acids needed for growth, repair and many body functions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-053",
+          "question": "A food chain begins most commonly with:",
+          "options": [
+            "Producers",
+            "Top predators",
+            "Decomposers only",
+            "Parasites"
+          ],
+          "correctIndex": 0,
+          "explanation": "Producers capture energy, usually from sunlight, and form the base of many food chains.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-054",
+          "question": "Organisms that make organic food from inorganic substances are called:",
+          "options": [
+            "Autotrophs",
+            "Heterotrophs",
+            "Parasites only",
+            "Scavengers only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Autotrophs synthesize organic compounds using light or chemical energy.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-055",
+          "question": "Decomposers are ecologically important because they:",
+          "options": [
+            "Recycle nutrients from dead organic matter",
+            "Stop all energy transfer",
+            "Produce sunlight",
+            "Remove all minerals from ecosystems"
+          ],
+          "correctIndex": 0,
+          "explanation": "Decomposers break down organic matter and return nutrients to ecosystems.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-056",
+          "question": "Energy transfer between trophic levels is generally:",
+          "options": [
+            "Inefficient, with much energy dissipated",
+            "100% efficient",
+            "Always reversed",
+            "Independent of organisms"
+          ],
+          "correctIndex": 0,
+          "explanation": "Much energy is used in metabolism or lost as heat, so only a fraction passes onward.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-057",
+          "question": "A relationship in which both species benefit is:",
+          "options": [
+            "Mutualism",
+            "Parasitism",
+            "Predation",
+            "Competition"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mutualism is an interaction that benefits both participating species.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-058",
+          "question": "In parasitism, the parasite typically:",
+          "options": [
+            "Benefits while the host is harmed",
+            "Benefits and harms nobody",
+            "Is always larger than its host",
+            "Makes the host a producer"
+          ],
+          "correctIndex": 0,
+          "explanation": "Parasitism benefits one organism while negatively affecting the host.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-059",
+          "question": "Biodiversity refers to the variety of:",
+          "options": [
+            "Life at genetic, species and ecosystem levels",
+            "Only large mammals",
+            "Only plants used as food",
+            "Nonliving rocks only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Biodiversity includes variation within species, between species and among ecosystems.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-060",
+          "question": "Deforestation can contribute to:",
+          "options": [
+            "Habitat loss and soil erosion",
+            "Increased habitat for all forest species",
+            "Elimination of the carbon cycle",
+            "Guaranteed increase in rainfall"
+          ],
+          "correctIndex": 0,
+          "explanation": "Removing forest cover can destroy habitats and leave soil more vulnerable to erosion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-061",
+          "question": "The ozone layer helps protect life by absorbing much of the Sun's:",
+          "options": [
+            "Harmful ultraviolet radiation",
+            "Visible light",
+            "Radio waves",
+            "Sound waves"
+          ],
+          "correctIndex": 0,
+          "explanation": "Stratospheric ozone absorbs a substantial portion of biologically harmful UV radiation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-062",
+          "question": "Which is an example of an invertebrate?",
+          "options": [
+            "Earthworm",
+            "Frog",
+            "Lizard",
+            "Pigeon"
+          ],
+          "correctIndex": 0,
+          "explanation": "Earthworms lack a vertebral column and are invertebrates.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-063",
+          "question": "Animals with a backbone are classified as:",
+          "options": [
+            "Vertebrates",
+            "Arthropods",
+            "Molluscs",
+            "Annelids"
+          ],
+          "correctIndex": 0,
+          "explanation": "Vertebrates possess a vertebral column.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-064",
+          "question": "The body of an insect is typically divided into:",
+          "options": [
+            "Head, thorax and abdomen",
+            "Cephalothorax and tail only",
+            "Head and foot",
+            "Four equal regions"
+          ],
+          "correctIndex": 0,
+          "explanation": "The typical insect body plan has head, thorax and abdomen.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-065",
+          "question": "Fish generally respire using:",
+          "options": [
+            "Gills",
+            "Lungs only",
+            "Tracheae",
+            "Skin only in every species"
+          ],
+          "correctIndex": 0,
+          "explanation": "Most fish extract dissolved oxygen from water using gills.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-066",
+          "question": "Amphibians are often characterized by:",
+          "options": [
+            "A life cycle that may include aquatic larvae and metamorphosis",
+            "Feathers and a beak",
+            "Hair and mammary glands",
+            "A completely marine life cycle in all species"
+          ],
+          "correctIndex": 0,
+          "explanation": "Many amphibians have aquatic larvae and undergo metamorphosis, though life histories vary.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-067",
+          "question": "Birds are distinguished among living vertebrates by having:",
+          "options": [
+            "Feathers",
+            "Moist glandular skin only",
+            "Six legs",
+            "External gills throughout life"
+          ],
+          "correctIndex": 0,
+          "explanation": "Feathers are a defining characteristic of birds.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-068",
+          "question": "Mammals characteristically possess:",
+          "options": [
+            "Mammary glands",
+            "Feathers",
+            "Scales in every species",
+            "Three pairs of legs"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mammary glands produce milk to nourish offspring.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-069",
+          "question": "The scientific naming system using two words is called:",
+          "options": [
+            "Binomial nomenclature",
+            "Artificial selection",
+            "Dichotomous feeding",
+            "Ecological succession"
+          ],
+          "correctIndex": 0,
+          "explanation": "Binomial nomenclature gives each species a genus name and specific epithet.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-070",
+          "question": "In binomial nomenclature, the genus name begins with a:",
+          "options": [
+            "Capital letter",
+            "Lowercase letter always",
+            "Numeral",
+            "Greek symbol"
+          ],
+          "correctIndex": 0,
+          "explanation": "The genus is capitalized; the specific epithet is lowercase.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-071",
+          "question": "A group of organisms of the same species living in an area is a:",
+          "options": [
+            "Population",
+            "Community",
+            "Biome",
+            "Biosphere"
+          ],
+          "correctIndex": 0,
+          "explanation": "A population comprises members of one species in a particular area.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-072",
+          "question": "A community consists of:",
+          "options": [
+            "Populations of different species in an area",
+            "Only abiotic factors",
+            "One individual organism",
+            "All ecosystems on Earth"
+          ],
+          "correctIndex": 0,
+          "explanation": "A community includes interacting populations of different species.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-073",
+          "question": "The place where an organism lives is its:",
+          "options": [
+            "Habitat",
+            "Niche only",
+            "Trophic level",
+            "Genotype"
+          ],
+          "correctIndex": 0,
+          "explanation": "A habitat is the environment or place where an organism lives.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-074",
+          "question": "An organism's ecological niche includes its:",
+          "options": [
+            "Role, resource use and interactions in the ecosystem",
+            "Body colour only",
+            "Taxonomic name only",
+            "Geographical coordinates only"
+          ],
+          "correctIndex": 0,
+          "explanation": "A niche describes how an organism lives and functions within its ecological context.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-075",
+          "question": "Mitosis usually produces:",
+          "options": [
+            "Two genetically similar daughter cells",
+            "Four haploid cells",
+            "Gametes only",
+            "Cells with no chromosomes"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mitosis typically yields two daughter cells with chromosome sets matching the parent cell.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-076",
+          "question": "Meiosis is important because it:",
+          "options": [
+            "Reduces chromosome number to form haploid cells",
+            "Doubles chromosome number in every gamete",
+            "Produces identical body cells only",
+            "Occurs only in bacteria"
+          ],
+          "correctIndex": 0,
+          "explanation": "Meiosis halves chromosome number and contributes to genetic variation in sexual reproduction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-077",
+          "question": "DNA is composed of repeating units called:",
+          "options": [
+            "Nucleotides",
+            "Amino acids",
+            "Fatty acids",
+            "Monosaccharides"
+          ],
+          "correctIndex": 0,
+          "explanation": "DNA is a nucleic acid polymer built from nucleotide units.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-078",
+          "question": "A gene is best described as:",
+          "options": [
+            "A DNA sequence contributing to a functional product or trait",
+            "A complete organ",
+            "A type of blood cell",
+            "A mineral nutrient"
+          ],
+          "correctIndex": 0,
+          "explanation": "Genes are DNA sequences that encode functional products and can influence traits.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-079",
+          "question": "In a simple Mendelian cross, a dominant allele is expressed in a heterozygote when:",
+          "options": [
+            "It masks the recessive allele's phenotype",
+            "It is always more common in a population",
+            "It changes into a recessive allele",
+            "It is found only on the Y chromosome"
+          ],
+          "correctIndex": 0,
+          "explanation": "In complete dominance, the dominant allele determines the heterozygote's phenotype.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-080",
+          "question": "The observable characteristics of an organism are its:",
+          "options": [
+            "Phenotype",
+            "Genotype only",
+            "Karyotype only",
+            "Allele frequency"
+          ],
+          "correctIndex": 0,
+          "explanation": "Phenotype refers to observable traits arising from genotype and environmental influences.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-081",
+          "question": "Variation within a population provides the raw material for:",
+          "options": [
+            "Natural selection",
+            "Photosynthesis only",
+            "Spontaneous generation",
+            "The loss of all inherited traits"
+          ],
+          "correctIndex": 0,
+          "explanation": "Heritable variation allows natural selection to change trait frequencies over generations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-082",
+          "question": "An adaptation is a heritable feature that:",
+          "options": [
+            "Can improve survival or reproductive success in a particular environment",
+            "Is acquired intentionally by every individual",
+            "Always benefits an organism in all environments",
+            "Never changes in populations"
+          ],
+          "correctIndex": 0,
+          "explanation": "Adaptations can increase fitness in particular environments, though benefits depend on context.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-083",
+          "question": "Fossils provide evidence about:",
+          "options": [
+            "Past life and evolutionary history",
+            "Only present-day weather",
+            "The exact behaviour of every extinct individual",
+            "The absence of ancient organisms"
+          ],
+          "correctIndex": 0,
+          "explanation": "Fossils preserve evidence of organisms and environments from the past.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-084",
+          "question": "The process by which populations become better suited to their environments through differential reproductive success is:",
+          "options": [
+            "Natural selection",
+            "Condensation",
+            "Fermentation only",
+            "Diffusion"
+          ],
+          "correctIndex": 0,
+          "explanation": "Natural selection changes inherited traits when some variants leave more offspring than others.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-085",
+          "question": "Which instrument is commonly used to observe cells too small to see clearly with the unaided eye?",
+          "options": [
+            "Microscope",
+            "Telescope",
+            "Barometer",
+            "Thermometer"
+          ],
+          "correctIndex": 0,
+          "explanation": "A microscope magnifies small structures such as cells.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-086",
+          "question": "A biological drawing should generally include:",
+          "options": [
+            "Clear outlines, appropriate labels and a stated magnification or scale when required",
+            "Shading every area heavily",
+            "Decorative colours instead of labels",
+            "Unmeasured invented details"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scientific drawings should be clear, accurate and labelled, with scale information when relevant.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-087",
+          "question": "A teacher asks learners to compare leaf surfaces under a microscope. This activity chiefly develops:",
+          "options": [
+            "Observation and comparison skills",
+            "Only memorization",
+            "Muscular strength",
+            "Map-reading alone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Microscopic comparison develops careful observation and classification.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-088",
+          "question": "When students investigate how light affects seedling growth, they should keep other relevant factors:",
+          "options": [
+            "As constant as practicable",
+            "Changing randomly without records",
+            "Unknown",
+            "Different for every replicate"
+          ],
+          "correctIndex": 0,
+          "explanation": "Controlling other factors helps isolate the effect of light.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-089",
+          "question": "The independent variable in an investigation of light intensity and plant growth is the:",
+          "options": [
+            "Light intensity deliberately changed",
+            "Plant growth measured",
+            "Soil type held constant",
+            "Final conclusion"
+          ],
+          "correctIndex": 0,
+          "explanation": "The independent variable is the factor intentionally manipulated.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-090",
+          "question": "The dependent variable in that investigation could be:",
+          "options": [
+            "Seedling height after a fixed period",
+            "Light intensity assigned",
+            "Pot type kept constant",
+            "The research question"
+          ],
+          "correctIndex": 0,
+          "explanation": "Seedling height is an outcome measured in response to the changed light intensity.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-091",
+          "question": "A useful way to assess students' practical plant-identification skills is to:",
+          "options": [
+            "Observe them use features and a key to identify specimens",
+            "Ask only for a copied definition",
+            "Grade their handwriting alone",
+            "Test unrelated arithmetic"
+          ],
+          "correctIndex": 0,
+          "explanation": "Direct observation can assess whether students apply identifying features and keys.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-092",
+          "question": "A dichotomous key identifies organisms through:",
+          "options": [
+            "A sequence of paired contrasting choices",
+            "Random guessing",
+            "DNA replication",
+            "A food web diagram"
+          ],
+          "correctIndex": 0,
+          "explanation": "Dichotomous keys guide identification through successive pairs of contrasting statements.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-093",
+          "question": "To teach food webs meaningfully, learners should:",
+          "options": [
+            "Trace feeding relationships and discuss how changes may affect connected populations",
+            "Memorize animal names without links",
+            "Assume energy cycles unchanged",
+            "Ignore producers"
+          ],
+          "correctIndex": 0,
+          "explanation": "Food webs show interconnected feeding relationships and help explore ecosystem effects.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-094",
+          "question": "A teacher responding to a misconception about human digestion should:",
+          "options": [
+            "Use an explanatory model and evidence, then invite learners to revise their account",
+            "Ridicule the learner publicly",
+            "Avoid checking understanding",
+            "Ask students to copy the misconception"
+          ],
+          "correctIndex": 0,
+          "explanation": "Models, evidence and reflection support conceptual understanding and correction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-095",
+          "question": "Which classroom approach best supports inclusive biology learning?",
+          "options": [
+            "Combine diagrams, specimens or models, vocabulary scaffolds and varied ways to respond",
+            "Use text-only instruction for every learner regardless of access",
+            "Exclude students needing adaptations",
+            "Assess participation by speaking speed"
+          ],
+          "correctIndex": 0,
+          "explanation": "Multiple representations and appropriate supports broaden access to biology concepts.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-096",
+          "question": "A student handles a biological specimen. The teacher should ensure:",
+          "options": [
+            "Suitable hygiene, safe handling and disposal procedures are followed",
+            "Specimens are tasted to identify them",
+            "Handwashing is unnecessary",
+            "All specimens are handled without risk assessment"
+          ],
+          "correctIndex": 0,
+          "explanation": "Safe handling, hygiene and disposal practices reduce biological and chemical risks.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-097",
+          "question": "Which learning objective is directly assessable?",
+          "options": [
+            "Students will appreciate plants",
+            "Students will label the major parts of a flower and state one function of each",
+            "Students will know biology perfectly",
+            "Students will become curious"
+          ],
+          "correctIndex": 1,
+          "explanation": "The objective specifies observable labelling and explanation tasks.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-098",
+          "question": "Formative assessment during a biology lesson can include:",
+          "options": [
+            "A brief concept question followed by feedback and reteaching as needed",
+            "Only a final term examination",
+            "Attendance marking alone",
+            "Ranking students without feedback"
+          ],
+          "correctIndex": 0,
+          "explanation": "Formative checks provide evidence that can guide immediate instructional decisions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-099",
+          "question": "When learners interpret a graph of population size over time, they should consider:",
+          "options": [
+            "Axes, units, trends and possible limitations of the data",
+            "Only the graph's colour",
+            "The longest label only",
+            "The conclusion before viewing data"
+          ],
+          "correctIndex": 0,
+          "explanation": "Accurate interpretation requires understanding the axes, scale, patterns and data limits.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-001-100",
+          "question": "A student reports results that contradict the hypothesis. The appropriate scientific response is to:",
+          "options": [
+            "Record and discuss the evidence rather than alter the results",
+            "Change the data to support the hypothesis",
+            "Discard the notebook",
+            "Claim the hypothesis is proven anyway"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scientific conclusions should follow the evidence, including unexpected results.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

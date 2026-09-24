@@ -1,0 +1,144 @@
+{
+  "track": "maths",
+  "testId": "maths-daily-01",
+  "title": "AP Special TET Paper-II A Mathematics & Science — Daily Mock 01 (CDP batch preview)",
+  "durationMinutes": 150,
+  "sections": [
+    {
+      "id": "cdp",
+      "title": "Child Development and Pedagogy — Batch 1 Preview",
+      "questions": [
+        {
+          "id": "cdp-maths-daily-01-001",
+          "question": "Which statement best describes the relationship between growth and development?",
+          "options": [
+            "Growth refers only to emotional changes.",
+            "Development includes qualitative and quantitative changes, while growth mainly refers to physical and measurable changes.",
+            "Growth and development always stop at the same age.",
+            "Development occurs independently of experience and environment."
+          ],
+          "correctIndex": 1,
+          "explanation": "Growth generally refers to measurable physical changes, such as height and weight. Development is broader and includes physical, cognitive, social and emotional changes. Development is influenced by both maturation and experience.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-maths-daily-01-002",
+          "question": "A teacher observes that learners generally develop abilities in an orderly sequence, although the rate of development differs among individuals. This observation illustrates:",
+          "options": [
+            "The principle of uniform development",
+            "The principle of individual differences and orderly development",
+            "The principle that development is determined only by heredity",
+            "The principle that learning cannot influence development"
+          ],
+          "correctIndex": 1,
+          "explanation": "Development follows recognizable patterns, but children do not all develop at the same rate. Individual differences mean that teachers should account for variations in learners' abilities, needs and pace of learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-maths-daily-01-003",
+          "question": "A student learns to solve a mathematical problem after observing a teacher demonstrate the solution and then practising the same method. Which concept is most directly illustrated?",
+          "options": [
+            "Observational learning",
+            "Classical conditioning",
+            "Trial without feedback",
+            "Biological maturation alone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Observational learning occurs when a learner acquires knowledge or behaviour by observing a model. The teacher's demonstration provides a model that the student can imitate and practise.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-maths-daily-01-004",
+          "question": "A classroom contains learners with different learning speeds and prior knowledge. Which teaching approach best responds to these differences?",
+          "options": [
+            "Give every learner the same task with the same level of difficulty at all times.",
+            "Teach only the fastest learners.",
+            "Use varied learning activities and provide support according to learners' needs.",
+            "Avoid assessing learners during instruction."
+          ],
+          "correctIndex": 2,
+          "explanation": "Learners differ in prior knowledge, interests, abilities and learning pace. Differentiated instruction allows teachers to vary tasks, resources and support while maintaining meaningful learning goals.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-maths-daily-01-005",
+          "question": "A teacher gives a short quiz during a lesson and uses the results to identify misconceptions before continuing. This is an example of:",
+          "options": [
+            "Formative assessment",
+            "Summative assessment only",
+            "Placement assessment only",
+            "An assessment unrelated to learning"
+          ],
+          "correctIndex": 0,
+          "explanation": "Formative assessment takes place during the learning process. It provides information about learners' understanding so that the teacher can give feedback, address misconceptions and adapt instruction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-maths-daily-01-006",
+          "question": "Which classroom practice is most likely to support learners' intrinsic motivation?",
+          "options": [
+            "Threatening punishment whenever a learner makes a mistake.",
+            "Providing meaningful choices and encouraging curiosity and mastery.",
+            "Comparing every learner publicly with the highest-scoring student.",
+            "Rewarding only speed, regardless of understanding."
+          ],
+          "correctIndex": 1,
+          "explanation": "Intrinsic motivation involves engaging in an activity because it is interesting, meaningful or satisfying. Opportunities for choice, curiosity and mastery can help learners develop interest and ownership of their learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-maths-daily-01-007",
+          "question": "A learner is quiet during group discussions but performs confidently in individual written tasks. What should the teacher conclude?",
+          "options": [
+            "The learner lacks the ability to understand the subject.",
+            "The learner's personality and performance should be judged from a single classroom behaviour.",
+            "Different situations may influence how a learner expresses abilities and participates.",
+            "The learner should be excluded from group activities."
+          ],
+          "correctIndex": 2,
+          "explanation": "Learners may express their abilities differently across situations. A quiet communication style does not necessarily indicate low understanding. Teachers should use varied forms of participation and assessment rather than making broad judgments from one behaviour.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-maths-daily-01-008",
+          "question": "A student repeatedly struggles with academic tasks and expresses worry about failure. What should the teacher do first?",
+          "options": [
+            "Publicly criticize the student to encourage effort.",
+            "Ignore the concern because academic difficulties are always temporary.",
+            "Listen supportively, identify the student's difficulties and provide appropriate guidance.",
+            "Immediately conclude that the student cannot succeed academically."
+          ],
+          "correctIndex": 2,
+          "explanation": "Supportive guidance begins with listening and understanding the learner's needs. The teacher can identify barriers, provide appropriate academic support and refer the student for further assistance when necessary.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-maths-daily-01-009",
+          "question": "Which classroom environment is most supportive of learners' emotional well-being?",
+          "options": [
+            "One in which mistakes are treated as opportunities to learn.",
+            "One in which learners are frequently humiliated for incorrect answers.",
+            "One in which students are discouraged from asking questions.",
+            "One in which only high achievers receive respectful treatment."
+          ],
+          "correctIndex": 0,
+          "explanation": "A supportive classroom promotes psychological safety, respect and constructive feedback. Treating mistakes as part of learning can help students participate, ask questions and develop confidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-maths-daily-01-010",
+          "question": "Why is educational psychology useful to a teacher?",
+          "options": [
+            "It provides a single teaching method that works equally well for every learner.",
+            "It helps teachers understand learning, development and learner differences to inform instructional decisions.",
+            "It removes the need to assess student understanding.",
+            "It focuses only on the physical growth of children."
+          ],
+          "correctIndex": 1,
+          "explanation": "Educational psychology helps teachers understand how learners develop, think, behave and learn. This knowledge can inform instructional strategies, classroom management, assessment and learner support.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

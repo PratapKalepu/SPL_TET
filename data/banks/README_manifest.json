@@ -1,0 +1,129 @@
+{
+  "package": "AP Special TET Question Bank — Organized Content Library",
+  "categories": [
+    "biology",
+    "cdp",
+    "english",
+    "maths",
+    "physical-science",
+    "telugu"
+  ],
+  "files_extracted_from_zip": 82,
+  "loose_json_files_copied": 1,
+  "archives_with_bad_zip_format": [],
+  "contents": [
+    {
+      "category": "biology",
+      "files": [
+        "biology-content-batch-01.json",
+        "biology-content-batch-02.json",
+        "biology-content-batch-03.json",
+        "biology-content-batch-04.json"
+      ]
+    },
+    {
+      "category": "cdp",
+      "files": [
+        "cdp-core-batch-01.json",
+        "cdp-core-batch-02.json",
+        "cdp-core-batch-03.json",
+        "cdp-core-batch-04.json",
+        "cdp-core-batch-05.json",
+        "cdp-core-batch-06.json",
+        "paper2a-maths-daily-01-cdp-preview.json"
+      ]
+    },
+    {
+      "category": "english",
+      "files": [
+        "english-l2-batch-01.json",
+        "english-l2-batch-02.json",
+        "english-l2-batch-03.json",
+        "english-l2-batch-04.json",
+        "english-l2-batch-05.json",
+        "english-l2-batch-06.json"
+      ]
+    },
+    {
+      "category": "maths",
+      "files": [
+        "maths-content-batch-01.json",
+        "maths-content-batch-02.json",
+        "maths-content-batch-03.json",
+        "maths-content-batch-04.json"
+      ]
+    },
+    {
+      "category": "physical-science",
+      "files": [
+        "physical-science-content-batch-01.json",
+        "physical-science-content-batch-02.json",
+        "physical-science-content-batch-03.json",
+        "physical-science-content-batch-04.json"
+      ]
+    },
+    {
+      "category": "telugu",
+      "files": [
+        "telugu-specialization-batch-01-2.json",
+        "telugu-specialization-batch-01.json",
+        "telugu-specialization-batch-02.json",
+        "telugu-specialization-batch-03.json",
+        "telugu-specialization-batch-04.json",
+        "telugu-specialization-batch-05.json",
+        "telugu-specialization-batch-06.json",
+        "telugu-specialization-batch-07.json",
+        "telugu-specialization-batch-08.json",
+        "telugu-specialization-batch-09.json",
+        "telugu-specialization-batch-10.json",
+        "telugu-specialization-batch-11.json",
+        "telugu-specialization-batch-12.json",
+        "telugu-specialization-batch-13.json",
+        "telugu-specialization-batch-14.json",
+        "telugu-specialization-batch-15.json",
+        "telugu-specialization-batch-16.json",
+        "telugu-specialization-batch-17.json",
+        "telugu-specialization-batch-18.json",
+        "telugu-specialization-batch-19.json",
+        "telugu-specialization-batch-20.json",
+        "telugu-specialization-batch-21.json",
+        "telugu-specialization-batch-22.json",
+        "telugu-specialization-batch-23.json",
+        "telugu-specialization-batch-24.json",
+        "telugu-specialization-batch-25.json",
+        "telugu-specialization-batch-26.json",
+        "telugu-specialization-batch-27.json",
+        "telugu-specialization-batch-28.json",
+        "telugu-specialization-batch-29.json",
+        "telugu-specialization-batch-30.json",
+        "telugu-specialization-batch-31.json",
+        "telugu-specialization-batch-32.json",
+        "telugu-specialization-batch-33.json",
+        "telugu-specialization-batch-34-2.json",
+        "telugu-specialization-batch-34.json",
+        "telugu-specialization-batch-35.json",
+        "telugu-specialization-batch-36.json",
+        "telugu-specialization-batch-37.json",
+        "telugu-specialization-batch-38.json",
+        "telugu-specialization-batch-39.json",
+        "telugu-specialization-batch-40.json",
+        "telugu-specialization-batch-41.json",
+        "telugu-specialization-batch-42.json",
+        "telugu-specialization-batch-43.json",
+        "telugu-specialization-batch-44.json",
+        "telugu-specialization-batch-45.json",
+        "telugu-specialization-batch-46.json",
+        "telugu-specialization-batch-47.json",
+        "telugu-specialization-batch-48.json",
+        "telugu-specialization-batch-49.json",
+        "telugu-specialization-batch-50.json",
+        "telugu-specialization-batch-51.json",
+        "telugu-specialization-batch-52.json",
+        "telugu-specialization-batch-53.json",
+        "telugu-specialization-batch-54.json",
+        "telugu-specialization-batch-55.json",
+        "telugu-specialization-batch-56.json"
+      ]
+    }
+  ]
+}

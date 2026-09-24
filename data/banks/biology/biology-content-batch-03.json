@@ -1,0 +1,1314 @@
+{
+  "track": "maths",
+  "testId": "biology-content-batch-03",
+  "title": "AP Special TET Biological Science — Content & Pedagogy Batch 03",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "biology-content-03",
+      "title": "Biological Science Content and Pedagogy",
+      "questions": [
+        {
+          "id": "biology-content-003-001",
+          "question": "Which structure regulates what enters and leaves a typical cell?",
+          "options": [
+            "Plasma membrane",
+            "Cell wall alone",
+            "Nucleolus",
+            "Chromosome"
+          ],
+          "correctIndex": 0,
+          "explanation": "The plasma membrane is selectively permeable and controls exchange between the cell and its surroundings.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-002",
+          "question": "Ribosomes are the sites of:",
+          "options": [
+            "Protein synthesis",
+            "Lipid storage only",
+            "Photosynthesis in animals",
+            "Urine formation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ribosomes translate messenger RNA to assemble polypeptides.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-003",
+          "question": "The nucleolus is chiefly involved in the production and assembly of:",
+          "options": [
+            "Ribosomal subunits",
+            "Cellulose fibres",
+            "Bile salts",
+            "Chlorophyll"
+          ],
+          "correctIndex": 0,
+          "explanation": "The nucleolus makes ribosomal RNA and helps assemble ribosomal subunits.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-004",
+          "question": "Which organelle modifies, sorts and packages many proteins for transport?",
+          "options": [
+            "Golgi apparatus",
+            "Lysosome only",
+            "Centriole",
+            "Vacuole membrane"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Golgi apparatus modifies and sorts proteins and lipids received from the endoplasmic reticulum.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-005",
+          "question": "A prokaryotic cell typically lacks a:",
+          "options": [
+            "Membrane-bound nucleus",
+            "Plasma membrane",
+            "Cytoplasm",
+            "Ribosome"
+          ],
+          "correctIndex": 0,
+          "explanation": "Prokaryotes do not have a membrane-enclosed nucleus; their DNA is in a nucleoid region.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-006",
+          "question": "Which process moves particles from higher concentration to lower concentration without direct energy input?",
+          "options": [
+            "Diffusion",
+            "Active transport",
+            "Endocytosis",
+            "Exocytosis"
+          ],
+          "correctIndex": 0,
+          "explanation": "Diffusion is passive net movement down a concentration gradient.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-007",
+          "question": "Active transport differs from simple diffusion because it:",
+          "options": [
+            "Can move substances against a gradient using energy",
+            "Always moves water only",
+            "Never uses membrane proteins",
+            "Occurs only outside cells"
+          ],
+          "correctIndex": 0,
+          "explanation": "Active transport uses energy, often ATP or an ion gradient, to move substances against their gradient.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-008",
+          "question": "The main product of photosynthesis that stores chemical energy is:",
+          "options": [
+            "Carbohydrate such as glucose",
+            "Urea",
+            "Lactic acid only",
+            "Mineral ash"
+          ],
+          "correctIndex": 0,
+          "explanation": "Photosynthesis stores captured light energy in carbohydrates formed from carbon dioxide and water.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-009",
+          "question": "Stomata are most directly involved in:",
+          "options": [
+            "Gas exchange and regulation of water loss",
+            "Absorbing minerals from soil",
+            "Making seeds",
+            "Anchoring roots"
+          ],
+          "correctIndex": 0,
+          "explanation": "Stomata permit carbon dioxide uptake and oxygen and water-vapour exchange, with guard-cell regulation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-010",
+          "question": "Water and dissolved mineral ions are transported upward mainly through:",
+          "options": [
+            "Xylem",
+            "Phloem",
+            "Epidermal hairs only",
+            "Pollen tubes"
+          ],
+          "correctIndex": 0,
+          "explanation": "Xylem conducts water and mineral nutrients from roots toward aerial plant parts.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-011",
+          "question": "Which plant tissue transports many sugars from source organs to sinks?",
+          "options": [
+            "Phloem",
+            "Xylem",
+            "Cork only",
+            "Root cap"
+          ],
+          "correctIndex": 0,
+          "explanation": "Phloem translocates sugars and other organic solutes from sources to sinks.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-012",
+          "question": "Root hairs improve a plant's ability to:",
+          "options": [
+            "Absorb water and mineral ions",
+            "Capture insects in all plants",
+            "Produce pollen",
+            "Exchange gases through flowers only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Root hairs increase the surface area available for absorption from soil.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-013",
+          "question": "The loss of liquid water droplets from leaf margins through hydathodes is:",
+          "options": [
+            "Guttation",
+            "Transpiration",
+            "Respiration",
+            "Pollination"
+          ],
+          "correctIndex": 0,
+          "explanation": "Guttation is the exudation of liquid water, commonly at leaf margins, through hydathodes.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-014",
+          "question": "Phototropism is a growth response to:",
+          "options": [
+            "Light direction",
+            "Gravity only",
+            "Touch only",
+            "Water salinity exclusively"
+          ],
+          "correctIndex": 0,
+          "explanation": "Phototropism is directional growth in response to light.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-015",
+          "question": "The plant hormone commonly associated with cell elongation and phototropic bending is:",
+          "options": [
+            "Auxin",
+            "Insulin",
+            "Adrenaline",
+            "Thyroxine"
+          ],
+          "correctIndex": 0,
+          "explanation": "Auxin distribution contributes to differential growth during phototropic responses.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-016",
+          "question": "Pollination is the transfer of pollen from:",
+          "options": [
+            "Anther to stigma",
+            "Stigma to ovule directly",
+            "Root to leaf",
+            "Ovary to sepal"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pollination is pollen transfer to a receptive stigma in flowering plants.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-017",
+          "question": "After fertilization, the ovule generally develops into a:",
+          "options": [
+            "Seed",
+            "Fruit wall",
+            "Stamen",
+            "Sepal"
+          ],
+          "correctIndex": 0,
+          "explanation": "The ovule typically develops into a seed after fertilization.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-018",
+          "question": "In flowering plants, the ovary usually develops into the:",
+          "options": [
+            "Fruit",
+            "Embryo sac only",
+            "Pollen grain",
+            "Root"
+          ],
+          "correctIndex": 0,
+          "explanation": "The ovary typically matures into the fruit, while ovules become seeds.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-019",
+          "question": "The transfer of pollen by wind is called:",
+          "options": [
+            "Anemophily",
+            "Hydrophily",
+            "Entomophily",
+            "Ornithology"
+          ],
+          "correctIndex": 0,
+          "explanation": "Anemophily is pollination by wind.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-020",
+          "question": "Which part of a seed protects the embryo?",
+          "options": [
+            "Seed coat",
+            "Stigma",
+            "Anther",
+            "Petiole"
+          ],
+          "correctIndex": 0,
+          "explanation": "The seed coat surrounds and protects the seed's internal tissues.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-021",
+          "question": "The basic functional unit of the nervous system is the:",
+          "options": [
+            "Neuron",
+            "Nephron",
+            "Alveolus",
+            "Osteon"
+          ],
+          "correctIndex": 0,
+          "explanation": "Neurons receive and transmit information through electrical and chemical signalling.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-022",
+          "question": "A synapse is a junction where:",
+          "options": [
+            "One neuron communicates with another cell",
+            "Blood is filtered",
+            "Food is absorbed in villi",
+            "Bones meet only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Synapses transmit signals between neurons or from neurons to target cells.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-023",
+          "question": "A reflex action is often:",
+          "options": [
+            "Rapid and involuntary",
+            "Always consciously planned",
+            "A hormonal response only",
+            "A learned language response only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reflexes provide rapid, often involuntary responses to particular stimuli.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-024",
+          "question": "The cerebellum is especially important for:",
+          "options": [
+            "Coordination and balance",
+            "Producing digestive enzymes",
+            "Filtering blood",
+            "Detecting light in the retina"
+          ],
+          "correctIndex": 0,
+          "explanation": "The cerebellum contributes to coordination, balance and motor learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-025",
+          "question": "The hormone insulin generally:",
+          "options": [
+            "Lowers blood glucose by promoting uptake and storage",
+            "Raises blood glucose by breaking down glycogen only",
+            "Stops all digestion",
+            "Carries oxygen"
+          ],
+          "correctIndex": 0,
+          "explanation": "Insulin promotes glucose uptake and storage, reducing blood glucose concentration.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-026",
+          "question": "Glucagon helps increase blood glucose mainly by acting on the:",
+          "options": [
+            "Liver",
+            "Lens of the eye",
+            "Alveoli",
+            "Skin surface"
+          ],
+          "correctIndex": 0,
+          "explanation": "Glucagon stimulates hepatic glycogen breakdown and glucose production.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-027",
+          "question": "The exchange of gases between alveoli and blood occurs mainly by:",
+          "options": [
+            "Diffusion",
+            "Active transport of whole air sacs",
+            "Osmosis of red cells",
+            "Peristalsis"
+          ],
+          "correctIndex": 0,
+          "explanation": "Oxygen and carbon dioxide diffuse down their partial-pressure gradients across the alveolar-capillary membrane.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-028",
+          "question": "Haemoglobin is found chiefly in:",
+          "options": [
+            "Red blood cells",
+            "Platelets",
+            "Bile",
+            "Neurons"
+          ],
+          "correctIndex": 0,
+          "explanation": "Haemoglobin in erythrocytes binds and transports much of the oxygen in blood.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-029",
+          "question": "The blood component most directly involved in clot formation is:",
+          "options": [
+            "Platelets",
+            "Red blood cells alone",
+            "Plasma water only",
+            "Neurons"
+          ],
+          "correctIndex": 0,
+          "explanation": "Platelets participate in forming a platelet plug and activating coagulation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-030",
+          "question": "The valve between the left atrium and left ventricle is the:",
+          "options": [
+            "Mitral (bicuspid) valve",
+            "Tricuspid valve",
+            "Pulmonary semilunar valve",
+            "Aortic semilunar valve"
+          ],
+          "correctIndex": 0,
+          "explanation": "The mitral valve separates the left atrium from the left ventricle.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-031",
+          "question": "The basic filtering unit of the kidney is the:",
+          "options": [
+            "Nephron",
+            "Neuron",
+            "Villus",
+            "Bronchus"
+          ],
+          "correctIndex": 0,
+          "explanation": "Each nephron filters blood and modifies filtrate to form urine.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-032",
+          "question": "Filtration of blood in a nephron begins at the:",
+          "options": [
+            "Glomerulus into Bowman's capsule",
+            "Ureter",
+            "Urinary bladder",
+            "Collecting duct opening"
+          ],
+          "correctIndex": 0,
+          "explanation": "Blood pressure drives ultrafiltration from glomerular capillaries into Bowman's capsule.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-033",
+          "question": "The process that returns useful substances from filtrate to blood is:",
+          "options": [
+            "Selective reabsorption",
+            "Exhalation",
+            "Ingestion",
+            "Transpiration"
+          ],
+          "correctIndex": 0,
+          "explanation": "Selective reabsorption recovers substances such as glucose, ions and water from the filtrate.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-034",
+          "question": "The human skeleton helps to:",
+          "options": [
+            "Support the body, protect organs and enable movement",
+            "Digest starch directly",
+            "Produce bile",
+            "Exchange gases"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bones provide support and protection and work with muscles for movement; marrow also forms blood cells.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-035",
+          "question": "A joint that permits movement in many directions, such as the shoulder, is a:",
+          "options": [
+            "Ball-and-socket joint",
+            "Hinge joint",
+            "Fixed suture",
+            "Pivot joint only"
+          ],
+          "correctIndex": 0,
+          "explanation": "The shoulder's ball-and-socket joint permits movement in several planes.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-036",
+          "question": "Muscles usually move bones by:",
+          "options": [
+            "Contracting and pulling through tendons",
+            "Pushing bones apart directly",
+            "Turning into cartilage",
+            "Producing synovial fluid alone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Skeletal muscles generate force by contraction and transmit it to bones through tendons.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-037",
+          "question": "The nutrient most directly needed for tissue growth and repair is:",
+          "options": [
+            "Protein",
+            "Water only",
+            "Dietary fibre only",
+            "Sodium chloride"
+          ],
+          "correctIndex": 0,
+          "explanation": "Proteins supply amino acids needed to build and repair tissues and make many functional molecules.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-038",
+          "question": "Vitamin C deficiency can cause:",
+          "options": [
+            "Scurvy",
+            "Rickets",
+            "Night blindness",
+            "Goitre"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scurvy results from inadequate vitamin C, which is required for normal collagen synthesis.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-039",
+          "question": "Iodine deficiency may lead to:",
+          "options": [
+            "Goitre",
+            "Scurvy",
+            "Beriberi",
+            "Sickle-cell disease"
+          ],
+          "correctIndex": 0,
+          "explanation": "Low iodine intake can impair thyroid hormone production and cause thyroid enlargement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-040",
+          "question": "The BCG vaccine is used in prevention efforts against:",
+          "options": [
+            "Tuberculosis",
+            "Malaria",
+            "Cholera",
+            "Dengue"
+          ],
+          "correctIndex": 0,
+          "explanation": "BCG is a vaccine used against tuberculosis, especially severe forms in children.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-041",
+          "question": "A pathogen is:",
+          "options": [
+            "An agent capable of causing disease",
+            "A nutrient required by every cell",
+            "A type of antibody only",
+            "A nonliving organelle"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pathogens include disease-causing viruses, bacteria, fungi, parasites and other agents.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-042",
+          "question": "Which is a non-communicable condition?",
+          "options": [
+            "Hypertension",
+            "Measles",
+            "Influenza",
+            "Cholera"
+          ],
+          "correctIndex": 0,
+          "explanation": "Hypertension is not transmitted from person to person, unlike infectious diseases such as measles.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-043",
+          "question": "Antibodies are produced by differentiated:",
+          "options": [
+            "B lymphocytes (plasma cells)",
+            "Red blood cells",
+            "Platelets",
+            "Neurons"
+          ],
+          "correctIndex": 0,
+          "explanation": "Activated B cells can differentiate into plasma cells that secrete antibodies.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-044",
+          "question": "An ecosystem's abiotic factors include:",
+          "options": [
+            "Light, temperature and soil minerals",
+            "Only plants",
+            "Only predators",
+            "All populations of animals"
+          ],
+          "correctIndex": 0,
+          "explanation": "Abiotic factors are nonliving physical and chemical components of an environment.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-045",
+          "question": "A population consists of:",
+          "options": [
+            "Individuals of one species living in a given area",
+            "All species on Earth",
+            "Only nonliving elements",
+            "One organism's organs"
+          ],
+          "correctIndex": 0,
+          "explanation": "A population is a group of members of the same species in a particular area at a given time.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-046",
+          "question": "Energy transfer between trophic levels is generally:",
+          "options": [
+            "Inefficient, with much energy dissipated as heat",
+            "Complete with no losses",
+            "A cycle identical to mineral cycling",
+            "Independent of organisms"
+          ],
+          "correctIndex": 0,
+          "explanation": "Only a fraction of energy is passed to the next trophic level; much is used in metabolism or dissipated.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-047",
+          "question": "A pyramid of energy is typically:",
+          "options": [
+            "Upright",
+            "Always inverted",
+            "A circle",
+            "Unrelated to trophic levels"
+          ],
+          "correctIndex": 0,
+          "explanation": "Energy available decreases at successive trophic levels, so the energy pyramid is upright.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-048",
+          "question": "Excessive nutrient enrichment of water that can cause algal blooms is:",
+          "options": [
+            "Eutrophication",
+            "Biomagnification",
+            "Desertification",
+            "Succession"
+          ],
+          "correctIndex": 0,
+          "explanation": "Nutrient enrichment, especially nitrogen and phosphorus, can promote algal blooms and oxygen depletion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-049",
+          "question": "Biomagnification refers to:",
+          "options": [
+            "Increasing concentration of certain persistent pollutants at higher trophic levels",
+            "Decrease in all pollutants at every trophic level",
+            "Movement of water through xylem",
+            "Formation of soil from rocks"
+          ],
+          "correctIndex": 0,
+          "explanation": "Some persistent substances become more concentrated in organisms at higher trophic levels.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-050",
+          "question": "Biodiversity includes variation:",
+          "options": [
+            "Within species, between species and among ecosystems",
+            "Only in body size",
+            "Only among domesticated animals",
+            "Only in one habitat"
+          ],
+          "correctIndex": 0,
+          "explanation": "Biodiversity is commonly described at genetic, species and ecosystem levels.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-051",
+          "question": "The scientific name of an organism generally consists of:",
+          "options": [
+            "Genus and specific epithet",
+            "Family and order only",
+            "Common name and habitat",
+            "Kingdom and class"
+          ],
+          "correctIndex": 0,
+          "explanation": "Binomial nomenclature uses a genus name and a specific epithet.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-052",
+          "question": "In binomial nomenclature, the genus name begins with:",
+          "options": [
+            "A capital letter",
+            "A numeral",
+            "A lowercase letter in every format",
+            "A punctuation mark"
+          ],
+          "correctIndex": 0,
+          "explanation": "The genus is capitalized; the specific epithet is lowercase, and both are conventionally italicized when typed.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-053",
+          "question": "Viruses are often described as obligate intracellular parasites because they:",
+          "options": [
+            "Replicate only inside living host cells",
+            "Have independent cellular metabolism",
+            "Contain both a nucleus and mitochondria",
+            "Grow on nutrient agar like many bacteria"
+          ],
+          "correctIndex": 0,
+          "explanation": "Viruses depend on host-cell machinery to replicate.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-054",
+          "question": "Bacteria reproduce commonly by:",
+          "options": [
+            "Binary fission",
+            "Meiosis",
+            "Seed formation",
+            "Pollination"
+          ],
+          "correctIndex": 0,
+          "explanation": "Binary fission is a common bacterial cell-division process.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-055",
+          "question": "Which group includes organisms with chitin in their cell walls?",
+          "options": [
+            "Fungi",
+            "Mammals",
+            "Flowering plants",
+            "Most viruses"
+          ],
+          "correctIndex": 0,
+          "explanation": "Fungal cell walls commonly contain chitin, unlike plant cell walls which contain cellulose.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-056",
+          "question": "Mosses are classified as:",
+          "options": [
+            "Non-vascular plants",
+            "Flowering plants",
+            "Gymnosperms",
+            "Fungi"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mosses are bryophytes and lack the true vascular tissues characteristic of vascular plants.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-057",
+          "question": "Gymnosperms characteristically have:",
+          "options": [
+            "Naked seeds not enclosed in fruits",
+            "Flowers with ovaries in all species",
+            "No embryos",
+            "Seeds enclosed in fleshy fruits"
+          ],
+          "correctIndex": 0,
+          "explanation": "Gymnosperm seeds are not enclosed within an ovary-derived fruit.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-058",
+          "question": "The process by which organisms become better suited to their environment across generations is:",
+          "options": [
+            "Evolution by natural processes, including natural selection",
+            "An individual's deliberate transformation",
+            "A guaranteed change during one lifetime",
+            "The same as acclimatization in every case"
+          ],
+          "correctIndex": 0,
+          "explanation": "Evolution is population-level change across generations; natural selection is one important mechanism.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-059",
+          "question": "A fossil record can help scientists study:",
+          "options": [
+            "Changes in life forms through geological time",
+            "Only present-day behaviour",
+            "The future with certainty",
+            "Cell respiration rates in living tissues"
+          ],
+          "correctIndex": 0,
+          "explanation": "Fossils document past organisms and provide evidence about evolutionary and environmental change.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-060",
+          "question": "In a typical monohybrid cross, the separation of allele pairs into gametes illustrates:",
+          "options": [
+            "Mendel's law of segregation",
+            "The law of conservation of energy",
+            "The principle of osmosis",
+            "The central dogma only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Alleles separate during gamete formation so each gamete receives one allele at the locus.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-061",
+          "question": "A DNA molecule is built from repeating units called:",
+          "options": [
+            "Nucleotides",
+            "Amino acids",
+            "Fatty acids",
+            "Monosaccharides only"
+          ],
+          "correctIndex": 0,
+          "explanation": "DNA is a polymer of nucleotides, each containing a sugar, phosphate and nitrogenous base.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-062",
+          "question": "Transcription is the process of making:",
+          "options": [
+            "RNA from a DNA template",
+            "DNA from a protein",
+            "A lipid from RNA",
+            "Glucose from amino acids only"
+          ],
+          "correctIndex": 0,
+          "explanation": "During transcription, RNA polymerase synthesizes RNA using DNA as a template.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-063",
+          "question": "Translation takes place on:",
+          "options": [
+            "Ribosomes",
+            "Lysosomes",
+            "Golgi vesicles only",
+            "The cell wall"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ribosomes read mRNA codons and assemble amino acids into a polypeptide.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-064",
+          "question": "Meiosis typically reduces chromosome number by:",
+          "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "No change in every product"
+          ],
+          "correctIndex": 0,
+          "explanation": "Meiosis produces haploid cells from a diploid cell through two divisions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-065",
+          "question": "Mitosis generally produces daughter cells that are:",
+          "options": [
+            "Genetically very similar to the parent cell, barring mutation",
+            "Always haploid from diploid cells",
+            "Always genetically different from each other",
+            "Without chromosomes"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mitosis preserves chromosome number and normally yields genetically similar daughter cells.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-066",
+          "question": "A mutation in a body cell is usually called:",
+          "options": [
+            "Somatic mutation",
+            "Gametic fusion",
+            "Pollination",
+            "Crossing over"
+          ],
+          "correctIndex": 0,
+          "explanation": "A mutation in a somatic cell occurs in non-germline tissue and is not usually inherited by offspring.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-067",
+          "question": "Which method is commonly used to observe cells and small structures?",
+          "options": [
+            "Microscopy",
+            "Titration alone",
+            "Dissection of a whole ecosystem",
+            "Bar coding only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Microscopes magnify small structures so they can be examined.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-068",
+          "question": "A microscope's total magnification is found by:",
+          "options": [
+            "Multiplying eyepiece magnification by objective magnification",
+            "Adding the two magnifications",
+            "Subtracting objective from eyepiece",
+            "Dividing objective by specimen size"
+          ],
+          "correctIndex": 0,
+          "explanation": "For a compound microscope, total magnification is the product of eyepiece and objective magnifications.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-069",
+          "question": "When preparing a temporary leaf peel slide, a learner should:",
+          "options": [
+            "Handle the blade carefully and use a thin, flat specimen with a suitable mount",
+            "Touch the blade edge to test sharpness",
+            "Use a thick folded sample only",
+            "Skip the coverslip in all cases"
+          ],
+          "correctIndex": 0,
+          "explanation": "A thin, well-mounted specimen improves viewing; sharp tools must be handled safely.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-070",
+          "question": "A fair test changes:",
+          "options": [
+            "The independent variable while controlling relevant factors",
+            "Every variable simultaneously",
+            "Only the measured outcome",
+            "No factor and records no outcome"
+          ],
+          "correctIndex": 0,
+          "explanation": "A fair test controls relevant variables so the effect of the independent variable can be assessed.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-071",
+          "question": "Repeating measurements helps to:",
+          "options": [
+            "Assess consistency and reduce the influence of random error",
+            "Guarantee the hypothesis is correct",
+            "Remove the need for recording data",
+            "Make all observations identical"
+          ],
+          "correctIndex": 0,
+          "explanation": "Replicates help reveal variability and make estimates more reliable.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-072",
+          "question": "A hypothesis in a scientific investigation should be:",
+          "options": [
+            "Testable and linked to a possible observation",
+            "Impossible to examine",
+            "A statement of personal preference only",
+            "A conclusion written before data collection"
+          ],
+          "correctIndex": 0,
+          "explanation": "A useful hypothesis makes a claim that can be evaluated with evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-073",
+          "question": "A graph of plant growth over time should place time, the independent variable, typically on the:",
+          "options": [
+            "Horizontal (x) axis",
+            "Vertical (y) axis in every graph",
+            "Title only",
+            "Legend without an axis"
+          ],
+          "correctIndex": 0,
+          "explanation": "The independent variable is commonly plotted on the x-axis and the measured response on the y-axis.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-074",
+          "question": "When students disagree about an observation, a productive next step is to:",
+          "options": [
+            "Repeat or refine observations and compare recorded evidence",
+            "Choose the louder student",
+            "Erase both records",
+            "Avoid using instruments"
+          ],
+          "correctIndex": 0,
+          "explanation": "Further observations and evidence comparison can help resolve discrepancies.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-075",
+          "question": "Formative assessment is primarily used to:",
+          "options": [
+            "Provide feedback during learning to guide next steps",
+            "Assign only a final certification grade",
+            "Replace instruction completely",
+            "Rank families"
+          ],
+          "correctIndex": 0,
+          "explanation": "Formative assessment informs teaching and learning while there is still opportunity to improve.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-076",
+          "question": "A diagnostic question before a lesson can help a teacher identify:",
+          "options": [
+            "Learners' prior ideas and misconceptions",
+            "Only their handwriting speed",
+            "Their future careers with certainty",
+            "The class's favourite colour"
+          ],
+          "correctIndex": 0,
+          "explanation": "Diagnostic assessment reveals starting points and misconceptions to inform instruction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-077",
+          "question": "A concept map can help learners show:",
+          "options": [
+            "Relationships among biological concepts",
+            "Only spelling accuracy",
+            "The order of students' names",
+            "A precise measurement of pulse"
+          ],
+          "correctIndex": 0,
+          "explanation": "Concept maps represent links and hierarchy among ideas.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-078",
+          "question": "An inquiry-based biology lesson usually begins with:",
+          "options": [
+            "A question or problem that learners investigate using evidence",
+            "A predetermined answer to copy",
+            "A prohibition on observation",
+            "An unrelated lecture with no question"
+          ],
+          "correctIndex": 0,
+          "explanation": "Inquiry engages learners in asking questions, gathering evidence and constructing explanations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-079",
+          "question": "A teacher should respond to a misconception about evolution by:",
+          "options": [
+            "Exploring the learner's reasoning and examining scientific evidence respectfully",
+            "Mocking the learner",
+            "Replacing evidence with authority alone",
+            "Avoiding the topic permanently"
+          ],
+          "correctIndex": 0,
+          "explanation": "Respectful elicitation and evidence-based discussion can support conceptual understanding.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-080",
+          "question": "To teach food chains meaningfully, students could:",
+          "options": [
+            "Construct chains from organisms in a familiar habitat and justify feeding links",
+            "Memorize arrows without discussing their meaning",
+            "Assume arrows point toward the food eaten",
+            "Use only imaginary organisms"
+          ],
+          "correctIndex": 0,
+          "explanation": "Building locally grounded chains helps learners interpret arrows as energy transfer from food to consumer.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-081",
+          "question": "A model of the human heart is useful, but students should understand that it:",
+          "options": [
+            "Represents selected features and may omit scale or dynamic processes",
+            "Is identical to a living heart in every respect",
+            "Makes dissection and evidence unnecessary",
+            "Can never support understanding"
+          ],
+          "correctIndex": 0,
+          "explanation": "Models simplify reality; discussing limitations prevents students from treating them as exact replicas.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-082",
+          "question": "A teacher assessing practical competence should include evidence of:",
+          "options": [
+            "Safe procedure, accurate observation and appropriate recording",
+            "Only memorized definitions",
+            "Popularity in the group",
+            "Speed regardless of accuracy or safety"
+          ],
+          "correctIndex": 0,
+          "explanation": "Practical competence includes safe handling, observation and recording as well as conceptual knowledge.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-083",
+          "question": "An accessible biology classroom may use:",
+          "options": [
+            "Clear diagrams, physical models, captions and varied response formats",
+            "Only small-print text with no alternatives",
+            "One assessment format regardless of access needs",
+            "Unexplained specialist vocabulary throughout"
+          ],
+          "correctIndex": 0,
+          "explanation": "Multiple representations and accessible formats help diverse learners engage with biological ideas.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-084",
+          "question": "If a field investigation may disturb wildlife, students should:",
+          "options": [
+            "Observe responsibly, minimize disturbance and follow local rules",
+            "Collect every organism encountered",
+            "Feed wildlife to attract it",
+            "Ignore protected-area instructions"
+          ],
+          "correctIndex": 0,
+          "explanation": "Responsible fieldwork minimizes harm and follows safety and conservation guidance.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-085",
+          "question": "A teacher asks students to interpret a table of disease cases. This mainly assesses:",
+          "options": [
+            "Data interpretation and evidence-based reasoning",
+            "Only drawing skill",
+            "The ability to guess causes without evidence",
+            "Memorization of unrelated taxonomy"
+          ],
+          "correctIndex": 0,
+          "explanation": "Interpreting tabulated data requires extracting patterns and grounding claims in evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-086",
+          "question": "Which feedback is most useful after a student's practical report?",
+          "options": [
+            "Identify a specific strength and a concrete next step linked to the criteria",
+            "Write only 'bad work'",
+            "Compare the learner insultingly with peers",
+            "Give a score without explanation in every case"
+          ],
+          "correctIndex": 0,
+          "explanation": "Specific, criteria-linked feedback tells learners what worked and how to improve.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-087",
+          "question": "An effective lesson objective for classification is:",
+          "options": [
+            "Learners will classify given specimens using stated observable characteristics",
+            "Learners will enjoy all living things",
+            "Learners will know biology completely",
+            "Learners will become experts immediately"
+          ],
+          "correctIndex": 0,
+          "explanation": "The objective describes an observable performance and a basis for classification.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-088",
+          "question": "When using online biological images, a teacher should encourage students to:",
+          "options": [
+            "Check the source and compare the image with other reliable evidence",
+            "Assume every image is authentic",
+            "Ignore captions and scale",
+            "Treat edited illustrations as raw observations"
+          ],
+          "correctIndex": 0,
+          "explanation": "Source evaluation and corroboration help students distinguish reliable evidence from misleading visuals.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-089",
+          "question": "A student's result differs from the class trend. The teacher should:",
+          "options": [
+            "Check the method and data, then consider whether the difference is meaningful",
+            "Automatically discard the result",
+            "Change it to match the class",
+            "Assume the student cheated"
+          ],
+          "correctIndex": 0,
+          "explanation": "Unexpected results merit checking procedure and data rather than automatic rejection.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-090",
+          "question": "The safest response when a student finds an unknown mushroom during fieldwork is to:",
+          "options": [
+            "Do not touch or taste it; notify the teacher and observe safely",
+            "Taste a small piece",
+            "Take it home for cooking",
+            "Handle it with bare hands"
+          ],
+          "correctIndex": 0,
+          "explanation": "Unknown fungi may be harmful; avoid contact or ingestion and follow teacher safety procedures.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-091",
+          "question": "In teaching heredity, family resemblance should be discussed with the understanding that:",
+          "options": [
+            "Traits can reflect genes and environmental influences",
+            "Every trait is controlled by one gene",
+            "Environment never affects phenotype",
+            "All siblings must be identical"
+          ],
+          "correctIndex": 0,
+          "explanation": "Many traits arise through interactions between genetic variation and environmental factors.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-092",
+          "question": "Which statement best distinguishes habitat from niche?",
+          "options": [
+            "Habitat is where an organism lives; niche describes its ecological role and resource use",
+            "They always mean exactly the same thing",
+            "Niche means only geographic coordinates",
+            "Habitat describes only an organism's DNA"
+          ],
+          "correctIndex": 0,
+          "explanation": "Habitat refers to an organism's living place; niche includes its role, resource use and interactions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-093",
+          "question": "A teacher uses a local pond to teach ecology. Learners should record:",
+          "options": [
+            "Organisms observed, abiotic conditions, methods and date",
+            "Only their favourite animal",
+            "Unverified species names as certain",
+            "No contextual details"
+          ],
+          "correctIndex": 0,
+          "explanation": "Contextual records make observations interpretable and support comparison over time.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-094",
+          "question": "Which practice supports ethical treatment of animals in school investigations?",
+          "options": [
+            "Use alternatives where appropriate and minimize distress under approved guidance",
+            "Cause harm to make behaviour easier to observe",
+            "Ignore school and legal requirements",
+            "Keep wild animals without care"
+          ],
+          "correctIndex": 0,
+          "explanation": "School investigations should follow applicable guidance and minimize harm, using alternatives when suitable.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-095",
+          "question": "A learner asks whether all bacteria cause disease. An accurate response is:",
+          "options": [
+            "No; many bacteria are harmless or beneficial, while some cause disease",
+            "Yes, every bacterium is pathogenic",
+            "Bacteria are all viruses",
+            "Only bacteria in soil are alive"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bacteria are diverse; many are beneficial or harmless, and only some are pathogens.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-096",
+          "question": "A class compares leaf surfaces from sun and shade plants. To strengthen the investigation, students should:",
+          "options": [
+            "Use replicates and record relevant conditions such as species and light exposure",
+            "Use one leaf from each unrelated species and draw broad conclusions",
+            "Change many factors without recording them",
+            "Choose only results that fit expectations"
+          ],
+          "correctIndex": 0,
+          "explanation": "Replicates and contextual controls make comparisons more interpretable and limit overgeneralization.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-097",
+          "question": "Which statement about scientific theories is appropriate for learners?",
+          "options": [
+            "A scientific theory is a well-supported explanatory framework, not merely a guess",
+            "A theory is always an untested hunch",
+            "A theory can never change with evidence",
+            "A theory is the same as a single observation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scientific theories explain broad patterns and are supported by extensive evidence, while remaining open to refinement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-098",
+          "question": "Which classroom practice best helps students connect biology concepts with daily life?",
+          "options": [
+            "Investigate a familiar example, gather observations and relate findings to the concept",
+            "Memorize isolated terms without examples",
+            "Avoid discussion of evidence",
+            "Copy a definition repeatedly without applying it"
+          ],
+          "correctIndex": 0,
+          "explanation": "A familiar investigation gives learners evidence they can use to connect abstract concepts with everyday observations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-099",
+          "question": "Which structure in a plant cell stores cell sap and helps maintain turgor?",
+          "options": [
+            "Large central vacuole",
+            "Ribosome",
+            "Nucleolus",
+            "Centriole"
+          ],
+          "correctIndex": 0,
+          "explanation": "The large central vacuole stores cell sap and contributes to turgor pressure.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-003-100",
+          "question": "Which term describes the variety of genes, species and ecosystems in a region?",
+          "options": [
+            "Biodiversity",
+            "Biomass only",
+            "Population density",
+            "Succession"
+          ],
+          "correctIndex": 0,
+          "explanation": "Biodiversity encompasses variation at genetic, species and ecosystem levels.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

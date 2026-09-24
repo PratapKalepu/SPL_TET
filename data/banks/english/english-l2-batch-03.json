@@ -1,0 +1,1314 @@
+{
+  "track": "telugu",
+  "testId": "english-l2-batch-03",
+  "title": "English Language-II — Core Batch 03",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "english-l2-03",
+      "title": "English Language-II",
+      "questions": [
+        {
+          "id": "english-l2-003-001",
+          "question": "Choose the correct form: If I ___ enough time, I would learn another language.",
+          "options": [
+            "have",
+            "had",
+            "will have",
+            "am having"
+          ],
+          "correctIndex": 1,
+          "explanation": "In a second conditional, the if-clause uses the past simple.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-002",
+          "question": "Choose the correct form: If it rains tomorrow, we ___ the match indoors.",
+          "options": [
+            "held",
+            "would hold",
+            "will hold",
+            "had held"
+          ],
+          "correctIndex": 2,
+          "explanation": "The first conditional uses the present simple in the if-clause and 'will' in the result clause.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-003",
+          "question": "Choose the correct form: If she had left earlier, she ___ the train.",
+          "options": [
+            "would catch",
+            "will catch",
+            "would have caught",
+            "caught"
+          ],
+          "correctIndex": 2,
+          "explanation": "The third conditional uses 'would have' plus the past participle for an unreal past result.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-004",
+          "question": "Choose the correct form: I wish I ___ speak French fluently.",
+          "options": [
+            "can",
+            "could",
+            "will",
+            "am"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Could' expresses a wished-for ability in the present.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-005",
+          "question": "Choose the correct form: It is time we ___ the meeting.",
+          "options": [
+            "start",
+            "started",
+            "will start",
+            "have started"
+          ],
+          "correctIndex": 1,
+          "explanation": "After 'It is time', a past form can express that an action is due now.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-006",
+          "question": "Choose the correct verb: The news ___ encouraging.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "'News' is a singular uncountable noun.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-007",
+          "question": "Choose the correct verb: Mathematics ___ my favourite subject.",
+          "options": [
+            "are",
+            "is",
+            "were",
+            "have"
+          ],
+          "correctIndex": 1,
+          "explanation": "The subject name 'mathematics' is grammatically singular.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-008",
+          "question": "Choose the correct verb: A number of applicants ___ waiting outside.",
+          "options": [
+            "is",
+            "was",
+            "are",
+            "has"
+          ],
+          "correctIndex": 2,
+          "explanation": "'A number of' takes a plural verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-009",
+          "question": "Choose the correct verb: The number of applicants ___ increased.",
+          "options": [
+            "have",
+            "are",
+            "has",
+            "were"
+          ],
+          "correctIndex": 2,
+          "explanation": "'The number' is singular and takes 'has'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-010",
+          "question": "Choose the correct verb: Either the teachers or the principal ___ attending.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "With 'either...or', the verb generally agrees with the nearer subject, 'principal'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-011",
+          "question": "Choose the correct form: She would rather ___ at home tonight.",
+          "options": [
+            "stay",
+            "stays",
+            "to stay",
+            "staying"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Would rather' is followed by the base form of the verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-012",
+          "question": "Choose the correct form: You had better ___ the instructions carefully.",
+          "options": [
+            "read",
+            "to read",
+            "reading",
+            "reads"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Had better' is followed by the base verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-013",
+          "question": "Choose the correct form: I look forward to ___ you soon.",
+          "options": [
+            "meet",
+            "meeting",
+            "met",
+            "have meet"
+          ],
+          "correctIndex": 1,
+          "explanation": "In this expression, 'to' is a preposition and is followed by a gerund.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-014",
+          "question": "Choose the correct form: He is used to ___ early.",
+          "options": [
+            "wake",
+            "waking",
+            "woke",
+            "wakes"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Be used to' meaning accustomed to is followed by a noun or gerund.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-015",
+          "question": "Choose the correct form: She used to ___ in a village.",
+          "options": [
+            "lives",
+            "living",
+            "live",
+            "lived"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Used to' for a past habit is followed by the base verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-016",
+          "question": "Choose the correct form: The teacher made the pupils ___ the poem aloud.",
+          "options": [
+            "recited",
+            "to recite",
+            "recite",
+            "reciting"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Make' in the active causative construction takes an object plus the base verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-017",
+          "question": "Choose the correct form: We were made ___ our shoes outside.",
+          "options": [
+            "remove",
+            "to remove",
+            "removed",
+            "removing"
+          ],
+          "correctIndex": 1,
+          "explanation": "In the passive, 'make' is followed by a to-infinitive.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-018",
+          "question": "Choose the correct form: I saw the child ___ across the road.",
+          "options": [
+            "run",
+            "ran",
+            "to ran",
+            "runs"
+          ],
+          "correctIndex": 0,
+          "explanation": "A bare infinitive can follow 'see' plus object when the whole action is observed.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-019",
+          "question": "Choose the correct form: She stopped ___ to the announcement.",
+          "options": [
+            "talk",
+            "to talk",
+            "talking",
+            "talked"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Stop talking' means cease the activity of talking.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-020",
+          "question": "Choose the correct form: He stopped ___ some water on the way.",
+          "options": [
+            "buy",
+            "buying",
+            "to buy",
+            "bought"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Stop to buy' means pause another activity in order to buy something.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-021",
+          "question": "Choose the correct word: The committee will ___ a new chairperson.",
+          "options": [
+            "elect",
+            "erect",
+            "illicit",
+            "elicit"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Elect' means choose someone for a position by voting.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-022",
+          "question": "Choose the correct word: The medicine may ___ drowsiness.",
+          "options": [
+            "cause",
+            "course",
+            "coarse",
+            "caws"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Cause' means bring about.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-023",
+          "question": "Choose the correct word: The principal gave a brief ___ of the new rules.",
+          "options": [
+            "allusion",
+            "illusion",
+            "elusion",
+            "collusion"
+          ],
+          "correctIndex": 0,
+          "explanation": "An 'allusion' is an indirect reference.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-024",
+          "question": "Choose the correct word: The magician created an optical ___.",
+          "options": [
+            "allusion",
+            "illusion",
+            "elusion",
+            "collusion"
+          ],
+          "correctIndex": 1,
+          "explanation": "An 'illusion' is something that deceives the senses or mind.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-025",
+          "question": "Choose the correct word: Please ___ the source of the quotation.",
+          "options": [
+            "cite",
+            "site",
+            "sight",
+            "side"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Cite' means refer to a source.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-026",
+          "question": "Choose the correct word: The construction ___ is closed today.",
+          "options": [
+            "cite",
+            "site",
+            "sight",
+            "seat"
+          ],
+          "correctIndex": 1,
+          "explanation": "A 'site' is a place where an activity or construction occurs.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-027",
+          "question": "Choose the correct word: We watched the ___ from the hilltop.",
+          "options": [
+            "cite",
+            "site",
+            "sight",
+            "side"
+          ],
+          "correctIndex": 2,
+          "explanation": "A 'sight' is something seen or a view.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-028",
+          "question": "Choose the correct word: The new rule does not ___ to visitors.",
+          "options": [
+            "apply",
+            "imply",
+            "reply",
+            "supply"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Apply to' means be relevant or have an effect on a person or case.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-029",
+          "question": "Choose the correct word: Her silence seemed to ___ agreement.",
+          "options": [
+            "apply",
+            "imply",
+            "reply",
+            "supply"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Imply' means suggest without stating directly.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-030",
+          "question": "Choose the correct word: The report offers a ___ account of the event.",
+          "options": [
+            "credible",
+            "credulous",
+            "creditable",
+            "credulousness"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Credible' means believable or worthy of trust.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-031",
+          "question": "Choose the correct word: A ___ person is too ready to believe things.",
+          "options": [
+            "credible",
+            "credulous",
+            "creditable",
+            "credit"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Credulous' describes someone who is easily persuaded to believe.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-032",
+          "question": "Choose the correct word: The witness gave a ___ description.",
+          "options": [
+            "precise",
+            "precision",
+            "precisely",
+            "preciseness"
+          ],
+          "correctIndex": 0,
+          "explanation": "The adjective 'precise' describes a description that is exact and accurate.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-033",
+          "question": "Choose the correct word: The instructions were stated with great ___.",
+          "options": [
+            "precise",
+            "precision",
+            "precisely",
+            "precising"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Precision' is the noun meaning exactness.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-034",
+          "question": "Choose the correct word: The speaker tried to ___ the audience.",
+          "options": [
+            "persuasion",
+            "persuasive",
+            "persuade",
+            "persuasively"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Persuade' is the verb required after 'tried to'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-035",
+          "question": "Choose the correct word: The evidence was not ___ enough to support the claim.",
+          "options": [
+            "suffice",
+            "sufficient",
+            "sufficiently",
+            "sufficiency"
+          ],
+          "correctIndex": 1,
+          "explanation": "The adjective 'sufficient' modifies 'enough' in this construction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-036",
+          "question": "Choose the correct word: The instructions were ___ detailed to be useful.",
+          "options": [
+            "too",
+            "so",
+            "such",
+            "very much"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Too detailed to be useful' expresses an excessive degree with a result.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-037",
+          "question": "Choose the correct word: It was ___ difficult question that many learners asked for help.",
+          "options": [
+            "so",
+            "such a",
+            "such",
+            "too a"
+          ],
+          "correctIndex": 1,
+          "explanation": "Use 'such a' before an adjective and singular countable noun.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-038",
+          "question": "Choose the correct word: The task was ___ easy that everyone finished quickly.",
+          "options": [
+            "such",
+            "so",
+            "too much",
+            "such an"
+          ],
+          "correctIndex": 1,
+          "explanation": "Use 'so + adjective + that' to express a result.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-039",
+          "question": "Choose the correct word: Hardly had the lesson begun ___ the fire alarm rang.",
+          "options": [
+            "than",
+            "when",
+            "then",
+            "while"
+          ],
+          "correctIndex": 1,
+          "explanation": "The conventional correlative construction is 'hardly...when'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-040",
+          "question": "Choose the correct word: No sooner had we arrived ___ it began to rain.",
+          "options": [
+            "when",
+            "then",
+            "than",
+            "while"
+          ],
+          "correctIndex": 2,
+          "explanation": "The conventional construction is 'no sooner...than'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-041",
+          "question": "Choose the correct word: Not only ___ the answer, but she also explained it.",
+          "options": [
+            "she knew",
+            "did she know",
+            "she did knew",
+            "knows she"
+          ],
+          "correctIndex": 1,
+          "explanation": "When 'not only' begins the clause, subject-auxiliary inversion is used.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-042",
+          "question": "Choose the correct word: Rarely ___ such a thoughtful response.",
+          "options": [
+            "we hear",
+            "do we hear",
+            "we do heard",
+            "heard we"
+          ],
+          "correctIndex": 1,
+          "explanation": "A negative or restrictive adverb at the beginning triggers inversion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-043",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "Despite of the rain, we played.",
+            "Despite the rain, we played.",
+            "Although the rain, we played.",
+            "In spite the rain, we played."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Despite' is followed directly by a noun phrase, without 'of'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-044",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "Although he was tired, but he continued.",
+            "Although he was tired, he continued.",
+            "Despite he was tired, he continued.",
+            "Although of tiredness, he continued."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Although' introduces a subordinate clause and does not pair with 'but' in the same construction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-045",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "Because of she was ill, she stayed home.",
+            "Because she was ill, she stayed home.",
+            "Because her illness, she stayed home that she.",
+            "Because was ill, she stayed home."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Because' is followed by a clause with a subject and verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-046",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "Due to the heavy traffic, we arrived late.",
+            "Due the heavy traffic, we arrived late.",
+            "Due to traffic was heavy, we arrived late.",
+            "Due of heavy traffic, we arrived late."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Due to' is followed by a noun phrase.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-047",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "The teacher explained us the rule.",
+            "The teacher explained the rule to us.",
+            "The teacher explained to us about the rule.",
+            "The teacher explained about the rule us."
+          ],
+          "correctIndex": 1,
+          "explanation": "A standard pattern is 'explain something to someone'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-048",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "She suggested to take a break.",
+            "She suggested taking a break.",
+            "She suggested us to take a break.",
+            "She suggested take a break."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Suggest' can be followed by a gerund.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-049",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "They prevented him to enter.",
+            "They prevented him from entering.",
+            "They prevented that he enter.",
+            "They prevented him enter."
+          ],
+          "correctIndex": 1,
+          "explanation": "The pattern is 'prevent someone from doing something'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-050",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "I prefer tea than coffee.",
+            "I prefer tea to coffee.",
+            "I prefer tea from coffee.",
+            "I prefer tea over than coffee."
+          ],
+          "correctIndex": 1,
+          "explanation": "The traditional comparison pattern is 'prefer X to Y'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-051",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "She is senior than me.",
+            "She is senior to me.",
+            "She is more senior than me always.",
+            "She is senior from me."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Senior' is conventionally followed by 'to', not 'than'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-052",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "This matter is different than that one in every formal context.",
+            "This matter is different from that one.",
+            "This matter differs than that one.",
+            "This matter is different to than that one."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Different from' is a widely accepted standard construction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-053",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "The furniture are new.",
+            "The furniture is new.",
+            "The furnitures are new.",
+            "A furniture is new."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Furniture' is an uncountable noun and normally takes a singular verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-054",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "The police is investigating the case.",
+            "The police are investigating the case.",
+            "The police has investigating the case.",
+            "A police are investigating the case."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Police' is generally treated as a plural noun when referring to the force.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-055",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "The cattle is grazing.",
+            "The cattle are grazing.",
+            "A cattle are grazing.",
+            "The cattles are grazing."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Cattle' is a plural noun and takes a plural verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-056",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "Every boy and girl have a notebook.",
+            "Every boy and girl has a notebook.",
+            "Every boys and girls has notebooks.",
+            "Every boy and girl are having a notebook."
+          ],
+          "correctIndex": 1,
+          "explanation": "When 'every' modifies a compound subject, the verb is singular.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-057",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "One of my friends live nearby.",
+            "One of my friends lives nearby.",
+            "One of my friend lives nearby.",
+            "One among my friends are living nearby."
+          ],
+          "correctIndex": 1,
+          "explanation": "The head of the subject is singular 'one', so the verb is 'lives'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-058",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "More than one student have complained.",
+            "More than one student has complained.",
+            "More than one students has complained.",
+            "More than one student are complained."
+          ],
+          "correctIndex": 1,
+          "explanation": "'More than one' is usually followed by a singular noun and singular verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-059",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "The rich needs support.",
+            "The rich need support.",
+            "A rich need support.",
+            "The riches need support."
+          ],
+          "correctIndex": 1,
+          "explanation": "'The rich' refers to a group of people and takes a plural verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-060",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "Neither answer are correct.",
+            "Neither answer is correct.",
+            "Neither answers is correct.",
+            "Neither of answer are correct."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Neither' is traditionally singular in this construction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-061",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "All of the water have evaporated.",
+            "All of the water has evaporated.",
+            "All water have evaporated.",
+            "All of waters has evaporated."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Water' is uncountable, so 'all of the water' takes a singular verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-062",
+          "question": "Choose the synonym of 'alleviate'.",
+          "options": [
+            "Ease",
+            "Worsen",
+            "Ignore",
+            "Complicate"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Alleviate' means make a problem or pain less severe.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-063",
+          "question": "Choose the synonym of 'ambiguous'.",
+          "options": [
+            "Unclear",
+            "Certain",
+            "Brief",
+            "Obvious"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Ambiguous' means open to more than one interpretation or unclear.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-064",
+          "question": "Choose the synonym of 'impartial'.",
+          "options": [
+            "Unbiased",
+            "Hostile",
+            "Careless",
+            "Uncertain"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Impartial' means fair and not favouring one side.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-065",
+          "question": "Choose the synonym of 'scrutinize'.",
+          "options": [
+            "Examine closely",
+            "Avoid",
+            "Praise",
+            "Summarize briefly"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Scrutinize' means inspect or examine carefully.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-066",
+          "question": "Choose the synonym of 'concise'.",
+          "options": [
+            "Brief and clear",
+            "Confusing",
+            "Lengthy",
+            "Unrelated"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Concise' means expressing much in few words.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-067",
+          "question": "Choose the antonym of 'expand'.",
+          "options": [
+            "Enlarge",
+            "Extend",
+            "Contract",
+            "Increase"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Contract' means become smaller, the opposite of 'expand'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-068",
+          "question": "Choose the antonym of 'reluctant'.",
+          "options": [
+            "Unwilling",
+            "Hesitant",
+            "Eager",
+            "Doubtful"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Eager' expresses willingness and enthusiasm, contrasting with 'reluctant'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-069",
+          "question": "Choose the antonym of 'scarce'.",
+          "options": [
+            "Rare",
+            "Limited",
+            "Abundant",
+            "Insufficient"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Abundant' means plentiful.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-070",
+          "question": "Choose the antonym of 'rigid'.",
+          "options": [
+            "Strict",
+            "Inflexible",
+            "Flexible",
+            "Firm"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Flexible' contrasts with 'rigid'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-071",
+          "question": "Choose the antonym of 'conventional'.",
+          "options": [
+            "Traditional",
+            "Ordinary",
+            "Unusual",
+            "Customary"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Unusual' contrasts with conventional or customary.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-072",
+          "question": "What does 'break the ice' mean?",
+          "options": [
+            "Make people feel more comfortable in a social situation",
+            "End a friendship",
+            "Break a frozen object",
+            "Cancel a meeting"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means ease initial awkwardness and start interaction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-073",
+          "question": "What does 'once in a blue moon' mean?",
+          "options": [
+            "Very rarely",
+            "Every evening",
+            "At the right moment",
+            "Unexpectedly soon"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means something happens very infrequently.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-074",
+          "question": "What does 'on the same page' mean?",
+          "options": [
+            "In agreement or sharing an understanding",
+            "Reading the same book silently",
+            "Working in different places",
+            "Disagreeing strongly"
+          ],
+          "correctIndex": 0,
+          "explanation": "The expression means having a shared understanding.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-075",
+          "question": "What does 'hit the nail on the head' mean?",
+          "options": [
+            "Describe or identify something exactly",
+            "Make a careless mistake",
+            "Avoid a difficult issue",
+            "Work with tools"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means say or do exactly the right thing.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-076",
+          "question": "What does 'under the weather' mean?",
+          "options": [
+            "Feeling unwell",
+            "Being outdoors",
+            "Feeling very excited",
+            "Working late"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means feeling ill or below one's usual health.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-077",
+          "question": "Which sentence uses a semicolon correctly?",
+          "options": [
+            "I wanted to go; however, it was too late.",
+            "I wanted; to go however it was too late.",
+            "I wanted to; go it was too late.",
+            "I wanted to go however; it was too late."
+          ],
+          "correctIndex": 0,
+          "explanation": "A semicolon can join closely related independent clauses; 'however' is followed by a comma.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-078",
+          "question": "Which punctuation mark usually introduces a list after a complete clause?",
+          "options": [
+            "Colon",
+            "Apostrophe",
+            "Hyphen",
+            "Question mark"
+          ],
+          "correctIndex": 0,
+          "explanation": "A colon can introduce a list after an independent clause.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-079",
+          "question": "Which sentence uses an apostrophe correctly for possession?",
+          "options": [
+            "The teachers lounge is open.",
+            "The teacher's lounge is open.",
+            "The teachers' lounge's is open.",
+            "The teachers lounge's are open."
+          ],
+          "correctIndex": 1,
+          "explanation": "The singular possessive 'teacher's' marks the lounge belonging to one teacher.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-080",
+          "question": "Which sentence uses commas correctly for a nonessential clause?",
+          "options": [
+            "My brother, who lives in Delhi, is visiting.",
+            "My brother who, lives in Delhi is visiting.",
+            "My brother who lives, in Delhi is visiting.",
+            "My brother who lives in Delhi, is visiting."
+          ],
+          "correctIndex": 0,
+          "explanation": "A nonessential relative clause is enclosed by commas.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-081",
+          "question": "Which is a complex sentence?",
+          "options": [
+            "Although it was late, we continued working.",
+            "The bell rang, and the pupils left.",
+            "The pupils left.",
+            "The bell rang; the pupils left."
+          ],
+          "correctIndex": 0,
+          "explanation": "A complex sentence contains an independent clause and a subordinate clause.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-082",
+          "question": "Which is a compound sentence?",
+          "options": [
+            "The bell rang, and the pupils left.",
+            "When the bell rang, the pupils left.",
+            "The ringing bell startled them.",
+            "The pupils left quietly."
+          ],
+          "correctIndex": 0,
+          "explanation": "A compound sentence joins two independent clauses.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-083",
+          "question": "Which sentence contains a noun clause?",
+          "options": [
+            "I believe that she is honest.",
+            "The honest student smiled.",
+            "The student who won smiled.",
+            "She smiled honestly."
+          ],
+          "correctIndex": 0,
+          "explanation": "'That she is honest' functions as the object of 'believe'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-084",
+          "question": "Which sentence contains an adjective clause?",
+          "options": [
+            "The book that you lent me is useful.",
+            "I know that you are kind.",
+            "She sings beautifully.",
+            "Because it rained, we stayed."
+          ],
+          "correctIndex": 0,
+          "explanation": "'That you lent me' modifies the noun 'book'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-085",
+          "question": "Which sentence contains an adverb clause of reason?",
+          "options": [
+            "We stayed inside because it was raining.",
+            "The boy who ran won.",
+            "I know what she wants.",
+            "The red bag is mine."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Because it was raining' gives the reason for staying inside.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-086",
+          "question": "Which sentence uses parallel structure?",
+          "options": [
+            "She enjoys reading, writing and painting.",
+            "She enjoys reading, to write and painting.",
+            "She enjoys to read, writing and to paint.",
+            "She enjoys read, writes and painting."
+          ],
+          "correctIndex": 0,
+          "explanation": "The three activities are expressed in parallel gerund forms.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-087",
+          "question": "Which is an example of a dangling modifier?",
+          "options": [
+            "Walking to school, the rain began to fall.",
+            "Walking to school, I saw a rainbow.",
+            "After lunch, we returned to class.",
+            "When the bell rang, they left."
+          ],
+          "correctIndex": 0,
+          "explanation": "The opening phrase incorrectly appears to modify 'the rain', which cannot walk.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-088",
+          "question": "Which revision removes the ambiguity in 'I saw the man with a telescope' if the telescope was used by the observer?",
+          "options": [
+            "Using a telescope, I saw the man.",
+            "I saw the man who had a telescope.",
+            "The man saw me with a telescope.",
+            "I saw with the man a telescope."
+          ],
+          "correctIndex": 0,
+          "explanation": "The revised sentence clearly attaches the telescope to the observer's action.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-089",
+          "question": "Which reading technique is most useful for identifying the writer's overall argument quickly?",
+          "options": [
+            "Skimming headings, topic sentences and conclusion",
+            "Scanning for a single date",
+            "Reading each word aloud several times",
+            "Copying the text before reading"
+          ],
+          "correctIndex": 0,
+          "explanation": "Skimming selected text features helps identify the overall argument efficiently.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-090",
+          "question": "Which task best checks literal comprehension?",
+          "options": [
+            "Identify the place explicitly named in the passage",
+            "Explain an unstated motive using clues",
+            "Judge whether the argument is convincing",
+            "Suggest a different ending"
+          ],
+          "correctIndex": 0,
+          "explanation": "Literal comprehension retrieves information directly stated in the text.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-091",
+          "question": "Which task best checks evaluative comprehension?",
+          "options": [
+            "Judge the strength of the author's evidence and justify the judgment",
+            "Copy a sentence exactly",
+            "Locate a named character",
+            "Count the paragraphs"
+          ],
+          "correctIndex": 0,
+          "explanation": "Evaluative comprehension involves judging the quality or credibility of ideas and evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-092",
+          "question": "Which question encourages prediction while reading?",
+          "options": [
+            "Based on the clues so far, what might happen next?",
+            "What is the final word on the page?",
+            "How many characters are named?",
+            "Which word is underlined?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Prediction uses current textual clues to anticipate later events or ideas.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-093",
+          "question": "Which activity helps learners infer a character's feelings?",
+          "options": [
+            "Use the character's words and actions as evidence for an interpretation",
+            "Count how many times the character appears",
+            "Copy the character's name",
+            "Identify the chapter number"
+          ],
+          "correctIndex": 0,
+          "explanation": "Feelings may be inferred from textual evidence such as words and actions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-094",
+          "question": "Which is a suitable pre-listening prediction task?",
+          "options": [
+            "Use the title and a picture to anticipate the topic and likely vocabulary",
+            "Write a summary before hearing anything",
+            "Answer detailed questions about the recording without clues",
+            "Copy the transcript before listening"
+          ],
+          "correctIndex": 0,
+          "explanation": "Titles and visuals can activate expectations before listening.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-095",
+          "question": "Which task assesses listening for gist?",
+          "options": [
+            "Choose the best summary of the recording's main message",
+            "Write every word verbatim",
+            "Identify one phoneme in isolation",
+            "Count the speakers' pauses"
+          ],
+          "correctIndex": 0,
+          "explanation": "Listening for gist focuses on the overall meaning rather than every detail.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-096",
+          "question": "Which task assesses listening for specific information?",
+          "options": [
+            "Record the departure time stated in an announcement",
+            "Describe the speaker's overall mood only",
+            "Discuss the topic without listening",
+            "Read a related article silently"
+          ],
+          "correctIndex": 0,
+          "explanation": "Specific-information listening targets a particular fact such as a time.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-097",
+          "question": "Which activity supports speaking fluency?",
+          "options": [
+            "Give learners time to complete a meaning-focused discussion without constant interruption",
+            "Stop after every word to correct form",
+            "Require silent written answers only",
+            "Ask learners to memorize grammar labels"
+          ],
+          "correctIndex": 0,
+          "explanation": "Fluency practice prioritizes sustained communication; correction can be provided selectively.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-098",
+          "question": "Which activity focuses more directly on speaking accuracy?",
+          "options": [
+            "Practise a target structure with guided prompts and focused feedback",
+            "Hold an uninterrupted free discussion with no language focus",
+            "Listen to a story silently",
+            "Read a novel for pleasure"
+          ],
+          "correctIndex": 0,
+          "explanation": "Guided practice and targeted feedback direct attention to accurate language forms.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-099",
+          "question": "Which strategy can help a speaker organize an impromptu response?",
+          "options": [
+            "Use a simple point-reason-example structure",
+            "Repeat the question without answering",
+            "List unrelated vocabulary",
+            "Avoid giving a conclusion"
+          ],
+          "correctIndex": 0,
+          "explanation": "A point, reason and example provide a clear structure for a short response.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-003-100",
+          "question": "Which feature makes a presentation easier to follow?",
+          "options": [
+            "A clear opening, logically ordered points and a concise conclusion",
+            "Many unrelated points without transitions",
+            "Reading tiny text from slides throughout",
+            "Changing the topic without signaling"
+          ],
+          "correctIndex": 0,
+          "explanation": "A recognizable structure and logical sequencing support audience comprehension.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

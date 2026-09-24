@@ -1,0 +1,1314 @@
+{
+  "track": "maths",
+  "testId": "physical-science-content-batch-03",
+  "title": "AP Special TET Physical Science — Content & Pedagogy Batch 03",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "physical-science-content-03",
+      "title": "Physical Science Content and Pedagogy",
+      "questions": [
+        {
+          "id": "physical-science-content-003-001",
+          "question": "The SI unit of electric potential difference is:",
+          "options": [
+            "Ampere",
+            "Volt",
+            "Ohm",
+            "Coulomb"
+          ],
+          "correctIndex": 1,
+          "explanation": "Potential difference is measured in volts (V).",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-002",
+          "question": "A 9 V battery is connected across a 3 Ω resistor. Current is:",
+          "options": [
+            "2 A",
+            "3 A",
+            "6 A",
+            "27 A"
+          ],
+          "correctIndex": 1,
+          "explanation": "Using I = V/R, current = 9/3 = 3 A.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-003",
+          "question": "Three resistors of 2 Ω, 3 Ω and 5 Ω are in series. Equivalent resistance is:",
+          "options": [
+            "1 Ω",
+            "5 Ω",
+            "10 Ω",
+            "30 Ω"
+          ],
+          "correctIndex": 2,
+          "explanation": "Series resistances add: 2 + 3 + 5 = 10 Ω.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-004",
+          "question": "Two 4 Ω resistors are connected in parallel. Their equivalent resistance is:",
+          "options": [
+            "2 Ω",
+            "4 Ω",
+            "8 Ω",
+            "16 Ω"
+          ],
+          "correctIndex": 0,
+          "explanation": "For two equal resistors in parallel, R_eq = R/2 = 2 Ω.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-005",
+          "question": "Which component stores electric charge in an electric field?",
+          "options": [
+            "Capacitor",
+            "Fuse",
+            "Ammeter",
+            "Switch"
+          ],
+          "correctIndex": 0,
+          "explanation": "A capacitor stores charge and energy in an electric field.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-006",
+          "question": "An electric fuse should be connected:",
+          "options": [
+            "In parallel with the appliance",
+            "In series with the circuit",
+            "Across the cell terminals directly",
+            "Only to earth"
+          ],
+          "correctIndex": 1,
+          "explanation": "A series fuse interrupts the circuit when excessive current flows.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-007",
+          "question": "The commercial unit of electrical energy is:",
+          "options": [
+            "Watt",
+            "Kilowatt-hour",
+            "Volt-ampere",
+            "Coulomb"
+          ],
+          "correctIndex": 1,
+          "explanation": "Electrical energy consumption is commonly billed in kilowatt-hours.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-008",
+          "question": "A 500 W appliance runs for 4 hours. Energy consumed is:",
+          "options": [
+            "0.5 kWh",
+            "1 kWh",
+            "2 kWh",
+            "4 kWh"
+          ],
+          "correctIndex": 2,
+          "explanation": "0.5 kW × 4 h = 2 kWh.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-009",
+          "question": "A current of 2 A flows for 5 seconds. Charge transferred is:",
+          "options": [
+            "2.5 C",
+            "7 C",
+            "10 C",
+            "25 C"
+          ],
+          "correctIndex": 2,
+          "explanation": "Q = It = 2 × 5 = 10 C.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-010",
+          "question": "The resistance of an ideal ammeter is:",
+          "options": [
+            "Very high",
+            "Very low",
+            "Infinite",
+            "Equal to the load"
+          ],
+          "correctIndex": 1,
+          "explanation": "An ammeter is designed with very low resistance to minimize circuit disturbance.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-011",
+          "question": "A voltmeter is connected:",
+          "options": [
+            "In series",
+            "In parallel",
+            "Only to earth",
+            "In place of the source"
+          ],
+          "correctIndex": 1,
+          "explanation": "A voltmeter measures potential difference across a component, so it is connected in parallel.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-012",
+          "question": "The magnetic field inside a long current-carrying solenoid is approximately:",
+          "options": [
+            "Uniform",
+            "Zero everywhere",
+            "Circular around each turn only",
+            "Random"
+          ],
+          "correctIndex": 0,
+          "explanation": "A long solenoid produces an approximately uniform field inside.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-013",
+          "question": "The strength of an electromagnet can be increased by:",
+          "options": [
+            "Reducing coil turns",
+            "Increasing current through the coil",
+            "Removing its core in every case",
+            "Using a plastic core"
+          ],
+          "correctIndex": 1,
+          "explanation": "Increasing current generally strengthens the magnetic field of the coil.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-014",
+          "question": "Electromagnetic induction occurs when:",
+          "options": [
+            "Magnetic flux linked with a circuit changes",
+            "A resistor is painted",
+            "A wire is motionless in an unchanging field",
+            "A cell is disconnected from all conductors"
+          ],
+          "correctIndex": 0,
+          "explanation": "A changing magnetic flux can induce an emf in a circuit.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-015",
+          "question": "The frequency of AC mains in India is:",
+          "options": [
+            "25 Hz",
+            "50 Hz",
+            "60 Hz",
+            "100 Hz"
+          ],
+          "correctIndex": 1,
+          "explanation": "The standard mains frequency in India is 50 Hz.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-016",
+          "question": "A step-up transformer has:",
+          "options": [
+            "More turns in the secondary than primary",
+            "Fewer turns in the secondary than primary",
+            "Equal turns always",
+            "No secondary winding"
+          ],
+          "correctIndex": 0,
+          "explanation": "A step-up transformer increases voltage with a greater secondary turns count.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-017",
+          "question": "A transformer cannot operate with steady DC because:",
+          "options": [
+            "DC has no voltage",
+            "There is no continuously changing magnetic flux after the transient",
+            "Copper cannot conduct DC",
+            "DC always has infinite frequency"
+          ],
+          "correctIndex": 1,
+          "explanation": "A transformer requires changing magnetic flux to induce secondary emf.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-018",
+          "question": "Which electromagnetic wave has the highest frequency among these?",
+          "options": [
+            "Radio waves",
+            "Microwaves",
+            "Visible light",
+            "Gamma rays"
+          ],
+          "correctIndex": 3,
+          "explanation": "Gamma rays occupy the high-frequency end of the electromagnetic spectrum.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-019",
+          "question": "Which electromagnetic radiation is commonly used in medical imaging of bones?",
+          "options": [
+            "Infrared",
+            "X-rays",
+            "Radio waves",
+            "Microwaves"
+          ],
+          "correctIndex": 1,
+          "explanation": "X-rays can pass through soft tissue more readily than bone, producing contrast.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-020",
+          "question": "Infrared radiation is strongly associated with:",
+          "options": [
+            "Thermal emission",
+            "Nuclear charge only",
+            "Sound propagation",
+            "Electric current in vacuum only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Warm objects emit infrared radiation as part of their thermal radiation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-021",
+          "question": "A concave lens generally forms an image that is:",
+          "options": [
+            "Virtual, erect and diminished for a real object",
+            "Real, inverted and enlarged always",
+            "Real and erect always",
+            "Virtual and enlarged always"
+          ],
+          "correctIndex": 0,
+          "explanation": "A concave lens diverges rays and usually forms a virtual, erect, diminished image.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-022",
+          "question": "An object placed at 2F of a convex lens forms an image:",
+          "options": [
+            "At F, diminished",
+            "At 2F, same size and inverted",
+            "At infinity",
+            "Between lens and F, erect"
+          ],
+          "correctIndex": 1,
+          "explanation": "For an object at twice the focal length, the image forms at 2F, real, inverted and equal in size.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-023",
+          "question": "The focal length of a lens is related to its power by:",
+          "options": [
+            "P = f in metres",
+            "P = 1/f in metres",
+            "P = f²",
+            "P = 100f"
+          ],
+          "correctIndex": 1,
+          "explanation": "Lens power in dioptres is the reciprocal of focal length in metres.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-024",
+          "question": "A lens of focal length +0.5 m has power:",
+          "options": [
+            "−2 D",
+            "−0.5 D",
+            "+0.5 D",
+            "+2 D"
+          ],
+          "correctIndex": 3,
+          "explanation": "P = 1/0.5 = +2 dioptres.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-025",
+          "question": "The phenomenon that explains why the sky appears blue is mainly:",
+          "options": [
+            "Rayleigh scattering",
+            "Total internal reflection",
+            "Polarization by mirrors",
+            "Diffraction by clouds only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Shorter visible wavelengths are scattered more strongly by air molecules.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-026",
+          "question": "A mirage on a hot road is associated with:",
+          "options": [
+            "Refraction through layers of air and total internal reflection effects",
+            "Only sound reflection",
+            "Magnetic induction",
+            "Conduction through asphalt"
+          ],
+          "correctIndex": 0,
+          "explanation": "Temperature-dependent refractive-index gradients can bend light and create mirage images.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-027",
+          "question": "A real image can be:",
+          "options": [
+            "Projected on a screen",
+            "Seen only in a plane mirror",
+            "Formed only by a concave lens",
+            "Always erect"
+          ],
+          "correctIndex": 0,
+          "explanation": "A real image is formed by actual convergence of rays and can be projected onto a screen.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-028",
+          "question": "The normal to a surface at the point of incidence is:",
+          "options": [
+            "A line perpendicular to the surface",
+            "A line parallel to the surface",
+            "The reflected ray",
+            "The incident ray"
+          ],
+          "correctIndex": 0,
+          "explanation": "The normal is defined as perpendicular to the surface at the incidence point.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-029",
+          "question": "If the angle between incident and reflected rays is 80° for a plane mirror, angle of incidence is:",
+          "options": [
+            "20°",
+            "40°",
+            "80°",
+            "160°"
+          ],
+          "correctIndex": 1,
+          "explanation": "The two rays make equal angles with the normal, so their separation is twice incidence: 40°.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-030",
+          "question": "The speed of sound in air generally increases when:",
+          "options": [
+            "Air temperature rises",
+            "Air pressure is reduced at constant temperature and density effects ignored",
+            "Frequency decreases always",
+            "Amplitude becomes zero"
+          ],
+          "correctIndex": 0,
+          "explanation": "In air, sound speed increases with temperature.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-031",
+          "question": "A sound wave in air is:",
+          "options": [
+            "Longitudinal",
+            "Transverse only",
+            "Electromagnetic",
+            "Stationary in all cases"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sound in air propagates as compressions and rarefactions, a longitudinal wave.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-032",
+          "question": "The audible frequency range for a typical young human is approximately:",
+          "options": [
+            "2–200 Hz",
+            "20 Hz–20 kHz",
+            "200 Hz–200 kHz",
+            "2 kHz–2 MHz"
+          ],
+          "correctIndex": 1,
+          "explanation": "The commonly quoted hearing range is about 20 Hz to 20,000 Hz.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-033",
+          "question": "An instrument used to measure sound level is a:",
+          "options": [
+            "Sound level meter",
+            "Galvanometer",
+            "Hydrometer",
+            "Calorimeter"
+          ],
+          "correctIndex": 0,
+          "explanation": "A sound level meter measures sound pressure level, usually in decibels.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-034",
+          "question": "Resonance occurs when a periodic driving frequency is close to the system's:",
+          "options": [
+            "Natural frequency",
+            "Mass only",
+            "Colour frequency",
+            "Mean temperature"
+          ],
+          "correctIndex": 0,
+          "explanation": "Near the natural frequency, oscillation amplitude can become large.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-035",
+          "question": "A wave has a period of 0.01 s. Its frequency is:",
+          "options": [
+            "10 Hz",
+            "50 Hz",
+            "100 Hz",
+            "1000 Hz"
+          ],
+          "correctIndex": 2,
+          "explanation": "Frequency = 1/T = 1/0.01 = 100 Hz.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-036",
+          "question": "The principle of a simple pendulum for small oscillations gives period proportional to:",
+          "options": [
+            "Length",
+            "Square root of length",
+            "Inverse of mass",
+            "Square of gravity"
+          ],
+          "correctIndex": 1,
+          "explanation": "For small oscillations, T = 2π√(L/g), so T is proportional to √L.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-037",
+          "question": "The amount of heat needed to raise temperature depends on:",
+          "options": [
+            "Mass, specific heat capacity and temperature change",
+            "Colour only",
+            "Shape only",
+            "Pressure only in every case"
+          ],
+          "correctIndex": 0,
+          "explanation": "For no phase change, Q = mcΔT.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-038",
+          "question": "A metal spoon feels colder than a wooden spoon at the same room temperature because metal:",
+          "options": [
+            "Conducts heat away from the hand faster",
+            "Has a lower temperature necessarily",
+            "Contains no particles",
+            "Produces cold energy"
+          ],
+          "correctIndex": 0,
+          "explanation": "Metal's higher thermal conductivity makes heat leave the hand more quickly.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-039",
+          "question": "During boiling at constant pressure, supplied heat mainly:",
+          "options": [
+            "Raises temperature continuously",
+            "Provides latent heat for the phase change",
+            "Reduces all molecular motion",
+            "Changes the substance into an element"
+          ],
+          "correctIndex": 1,
+          "explanation": "At the boiling point, energy is used to convert liquid into vapour.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-040",
+          "question": "The process by which a liquid changes to vapour below its boiling point is:",
+          "options": [
+            "Evaporation",
+            "Freezing",
+            "Deposition",
+            "Condensation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Evaporation occurs at the surface and can happen below boiling temperature.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-041",
+          "question": "Which surface is generally the best emitter and absorber of thermal radiation?",
+          "options": [
+            "Dull black surface",
+            "Polished silver surface",
+            "Transparent glass in all wavelengths",
+            "White polished surface"
+          ],
+          "correctIndex": 0,
+          "explanation": "Dull black surfaces are generally good absorbers and emitters of thermal radiation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-042",
+          "question": "The SI unit of specific heat capacity is:",
+          "options": [
+            "J kg⁻¹ K⁻¹",
+            "J kg K",
+            "W m⁻¹",
+            "N kg⁻¹"
+          ],
+          "correctIndex": 0,
+          "explanation": "Specific heat capacity is energy per unit mass per unit temperature change.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-043",
+          "question": "A bimetallic strip bends on heating because its metals:",
+          "options": [
+            "Expand by different amounts",
+            "Have identical expansion",
+            "Lose all mass",
+            "Become nonconductors"
+          ],
+          "correctIndex": 0,
+          "explanation": "Different coefficients of expansion cause the bonded strip to curve.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-044",
+          "question": "Which change is endothermic?",
+          "options": [
+            "Freezing water",
+            "Condensation",
+            "Melting ice",
+            "Combustion of methane"
+          ],
+          "correctIndex": 2,
+          "explanation": "Melting requires energy input to overcome intermolecular attractions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-045",
+          "question": "The chemical symbol for potassium is:",
+          "options": [
+            "P",
+            "Po",
+            "K",
+            "Pt"
+          ],
+          "correctIndex": 2,
+          "explanation": "Potassium's symbol K comes from its Latin name, kalium.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-046",
+          "question": "The valency of oxygen in water is commonly:",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correctIndex": 1,
+          "explanation": "Oxygen typically forms two bonds in water and has valency 2 in this context.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-047",
+          "question": "A neutral atom has equal numbers of:",
+          "options": [
+            "Protons and electrons",
+            "Protons and neutrons always",
+            "Neutrons and electrons always",
+            "Nucleons and electrons"
+          ],
+          "correctIndex": 0,
+          "explanation": "Equal proton and electron counts give zero net charge.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-048",
+          "question": "Which particle has a negative charge?",
+          "options": [
+            "Proton",
+            "Neutron",
+            "Electron",
+            "Alpha particle"
+          ],
+          "correctIndex": 2,
+          "explanation": "An electron carries negative elementary charge.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-049",
+          "question": "The mass number of an atom is the total number of:",
+          "options": [
+            "Protons and neutrons",
+            "Electrons and protons",
+            "Electrons and neutrons",
+            "Electron shells"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mass number is the sum of protons and neutrons in the nucleus.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-050",
+          "question": "A covalent bond is formed mainly by:",
+          "options": [
+            "Sharing electron pairs",
+            "Transfer of neutrons",
+            "Sharing protons between nuclei",
+            "Magnetic attraction only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Covalent bonding involves sharing one or more pairs of electrons.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-051",
+          "question": "An ionic bond is primarily the electrostatic attraction between:",
+          "options": [
+            "Oppositely charged ions",
+            "Two neutral gases",
+            "Two neutrons",
+            "Identical isotopes only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ionic bonding arises from attraction between cations and anions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-052",
+          "question": "Which solution conducts electricity well?",
+          "options": [
+            "Pure distilled water",
+            "Aqueous sodium chloride",
+            "Sugar solution without ions",
+            "Ethanol"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dissolved sodium chloride forms mobile ions that carry charge.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-053",
+          "question": "A solution is saturated at a given temperature when it:",
+          "options": [
+            "Contains the maximum dissolved solute at equilibrium",
+            "Contains no solvent",
+            "Must be dilute",
+            "Always has a pH of 7"
+          ],
+          "correctIndex": 0,
+          "explanation": "A saturated solution holds the maximum amount of solute under the specified conditions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-054",
+          "question": "The process of a solid forming from a solution as crystals is:",
+          "options": [
+            "Crystallization",
+            "Combustion",
+            "Neutralization",
+            "Electroplating"
+          ],
+          "correctIndex": 0,
+          "explanation": "Crystallization obtains a solid in crystal form from a solution or melt.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-055",
+          "question": "Which metal is liquid near room temperature?",
+          "options": [
+            "Iron",
+            "Mercury",
+            "Copper",
+            "Zinc"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mercury is liquid at ordinary room temperature.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-056",
+          "question": "Which metal is commonly stored under kerosene to limit reaction with air and moisture?",
+          "options": [
+            "Sodium",
+            "Copper",
+            "Gold",
+            "Silver"
+          ],
+          "correctIndex": 0,
+          "explanation": "Highly reactive sodium is stored under kerosene or a suitable protective liquid.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-057",
+          "question": "The major ore of aluminium is:",
+          "options": [
+            "Bauxite",
+            "Haematite",
+            "Galena",
+            "Cinnabar"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bauxite is the principal commercial ore of aluminium.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-058",
+          "question": "Galvanization protects iron by coating it with:",
+          "options": [
+            "Zinc",
+            "Tin only",
+            "Copper",
+            "Carbon"
+          ],
+          "correctIndex": 0,
+          "explanation": "A zinc coating protects iron from corrosion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-059",
+          "question": "The gas evolved at the cathode during electrolysis of acidified water is:",
+          "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Nitrogen",
+            "Chlorine"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hydrogen is produced at the cathode; oxygen forms at the anode.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-060",
+          "question": "The electrolyte in a lead-acid car battery contains:",
+          "options": [
+            "Sulphuric acid solution",
+            "Sodium chloride solution",
+            "Pure ethanol",
+            "Limewater"
+          ],
+          "correctIndex": 0,
+          "explanation": "A lead-acid battery uses aqueous sulphuric acid as its electrolyte.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-061",
+          "question": "Which is a strong acid among these?",
+          "options": [
+            "Hydrochloric acid",
+            "Carbonic acid",
+            "Ethanoic acid",
+            "Citric acid"
+          ],
+          "correctIndex": 0,
+          "explanation": "Hydrochloric acid ionizes essentially completely in dilute aqueous solution.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-062",
+          "question": "A base that dissolves in water is called an:",
+          "options": [
+            "Alkali",
+            "Alloy",
+            "Oxide only",
+            "Indicator"
+          ],
+          "correctIndex": 0,
+          "explanation": "An alkali is a water-soluble base.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-063",
+          "question": "The reaction between zinc and dilute hydrochloric acid produces:",
+          "options": [
+            "Zinc chloride and hydrogen",
+            "Zinc oxide and oxygen",
+            "Zinc hydroxide and nitrogen",
+            "Zinc carbonate and water"
+          ],
+          "correctIndex": 0,
+          "explanation": "Zn + 2HCl → ZnCl₂ + H₂.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-064",
+          "question": "Which gas is a common product of thermal decomposition of calcium carbonate?",
+          "options": [
+            "Carbon dioxide",
+            "Hydrogen",
+            "Ammonia",
+            "Ozone"
+          ],
+          "correctIndex": 0,
+          "explanation": "CaCO₃ decomposes on heating to calcium oxide and carbon dioxide.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-065",
+          "question": "The formula of washing soda is commonly written as:",
+          "options": [
+            "Na₂CO₃·10H₂O",
+            "NaHCO₃",
+            "NaCl",
+            "CaSO₄·2H₂O"
+          ],
+          "correctIndex": 0,
+          "explanation": "Washing soda is hydrated sodium carbonate, usually Na₂CO₃·10H₂O.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-066",
+          "question": "The formula of plaster of Paris is:",
+          "options": [
+            "CaSO₄·½H₂O",
+            "CaCO₃",
+            "CaO",
+            "Ca(OH)₂"
+          ],
+          "correctIndex": 0,
+          "explanation": "Plaster of Paris is calcium sulphate hemihydrate.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-067",
+          "question": "Which process is used to obtain oxygen and nitrogen from air industrially?",
+          "options": [
+            "Fractional distillation of liquid air",
+            "Filtration",
+            "Hand sorting",
+            "Crystallization of seawater"
+          ],
+          "correctIndex": 0,
+          "explanation": "Air is liquefied and separated into components by fractional distillation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-068",
+          "question": "The main constituent of biogas is:",
+          "options": [
+            "Methane",
+            "Oxygen",
+            "Hydrogen chloride",
+            "Sulphur trioxide"
+          ],
+          "correctIndex": 0,
+          "explanation": "Biogas is methane-rich, with carbon dioxide and other gases also present.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-069",
+          "question": "Which fuel is often described as a cleaner fossil fuel because it emits less particulate matter and sulphur dioxide than coal when burned?",
+          "options": [
+            "Natural gas",
+            "Coal",
+            "Wood",
+            "Peat"
+          ],
+          "correctIndex": 0,
+          "explanation": "Natural gas generally burns with fewer particulates and less SO₂ than coal, though it still emits CO₂.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-070",
+          "question": "The conversion of atmospheric nitrogen into usable nitrogen compounds by certain microbes is:",
+          "options": [
+            "Nitrogen fixation",
+            "Denitrification only",
+            "Evaporation",
+            "Ozonation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Nitrogen-fixing microorganisms convert N₂ into biologically usable nitrogen compounds.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-071",
+          "question": "Which pollutant is strongly associated with acid rain formation?",
+          "options": [
+            "Sulphur dioxide",
+            "Helium",
+            "Argon",
+            "Hydrogen"
+          ],
+          "correctIndex": 0,
+          "explanation": "SO₂ and nitrogen oxides can form acids in the atmosphere.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-072",
+          "question": "The ozone layer is located mainly in the:",
+          "options": [
+            "Stratosphere",
+            "Troposphere only",
+            "Mesosphere",
+            "Exosphere"
+          ],
+          "correctIndex": 0,
+          "explanation": "Most atmospheric ozone is concentrated in the stratosphere.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-073",
+          "question": "Which action directly helps reduce household electricity use?",
+          "options": [
+            "Use efficient appliances and switch off unused devices",
+            "Keep lights on in empty rooms",
+            "Use damaged wiring",
+            "Run appliances unnecessarily"
+          ],
+          "correctIndex": 0,
+          "explanation": "Efficient devices and avoiding unnecessary use reduce electricity consumption.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-074",
+          "question": "A teacher wants to introduce the idea of inertia. Which demonstration is most suitable?",
+          "options": [
+            "Quickly pull a card from under a coin and observe the coin's motion",
+            "Dissolve salt in water",
+            "Shine light through a prism",
+            "Measure the pH of lemon juice"
+          ],
+          "correctIndex": 0,
+          "explanation": "The coin tends to remain at rest as the card is pulled rapidly.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-075",
+          "question": "When teaching pressure, a useful comparison is to press a blunt and sharp object with:",
+          "options": [
+            "Similar force and compare the contact area and effect",
+            "Different forces without recording them",
+            "No contact at all",
+            "Only compare their colours"
+          ],
+          "correctIndex": 0,
+          "explanation": "Holding force approximately constant helps illustrate how area affects pressure.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-076",
+          "question": "Which prompt most directly checks whether students understand the difference between mass and weight?",
+          "options": [
+            "How would the same object’s mass and weight compare on Earth and the Moon, and why?",
+            "What is the object's colour?",
+            "How many letters are in ‘weight’?",
+            "Copy the formula without explanation"
+          ],
+          "correctIndex": 0,
+          "explanation": "The question asks learners to apply the distinction between intrinsic mass and gravitational force.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-077",
+          "question": "In a practical investigation, why should students record observations promptly?",
+          "options": [
+            "To reduce reliance on memory and preserve a clear evidence record",
+            "To make the result match the prediction",
+            "To avoid measuring carefully",
+            "To replace analysis"
+          ],
+          "correctIndex": 0,
+          "explanation": "Prompt records help maintain accuracy and traceability of observations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-078",
+          "question": "Which teacher question encourages evidence-based explanation?",
+          "options": [
+            "Which observation supports your conclusion?",
+            "Can you repeat the sentence exactly?",
+            "Who finished first?",
+            "What is your favourite colour?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Asking for supporting observations connects claims to evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-079",
+          "question": "A student says that a heavier object must have greater density. The teacher should guide them to compare:",
+          "options": [
+            "Mass and volume together for each object",
+            "Mass only",
+            "Colour and shape only",
+            "Weight and temperature only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Density depends on the ratio of mass to volume, not mass alone.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-080",
+          "question": "A class compares insulation materials. The dependent variable might be:",
+          "options": [
+            "The measured temperature change over a fixed interval",
+            "The type of material deliberately selected",
+            "The container type kept unchanged",
+            "The starting temperature held constant"
+          ],
+          "correctIndex": 0,
+          "explanation": "Temperature change is the measured outcome; material type is the manipulated factor.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-081",
+          "question": "Which classroom assessment is best for checking safe laboratory technique?",
+          "options": [
+            "A practical observation checklist during an activity",
+            "A spelling test only",
+            "A final score with no observation",
+            "A worksheet on unrelated topics"
+          ],
+          "correctIndex": 0,
+          "explanation": "A checklist can document whether learners demonstrate safe procedures.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-082",
+          "question": "A teacher uses a simulation to teach atomic structure. Learners should also be reminded that:",
+          "options": [
+            "The simulation is a simplified representation of atoms",
+            "The colours and sizes shown must be literal",
+            "The model needs no assumptions",
+            "A simulation replaces all evidence"
+          ],
+          "correctIndex": 0,
+          "explanation": "Models simplify reality and should be interpreted with their limitations in mind.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-083",
+          "question": "Which activity is most appropriate for developing science process skills?",
+          "options": [
+            "Plan a test, identify variables, take measurements and interpret results",
+            "Copy the textbook chapter",
+            "Memorize the experiment conclusion only",
+            "Skip data recording"
+          ],
+          "correctIndex": 0,
+          "explanation": "The task exercises planning, variable control, measurement and interpretation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-084",
+          "question": "When a learner's result differs from the class pattern, the teacher should:",
+          "options": [
+            "Check the procedure and data with the learner before drawing conclusions",
+            "Automatically discard the result",
+            "Tell the learner to alter the numbers",
+            "Assume the learner is incapable"
+          ],
+          "correctIndex": 0,
+          "explanation": "Checking method and records first supports fair, evidence-based evaluation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-085",
+          "question": "A learner can state Ohm's law but cannot use it in a circuit problem. The teacher should provide:",
+          "options": [
+            "Guided practice interpreting voltage, current and resistance in varied circuits",
+            "More copying of the sentence only",
+            "An unrelated biology assignment",
+            "Only speed drills"
+          ],
+          "correctIndex": 0,
+          "explanation": "Application practice connects the relationship to quantities and circuit contexts.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-086",
+          "question": "Which strategy supports learners with different language proficiencies in science?",
+          "options": [
+            "Use labelled visuals, vocabulary supports and opportunities to explain ideas in varied ways",
+            "Exclude learners from discussion",
+            "Use unexplained technical terms only",
+            "Assess language accent rather than science understanding"
+          ],
+          "correctIndex": 0,
+          "explanation": "Visual and language scaffolds can make scientific concepts more accessible.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-087",
+          "question": "Why should a teacher ask students to critique a scientific claim found online?",
+          "options": [
+            "To practise checking evidence, reasoning and source credibility",
+            "To teach that every online claim is true",
+            "To avoid discussing evidence",
+            "To reward popularity"
+          ],
+          "correctIndex": 0,
+          "explanation": "Evaluating claims and sources is part of scientific literacy.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-088",
+          "question": "A student draws a graph with axes but no units. The teacher should explain that units:",
+          "options": [
+            "Clarify the scale and meaning of the measured quantities",
+            "Are never needed",
+            "Replace axis labels",
+            "Make every graph linear"
+          ],
+          "correctIndex": 0,
+          "explanation": "Units are necessary for interpreting numerical measurements correctly.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-089",
+          "question": "Which is a sound reason to use local examples when teaching energy resources?",
+          "options": [
+            "They help connect scientific ideas to learners' lived context and decisions",
+            "They prove local practice is always scientifically correct",
+            "They remove the need for evidence",
+            "They make energy conservation irrelevant"
+          ],
+          "correctIndex": 0,
+          "explanation": "Local examples can contextualize concepts while still requiring evidence and analysis.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-090",
+          "question": "A teacher asks students to compare the advantages and limitations of solar and wind energy. This mainly develops:",
+          "options": [
+            "Evaluation and reasoned comparison",
+            "Only recall of spellings",
+            "Laboratory measurement of pH",
+            "Unrelated motor skills"
+          ],
+          "correctIndex": 0,
+          "explanation": "Comparing trade-offs requires using criteria and supporting judgments with reasons.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-091",
+          "question": "Which action demonstrates responsible scientific data handling?",
+          "options": [
+            "Record measurements honestly, including unexpected results",
+            "Change values to fit a predicted outcome",
+            "Hide failed trials",
+            "Report only convenient evidence"
+          ],
+          "correctIndex": 0,
+          "explanation": "Honest recording preserves the integrity of scientific investigation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-092",
+          "question": "A teacher notices repeated confusion between current and voltage. A useful response is to:",
+          "options": [
+            "Use a circuit model and measurements to contrast charge flow with potential difference",
+            "Treat the terms as synonyms",
+            "Avoid using circuits",
+            "Ask students to memorize both words without meaning"
+          ],
+          "correctIndex": 0,
+          "explanation": "Models and measurements can clarify that current and voltage represent different quantities.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-093",
+          "question": "Which learning objective is most observable and assessable?",
+          "options": [
+            "Students will appreciate magnetism",
+            "Students will draw a labelled field pattern around a bar magnet and describe it",
+            "Students will know science deeply",
+            "Students will become interested"
+          ],
+          "correctIndex": 1,
+          "explanation": "The objective specifies visible work and an explanation that can be assessed.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-094",
+          "question": "A teacher invites students to propose more than one method for separating a mixture. This encourages:",
+          "options": [
+            "Flexible problem solving and justification of method choice",
+            "Guessing without reasons",
+            "Avoidance of material properties",
+            "Memorization alone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Considering alternatives and justifying choices develops reasoning about properties.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-095",
+          "question": "Which prompt best supports reflection after a practical task?",
+          "options": [
+            "What would you change next time, and what evidence leads you to that choice?",
+            "Did you finish before everyone?",
+            "What colour was the worksheet?",
+            "Can you copy the aim again?"
+          ],
+          "correctIndex": 0,
+          "explanation": "The prompt asks learners to use experience and evidence to plan improvement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-096",
+          "question": "A student concludes that a plant grew taller because of fertilizer after testing only one plant. The teacher should point out the need for:",
+          "options": [
+            "More observations and a suitable comparison/control",
+            "A more colourful chart",
+            "No further evidence",
+            "Changing the recorded height"
+          ],
+          "correctIndex": 0,
+          "explanation": "A comparison and replication help evaluate alternative explanations and variation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-097",
+          "question": "Which statement best describes science as a way of knowing?",
+          "options": [
+            "Explanations are developed and revised in light of observations and evidence",
+            "All scientific claims are unchangeable",
+            "Authority alone makes a claim true",
+            "Experiments never involve uncertainty"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scientific knowledge is evidence-based and open to refinement as evidence develops.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-098",
+          "question": "A teacher provides immediate feedback during circuit construction. This is an example of:",
+          "options": [
+            "Formative assessment",
+            "Only summative assessment",
+            "Norm-referenced ranking",
+            "A standardized final examination"
+          ],
+          "correctIndex": 0,
+          "explanation": "Feedback during learning helps learners correct and improve performance.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-099",
+          "question": "Which task best assesses learners' ability to communicate a scientific investigation?",
+          "options": [
+            "Present a question, method, data, conclusion and evidence-based limitations",
+            "List chapter titles",
+            "Copy the teacher's notes silently",
+            "Name classroom furniture"
+          ],
+          "correctIndex": 0,
+          "explanation": "A structured report communicates the investigation and its evidential basis.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-003-100",
+          "question": "Which is the best response if an experiment involves a hazardous material unsuitable for learners?",
+          "options": [
+            "Use a safer alternative, teacher demonstration or suitable simulation with risk controls",
+            "Proceed without safety review",
+            "Ask learners to smell it closely",
+            "Allow unsupervised handling"
+          ],
+          "correctIndex": 0,
+          "explanation": "Risk assessment and safer substitutions protect learners while preserving learning goals.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

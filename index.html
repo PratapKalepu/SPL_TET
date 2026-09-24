@@ -1,0 +1,246 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <meta
+    name="description"
+    content="Free AP Special TET 2026 Paper-II practice tests for Mathematics and Telugu."
+  />
+
+  <meta name="theme-color" content="#1359A8" />
+
+  <title>AP TET Practice | Special TET 2026</title>
+
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+
+<body>
+  <div class="app-shell">
+
+    <!-- Header -->
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="AP TET Practice home">
+        <span class="brand-icon">📘</span>
+        <span>
+          <strong>AP TET Practice</strong>
+          <small>Special TET 2026</small>
+        </span>
+      </a>
+
+      <button
+        class="menu-button"
+        id="menuButton"
+        aria-label="Toggle navigation"
+        aria-expanded="false"
+      >
+        ☰
+      </button>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="navigation" id="navigation">
+      <a href="#home" class="nav-link active">Home</a>
+      <a href="#subjects" class="nav-link">Practice Tests</a>
+      <a href="#progress" class="nav-link">My Progress</a>
+      <a href="#about" class="nav-link">About</a>
+    </nav>
+
+    <main>
+      <!-- Home -->
+      <section class="hero section" id="home">
+        <div class="hero-content">
+          <span class="eyebrow">FREE ONLINE PRACTICE</span>
+
+          <h1>
+            AP Special TET
+            <span>In-Service Teachers 2026</span>
+          </h1>
+
+          <p class="hero-description">
+            Practice today. Prepare with confidence.
+            Learn through explanations and improve
+            your performance one test at a time.
+          </p>
+
+          <div class="hero-tags">
+            <span>Paper-II</span>
+            <span>Mathematics</span>
+            <span>Telugu</span>
+            <span>CBT Practice</span>
+          </div>
+
+          <a href="#subjects" class="button button-primary">
+            Start Practicing →
+          </a>
+
+          <p class="hero-note">
+            Designed for mobile phones and low-bandwidth use.
+          </p>
+        </div>
+
+        <div class="hero-art" aria-hidden="true">
+          <div class="hero-art-circle">📚</div>
+          <div class="hero-art-caption">
+            <strong>Practice · Learn · Improve</strong>
+            <span>Every question is a learning opportunity.</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Quick information -->
+      <section class="stats-grid section" aria-label="Practice features">
+        <article class="stat-card">
+          <span class="stat-icon">📝</span>
+          <strong>CBT Style</strong>
+          <span>Multiple-choice practice</span>
+        </article>
+
+        <article class="stat-card">
+          <span class="stat-icon">💡</span>
+          <strong>Explanations</strong>
+          <span>Learn after every answer</span>
+        </article>
+
+        <article class="stat-card">
+          <span class="stat-icon">📊</span>
+          <strong>Score Tracking</strong>
+          <span>Section and final results</span>
+        </article>
+
+        <article class="stat-card">
+          <span class="stat-icon">📱</span>
+          <strong>Mobile First</strong>
+          <span>Practice on your phone</span>
+        </article>
+      </section>
+
+      <!-- Subject selection -->
+      <section class="section" id="subjects">
+        <div class="section-heading">
+          <div>
+            <span class="eyebrow">CHOOSE YOUR SUBJECT</span>
+            <h2>Start your practice</h2>
+            <p>Select the subject you want to prepare for.</p>
+          </div>
+        </div>
+
+        <div class="subject-grid">
+
+          <article class="subject-card maths-card">
+            <div class="subject-icon">➗</div>
+
+            <div class="subject-content">
+              <span class="subject-label">PAPER-II</span>
+              <h3>Mathematics</h3>
+              <p>
+                Practice Mathematics questions with
+                English explanations.
+              </p>
+            </div>
+
+            <button
+              class="button button-primary subject-button"
+              data-track="maths"
+            >
+              Practice Mathematics →
+            </button>
+          </article>
+
+          <article class="subject-card telugu-card">
+            <div class="subject-icon">అ</div>
+
+            <div class="subject-content">
+              <span class="subject-label">PAPER-II</span>
+              <h3>తెలుగు (Telugu)</h3>
+              <p>
+                తెలుగు ప్రశ్నలను అభ్యసించండి.
+                సమాధాన వివరణలు తెలుగులో ఉంటాయి.
+              </p>
+            </div>
+
+            <button
+              class="button button-green subject-button"
+              data-track="telugu"
+            >
+              తెలుగు ప్రాక్టీస్ ప్రారంభించండి →
+            </button>
+          </article>
+
+        </div>
+      </section>
+
+      <!-- Progress placeholder -->
+      <section class="section progress-section" id="progress">
+        <div class="section-heading">
+          <div>
+            <span class="eyebrow">YOUR LEARNING JOURNEY</span>
+            <h2>My Progress</h2>
+            <p>Your practice statistics will appear here.</p>
+          </div>
+        </div>
+
+        <div id="progressSummary" class="stats-grid" aria-live="polite"></div>
+        <div class="progress-card" id="progressEmpty">
+          <div class="progress-icon">📈</div>
+          <h3>Your progress starts here!</h3>
+          <p>Complete and submit a practice test to see your score, accuracy and test history on this browser.</p>
+          <a href="#subjects" class="button button-outline">Choose a subject</a>
+        </div>
+        <details class="progress-history-details" id="progressHistoryDetails" hidden>
+          <summary>
+            <span>Tests completed</span>
+            <span class="progress-history-count" id="progressHistoryCount">0</span>
+          </summary>
+          <div id="progressHistory" class="test-grid" aria-live="polite"></div>
+        </details>
+      </section>
+
+      <!-- About -->
+      <section class="section about-section" id="about">
+        <span class="eyebrow">ABOUT THIS PLATFORM</span>
+        <h2>Learn through practice</h2>
+        <p>
+          A practice platform designed to help teachers
+          prepare for AP Special TET 2026 through
+          structured MCQs, explanations and performance
+          tracking.
+        </p>
+        <p class="disclaimer">
+          This is an independent practice resource,
+          not an official AP TET website.
+        </p>
+      </section>
+    </main>
+
+    <!-- Mobile bottom navigation -->
+    <footer class="bottom-nav">
+      <a href="#home" class="bottom-link active">
+        <span>⌂</span>
+        <small>Home</small>
+      </a>
+
+      <a href="#subjects" class="bottom-link">
+        <span>▤</span>
+        <small>Tests</small>
+      </a>
+
+      <a href="#progress" class="bottom-link">
+        <span>▥</span>
+        <small>Progress</small>
+      </a>
+
+      <a href="#about" class="bottom-link">
+        <span>⋯</span>
+        <small>About</small>
+      </a>
+    </footer>
+
+  </div>
+
+  <script src="js/storage.js" defer></script>
+  <script src="js/app.js" defer></script>
+</body>
+</html>

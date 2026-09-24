@@ -1,0 +1,1314 @@
+{
+  "track": "telugu",
+  "testId": "english-l2-batch-05",
+  "title": "English Language-II — Core Batch 05",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "english-l2-05",
+      "title": "English Language-II",
+      "questions": [
+        {
+          "id": "english-l2-005-001",
+          "question": "Choose the correct form: Neither the principal nor the teachers ___ available yesterday.",
+          "options": [
+            "was",
+            "were",
+            "is",
+            "has been"
+          ],
+          "correctIndex": 1,
+          "explanation": "With 'neither...nor', the verb commonly agrees with the nearer subject, 'teachers'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-002",
+          "question": "Choose the correct form: Each of the participants ___ given a certificate.",
+          "options": [
+            "were",
+            "have been",
+            "was",
+            "are"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Each' is singular and takes a singular verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-003",
+          "question": "Choose the correct form: The bouquet of roses ___ lovely.",
+          "options": [
+            "look",
+            "looks",
+            "have looked",
+            "are looking"
+          ],
+          "correctIndex": 1,
+          "explanation": "The head of the subject is the singular noun 'bouquet'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-004",
+          "question": "Choose the correct form: Ten kilometres ___ a long distance to walk in this heat.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "A distance considered as one unit takes a singular verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-005",
+          "question": "Choose the correct form: The jury ___ reached its decision.",
+          "options": [
+            "have",
+            "has",
+            "are",
+            "were"
+          ],
+          "correctIndex": 1,
+          "explanation": "Here the jury is treated as one collective body.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-006",
+          "question": "Choose the correct form: She ___ the assignment before the deadline yesterday.",
+          "options": [
+            "submits",
+            "has submitted",
+            "submitted",
+            "had submit"
+          ],
+          "correctIndex": 2,
+          "explanation": "The simple past is used for a completed action at a stated past time.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-007",
+          "question": "Choose the correct form: I ___ for you for an hour when you finally arrived.",
+          "options": [
+            "waited",
+            "have waited",
+            "had been waiting",
+            "am waiting"
+          ],
+          "correctIndex": 2,
+          "explanation": "Past perfect continuous emphasizes an ongoing action before a later past event.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-008",
+          "question": "Choose the correct form: By next June, he ___ here for five years.",
+          "options": [
+            "works",
+            "will have worked",
+            "worked",
+            "has worked"
+          ],
+          "correctIndex": 1,
+          "explanation": "Future perfect expresses completion by a specified future time.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-009",
+          "question": "Choose the correct form: If I ___ about the change, I would have attended.",
+          "options": [
+            "knew",
+            "had known",
+            "know",
+            "would know"
+          ],
+          "correctIndex": 1,
+          "explanation": "The third conditional uses past perfect in the if-clause.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-010",
+          "question": "Choose the correct form: Unless you ___ regularly, you may lose confidence.",
+          "options": [
+            "practise",
+            "will practise",
+            "practised",
+            "would practise"
+          ],
+          "correctIndex": 0,
+          "explanation": "After 'unless' referring to the future, the present simple is normally used.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-011",
+          "question": "Choose the correct form: I would rather you ___ the matter confidential.",
+          "options": [
+            "keep",
+            "kept",
+            "will keep",
+            "keeping"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Would rather' followed by a different subject commonly takes a past form for a present preference.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-012",
+          "question": "Choose the correct form: It is essential that every applicant ___ the form.",
+          "options": [
+            "completes",
+            "complete",
+            "completed",
+            "will complete"
+          ],
+          "correctIndex": 1,
+          "explanation": "The mandative subjunctive uses the base form after 'it is essential that'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-013",
+          "question": "Choose the correct option: The proposal ___ by the committee tomorrow.",
+          "options": [
+            "will consider",
+            "will be considered",
+            "is considering",
+            "has considered"
+          ],
+          "correctIndex": 1,
+          "explanation": "The future passive emphasizes the proposal receiving the action.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-014",
+          "question": "Choose the correct option: The room ___ when we entered.",
+          "options": [
+            "was cleaned",
+            "was being cleaned",
+            "has cleaned",
+            "is cleaning"
+          ],
+          "correctIndex": 1,
+          "explanation": "The past continuous passive shows an action in progress at that past moment.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-015",
+          "question": "Choose the correct option: The teacher asked us ___ our phones away.",
+          "options": [
+            "put",
+            "putting",
+            "to put",
+            "that put"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Ask + object + to-infinitive' is used for reported requests or instructions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-016",
+          "question": "Choose the correct option: He denied ___ the window.",
+          "options": [
+            "break",
+            "to break",
+            "breaking",
+            "broke"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Deny' is followed by a gerund when referring to an action.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-017",
+          "question": "Choose the correct option: She managed ___ the difficult problem.",
+          "options": [
+            "solve",
+            "solving",
+            "to solve",
+            "solved"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Manage' is followed by a to-infinitive.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-018",
+          "question": "Choose the correct option: I remember ___ him at the conference last year.",
+          "options": [
+            "meet",
+            "to meet",
+            "meeting",
+            "met"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Remember doing' refers to recalling a past experience.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-019",
+          "question": "Choose the correct option: Remember ___ the door before you leave.",
+          "options": [
+            "locking",
+            "lock",
+            "to lock",
+            "locked"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Remember to do' means not forget a task that needs to be done.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-020",
+          "question": "Choose the correct option: The students were encouraged ___ questions.",
+          "options": [
+            "ask",
+            "asking",
+            "to ask",
+            "asked"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Encourage + object + to-infinitive' is the correct pattern.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-021",
+          "question": "Choose the correct article: She gave me ___ useful piece of advice.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Useful' begins with a /juː/ consonant sound, so 'a' is used.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-022",
+          "question": "Choose the correct article: We visited ___ Netherlands during the summer.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 2,
+          "explanation": "Some country names, including 'the Netherlands', take the definite article.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-023",
+          "question": "Choose the correct article: He hopes to become ___ engineer.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Engineer' begins with a vowel sound, requiring 'an'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-024",
+          "question": "Choose the correct option: She has been waiting ___ 9 a.m.",
+          "options": [
+            "for",
+            "since",
+            "from",
+            "during"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Since' introduces the starting point of a period.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-025",
+          "question": "Choose the correct option: We have lived here ___ six months.",
+          "options": [
+            "since",
+            "during",
+            "for",
+            "by"
+          ],
+          "correctIndex": 2,
+          "explanation": "'For' introduces the duration of time.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-026",
+          "question": "Choose the correct option: The cat jumped ___ the wall and disappeared.",
+          "options": [
+            "over",
+            "between",
+            "beside",
+            "within"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Over' indicates movement across and above the wall.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-027",
+          "question": "Choose the correct option: The teacher distributed the worksheets ___ the learners.",
+          "options": [
+            "between",
+            "among",
+            "through",
+            "beside"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Among' is used for distribution involving more than two people.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-028",
+          "question": "Choose the correct option: The agreement was signed ___ both parties.",
+          "options": [
+            "by",
+            "with",
+            "from",
+            "at"
+          ],
+          "correctIndex": 0,
+          "explanation": "In a passive sentence, 'by' introduces the agent.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-029",
+          "question": "Choose the correct option: She is responsible ___ organizing the event.",
+          "options": [
+            "to",
+            "for",
+            "with",
+            "at"
+          ],
+          "correctIndex": 1,
+          "explanation": "The adjective 'responsible' is followed by 'for'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-030",
+          "question": "Choose the correct option: He succeeded ___ convincing the panel.",
+          "options": [
+            "at",
+            "on",
+            "in",
+            "for"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Succeed in' is followed by a noun or gerund.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-031",
+          "question": "Choose the correct option: The teacher objected ___ the use of offensive language.",
+          "options": [
+            "for",
+            "to",
+            "with",
+            "at"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Object to' is followed by a noun or gerund.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-032",
+          "question": "Choose the correct phrasal verb: The school decided to ___ a new reading programme.",
+          "options": [
+            "set up",
+            "set off",
+            "set aside",
+            "set back"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Set up' means establish or start.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-033",
+          "question": "Choose the correct phrasal verb: Please ___ the main points in your own words.",
+          "options": [
+            "sum up",
+            "put up",
+            "take after",
+            "bring about"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Sum up' means summarize.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-034",
+          "question": "Choose the correct phrasal verb: The fire ___ before the firefighters arrived.",
+          "options": [
+            "broke out",
+            "broke up",
+            "broke into",
+            "broke down"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Break out' means begin suddenly, especially of a fire or conflict.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-035",
+          "question": "Choose the correct phrasal verb: I cannot ___ what the sign says from here.",
+          "options": [
+            "make out",
+            "make up",
+            "make for",
+            "make over"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Make out' can mean discern or understand.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-036",
+          "question": "Choose the correct phrasal verb: She ___ an interesting point during the discussion.",
+          "options": [
+            "brought up",
+            "brought out",
+            "brought down",
+            "brought off"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Bring up' means introduce a topic for discussion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-037",
+          "question": "Choose the correct word: The school will ___ a new policy next term.",
+          "options": [
+            "adopt",
+            "adapt",
+            "adept",
+            "addict"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Adopt' means formally accept or begin to use.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-038",
+          "question": "Choose the correct word: Learners need to ___ to changing classroom demands.",
+          "options": [
+            "adopt",
+            "adapt",
+            "adept",
+            "add"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Adapt' means adjust to new conditions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-039",
+          "question": "Choose the correct word: The speaker's argument was ___ by relevant examples.",
+          "options": [
+            "supported",
+            "supposed",
+            "supplied",
+            "surpassed"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Supported by examples' is the appropriate collocation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-040",
+          "question": "Choose the correct word: The instructions were so ___ that pupils could follow them independently.",
+          "options": [
+            "comprehensible",
+            "comprehensive",
+            "comprehension",
+            "comprehend"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Comprehensible' means easy to understand.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-041",
+          "question": "Choose the correct word: A ___ reader considers the reliability of a source.",
+          "options": [
+            "critical",
+            "critic",
+            "criticism",
+            "criticize"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Critical' is the adjective describing careful evaluation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-042",
+          "question": "Choose the synonym of 'innovative'.",
+          "options": [
+            "Original and creative",
+            "Traditional and unchanged",
+            "Careless",
+            "Unnecessary"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Innovative' means introducing new ideas or methods.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-043",
+          "question": "Choose the synonym of 'feasible'.",
+          "options": [
+            "Practical and possible",
+            "Uncertain and vague",
+            "Unfair",
+            "Impossible"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Feasible' means capable of being done successfully.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-044",
+          "question": "Choose the synonym of 'obtain'.",
+          "options": [
+            "Acquire",
+            "Reject",
+            "Lose",
+            "Prevent"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Obtain' means get or acquire.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-045",
+          "question": "Choose the synonym of 'interpret'.",
+          "options": [
+            "Explain the meaning",
+            "Destroy",
+            "Repeat exactly",
+            "Conceal"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Interpret' means explain or understand the meaning of something.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-046",
+          "question": "Choose the synonym of 'proficient'.",
+          "options": [
+            "Skilful",
+            "Inexperienced",
+            "Unwilling",
+            "Confused"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Proficient' means competent or skilled.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-047",
+          "question": "Choose the antonym of 'explicit'.",
+          "options": [
+            "Direct",
+            "Clear",
+            "Implicit",
+            "Precise"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Implicit' means suggested rather than directly stated.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-048",
+          "question": "Choose the antonym of 'optimise'.",
+          "options": [
+            "Improve",
+            "Enhance",
+            "Worsen",
+            "Refine"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Worsen' contrasts with optimise, which means make as effective as possible.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-049",
+          "question": "Choose the antonym of 'mandatory'.",
+          "options": [
+            "Compulsory",
+            "Required",
+            "Optional",
+            "Binding"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Optional' means not compulsory.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-050",
+          "question": "Choose the antonym of 'genuine'.",
+          "options": [
+            "Authentic",
+            "Sincere",
+            "Counterfeit",
+            "Real"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Counterfeit' means fake, the opposite of genuine.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-051",
+          "question": "Choose the antonym of 'consecutive'.",
+          "options": [
+            "Successive",
+            "Sequential",
+            "Intermittent",
+            "Following"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Intermittent' means occurring at intervals rather than continuously or in succession.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-052",
+          "question": "What does 'burn the midnight oil' mean?",
+          "options": [
+            "Work or study late into the night",
+            "Waste cooking oil",
+            "Wake up very early",
+            "Finish work effortlessly"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means work or study late at night.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-053",
+          "question": "What does 'beat around the bush' mean?",
+          "options": [
+            "Avoid addressing the main point directly",
+            "Speak very loudly",
+            "Finish a task quickly",
+            "Give precise directions"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means avoid saying something directly.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-054",
+          "question": "What does 'the ball is in your court' mean?",
+          "options": [
+            "It is your turn or responsibility to act",
+            "A game has ended",
+            "You have lost an opportunity",
+            "Someone has made a mistake"
+          ],
+          "correctIndex": 0,
+          "explanation": "The expression means the next action or decision is yours.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-055",
+          "question": "What does 'call it a day' mean?",
+          "options": [
+            "Stop working for the time being",
+            "Name the days of the week",
+            "Begin a new project",
+            "Make a telephone call"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means stop an activity, especially work.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-056",
+          "question": "What does 'in a nutshell' mean?",
+          "options": [
+            "In a brief and concise form",
+            "Inside a shell",
+            "In a confusing way",
+            "After a long delay"
+          ],
+          "correctIndex": 0,
+          "explanation": "The expression introduces a brief summary.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-057",
+          "question": "Choose the correctly punctuated sentence.",
+          "options": [
+            "After the lesson, we reviewed the answers.",
+            "After the lesson we, reviewed the answers.",
+            "After, the lesson we reviewed the answers.",
+            "After the lesson we reviewed, the answers."
+          ],
+          "correctIndex": 0,
+          "explanation": "The introductory phrase is appropriately followed by a comma.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-058",
+          "question": "Choose the correctly punctuated sentence.",
+          "options": [
+            "The principal said, “Please be seated.”",
+            "The principal said “Please be seated”.",
+            "The principal, said “Please be seated.”",
+            "The principal said “Please, be seated”."
+          ],
+          "correctIndex": 0,
+          "explanation": "The comma introduces the direct quotation, and the final punctuation is placed inside the closing quotation mark in this style.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-059",
+          "question": "Which sentence uses a colon correctly?",
+          "options": [
+            "Bring these items: a pencil, an eraser and a ruler.",
+            "Bring: these items a pencil, an eraser and a ruler.",
+            "Bring these: items a pencil, an eraser and a ruler.",
+            "Bring these items a pencil: an eraser and a ruler."
+          ],
+          "correctIndex": 0,
+          "explanation": "A colon can introduce a list after a complete clause.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-060",
+          "question": "Which sentence uses a hyphen correctly?",
+          "options": [
+            "She is a well-known author.",
+            "She is a well known-author.",
+            "She is a well known author in all cases.",
+            "She is a well-known-author."
+          ],
+          "correctIndex": 0,
+          "explanation": "A hyphen commonly joins words in a compound modifier before a noun.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-061",
+          "question": "Which sentence is free from a misplaced modifier?",
+          "options": [
+            "She almost drove her children to school every day.",
+            "She drove her children to school almost every day.",
+            "Almost she drove her children to school every day.",
+            "She drove almost her children to school every day."
+          ],
+          "correctIndex": 1,
+          "explanation": "The placement of 'almost' clearly modifies the frequency of driving.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-062",
+          "question": "Which is a compound-complex sentence?",
+          "options": [
+            "Although it was raining, we continued, and the coach encouraged us.",
+            "It was raining, and we continued.",
+            "Although it was raining, we continued.",
+            "We continued despite the rain."
+          ],
+          "correctIndex": 0,
+          "explanation": "It contains a subordinate clause and two independent clauses.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-063",
+          "question": "Which sentence contains an appositive?",
+          "options": [
+            "My friend, a skilled violinist, performed tonight.",
+            "My friend performed tonight because she practised.",
+            "My friend who performed tonight is skilled.",
+            "My friend performed and then left."
+          ],
+          "correctIndex": 0,
+          "explanation": "'A skilled violinist' renames and identifies 'my friend'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-064",
+          "question": "Which sentence contains a noun phrase functioning as the subject?",
+          "options": [
+            "The old wooden bridge collapsed.",
+            "They crossed the bridge carefully.",
+            "We crossed after lunch.",
+            "She spoke clearly."
+          ],
+          "correctIndex": 0,
+          "explanation": "'The old wooden bridge' is a noun phrase functioning as the subject.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-065",
+          "question": "Which sentence contains an adverbial phrase of manner?",
+          "options": [
+            "The child answered with confidence.",
+            "The child with confidence was selected.",
+            "The confident child answered.",
+            "The child gave a confident answer."
+          ],
+          "correctIndex": 0,
+          "explanation": "'With confidence' describes how the child answered.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-066",
+          "question": "Which sentence correctly uses a comparative adjective?",
+          "options": [
+            "This passage is more challenging than the previous one.",
+            "This passage is most challenging than the previous one.",
+            "This passage is challenginger than the previous one.",
+            "This passage is more challenging as the previous one."
+          ],
+          "correctIndex": 0,
+          "explanation": "'More challenging than' is the correct comparative construction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-067",
+          "question": "Choose the correct form: This is the ___ of the two proposals.",
+          "options": [
+            "best",
+            "better",
+            "good",
+            "more good"
+          ],
+          "correctIndex": 1,
+          "explanation": "For comparing two items, 'better' is the appropriate comparative form.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-068",
+          "question": "Choose the correct form: Of all the speakers, Mira spoke ___.",
+          "options": [
+            "more clearly",
+            "most clearly",
+            "clearer",
+            "clearestly"
+          ],
+          "correctIndex": 1,
+          "explanation": "The superlative adverb 'most clearly' compares Mira with all speakers.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-069",
+          "question": "Choose the correct conjunction: You may borrow the book ___ you return it by Friday.",
+          "options": [
+            "provided that",
+            "whereas",
+            "although",
+            "unless"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Provided that' introduces a condition.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-070",
+          "question": "Choose the correct conjunction: ___ he was nervous, he delivered the speech confidently.",
+          "options": [
+            "Because",
+            "Although",
+            "Unless",
+            "Since"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Although' introduces a contrast between nervousness and confident delivery.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-071",
+          "question": "Choose the correct conjunction: The task was difficult; ___, the learners completed it.",
+          "options": [
+            "therefore",
+            "nevertheless",
+            "for example",
+            "similarly"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Nevertheless' signals contrast.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-072",
+          "question": "Choose the correct conjunction: The bus was delayed; ___, we arrived after the bell.",
+          "options": [
+            "consequently",
+            "however",
+            "likewise",
+            "instead"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Consequently' signals a result.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-073",
+          "question": "Which option is the clearest paraphrase of 'Learners benefit when feedback is timely and specific'?",
+          "options": [
+            "Feedback helps learners when it arrives promptly and identifies particular improvements.",
+            "Learners dislike all feedback that is specific.",
+            "Feedback should be delayed and general.",
+            "Learners benefit only from grades."
+          ],
+          "correctIndex": 0,
+          "explanation": "The paraphrase preserves the ideas of promptness and specificity.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-074",
+          "question": "Which sentence best summarizes a passage explaining several causes of water pollution?",
+          "options": [
+            "Water pollution results from multiple sources, including waste discharge, runoff and litter.",
+            "The passage mentions a river on page two.",
+            "One factory was built in 1980.",
+            "The author uses three paragraphs."
+          ],
+          "correctIndex": 0,
+          "explanation": "A summary captures the central idea and main supporting categories.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-075",
+          "question": "Which question asks for an inference?",
+          "options": [
+            "What can be concluded from the character's actions and the details given?",
+            "Where does the story take place, as stated in paragraph one?",
+            "What is the character's name?",
+            "How many lines are in the poem?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Inference requires drawing a conclusion from clues rather than retrieving an explicit fact.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-076",
+          "question": "Which task best assesses a reader's ability to identify a claim?",
+          "options": [
+            "Underline the statement the author is trying to establish as true",
+            "Count the number of headings",
+            "Copy the final sentence",
+            "List all proper nouns"
+          ],
+          "correctIndex": 0,
+          "explanation": "Identifying a claim means locating the central assertion being advanced.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-077",
+          "question": "Which is the most useful first step when approaching an unfamiliar informational text?",
+          "options": [
+            "Preview the title, headings and visuals to anticipate its topic and structure",
+            "Memorize every sentence before reading",
+            "Skip the headings and illustrations",
+            "Read only the final word of each paragraph"
+          ],
+          "correctIndex": 0,
+          "explanation": "Previewing text features activates expectations and gives an initial map of the text.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-078",
+          "question": "Which activity practises scanning?",
+          "options": [
+            "Locate the date and venue in an event notice",
+            "Explain the author's overall purpose",
+            "Summarize the whole chapter",
+            "Evaluate the strength of an argument"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scanning searches quickly for particular pieces of information.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-079",
+          "question": "Which activity practises skimming?",
+          "options": [
+            "Read headings and topic sentences to identify the main idea",
+            "Search for a particular phone number",
+            "Check the spelling of one word",
+            "Count each punctuation mark"
+          ],
+          "correctIndex": 0,
+          "explanation": "Skimming is rapid reading for the general meaning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-080",
+          "question": "Which is an appropriate strategy for teaching a poem's imagery?",
+          "options": [
+            "Ask learners to identify sensory details and explain the effects they create",
+            "Require learners to memorize the poet's biography only",
+            "Ignore figurative language",
+            "Translate every word without discussing meaning"
+          ],
+          "correctIndex": 0,
+          "explanation": "Exploring sensory details connects language choices to their effects on readers.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-081",
+          "question": "Which activity best develops listening for sequence?",
+          "options": [
+            "Arrange event cards in the order described in the recording",
+            "Identify only the speaker's accent",
+            "Write an unrelated paragraph",
+            "Count the number of speakers without following content"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sequencing cards checks whether learners understand the order of events.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-082",
+          "question": "Which activity best develops listening for attitude?",
+          "options": [
+            "Compare word choice and vocal cues to decide whether the speaker sounds doubtful or enthusiastic",
+            "Record the length of the audio file",
+            "Copy the title of the recording",
+            "Identify every noun without considering context"
+          ],
+          "correctIndex": 0,
+          "explanation": "Attitude can be inferred from the speaker's words, tone and delivery.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-083",
+          "question": "Which classroom activity is a genuine information-gap task?",
+          "options": [
+            "Each partner has different timetable details and asks questions to complete a shared schedule",
+            "Both partners copy the same completed timetable",
+            "One learner reads while the other remains silent",
+            "The teacher gives every answer before pair work"
+          ],
+          "correctIndex": 0,
+          "explanation": "An information gap requires partners to exchange information unavailable to each other.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-084",
+          "question": "Which response best encourages a learner to extend a spoken answer?",
+          "options": [
+            "Could you give an example to support that idea?",
+            "Are you finished?",
+            "Is your answer one word?",
+            "Please stop explaining."
+          ],
+          "correctIndex": 0,
+          "explanation": "A request for an example invites elaboration and supporting detail.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-085",
+          "question": "Which is an effective way to teach turn-taking in discussion?",
+          "options": [
+            "Model polite entry phrases and practise responding to a partner's contribution",
+            "Reward learners for interrupting",
+            "Allow only one learner to speak throughout",
+            "Discourage clarification questions"
+          ],
+          "correctIndex": 0,
+          "explanation": "Explicit modelling and practice make interaction conventions visible.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-086",
+          "question": "Which task best practises writing a persuasive paragraph?",
+          "options": [
+            "State a position, support it with reasons and evidence, and address a counterpoint",
+            "List unrelated facts without a claim",
+            "Copy a definition of persuasion",
+            "Write a dialogue with no stated purpose"
+          ],
+          "correctIndex": 0,
+          "explanation": "Persuasive writing develops a position through reasons and evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-087",
+          "question": "Which is an appropriate feature of a narrative opening?",
+          "options": [
+            "Introduce a setting or situation that gives readers a point of entry",
+            "Present only a bibliography",
+            "List grammar rules",
+            "Reveal unrelated facts without context"
+          ],
+          "correctIndex": 0,
+          "explanation": "A narrative opening establishes context for the events that follow.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-088",
+          "question": "Which task best develops process writing?",
+          "options": [
+            "Plan, draft, receive feedback, revise and edit a piece of writing",
+            "Submit the first sentence as the final draft",
+            "Memorize a model essay without writing",
+            "Correct spelling only after publication"
+          ],
+          "correctIndex": 0,
+          "explanation": "Process writing treats composition as a sequence of planning, drafting and revision stages.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-089",
+          "question": "Which feedback is most useful for improving paragraph coherence?",
+          "options": [
+            "Reorder these two sentences so the supporting idea follows the topic sentence.",
+            "Your paragraph is weak.",
+            "Use more words.",
+            "Write the paragraph again without guidance."
+          ],
+          "correctIndex": 0,
+          "explanation": "The comment identifies a specific change connected to logical organization.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-090",
+          "question": "Which practice supports vocabulary retention?",
+          "options": [
+            "Revisit new words in varied contexts and encourage learners to use them",
+            "Present each word once and never return to it",
+            "Teach spelling without meaning or context",
+            "Ask learners to copy a list without retrieval"
+          ],
+          "correctIndex": 0,
+          "explanation": "Repeated encounters and meaningful use support long-term retention.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-091",
+          "question": "Which approach helps learners notice collocations?",
+          "options": [
+            "Compare examples such as 'make a decision' and 'do homework' in context",
+            "Teach words only in alphabetical order",
+            "Avoid examples of words used together",
+            "Replace every phrase with a single isolated word"
+          ],
+          "correctIndex": 0,
+          "explanation": "Collocation teaching highlights words that commonly occur together.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-092",
+          "question": "Which classroom activity promotes learner autonomy?",
+          "options": [
+            "Learners select a suitable reading strategy, explain their choice and evaluate its usefulness",
+            "The teacher chooses every strategy and forbids reflection",
+            "Learners wait for the teacher to solve each difficulty",
+            "Learners are graded on speed alone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Choosing and evaluating strategies gives learners responsibility for their learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-093",
+          "question": "Which is an example of formative assessment in a language lesson?",
+          "options": [
+            "The teacher uses responses during pair work to decide what to clarify next",
+            "A final certificate issued at course completion",
+            "A year-end ranking used for promotion",
+            "A report card with no feedback during the course"
+          ],
+          "correctIndex": 0,
+          "explanation": "Formative assessment informs teaching and learning while the course is in progress.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-094",
+          "question": "Which is an example of summative assessment?",
+          "options": [
+            "A final speaking examination used to report achievement at the end of a course",
+            "A quick oral check used to adjust today's lesson",
+            "Teacher observation during guided practice",
+            "Peer feedback on an early draft"
+          ],
+          "correctIndex": 0,
+          "explanation": "Summative assessment reports achievement at the end of a learning period.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-095",
+          "question": "Which quality refers to consistency of assessment results?",
+          "options": [
+            "Reliability",
+            "Validity",
+            "Authenticity",
+            "Accessibility"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reliability concerns the consistency of scores or judgments.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-096",
+          "question": "Which quality concerns whether a test measures what it intends to measure?",
+          "options": [
+            "Reliability",
+            "Validity",
+            "Convenience",
+            "Popularity"
+          ],
+          "correctIndex": 1,
+          "explanation": "Validity concerns the appropriateness of the interpretation and use of assessment evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-097",
+          "question": "Which task has strong communicative authenticity?",
+          "options": [
+            "Write an email requesting information that the learner genuinely needs",
+            "Fill a page with disconnected verb forms",
+            "Copy a dialogue without reading it",
+            "Label random grammar terms"
+          ],
+          "correctIndex": 0,
+          "explanation": "The task resembles purposeful language use outside a test-only setting.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-098",
+          "question": "Which accommodation may support a learner with a visual difficulty?",
+          "options": [
+            "Provide accessible large-print or digital text as appropriate",
+            "Remove the learner from all reading tasks",
+            "Use smaller print to save space",
+            "Assess only through copying from the board"
+          ],
+          "correctIndex": 0,
+          "explanation": "Accessible text formats can reduce visual barriers while preserving the learning objective.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-099",
+          "question": "Which teaching practice supports multilingual learners?",
+          "options": [
+            "Connect new English vocabulary to known concepts and provide visual or contextual scaffolds",
+            "Assume home-language knowledge prevents English learning",
+            "Avoid checking understanding",
+            "Use unfamiliar idioms in every instruction"
+          ],
+          "correctIndex": 0,
+          "explanation": "Connecting to existing knowledge and adding scaffolds can aid access to English learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-005-100",
+          "question": "Which teacher response is most constructive when a learner makes an error?",
+          "options": [
+            "Invite the learner to reconsider with a prompt and acknowledge useful parts of the response",
+            "Label the learner as incapable",
+            "End the learner's participation",
+            "Make the error a subject of ridicule"
+          ],
+          "correctIndex": 0,
+          "explanation": "Guided, respectful feedback treats errors as opportunities for learning.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

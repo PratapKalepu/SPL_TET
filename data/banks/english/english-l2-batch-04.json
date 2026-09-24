@@ -1,0 +1,1314 @@
+{
+  "track": "telugu",
+  "testId": "english-l2-batch-04",
+  "title": "English Language-II — Core Batch 04",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "english-l2-04",
+      "title": "English Language-II",
+      "questions": [
+        {
+          "id": "english-l2-004-001",
+          "question": "Choose the correct option: By the time we reached the station, the train ___.",
+          "options": [
+            "left",
+            "has left",
+            "had left",
+            "was leaving"
+          ],
+          "correctIndex": 2,
+          "explanation": "The past perfect marks an action completed before another past action.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-002",
+          "question": "Choose the correct option: She ___ in this school since 2022.",
+          "options": [
+            "works",
+            "worked",
+            "has been working",
+            "is working"
+          ],
+          "correctIndex": 2,
+          "explanation": "The present perfect continuous describes an activity that began in the past and continues now.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-003",
+          "question": "Choose the correct option: When I called, they ___ dinner.",
+          "options": [
+            "have",
+            "had",
+            "were having",
+            "are having"
+          ],
+          "correctIndex": 2,
+          "explanation": "The past continuous describes an action in progress at a particular past time.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-004",
+          "question": "Choose the correct option: This time next week, we ___ our examinations.",
+          "options": [
+            "take",
+            "will be taking",
+            "took",
+            "have taken"
+          ],
+          "correctIndex": 1,
+          "explanation": "The future continuous describes an activity that will be in progress at a future time.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-005",
+          "question": "Choose the correct option: The parcel ___ before noon yesterday.",
+          "options": [
+            "delivers",
+            "was delivered",
+            "has delivered",
+            "is delivering"
+          ],
+          "correctIndex": 1,
+          "explanation": "The passive voice is appropriate because the parcel receives the action.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-006",
+          "question": "Choose the correct option: The manager asked whether I ___ the report.",
+          "options": [
+            "complete",
+            "have completed",
+            "had completed",
+            "will complete"
+          ],
+          "correctIndex": 2,
+          "explanation": "In reported speech with a past reporting verb, the present perfect commonly backshifts to past perfect.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-007",
+          "question": "Choose the correct option: He said, “I am busy.” Choose the correct reported form.",
+          "options": [
+            "He said that he is busy.",
+            "He said that he was busy.",
+            "He says that he had busy.",
+            "He said that I was busy."
+          ],
+          "correctIndex": 1,
+          "explanation": "The present 'am' backshifts to 'was' in standard reported speech.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-008",
+          "question": "Choose the correct option: The teacher said, “Do not make noise.”",
+          "options": [
+            "The teacher told us do not make noise.",
+            "The teacher told us not to make noise.",
+            "The teacher said us not making noise.",
+            "The teacher asked that not make noise."
+          ],
+          "correctIndex": 1,
+          "explanation": "Negative commands are commonly reported with 'told/asked + object + not to + verb'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-009",
+          "question": "Choose the correct option: She asked me, “Where do you live?”",
+          "options": [
+            "She asked me where did I live.",
+            "She asked me where I lived.",
+            "She asked me where do I live.",
+            "She asked where I live did."
+          ],
+          "correctIndex": 1,
+          "explanation": "Reported questions use statement word order, without do-support inversion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-010",
+          "question": "Choose the correct option: He asked, “Have you seen my keys?”",
+          "options": [
+            "He asked whether I had seen his keys.",
+            "He asked have I seen his keys.",
+            "He asked whether had I seen my keys.",
+            "He asked that I saw his keys."
+          ],
+          "correctIndex": 0,
+          "explanation": "Yes/no questions can be reported with 'whether' and normal statement word order.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-011",
+          "question": "Choose the correct option: You ___ wear a helmet while riding a motorcycle; it is required by law.",
+          "options": [
+            "might",
+            "must",
+            "would",
+            "could"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Must' expresses a strong obligation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-012",
+          "question": "Choose the correct option: You ___ have told me earlier; I could have helped.",
+          "options": [
+            "should",
+            "must",
+            "can",
+            "may"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Should have' expresses a past action that was advisable but did not occur.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-013",
+          "question": "Choose the correct option: The lights are off; they ___ have gone to bed.",
+          "options": [
+            "must",
+            "should",
+            "would",
+            "need"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Must have' expresses a strong deduction about a past situation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-014",
+          "question": "Choose the correct option: You ___ bring food; refreshments will be provided.",
+          "options": [
+            "mustn't",
+            "needn't",
+            "couldn't",
+            "wouldn't"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Needn't' expresses absence of necessity.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-015",
+          "question": "Choose the correct option: ___ you mind opening the window?",
+          "options": [
+            "Would",
+            "Must",
+            "Should",
+            "Need"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Would you mind...?' is a polite request pattern.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-016",
+          "question": "Choose the correct option: There is ___ sugar left, so we can make tea.",
+          "options": [
+            "a few",
+            "few",
+            "a little",
+            "many"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Sugar' is uncountable; 'a little' means a small amount that is available.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-017",
+          "question": "Choose the correct option: Only ___ students submitted the optional task.",
+          "options": [
+            "a little",
+            "much",
+            "a few",
+            "any"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Students' is countable plural, so 'a few' is appropriate.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-018",
+          "question": "Choose the correct option: I have ___ information about the event than you do.",
+          "options": [
+            "fewer",
+            "less",
+            "few",
+            "many"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Information' is uncountable and takes 'less' in standard usage.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-019",
+          "question": "Choose the correct option: There are ___ mistakes in this draft than in the first one.",
+          "options": [
+            "less",
+            "little",
+            "fewer",
+            "much"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Mistakes' is countable plural, so 'fewer' is appropriate.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-020",
+          "question": "Choose the correct option: Neither of the two explanations ___ convincing.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Neither' is conventionally singular in formal agreement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-021",
+          "question": "Choose the correct option: The quality of these products ___ improved.",
+          "options": [
+            "have",
+            "has",
+            "are",
+            "were"
+          ],
+          "correctIndex": 1,
+          "explanation": "The head noun 'quality' is singular, so it takes 'has'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-022",
+          "question": "Choose the correct option: The captain, along with the players, ___ arriving shortly.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "The phrase 'along with the players' does not change the singular subject 'captain'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-023",
+          "question": "Choose the correct option: Each of the answers ___ a reason.",
+          "options": [
+            "have",
+            "has",
+            "are having",
+            "were"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Each' is singular and takes 'has'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-024",
+          "question": "Choose the correct option: The scissors ___ on the table.",
+          "options": [
+            "is",
+            "are",
+            "has",
+            "was"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Scissors' is a plural-form noun and normally takes a plural verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-025",
+          "question": "Choose the correct option: A pair of scissors ___ missing.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "The subject is the singular phrase 'a pair'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-026",
+          "question": "Choose the correct option: The teacher as well as the students ___ present.",
+          "options": [
+            "were",
+            "are",
+            "was",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "The singular subject 'teacher' controls agreement in 'as well as' constructions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-027",
+          "question": "Choose the correct option: Choose the correct article: She is ___ honest officer.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Honest' begins with a vowel sound, so 'an' is used.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-028",
+          "question": "Choose the correct option: He is ___ university student.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 0,
+          "explanation": "'University' begins with a /juː/ consonant sound, so 'a' is used.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-029",
+          "question": "Choose the correct option: We usually have ___ breakfast at seven.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 3,
+          "explanation": "Meals used in a general sense commonly take no article.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-030",
+          "question": "Choose the correct option: ___ Himalayas are a major mountain range.",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "No article"
+          ],
+          "correctIndex": 2,
+          "explanation": "Names of mountain ranges generally take 'the'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-031",
+          "question": "Choose the correct option: She plays ___ violin in the school orchestra.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 2,
+          "explanation": "Musical instruments commonly take 'the' with 'play'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-032",
+          "question": "Choose the correct preposition: The children were divided ___ four groups.",
+          "options": [
+            "in",
+            "into",
+            "among",
+            "between"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Divide into' introduces the resulting groups.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-033",
+          "question": "Choose the correct preposition: The teacher congratulated Ravi ___ his success.",
+          "options": [
+            "for",
+            "at",
+            "on",
+            "with"
+          ],
+          "correctIndex": 2,
+          "explanation": "The standard collocation is 'congratulate someone on something'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-034",
+          "question": "Choose the correct preposition: She is capable ___ solving the puzzle.",
+          "options": [
+            "to",
+            "for",
+            "of",
+            "with"
+          ],
+          "correctIndex": 2,
+          "explanation": "The adjective 'capable' is followed by 'of'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-035",
+          "question": "Choose the correct preposition: We have been waiting ___ the bus for twenty minutes.",
+          "options": [
+            "to",
+            "for",
+            "at",
+            "on"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Wait for' is the usual verb-preposition combination for expecting transport.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-036",
+          "question": "Choose the correct preposition: He apologized ___ being late.",
+          "options": [
+            "of",
+            "for",
+            "with",
+            "about"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Apologize for' introduces the action or reason.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-037",
+          "question": "Choose the correct preposition: The result depends ___ how carefully you work.",
+          "options": [
+            "of",
+            "at",
+            "on",
+            "in"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Depend on' is the standard collocation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-038",
+          "question": "Choose the correct preposition: She insisted ___ paying for the meal.",
+          "options": [
+            "to",
+            "for",
+            "on",
+            "at"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Insist on' is followed by a noun or gerund.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-039",
+          "question": "Choose the correct preposition: The book was translated ___ Telugu.",
+          "options": [
+            "to",
+            "into",
+            "in",
+            "by"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Translate into' identifies the language of the resulting text.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-040",
+          "question": "Choose the correct preposition: He is familiar ___ the new software.",
+          "options": [
+            "to",
+            "with",
+            "by",
+            "from"
+          ],
+          "correctIndex": 1,
+          "explanation": "The adjective 'familiar' is followed by 'with' when someone knows something.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-041",
+          "question": "Choose the correct phrasal verb: Please ___ the form before submitting it.",
+          "options": [
+            "fill in",
+            "look after",
+            "turn down",
+            "break out"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Fill in' means complete a form by adding information.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-042",
+          "question": "Choose the correct phrasal verb: The meeting was ___ because the speaker was ill.",
+          "options": [
+            "put off",
+            "put up",
+            "put out",
+            "put through"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Put off' means postpone.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-043",
+          "question": "Choose the correct phrasal verb: Could you ___ this word in a dictionary?",
+          "options": [
+            "look up",
+            "look after",
+            "look into",
+            "look over"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Look up' means search for information in a reference source.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-044",
+          "question": "Choose the correct phrasal verb: The nurse will ___ the patient while the doctor is away.",
+          "options": [
+            "look up",
+            "look after",
+            "look down",
+            "look out"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Look after' means take care of.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-045",
+          "question": "Choose the correct phrasal verb: The old building was ___ to make room for a library.",
+          "options": [
+            "pulled down",
+            "pulled over",
+            "pulled through",
+            "pulled off"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Pull down' can mean demolish a building.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-046",
+          "question": "Choose the correct word: The new policy will ___ all employees.",
+          "options": [
+            "affect",
+            "effect",
+            "infect",
+            "reflect"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Affect' is the verb meaning influence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-047",
+          "question": "Choose the correct word: The medicine had an immediate ___.",
+          "options": [
+            "affect",
+            "effect",
+            "effort",
+            "affection"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Effect' is a noun meaning a result or consequence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-048",
+          "question": "Choose the correct word: The school will ___ a survey next month.",
+          "options": [
+            "conduct",
+            "construct",
+            "conclude",
+            "connect"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Conduct a survey' is the appropriate collocation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-049",
+          "question": "Choose the correct word: Please ___ your answer with evidence from the passage.",
+          "options": [
+            "justify",
+            "justice",
+            "justified",
+            "justification"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Justify' is the verb meaning provide reasons or evidence for a claim.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-050",
+          "question": "Choose the correct word: The instructions were ___, so nobody misunderstood them.",
+          "options": [
+            "explicit",
+            "implicit",
+            "implied",
+            "elusive"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Explicit' means stated clearly and directly.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-051",
+          "question": "Choose the correct word: The meaning was ___ rather than directly stated.",
+          "options": [
+            "explicit",
+            "implicit",
+            "express",
+            "exposed"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Implicit' means suggested or understood without being directly stated.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-052",
+          "question": "Choose the correct word: A person who can use two languages is ___.",
+          "options": [
+            "bilingual",
+            "monolingual",
+            "illiterate",
+            "anonymous"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Bilingual' means able to use two languages.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-053",
+          "question": "Choose the correct word: A word with the opposite meaning is an ___.",
+          "options": [
+            "acronym",
+            "antonym",
+            "eponym",
+            "homonym"
+          ],
+          "correctIndex": 1,
+          "explanation": "An antonym is a word opposite in meaning to another word.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-054",
+          "question": "Choose the correct word: Words that sound alike but differ in meaning and often spelling are ___.",
+          "options": [
+            "synonyms",
+            "homophones",
+            "antonyms",
+            "prefixes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Homophones share pronunciation but have different meanings and often different spellings.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-055",
+          "question": "Choose the correct word: A word formed from the initial letters of a phrase and pronounced as a word is a(n) ___.",
+          "options": [
+            "acronym",
+            "suffix",
+            "clause",
+            "inflection"
+          ],
+          "correctIndex": 0,
+          "explanation": "An acronym is formed from initial letters and pronounced as a word, such as 'UNESCO'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-056",
+          "question": "Choose the synonym of 'meticulous'.",
+          "options": [
+            "Careless",
+            "Thorough and precise",
+            "Hasty",
+            "Uninterested"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Meticulous' means showing great attention to detail.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-057",
+          "question": "Choose the synonym of 'diligent'.",
+          "options": [
+            "Hard-working",
+            "Indifferent",
+            "Reckless",
+            "Forgetful"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Diligent' means careful and persistent in one's work.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-058",
+          "question": "Choose the synonym of 'obsolete'.",
+          "options": [
+            "Modern",
+            "Outdated",
+            "Useful",
+            "Popular"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Obsolete' means no longer in use or no longer useful.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-059",
+          "question": "Choose the synonym of 'relieve'.",
+          "options": [
+            "Aggravate",
+            "Ease",
+            "Conceal",
+            "Prolong"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Relieve' means reduce pain, difficulty or distress.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-060",
+          "question": "Choose the synonym of 'coherent'.",
+          "options": [
+            "Logical and connected",
+            "Contradictory",
+            "Unclear",
+            "Fragmented"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Coherent' describes ideas that are logically connected and understandable.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-061",
+          "question": "Choose the antonym of 'hostile'.",
+          "options": [
+            "Aggressive",
+            "Unfriendly",
+            "Friendly",
+            "Threatening"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Friendly' contrasts with hostile.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-062",
+          "question": "Choose the antonym of 'temporary'.",
+          "options": [
+            "Brief",
+            "Permanent",
+            "Occasional",
+            "Short-lived"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Permanent' means lasting or intended to last indefinitely.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-063",
+          "question": "Choose the antonym of 'optimistic'.",
+          "options": [
+            "Hopeful",
+            "Confident",
+            "Pessimistic",
+            "Positive"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Pessimistic' contrasts with optimistic.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-064",
+          "question": "Choose the antonym of 'transparent'.",
+          "options": [
+            "Clear",
+            "Obvious",
+            "Opaque",
+            "Visible"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Opaque' means not allowing light through; it contrasts with transparent.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-065",
+          "question": "Choose the antonym of 'frequent'.",
+          "options": [
+            "Regular",
+            "Common",
+            "Occasional",
+            "Infrequent"
+          ],
+          "correctIndex": 3,
+          "explanation": "'Infrequent' means happening rarely, the opposite of frequent.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-066",
+          "question": "What does the idiom 'spill the beans' mean?",
+          "options": [
+            "Reveal a secret",
+            "Cook a meal",
+            "Waste food",
+            "Start an argument"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means disclose secret information.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-067",
+          "question": "What does 'get cold feet' mean?",
+          "options": [
+            "Feel suddenly nervous and hesitate",
+            "Become ill with a fever",
+            "Walk in cold weather",
+            "Forget an appointment"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom describes becoming nervous and reluctant to proceed.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-068",
+          "question": "What does 'a blessing in disguise' mean?",
+          "options": [
+            "Something that seems bad at first but leads to a good result",
+            "A gift hidden in a room",
+            "An event with no consequences",
+            "A promise that is broken"
+          ],
+          "correctIndex": 0,
+          "explanation": "The phrase describes an apparent misfortune that turns out beneficial.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-069",
+          "question": "What does 'keep an eye on' mean?",
+          "options": [
+            "Watch or monitor",
+            "Ignore completely",
+            "Look for a lost object",
+            "Make a drawing"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means watch something or someone carefully.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-070",
+          "question": "What does 'cost an arm and a leg' mean?",
+          "options": [
+            "Be very expensive",
+            "Be completely free",
+            "Cause a minor delay",
+            "Require physical exercise"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means cost a great deal of money.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-071",
+          "question": "Which sentence is in the subjunctive mood?",
+          "options": [
+            "I suggest that he be present at the meeting.",
+            "He is present at the meeting.",
+            "He was present yesterday.",
+            "He will be present tomorrow."
+          ],
+          "correctIndex": 0,
+          "explanation": "The mandative subjunctive uses the base form 'be' after expressions such as 'suggest that'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-072",
+          "question": "Which sentence uses a relative pronoun correctly?",
+          "options": [
+            "The woman whom I met was helpful.",
+            "The woman which I met was helpful.",
+            "The woman whose I met was helpful.",
+            "The woman where I met was helpful."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Whom' can function as the object of 'met' when referring to a person.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-073",
+          "question": "Which sentence correctly uses 'who' as a subject pronoun?",
+          "options": [
+            "The student who answered first received a certificate.",
+            "The student whom answered first received a certificate.",
+            "The student which answered first received a certificate.",
+            "The student whose answered first received a certificate."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Who' is the subject of the relative clause 'who answered first'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-074",
+          "question": "Which sentence contains a participial phrase?",
+          "options": [
+            "Feeling exhausted, Maya went to bed early.",
+            "Maya went to bed early because she was exhausted.",
+            "Maya was exhausted and went to bed.",
+            "Maya went to bed early."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Feeling exhausted' is a participial phrase modifying Maya.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-075",
+          "question": "Which sentence contains an infinitive of purpose?",
+          "options": [
+            "He went to the library to borrow a book.",
+            "He enjoys borrowing books.",
+            "Borrowing books is useful.",
+            "The borrowed book is new."
+          ],
+          "correctIndex": 0,
+          "explanation": "'To borrow a book' explains the purpose of going to the library.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-076",
+          "question": "Which sentence is grammatically parallel?",
+          "options": [
+            "The course teaches learners to read, to write and to speak clearly.",
+            "The course teaches learners reading, to write and speaking clearly.",
+            "The course teaches learners to read, writing and to speak clearly.",
+            "The course teaches learners read, to writing and speak clearly."
+          ],
+          "correctIndex": 0,
+          "explanation": "The three infinitive phrases have matching grammatical form.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-077",
+          "question": "Which option best combines the sentences: 'The road was flooded. We took another route.'",
+          "options": [
+            "The road was flooded, so we took another route.",
+            "The road was flooded because we took another route.",
+            "Although the road was flooded, so we took another route.",
+            "The road flooded, unless we took another route."
+          ],
+          "correctIndex": 0,
+          "explanation": "'So' correctly signals the result of the flooded road.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-078",
+          "question": "Which option best combines: 'She practised daily. She improved her pronunciation.'",
+          "options": [
+            "She improved her pronunciation because she practised daily.",
+            "She practised daily unless she improved her pronunciation.",
+            "She improved her pronunciation, but she practised daily.",
+            "She practised daily although she improved her pronunciation."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Because' connects the improvement with its reason.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-079",
+          "question": "Which sentence is an appropriate formal email closing?",
+          "options": [
+            "Yours sincerely,",
+            "See ya,",
+            "Catch you later,",
+            "Cheers mate,"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Yours sincerely' is a conventional formal closing when the recipient is named.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-080",
+          "question": "Which sentence is most suitable for a formal report?",
+          "options": [
+            "The findings indicate a gradual increase in attendance.",
+            "Attendance went up loads, which was pretty cool.",
+            "Kids came in more, I guess.",
+            "Lots more people showed up, sort of."
+          ],
+          "correctIndex": 0,
+          "explanation": "The first sentence uses precise, objective language suited to a report.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-081",
+          "question": "Which sentence best avoids wordiness?",
+          "options": [
+            "The meeting was postponed.",
+            "The meeting was postponed to a later future date.",
+            "The meeting was postponed and delayed until later on.",
+            "The meeting was postponed at a point in time later."
+          ],
+          "correctIndex": 0,
+          "explanation": "The concise sentence communicates the information without redundant wording.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-082",
+          "question": "Which is the best paraphrase of 'The task was challenging, but achievable'?",
+          "options": [
+            "The task was difficult yet possible to complete.",
+            "The task was impossible to finish.",
+            "The task was simple and required no effort.",
+            "The task was difficult, so it was abandoned."
+          ],
+          "correctIndex": 0,
+          "explanation": "The paraphrase preserves both ideas: difficulty and possibility.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-083",
+          "question": "Which note-taking method organizes ideas around a central topic with branches?",
+          "options": [
+            "Mind map",
+            "Alphabetical index only",
+            "Continuous verbatim transcript",
+            "Random word list"
+          ],
+          "correctIndex": 0,
+          "explanation": "A mind map places a central idea at the centre and connects related ideas through branches.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-084",
+          "question": "Which strategy is most useful when a learner encounters an unfamiliar word while reading?",
+          "options": [
+            "Use context clues and word parts before checking a dictionary",
+            "Skip the whole paragraph automatically",
+            "Assume the first guessed meaning is always correct",
+            "Stop reading and memorize the entire page"
+          ],
+          "correctIndex": 0,
+          "explanation": "Context and morphology can help infer meaning; a dictionary can then confirm it.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-085",
+          "question": "Which task primarily assesses inferential reading?",
+          "options": [
+            "Explain why a character may have acted as they did using clues from the story",
+            "Copy a sentence stated in the passage",
+            "Identify the printed page number",
+            "Count the words in the title"
+          ],
+          "correctIndex": 0,
+          "explanation": "Inference requires interpreting clues beyond directly stated information.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-086",
+          "question": "Which task primarily assesses critical reading?",
+          "options": [
+            "Examine whether the writer's evidence supports the claim",
+            "Locate a date explicitly mentioned",
+            "Match a word to its dictionary definition",
+            "Read the passage aloud at a steady pace"
+          ],
+          "correctIndex": 0,
+          "explanation": "Critical reading evaluates claims, reasoning and supporting evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-087",
+          "question": "Which activity can help learners recognize a text's organization?",
+          "options": [
+            "Label the introduction, supporting points and conclusion",
+            "Count the letters in each sentence",
+            "Copy every noun into a list",
+            "Memorize the page numbers"
+          ],
+          "correctIndex": 0,
+          "explanation": "Identifying text sections helps learners notice structure and organization.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-088",
+          "question": "Which is a suitable while-listening activity for a short dialogue?",
+          "options": [
+            "Complete a table with key details such as place, time and purpose",
+            "Write a review before listening",
+            "Predict the title after the recording ends",
+            "Copy the transcript before the audio begins"
+          ],
+          "correctIndex": 0,
+          "explanation": "A focused information table directs attention to key details during listening.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-089",
+          "question": "Which is a useful post-listening activity?",
+          "options": [
+            "Compare answers and discuss which clues in the audio support them",
+            "Guess the topic without hearing the audio",
+            "Read unrelated vocabulary silently",
+            "Repeat the audio's first word only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reviewing answers against audio evidence consolidates comprehension.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-090",
+          "question": "Which teacher prompt is most likely to elicit an extended spoken response?",
+          "options": [
+            "What led you to that conclusion? Explain your reasoning.",
+            "Is the answer A?",
+            "Did you finish?",
+            "Is this a book?"
+          ],
+          "correctIndex": 0,
+          "explanation": "An open prompt asking for reasoning encourages a longer, elaborated response.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-091",
+          "question": "Which activity gives learners a reason to exchange information orally?",
+          "options": [
+            "An information-gap task where each partner has different details",
+            "Silent copying from the board",
+            "Individual word matching with all answers shown",
+            "Teacher lecture with no learner response"
+          ],
+          "correctIndex": 0,
+          "explanation": "An information gap creates a communicative need to ask and share information.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-092",
+          "question": "Which feature is essential to a useful writing rubric?",
+          "options": [
+            "Clear criteria that describe observable qualities of the work",
+            "Vague impressions without stated standards",
+            "A score based only on handwriting",
+            "Different criteria for each learner without explanation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Clear, observable criteria make expectations and feedback understandable.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-093",
+          "question": "Which feedback comment is most actionable?",
+          "options": [
+            "Add a topic sentence that states the paragraph's main idea.",
+            "This is bad.",
+            "Try harder next time.",
+            "Your writing is not good enough."
+          ],
+          "correctIndex": 0,
+          "explanation": "The comment identifies a specific revision the learner can make.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-094",
+          "question": "Which assessment is formative?",
+          "options": [
+            "A brief exit ticket used to plan the next lesson",
+            "A final examination used only to certify completion",
+            "A certificate awarded at the end of the year",
+            "A rank published after the course"
+          ],
+          "correctIndex": 0,
+          "explanation": "Formative assessment gathers evidence during learning to guide next steps.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-095",
+          "question": "Which assessment is summative?",
+          "options": [
+            "An end-of-unit test used to report achievement",
+            "A mid-lesson question used to adjust explanation",
+            "A draft conference during writing",
+            "A quick thumbs-up check before practice"
+          ],
+          "correctIndex": 0,
+          "explanation": "Summative assessment evaluates achievement at the end of a learning period.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-096",
+          "question": "Which practice improves the fairness of a language test?",
+          "options": [
+            "Ensure tasks align with taught objectives and provide accessible, clear instructions",
+            "Include obscure content unrelated to the construct",
+            "Use confusing wording to increase difficulty",
+            "Change scoring criteria after seeing responses"
+          ],
+          "correctIndex": 0,
+          "explanation": "Alignment and clear access reduce irrelevant barriers to demonstrating the target skill.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-097",
+          "question": "Which statement describes reliability in assessment?",
+          "options": [
+            "The results are reasonably consistent across comparable occasions or raters",
+            "The test measures exactly the intended construct",
+            "The test is enjoyable for every learner",
+            "The test contains a large number of pages"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reliability concerns consistency of measurement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-098",
+          "question": "Which statement describes validity in assessment?",
+          "options": [
+            "The assessment supports the intended interpretation of what learners know or can do",
+            "The same score is always produced by every test",
+            "The test has decorative pictures",
+            "The test is completed quickly"
+          ],
+          "correctIndex": 0,
+          "explanation": "Validity concerns whether evidence supports the intended interpretation and use of results.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-099",
+          "question": "Which is an example of self-assessment?",
+          "options": [
+            "A learner uses success criteria to review their own draft and set a goal",
+            "A teacher records attendance",
+            "A parent signs a permission slip",
+            "A peer assigns a grade without criteria"
+          ],
+          "correctIndex": 0,
+          "explanation": "Self-assessment involves learners judging their own work against criteria and identifying next steps.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-004-100",
+          "question": "Which approach best supports mixed-proficiency groups?",
+          "options": [
+            "Use flexible grouping and scaffold tasks while keeping meaningful shared goals",
+            "Permanently separate learners by presumed ability",
+            "Give advanced learners all teaching responsibilities",
+            "Remove challenging content from every task"
+          ],
+          "correctIndex": 0,
+          "explanation": "Flexible grouping and scaffolding respond to needs without fixed labels or eliminating worthwhile learning.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

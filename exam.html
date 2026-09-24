@@ -1,0 +1,305 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <meta
+    name="description"
+    content="AP Special TET Paper-II CBT practice examination."
+  />
+
+  <meta name="theme-color" content="#1359a8" />
+
+  <title>CBT Examination | AP TET Practice</title>
+
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/exam.css" />
+
+  <script src="js/storage.js" defer></script>
+  <script src="data/test-registry.js" defer></script>
+  <script src="js/bank-loader.js" defer></script>
+  <script src="js/exam-engine.js" defer></script>
+</head>
+
+<body>
+  <div class="app-shell">
+
+    <header class="exam-header">
+      <a href="index.html" class="brand">
+        <span class="brand-icon">📘</span>
+        <span>
+          <strong>AP TET Practice</strong>
+          <small>Computer Based Test</small>
+        </span>
+      </a>
+
+      
+    <div class="timer-controls">
+    <div class="timer-box">
+        <span>Time remaining</span>
+        <strong id="examTimer">150:00</strong>
+    </div>
+
+    <button
+        type="button"
+        id="pauseButton"
+        class="button button-outline"
+    >
+        Pause Test
+    </button>
+    </div>
+    </header>
+
+    <main class="exam-main">
+
+      <!-- Loading / error messages -->
+      <div id="loadingMessage" class="status-message">
+        Loading your examination...
+      </div>
+
+      <div id="errorMessage" class="status-message error-message" hidden>
+        Unable to load this test. Please return to the practice page.
+      </div>
+
+      <!-- Exam interface -->
+      <section id="examInterface" hidden>
+
+        <div class="exam-title-row">
+          <div>
+            <span class="eyebrow" id="examTrackLabel">
+              PAPER-II A
+            </span>
+
+            <h1 id="examTitle">Practice Test</h1>
+
+            <p id="examSubtitle"></p>
+          </div>
+
+          <div class="exam-progress-summary">
+            <strong id="overallProgress">0 / 150</strong>
+            <span>Answered</span>
+          </div>
+        </div>
+
+        <!-- Section tabs -->
+        <nav
+          id="sectionTabs"
+          class="section-tabs"
+          aria-label="Exam sections"
+        ></nav>
+
+        <!-- Progress bar -->
+        <div class="progress-track">
+          <div id="progressFill" class="progress-fill"></div>
+        </div>
+
+        <div class="exam-layout">
+
+          <!-- Main question panel -->
+          <section class="question-panel">
+
+            <div class="question-topline">
+              <span id="sectionLabel">Section 1</span>
+              <span id="questionCounter">Question 1</span>
+            </div>
+
+            <div class="question-content">
+              <h2 id="questionText">Question will appear here.</h2>
+
+              <div
+                id="optionsContainer"
+                class="options-container"
+                role="group"
+                aria-label="Answer options"
+              ></div>
+            </div>
+
+            <!-- Explanation -->
+            <section
+              id="feedbackPanel"
+              class="feedback-panel"
+              aria-live="polite"
+              hidden
+            >
+              <div id="feedbackStatus" class="feedback-status"></div>
+
+              <p class="correct-answer-line">
+                <strong>Correct answer:</strong>
+                <span id="correctAnswerText"></span>
+              </p>
+
+              <h3 id="explanationHeading">Explanation</h3>
+
+              <p id="explanationText"></p>
+            </section>
+
+            <!-- Question controls -->
+            <div class="question-actions">
+              <button
+                type="button"
+                id="previousButton"
+                class="button button-outline"
+              >
+                ← Previous
+              </button>
+
+              <button
+                type="button"
+                id="submitButton"
+                class="button button-primary"
+                disabled
+              >
+                Submit Answer
+              </button>
+
+              <button
+                type="button"
+                id="nextButton"
+                class="button button-primary"
+              >
+                Next →
+              </button>
+            </div>
+
+            <p id="questionMessage" class="question-message"></p>
+
+          </section>
+
+          <!-- Question palette -->
+          <aside class="question-sidebar">
+
+            <h2>Question Palette</h2>
+
+            <div class="palette-legend">
+              <span><i class="legend-dot unanswered"></i> Unanswered</span>
+              <span><i class="legend-dot answered"></i> Answered</span>
+              <span><i class="legend-dot current"></i> Current</span>
+            </div>
+
+            <div
+              id="questionPalette"
+              class="question-palette"
+              aria-label="Question navigation"
+            ></div>
+
+            <div class="sidebar-summary">
+              <div>
+                <span>Answered</span>
+                <strong id="sidebarAnswered">0</strong>
+              </div>
+
+              <div>
+                <span>Remaining</span>
+                <strong id="sidebarRemaining">0</strong>
+              </div>
+            </div>
+
+            <button
+              type="button"
+              id="finishSectionButton"
+              class="button button-green finish-button"
+            >
+              Finish Section
+            </button>
+
+          </aside>
+        </div>
+
+      </section>
+
+      <!-- Section result -->
+      <section id="sectionResult" class="result-panel" hidden>
+        <span class="eyebrow">SECTION COMPLETED</span>
+
+        <h1 id="sectionResultTitle">Section Result</h1>
+
+        <p id="sectionResultDescription"></p>
+
+        <div class="result-stats">
+          <div>
+            <span>Score</span>
+            <strong id="sectionScore">0 / 30</strong>
+          </div>
+
+          <div>
+            <span>Correct</span>
+            <strong id="sectionCorrect">0</strong>
+          </div>
+
+          <div>
+            <span>Incorrect</span>
+            <strong id="sectionIncorrect">0</strong>
+          </div>
+
+          <div>
+            <span>Unanswered</span>
+            <strong id="sectionUnanswered">0</strong>
+          </div>
+        </div>
+
+        <button
+          type="button"
+          id="continueSectionButton"
+          class="button button-primary"
+        >
+          Continue to Next Section →
+        </button>
+      </section>
+
+      <!-- Final result -->
+      <section id="finalResult" class="result-panel" hidden>
+        <span class="eyebrow">PRACTICE TEST COMPLETED</span>
+
+        <h1>Test Completed!</h1>
+
+        <p id="finalResultDescription">
+          Your final practice result is ready.
+        </p>
+
+        <div class="final-score-card">
+          <span>Your Score</span>
+          <strong id="finalScore">0 / 150</strong>
+          <span id="finalPercentage">0%</span>
+        </div>
+
+        <div class="result-stats">
+          <div>
+            <span>Correct</span>
+            <strong id="finalCorrect">0</strong>
+          </div>
+
+          <div>
+            <span>Incorrect</span>
+            <strong id="finalIncorrect">0</strong>
+          </div>
+
+          <div>
+            <span>Unanswered</span>
+            <strong id="finalUnanswered">0</strong>
+          </div>
+
+          <div>
+            <span>Time Used</span>
+            <strong id="finalTimeUsed">—</strong>
+          </div>
+        </div>
+
+        <h2>Section-wise Performance</h2>
+
+        <div id="finalSectionResults" class="section-results"></div>
+
+        <h2>Review Answers & Explanations</h2>
+
+        <div id="answerReview" class="answer-review"></div>
+
+        <a href="index.html#subjects" class="button button-primary">
+          Return to Home
+        </a>
+      </section>
+
+    </main>
+  </div>
+</body>
+</html>

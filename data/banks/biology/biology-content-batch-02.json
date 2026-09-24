@@ -1,0 +1,1314 @@
+{
+  "track": "maths",
+  "testId": "biology-content-batch-02",
+  "title": "AP Special TET Biological Science — Content & Pedagogy Batch 02",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "biology-content-02",
+      "title": "Biological Science Content and Pedagogy",
+      "questions": [
+        {
+          "id": "biology-content-002-001",
+          "question": "Which organelle contains most of the genetic material in a typical eukaryotic cell?",
+          "options": [
+            "Nucleus",
+            "Ribosome",
+            "Golgi body",
+            "Cell wall"
+          ],
+          "correctIndex": 0,
+          "explanation": "The nucleus contains most of a eukaryotic cell's DNA, organized into chromosomes.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-002",
+          "question": "Which cell structure is the main site of lipid synthesis in many cells?",
+          "options": [
+            "Smooth endoplasmic reticulum",
+            "Ribosome",
+            "Nucleolus",
+            "Centrosome"
+          ],
+          "correctIndex": 0,
+          "explanation": "The smooth endoplasmic reticulum participates in lipid synthesis and other metabolic functions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-003",
+          "question": "Lysosomes contain enzymes that mainly help in:",
+          "options": [
+            "Intracellular digestion",
+            "Photosynthesis",
+            "DNA replication only",
+            "Oxygen transport"
+          ],
+          "correctIndex": 0,
+          "explanation": "Lysosomal enzymes break down materials within the cell.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-004",
+          "question": "The plant cell wall is composed mainly of:",
+          "options": [
+            "Cellulose",
+            "Glycogen",
+            "Chitin in all plants",
+            "Haemoglobin"
+          ],
+          "correctIndex": 0,
+          "explanation": "Cellulose is the principal structural polysaccharide of most plant cell walls.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-005",
+          "question": "Osmosis is the net movement of water across a selectively permeable membrane from:",
+          "options": [
+            "Higher water potential to lower water potential",
+            "Lower water potential to higher water potential in all cases",
+            "A region with no water to a region with water only",
+            "Any region regardless of potential"
+          ],
+          "correctIndex": 0,
+          "explanation": "Water moves down its water-potential gradient across a selectively permeable membrane.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-006",
+          "question": "A plant cell placed in a sufficiently concentrated salt solution may become:",
+          "options": [
+            "Plasmolysed",
+            "Turgid",
+            "Unchanged under all conditions",
+            "A bacterial cell"
+          ],
+          "correctIndex": 0,
+          "explanation": "Water leaves the cell, causing the protoplast to shrink away from the cell wall.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-007",
+          "question": "The main function of chloroplasts is:",
+          "options": [
+            "Photosynthesis",
+            "Cellular digestion",
+            "Protein breakdown only",
+            "Water absorption from soil"
+          ],
+          "correctIndex": 0,
+          "explanation": "Chloroplasts contain photosynthetic machinery that converts light energy into chemical energy.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-008",
+          "question": "The light-dependent reactions of photosynthesis occur in the:",
+          "options": [
+            "Thylakoid membranes",
+            "Mitochondrial matrix",
+            "Nuclear membrane",
+            "Cytoplasm of animal cells"
+          ],
+          "correctIndex": 0,
+          "explanation": "Photosystems and electron transport components of the light reactions are located in thylakoid membranes.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-009",
+          "question": "The Calvin cycle uses carbon dioxide to help synthesize:",
+          "options": [
+            "Carbohydrate precursors",
+            "Oxygen gas directly",
+            "Nitrate ions",
+            "DNA bases only"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Calvin cycle fixes carbon dioxide into organic molecules using ATP and NADPH.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-010",
+          "question": "Which factor can limit photosynthesis when other factors are adequate?",
+          "options": [
+            "Carbon dioxide concentration",
+            "The plant's name",
+            "Leaf colour as a label only",
+            "Pot shape alone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Photosynthesis may be limited by carbon dioxide availability, light, temperature or other factors.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-011",
+          "question": "The breakdown of glucose to release usable energy in cells is part of:",
+          "options": [
+            "Cellular respiration",
+            "Transpiration",
+            "Pollination",
+            "Osmosis"
+          ],
+          "correctIndex": 0,
+          "explanation": "Cellular respiration transfers energy from organic molecules into ATP and other usable forms.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-012",
+          "question": "Aerobic respiration in eukaryotic cells mainly involves the:",
+          "options": [
+            "Mitochondria",
+            "Cell wall",
+            "Vacuole only",
+            "Stomata"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mitochondria host the link reaction, Krebs cycle and oxidative phosphorylation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-013",
+          "question": "The immediate energy currency commonly used by cells is:",
+          "options": [
+            "ATP",
+            "DNA",
+            "Cellulose",
+            "Chlorophyll"
+          ],
+          "correctIndex": 0,
+          "explanation": "ATP provides readily transferable energy for many cellular processes.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-014",
+          "question": "In humans, digestion of proteins begins mainly in the:",
+          "options": [
+            "Stomach",
+            "Mouth",
+            "Large intestine",
+            "Oesophagus"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pepsin in the stomach begins substantial protein digestion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-015",
+          "question": "The enzyme pepsin functions most effectively in:",
+          "options": [
+            "Acidic conditions",
+            "Strongly alkaline conditions",
+            "Pure oil",
+            "A vacuum"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pepsin is a stomach protease adapted to the acidic gastric environment.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-016",
+          "question": "Pancreatic amylase helps digest:",
+          "options": [
+            "Starch",
+            "Proteins only",
+            "Nucleic acids only",
+            "Mineral salts"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pancreatic amylase breaks starch into smaller carbohydrate molecules.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-017",
+          "question": "The finger-like projections that increase absorption in the small intestine are:",
+          "options": [
+            "Villi",
+            "Alveoli",
+            "Nephrons",
+            "Cilia of the trachea"
+          ],
+          "correctIndex": 0,
+          "explanation": "Villi increase the absorptive surface area of the small intestine.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-018",
+          "question": "The large intestine primarily absorbs:",
+          "options": [
+            "Water and electrolytes",
+            "Most amino acids from food",
+            "Oxygen from inhaled air",
+            "Bile pigments for photosynthesis"
+          ],
+          "correctIndex": 0,
+          "explanation": "The colon absorbs water and electrolytes and helps form faeces.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-019",
+          "question": "The functional unit of the lung where gas exchange occurs is the:",
+          "options": [
+            "Alveolus",
+            "Bronchiole cartilage",
+            "Larynx",
+            "Epiglottis"
+          ],
+          "correctIndex": 0,
+          "explanation": "Alveoli have thin walls and close contact with capillaries for gas exchange.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-020",
+          "question": "During inhalation, the diaphragm generally:",
+          "options": [
+            "Contracts and moves downward",
+            "Relaxes and moves downward",
+            "Stops moving permanently",
+            "Contracts upward into the chest"
+          ],
+          "correctIndex": 0,
+          "explanation": "Diaphragm contraction increases thoracic volume and lowers pressure, drawing air in.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-021",
+          "question": "The blood vessel carrying oxygenated blood from the lungs to the heart is the:",
+          "options": [
+            "Pulmonary vein",
+            "Pulmonary artery",
+            "Vena cava",
+            "Hepatic portal vein"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pulmonary veins return oxygenated blood to the left atrium.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-022",
+          "question": "The natural pacemaker of the human heart is the:",
+          "options": [
+            "Sinoatrial node",
+            "Atrioventricular valve",
+            "Aorta",
+            "Vena cava"
+          ],
+          "correctIndex": 0,
+          "explanation": "The sinoatrial node normally initiates the heartbeat's electrical impulses.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-023",
+          "question": "The liquid component of blood is:",
+          "options": [
+            "Plasma",
+            "Platelet",
+            "Erythrocyte",
+            "Neuron"
+          ],
+          "correctIndex": 0,
+          "explanation": "Plasma is the fluid matrix carrying cells and dissolved substances.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-024",
+          "question": "White blood cells are chiefly involved in:",
+          "options": [
+            "Defence and immune responses",
+            "Oxygen transport by haemoglobin",
+            "Clot formation alone",
+            "Bile production"
+          ],
+          "correctIndex": 0,
+          "explanation": "Leukocytes help protect the body against pathogens and abnormal cells.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-025",
+          "question": "The vessel that carries blood away from the heart is an:",
+          "options": [
+            "Artery",
+            "Vein",
+            "Lymph capillary",
+            "Alveolus"
+          ],
+          "correctIndex": 0,
+          "explanation": "Arteries carry blood away from the heart, regardless of its oxygen content.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-026",
+          "question": "The kidneys help maintain homeostasis by regulating:",
+          "options": [
+            "Water, ions and removal of metabolic wastes",
+            "Light intensity in the eye",
+            "Air movement in lungs",
+            "Food chewing"
+          ],
+          "correctIndex": 0,
+          "explanation": "Kidneys filter blood and adjust water and electrolyte balance while excreting wastes.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-027",
+          "question": "Urine is carried from each kidney to the urinary bladder by the:",
+          "options": [
+            "Ureter",
+            "Urethra",
+            "Renal artery",
+            "Nephron loop alone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ureters transport urine from the kidneys to the bladder.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-028",
+          "question": "The hormone that promotes water reabsorption in kidney collecting ducts is:",
+          "options": [
+            "Antidiuretic hormone (ADH)",
+            "Insulin",
+            "Thymosin",
+            "Calcitonin"
+          ],
+          "correctIndex": 0,
+          "explanation": "ADH increases water permeability in parts of the nephron, helping conserve water.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-029",
+          "question": "The endocrine gland often called the master gland because it regulates several other glands is the:",
+          "options": [
+            "Pituitary",
+            "Salivary gland",
+            "Sweat gland",
+            "Sebaceous gland"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pituitary hormones regulate several endocrine functions, although it is itself controlled by the hypothalamus.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-030",
+          "question": "Thyroxine production requires adequate:",
+          "options": [
+            "Iodine",
+            "Iron only",
+            "Sodium chloride only",
+            "Vitamin C only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Iodine is a component of thyroid hormones T3 and T4.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-031",
+          "question": "The part of the brain that regulates many autonomic functions, including breathing rhythm, is the:",
+          "options": [
+            "Medulla oblongata",
+            "Cerebellum only",
+            "Occipital lobe",
+            "Corpus callosum"
+          ],
+          "correctIndex": 0,
+          "explanation": "The medulla contains centres involved in vital autonomic functions such as breathing and cardiovascular control.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-032",
+          "question": "The sensory receptors for hearing are located in the:",
+          "options": [
+            "Cochlea",
+            "Retina",
+            "Olfactory bulb",
+            "Semicircular canals only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Hair cells in the cochlea convert sound-related vibrations into neural signals.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-033",
+          "question": "The image is focused on the retina mainly by the:",
+          "options": [
+            "Cornea and lens",
+            "Iris alone",
+            "Optic nerve",
+            "Eyelid"
+          ],
+          "correctIndex": 0,
+          "explanation": "The cornea provides much of the eye's refractive power, and the lens fine-tunes focus.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-034",
+          "question": "The iris controls the:",
+          "options": [
+            "Diameter of the pupil",
+            "Shape of the retina",
+            "Length of the optic nerve",
+            "Production of tears only"
+          ],
+          "correctIndex": 0,
+          "explanation": "The iris adjusts pupil size to regulate the amount of light entering the eye.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-035",
+          "question": "The basic unit of heredity is the:",
+          "options": [
+            "Gene",
+            "Tissue",
+            "Organ",
+            "Enzyme"
+          ],
+          "correctIndex": 0,
+          "explanation": "A gene is a DNA sequence associated with a functional product and inherited variation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-036",
+          "question": "The two alleles of a typical autosomal gene in a diploid organism are found at corresponding positions on:",
+          "options": [
+            "Homologous chromosomes",
+            "Different cell membranes",
+            "Ribosomes",
+            "Mitochondrial cristae only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Alleles occupy corresponding loci on homologous chromosomes.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-037",
+          "question": "A homozygous individual has:",
+          "options": [
+            "Two identical alleles at a gene locus",
+            "Two different alleles at every locus",
+            "No chromosomes",
+            "Only recessive traits in all cases"
+          ],
+          "correctIndex": 0,
+          "explanation": "Homozygosity means the two alleles at a locus are the same.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-038",
+          "question": "A heterozygous genotype contains:",
+          "options": [
+            "Two different alleles at a locus",
+            "Two identical alleles only",
+            "No alleles",
+            "Only mitochondrial DNA"
+          ],
+          "correctIndex": 0,
+          "explanation": "Heterozygous individuals carry different alleles at the locus.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-039",
+          "question": "In a cross Aa × Aa with complete dominance, the expected genotypic ratio is:",
+          "options": [
+            "1 AA : 2 Aa : 1 aa",
+            "3 AA : 1 aa",
+            "1 Aa : 1 aa",
+            "All Aa"
+          ],
+          "correctIndex": 0,
+          "explanation": "The four equally likely allele combinations yield a 1:2:1 genotype ratio.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-040",
+          "question": "The phenotypic ratio in that same monohybrid cross, assuming complete dominance, is:",
+          "options": [
+            "3 dominant : 1 recessive",
+            "1 dominant : 2 recessive",
+            "1:1",
+            "All recessive"
+          ],
+          "correctIndex": 0,
+          "explanation": "Three of four genotype combinations express the dominant phenotype.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-041",
+          "question": "Sex-linked traits in humans are often associated with genes on the:",
+          "options": [
+            "X chromosome",
+            "Mitochondrial ribosome",
+            "Cell wall",
+            "Y chromosome exclusively in all examples"
+          ],
+          "correctIndex": 0,
+          "explanation": "Many classic sex-linked traits are caused by genes on the X chromosome.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-042",
+          "question": "The process that produces genetically varied gametes is:",
+          "options": [
+            "Meiosis",
+            "Mitosis",
+            "Binary fission",
+            "Budding only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Meiosis includes recombination and independent assortment, creating variation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-043",
+          "question": "Crossing over occurs during:",
+          "options": [
+            "Prophase I of meiosis",
+            "Telophase of mitosis only",
+            "Cytokinesis in bacteria",
+            "G1 phase only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Homologous chromosomes exchange segments during prophase I.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-044",
+          "question": "A mutation is:",
+          "options": [
+            "A change in genetic material",
+            "Always beneficial",
+            "Always visible in appearance",
+            "A type of digestion"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mutations alter DNA sequence or chromosome structure and can have varied effects.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-045",
+          "question": "Natural selection acts directly on differences in:",
+          "options": [
+            "Phenotypes affecting survival or reproduction",
+            "Future needs of organisms",
+            "Traits acquired by intention only",
+            "Nonheritable wishes"
+          ],
+          "correctIndex": 0,
+          "explanation": "Selection operates through differences in phenotype that affect reproductive success.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-046",
+          "question": "Homologous structures in different species can indicate:",
+          "options": [
+            "Common ancestry",
+            "Identical habitats only",
+            "No evolutionary relationship",
+            "That all species are the same"
+          ],
+          "correctIndex": 0,
+          "explanation": "Homology reflects inheritance of structures from a common ancestor, often with modification.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-047",
+          "question": "The preserved remains or traces of ancient organisms are called:",
+          "options": [
+            "Fossils",
+            "Gametes",
+            "Enzymes",
+            "Antibodies"
+          ],
+          "correctIndex": 0,
+          "explanation": "Fossils provide evidence of past organisms and environments.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-048",
+          "question": "The scientific study of interactions between organisms and their environment is:",
+          "options": [
+            "Ecology",
+            "Cytology",
+            "Anatomy only",
+            "Taxonomy only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ecology examines relationships among organisms and between organisms and their environment.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-049",
+          "question": "A group of interacting populations of different species is a:",
+          "options": [
+            "Community",
+            "Population",
+            "Individual",
+            "Species name"
+          ],
+          "correctIndex": 0,
+          "explanation": "A community comprises populations of different species in an area.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-050",
+          "question": "All living organisms and nonliving components interacting in an area form an:",
+          "options": [
+            "Ecosystem",
+            "Organ",
+            "Population only",
+            "Tissue"
+          ],
+          "correctIndex": 0,
+          "explanation": "An ecosystem includes biotic communities and abiotic environmental components.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-051",
+          "question": "The first trophic level in a typical grazing food chain consists of:",
+          "options": [
+            "Producers",
+            "Primary consumers",
+            "Secondary consumers",
+            "Top carnivores"
+          ],
+          "correctIndex": 0,
+          "explanation": "Producers capture energy and support higher trophic levels.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-052",
+          "question": "A herbivore is generally a:",
+          "options": [
+            "Primary consumer",
+            "Producer",
+            "Decomposer only",
+            "Abiotic factor"
+          ],
+          "correctIndex": 0,
+          "explanation": "Herbivores feed on producers and are usually primary consumers.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-053",
+          "question": "Fungi and many bacteria act as decomposers by:",
+          "options": [
+            "Breaking down dead organic matter",
+            "Producing sunlight",
+            "Stopping nutrient cycling",
+            "Making all minerals disappear"
+          ],
+          "correctIndex": 0,
+          "explanation": "Decomposers break down organic matter and release nutrients for reuse.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-054",
+          "question": "Nitrogen fixation converts atmospheric nitrogen into:",
+          "options": [
+            "More biologically usable nitrogen compounds",
+            "Oxygen gas",
+            "Glucose directly",
+            "Pure protein without intermediates"
+          ],
+          "correctIndex": 0,
+          "explanation": "Nitrogen-fixing microbes reduce N₂ into compounds that can enter biological nitrogen pathways.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-055",
+          "question": "The process by which water vapour leaves plant leaves through stomata is:",
+          "options": [
+            "Transpiration",
+            "Translocation",
+            "Pollination",
+            "Fertilization"
+          ],
+          "correctIndex": 0,
+          "explanation": "Transpiration is water loss as vapour from aerial plant surfaces, especially stomata.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-056",
+          "question": "The movement of sugars through phloem is called:",
+          "options": [
+            "Translocation",
+            "Transpiration",
+            "Guttation only",
+            "Diffusion through xylem"
+          ],
+          "correctIndex": 0,
+          "explanation": "Phloem translocation distributes sugars and other organic solutes between plant sources and sinks.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-057",
+          "question": "The opening and closing of stomata are controlled by:",
+          "options": [
+            "Guard cells",
+            "Root cap cells",
+            "Xylem vessels",
+            "Pollen grains"
+          ],
+          "correctIndex": 0,
+          "explanation": "Changes in guard-cell turgor regulate stomatal aperture.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-058",
+          "question": "A seed contains an embryonic:",
+          "options": [
+            "Plant",
+            "Fungus in every case",
+            "Animal",
+            "Bacterium"
+          ],
+          "correctIndex": 0,
+          "explanation": "A seed contains a plant embryo, usually with stored nutrients and a protective coat.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-059",
+          "question": "The male reproductive part of a typical flower is the:",
+          "options": [
+            "Stamen",
+            "Carpel",
+            "Sepal",
+            "Petal"
+          ],
+          "correctIndex": 0,
+          "explanation": "The stamen consists of anther and filament and produces pollen.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-060",
+          "question": "The female reproductive structure of a typical flower is the:",
+          "options": [
+            "Carpel or pistil",
+            "Stamen",
+            "Petal",
+            "Sepal"
+          ],
+          "correctIndex": 0,
+          "explanation": "The carpel includes stigma, style and ovary.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-061",
+          "question": "The fusion of male and female gametes is called:",
+          "options": [
+            "Fertilization",
+            "Pollination",
+            "Germination",
+            "Transpiration"
+          ],
+          "correctIndex": 0,
+          "explanation": "Fertilization combines gametes to form a zygote.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-062",
+          "question": "Asexual reproduction typically involves:",
+          "options": [
+            "One parent and no fusion of gametes",
+            "Fusion of two gametes in every case",
+            "Meiosis in every organism",
+            "Formation of seeds only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Asexual reproduction occurs without gamete fusion and commonly produces genetically similar offspring.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-063",
+          "question": "Binary fission is a common mode of reproduction in:",
+          "options": [
+            "Many bacteria",
+            "Flowering plants only",
+            "Mammals",
+            "Birds"
+          ],
+          "correctIndex": 0,
+          "explanation": "Many bacteria reproduce by dividing one cell into two daughter cells.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-064",
+          "question": "Budding is seen in organisms such as:",
+          "options": [
+            "Yeast and Hydra",
+            "Humans only",
+            "Pine trees only",
+            "Earthworms exclusively"
+          ],
+          "correctIndex": 0,
+          "explanation": "Yeast and Hydra can reproduce asexually by budding.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-065",
+          "question": "The change from larva to adult through distinct developmental stages is:",
+          "options": [
+            "Metamorphosis",
+            "Pollination",
+            "Translocation",
+            "Osmosis"
+          ],
+          "correctIndex": 0,
+          "explanation": "Metamorphosis is a developmental transformation between life stages.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-066",
+          "question": "Which vitamin deficiency is associated with rickets in children?",
+          "options": [
+            "Vitamin D",
+            "Vitamin C",
+            "Vitamin K",
+            "Vitamin B12"
+          ],
+          "correctIndex": 0,
+          "explanation": "Vitamin D deficiency can impair bone mineralization and cause rickets.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-067",
+          "question": "Iron is essential for the formation of:",
+          "options": [
+            "Haemoglobin",
+            "Chlorophyll in humans",
+            "Bile salts only",
+            "Insulin only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Iron is a key component of haemoglobin's oxygen-binding haem groups.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-068",
+          "question": "A common cause of anaemia worldwide is deficiency of:",
+          "options": [
+            "Iron",
+            "Iodine only",
+            "Vitamin D only",
+            "Sodium"
+          ],
+          "correctIndex": 0,
+          "explanation": "Iron deficiency is a major cause of anaemia, although anaemia has multiple causes.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-069",
+          "question": "The pathogen responsible for cholera is a:",
+          "options": [
+            "Bacterium",
+            "Virus",
+            "Protozoan",
+            "Fungus"
+          ],
+          "correctIndex": 0,
+          "explanation": "Cholera is caused by the bacterium Vibrio cholerae.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-070",
+          "question": "HIV primarily attacks cells important to:",
+          "options": [
+            "Immune defence, especially CD4 T lymphocytes",
+            "Oxygen transport",
+            "Bone formation",
+            "Bile storage"
+          ],
+          "correctIndex": 0,
+          "explanation": "HIV targets CD4 T cells, weakening immune function over time without effective treatment.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-071",
+          "question": "Which measure helps prevent transmission of many infectious diseases?",
+          "options": [
+            "Hand hygiene and appropriate sanitation",
+            "Sharing contaminated needles",
+            "Ignoring safe food handling",
+            "Avoiding vaccination universally"
+          ],
+          "correctIndex": 0,
+          "explanation": "Hand hygiene and sanitation interrupt transmission routes for many pathogens.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-072",
+          "question": "Antigens are molecules or structures that can be recognized by:",
+          "options": [
+            "Components of the immune system",
+            "Only red blood cells for oxygen",
+            "Plant xylem",
+            "Digestive bile exclusively"
+          ],
+          "correctIndex": 0,
+          "explanation": "Antigens are recognized by antibodies or immune-cell receptors and can provoke specific responses.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-073",
+          "question": "The immune response after vaccination can be faster on later exposure because of:",
+          "options": [
+            "Immunological memory",
+            "Loss of all lymphocytes",
+            "Permanent fever",
+            "Reduced specificity"
+          ],
+          "correctIndex": 0,
+          "explanation": "Memory B and T cells support faster and stronger responses on subsequent exposure.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-074",
+          "question": "Which organism is a protozoan parasite that causes malaria?",
+          "options": [
+            "Plasmodium",
+            "Rhizobium",
+            "Lactobacillus",
+            "Penicillium"
+          ],
+          "correctIndex": 0,
+          "explanation": "Malaria is caused by Plasmodium species transmitted by infected Anopheles mosquitoes.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-075",
+          "question": "The vector that commonly transmits malaria is the:",
+          "options": [
+            "Female Anopheles mosquito",
+            "Housefly",
+            "Male Culex mosquito in all cases",
+            "Tick exclusively"
+          ],
+          "correctIndex": 0,
+          "explanation": "Female Anopheles mosquitoes transmit malaria parasites during blood feeding.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-076",
+          "question": "Which statement about antibiotics is correct?",
+          "options": [
+            "They act against susceptible bacteria, not viruses",
+            "They cure every viral infection",
+            "They are effective against all microbes equally",
+            "They replace immune function"
+          ],
+          "correctIndex": 0,
+          "explanation": "Antibiotics target bacterial processes and are not treatments for viral infections.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-077",
+          "question": "A balanced diet should include:",
+          "options": [
+            "A suitable range of nutrients in appropriate amounts",
+            "Only fats",
+            "Only protein",
+            "Only water"
+          ],
+          "correctIndex": 0,
+          "explanation": "A balanced diet supplies required macro- and micronutrients along with water and fibre.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-078",
+          "question": "The main function of dietary fibre is to:",
+          "options": [
+            "Support normal bowel function",
+            "Provide all essential amino acids",
+            "Carry oxygen in blood",
+            "Replace water"
+          ],
+          "correctIndex": 0,
+          "explanation": "Dietary fibre supports bowel regularity and can have additional metabolic benefits.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-079",
+          "question": "Which organ produces bile?",
+          "options": [
+            "Liver",
+            "Pancreas",
+            "Gallbladder",
+            "Stomach"
+          ],
+          "correctIndex": 0,
+          "explanation": "The liver produces bile; the gallbladder stores and concentrates it.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-080",
+          "question": "The gallbladder primarily:",
+          "options": [
+            "Stores and concentrates bile",
+            "Produces insulin",
+            "Filters blood to form urine",
+            "Makes red blood cells"
+          ],
+          "correctIndex": 0,
+          "explanation": "The gallbladder stores and concentrates bile between meals.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-081",
+          "question": "Which is an example of a communicable disease?",
+          "options": [
+            "Influenza",
+            "Scurvy",
+            "Rickets",
+            "Type 1 diabetes itself"
+          ],
+          "correctIndex": 0,
+          "explanation": "Influenza is an infectious disease that can spread between people.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-082",
+          "question": "A teacher asks students to observe stomata using a leaf impression. This chiefly develops:",
+          "options": [
+            "Practical observation and biological investigation skills",
+            "Only spelling",
+            "Speed reading alone",
+            "Memorization without evidence"
+          ],
+          "correctIndex": 0,
+          "explanation": "Preparing and examining an impression involves observation and practical inquiry.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-083",
+          "question": "In a controlled investigation, the dependent variable is the:",
+          "options": [
+            "Outcome measured",
+            "Factor deliberately changed",
+            "Factor held constant",
+            "Researcher's opinion"
+          ],
+          "correctIndex": 0,
+          "explanation": "The dependent variable is measured to determine the response to the independent variable.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-084",
+          "question": "When comparing germination under different conditions, students should use:",
+          "options": [
+            "Comparable seeds and controlled conditions, with repeated observations",
+            "Different seed types and no records",
+            "Only one seed with no comparison",
+            "Changed conditions without noting them"
+          ],
+          "correctIndex": 0,
+          "explanation": "Comparable material, controlled factors and repeated observations improve interpretability.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-085",
+          "question": "A good biological specimen drawing should be:",
+          "options": [
+            "Clear, proportionate and accurately labelled",
+            "Decorative with invented structures",
+            "Shaded until details disappear",
+            "Unrelated to the specimen"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scientific drawings should represent observed structures clearly and accurately.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-086",
+          "question": "A teacher uses a model of the respiratory system. Students should discuss:",
+          "options": [
+            "Which features it represents and which it simplifies",
+            "Why models are always exact replicas",
+            "Why observations are unnecessary",
+            "Only the model's colour"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reflecting on model limitations helps learners connect representation to biological reality.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-087",
+          "question": "Which approach is suitable for assessing students' classification skills?",
+          "options": [
+            "Ask them to use observable characteristics and justify grouping decisions",
+            "Ask only for favourite organisms",
+            "Score drawing decoration",
+            "Require unsupported guessing"
+          ],
+          "correctIndex": 0,
+          "explanation": "Classification tasks should assess use of features and reasoning for grouping.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-088",
+          "question": "A student has an incorrect idea about plant nutrition. A useful teaching response is to:",
+          "options": [
+            "Elicit the idea, investigate evidence and guide the student to revise it",
+            "Ridicule the answer",
+            "Ignore it in all future lessons",
+            "Require copying without explanation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Eliciting ideas and using evidence supports conceptual change.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-089",
+          "question": "Which activity best supports learning about a local ecosystem?",
+          "options": [
+            "Observe organisms and abiotic factors, record data and discuss relationships",
+            "Memorize a list without context",
+            "Collect organisms without safety or conservation rules",
+            "Assume every interaction is visible immediately"
+          ],
+          "correctIndex": 0,
+          "explanation": "Field observations connect ecosystem concepts to evidence while supporting scientific skills.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-090",
+          "question": "For a safe field study, a teacher should:",
+          "options": [
+            "Set boundaries, assess hazards and explain respectful specimen handling",
+            "Allow students to wander unsupervised",
+            "Encourage tasting unknown plants",
+            "Ignore weather and terrain"
+          ],
+          "correctIndex": 0,
+          "explanation": "Risk assessment, supervision and respectful handling are essential for safe fieldwork.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-091",
+          "question": "An inclusive biology lesson can provide:",
+          "options": [
+            "Tactile or visual models, clear vocabulary and different ways to demonstrate learning",
+            "Only one inaccessible resource",
+            "No adaptations for anyone",
+            "Assessment based solely on speed"
+          ],
+          "correctIndex": 0,
+          "explanation": "Multiple representations and response options can improve access for diverse learners.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-092",
+          "question": "Which question encourages evidence-based interpretation of a food web?",
+          "options": [
+            "How might a decline in this population affect other linked populations, and why?",
+            "What is the longest species name?",
+            "Can you copy the diagram title?",
+            "Which organism is most attractive?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Tracing possible effects through feeding links requires reasoning about ecological relationships.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-093",
+          "question": "A learner's observation conflicts with a textbook illustration. The teacher should:",
+          "options": [
+            "Compare the observation, conditions and source representation before drawing conclusions",
+            "Tell the learner to change the observation",
+            "Assume the book cannot be questioned",
+            "Discard the specimen immediately"
+          ],
+          "correctIndex": 0,
+          "explanation": "Comparing evidence and representation helps resolve differences without dismissing observations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-094",
+          "question": "A practical assessment checklist should focus on:",
+          "options": [
+            "Observable skills and safety behaviours relevant to the task",
+            "Personal popularity",
+            "Unrelated handwriting style",
+            "Whether the learner agrees with the teacher"
+          ],
+          "correctIndex": 0,
+          "explanation": "A checklist should use relevant, observable criteria aligned to the practical objective.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-095",
+          "question": "Which objective is measurable for a lesson on blood circulation?",
+          "options": [
+            "Learners will trace the path of blood through the four heart chambers and major vessels",
+            "Learners will appreciate blood",
+            "Learners will know everything about health",
+            "Learners will become interested"
+          ],
+          "correctIndex": 0,
+          "explanation": "Tracing and naming a pathway is an observable performance that can be assessed.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-096",
+          "question": "A teacher asks students to explain why a control group is useful. This checks understanding of:",
+          "options": [
+            "How comparisons help evaluate the effect of a factor",
+            "The colour of laboratory equipment",
+            "The order of textbook pages",
+            "Only recall of vocabulary"
+          ],
+          "correctIndex": 0,
+          "explanation": "A control or comparison helps determine whether an outcome is associated with the factor being tested.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-097",
+          "question": "Which practice best models scientific integrity?",
+          "options": [
+            "Report data accurately, state limitations and distinguish evidence from interpretation",
+            "Alter measurements to support a claim",
+            "Hide contradictory observations",
+            "Copy another group's results as one's own"
+          ],
+          "correctIndex": 0,
+          "explanation": "Transparent and accurate reporting supports trustworthy scientific conclusions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-098",
+          "question": "Students compare two explanations for an ecological change. The teacher should ask them to:",
+          "options": [
+            "Identify evidence each explanation accounts for and what further evidence is needed",
+            "Choose the explanation with the most confident speaker",
+            "Vote without considering data",
+            "Avoid mentioning uncertainty"
+          ],
+          "correctIndex": 0,
+          "explanation": "Evaluating explanatory fit and identifying evidence needs develops scientific reasoning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-099",
+          "question": "A learner struggles with technical biology vocabulary. The teacher can:",
+          "options": [
+            "Use labelled diagrams, examples, word banks and opportunities to explain concepts",
+            "Exclude the learner from practical work",
+            "Assess biology only through accent",
+            "Avoid all visual supports"
+          ],
+          "correctIndex": 0,
+          "explanation": "Vocabulary scaffolds and visuals can support access without lowering conceptual expectations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-002-100",
+          "question": "A class studies disease prevention. The teacher should emphasize that:",
+          "options": [
+            "Prevention measures depend on the disease and its transmission route",
+            "One measure prevents every disease",
+            "Antibiotics prevent all viral infections",
+            "Personal hygiene makes vaccination unnecessary"
+          ],
+          "correctIndex": 0,
+          "explanation": "Disease control strategies should match the pathogen and transmission pathway.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

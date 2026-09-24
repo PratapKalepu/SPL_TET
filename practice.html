@@ -1,0 +1,230 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <meta
+    name="description"
+    content="Choose an AP Special TET Paper-II practice test."
+  />
+
+  <meta name="theme-color" content="#1359a8" />
+
+  <title>Practice Tests | AP TET Practice</title>
+
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/practice.css" />
+
+  <script src="data/test-registry.js" defer></script>
+  <script src="js/practice.js" defer></script>
+</head>
+
+<body>
+  <div class="app-shell">
+
+    <!-- Header -->
+    <header class="topbar">
+      <a class="brand" href="index.html">
+        <span class="brand-icon">📘</span>
+        <span>
+          <strong>AP TET Practice</strong>
+          <small>Special TET 2026</small>
+        </span>
+      </a>
+
+      <a class="back-link" href="index.html">
+        ← Home
+      </a>
+    </header>
+
+    <main class="practice-main">
+
+      <!-- Page heading -->
+      <section class="practice-heading">
+        <span class="eyebrow">PAPER-II A · PRACTICE ZONE</span>
+
+        <h1 id="trackTitle">Practice Tests</h1>
+
+        <p id="trackDescription">
+          Select a practice test to continue.
+        </p>
+      </section>
+
+      <!-- Track summary -->
+      <section class="track-summary" aria-live="polite">
+        <div class="track-summary-icon" id="trackIcon">📚</div>
+
+        <div>
+          <span class="summary-label">SELECTED SUBJECT</span>
+          <h2 id="selectedSubject">Loading subject...</h2>
+          <p id="selectedSubjectDescription"></p>
+        </div>
+      </section>
+
+      <!-- Test selection -->
+      <section id="testSelection">
+
+        <div class="practice-section-heading">
+          <div>
+            <h2>Choose your practice test</h2>
+            <p>Select a test to view its instructions.</p>
+          </div>
+        </div>
+
+        <div class="test-grid" id="testGrid">
+          <!-- Test cards are rendered by practice.js -->
+        </div>
+
+      </section>
+
+      <!-- Instructions -->
+      <section id="instructionsSection" hidden>
+
+        <button
+          type="button"
+          class="text-button"
+          id="backToTests"
+        >
+          ← Back to practice tests
+        </button>
+
+        <div class="instructions-card">
+
+          <span class="eyebrow">BEFORE YOU BEGIN</span>
+
+          <h2 id="instructionTitle">Test Instructions</h2>
+
+          <p id="instructionDescription"></p>
+
+          <div class="instruction-stats">
+            <div>
+              <span>Questions</span>
+              <strong id="instructionQuestions">—</strong>
+            </div>
+
+            <div>
+              <span>Maximum Marks</span>
+              <strong id="instructionMarks">—</strong>
+            </div>
+
+            <div>
+              <span>Duration</span>
+              <strong id="instructionDuration">—</strong>
+            </div>
+          </div>
+
+          <h3>Important instructions</h3>
+
+          <ol class="instruction-list">
+            <li>
+              Each question has multiple options.
+              Select the answer you consider correct.
+            </li>
+
+            <li>
+              Press Submit Answer to confirm your selection.
+            </li>
+
+            <li>
+              After submission, the system displays whether
+              your answer is correct or incorrect.
+            </li>
+
+            <li>
+              An explanation and the correct answer will
+              be displayed after every submission.
+            </li>
+
+            <li>
+              Once submitted, a question is locked for
+              that attempt. You cannot change or resubmit
+              your answer.
+            </li>
+
+            <li>
+              Your section score will be updated as you
+              progress through the test.
+            </li>
+
+            <li>
+              Your final score and performance report will
+              be displayed after completing the test.
+            </li>
+
+            <li>
+              These are practice tests, not an official
+              AP TET examination.
+            </li>
+          </ol>
+
+          <label class="agreement">
+            <input type="checkbox" id="agreeCheckbox" />
+
+            <span>
+              I have read and understood the instructions.
+            </span>
+          </label>
+
+          <button
+            type="button"
+            class="button button-primary start-test-button"
+            id="startTestButton"
+            disabled
+          >
+            Start Test →
+          </button>
+
+          <p class="start-message" id="startMessage">
+            Please accept the instructions to continue.
+          </p>
+
+        </div>
+
+      </section>
+
+      <!-- Error / fallback -->
+      <section id="invalidTrack" class="invalid-track" hidden>
+        <div class="progress-icon">⚠️</div>
+
+        <h2>Subject not selected</h2>
+
+        <p>
+          Please return to the home page and select
+          Mathematics or Telugu.
+        </p>
+
+        <a href="index.html#subjects" class="button button-primary">
+          Select Subject
+        </a>
+      </section>
+
+    </main>
+
+    <!-- Mobile bottom navigation -->
+    <footer class="bottom-nav">
+      <a href="index.html#home" class="bottom-link">
+        <span>⌂</span>
+        <small>Home</small>
+      </a>
+
+      <a href="index.html#subjects" class="bottom-link active">
+        <span>▤</span>
+        <small>Tests</small>
+      </a>
+
+      <a href="index.html#progress" class="bottom-link">
+        <span>▥</span>
+        <small>Progress</small>
+      </a>
+
+      <a href="index.html#about" class="bottom-link">
+        <span>⋯</span>
+        <small>About</small>
+      </a>
+    </footer>
+
+  </div>
+</body>
+</html>

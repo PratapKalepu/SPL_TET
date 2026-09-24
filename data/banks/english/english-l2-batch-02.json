@@ -1,0 +1,1314 @@
+{
+  "track": "telugu",
+  "testId": "english-l2-batch-02",
+  "title": "English Language-II — Core Batch 02",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "english-l2-02",
+      "title": "English Language-II",
+      "questions": [
+        {
+          "id": "english-l2-002-001",
+          "question": "Choose the correct article: He is ___ honest officer.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 1,
+          "explanation": "Use 'an' before the vowel sound at the beginning of 'honest'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-002",
+          "question": "Choose the correct article: We visited ___ Taj Mahal last year.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 2,
+          "explanation": "Names of unique monuments commonly take the definite article 'the'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-003",
+          "question": "Choose the correct form: Neither Rani nor her friends ___ present.",
+          "options": [
+            "was",
+            "is",
+            "were",
+            "has"
+          ],
+          "correctIndex": 2,
+          "explanation": "With 'neither...nor', the verb commonly agrees with the nearer subject, 'friends'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-004",
+          "question": "Choose the correct form: Each of the books ___ a different cover.",
+          "options": [
+            "have",
+            "has",
+            "are having",
+            "were"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Each' is singular and takes 'has'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-005",
+          "question": "Choose the correct form: The quality of these mangoes ___ excellent.",
+          "options": [
+            "are",
+            "is",
+            "were",
+            "have"
+          ],
+          "correctIndex": 1,
+          "explanation": "The head noun 'quality' is singular; 'of these mangoes' is a modifying phrase.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-006",
+          "question": "Choose the correct tense: I ___ my assignment before the teacher arrived.",
+          "options": [
+            "complete",
+            "have completed",
+            "had completed",
+            "will complete"
+          ],
+          "correctIndex": 2,
+          "explanation": "The past perfect marks the earlier of two past actions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-007",
+          "question": "Choose the correct tense: She usually ___ to school by bus.",
+          "options": [
+            "go",
+            "goes",
+            "is go",
+            "going"
+          ],
+          "correctIndex": 1,
+          "explanation": "The simple present expresses a regular habit; 'she' takes 'goes'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-008",
+          "question": "Choose the correct tense: Look! The dog ___ after the ball.",
+          "options": [
+            "runs",
+            "ran",
+            "is running",
+            "has run"
+          ],
+          "correctIndex": 2,
+          "explanation": "The present continuous describes an action happening now.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-009",
+          "question": "Choose the correct tense: They ___ the museum twice this month.",
+          "options": [
+            "visit",
+            "visited",
+            "have visited",
+            "had visit"
+          ],
+          "correctIndex": 2,
+          "explanation": "The present perfect is suitable for experience within a time period continuing to the present.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-010",
+          "question": "Choose the correct tense: By the time we reached the station, the train ___.",
+          "options": [
+            "leaves",
+            "has left",
+            "had left",
+            "will leave"
+          ],
+          "correctIndex": 2,
+          "explanation": "The past perfect shows that the train left before we reached the station.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-011",
+          "question": "Choose the correct preposition: The children are fond ___ music.",
+          "options": [
+            "with",
+            "of",
+            "for",
+            "at"
+          ],
+          "correctIndex": 1,
+          "explanation": "The expression is 'fond of'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-012",
+          "question": "Choose the correct preposition: He apologized ___ being late.",
+          "options": [
+            "for",
+            "about",
+            "with",
+            "at"
+          ],
+          "correctIndex": 0,
+          "explanation": "The verb 'apologize' is followed by 'for' when giving a reason.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-013",
+          "question": "Choose the correct preposition: The meeting begins ___ 10 a.m.",
+          "options": [
+            "in",
+            "on",
+            "at",
+            "by"
+          ],
+          "correctIndex": 2,
+          "explanation": "Use 'at' with a specific clock time.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-014",
+          "question": "Choose the correct preposition: My birthday is ___ July.",
+          "options": [
+            "at",
+            "on",
+            "in",
+            "by"
+          ],
+          "correctIndex": 2,
+          "explanation": "Use 'in' with months.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-015",
+          "question": "Choose the correct preposition: The picture is hanging ___ the wall.",
+          "options": [
+            "in",
+            "on",
+            "at",
+            "into"
+          ],
+          "correctIndex": 1,
+          "explanation": "Use 'on' for something attached to or displayed on a surface.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-016",
+          "question": "Choose the correct pronoun: This is the student ___ won the prize.",
+          "options": [
+            "which",
+            "who",
+            "whom",
+            "whose"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Who' is the subject relative pronoun referring to a person.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-017",
+          "question": "Choose the correct pronoun: The artist ___ paintings were displayed is famous.",
+          "options": [
+            "who",
+            "whom",
+            "whose",
+            "which"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Whose' expresses possession.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-018",
+          "question": "Choose the correct pronoun: The person to ___ I spoke was helpful.",
+          "options": [
+            "who",
+            "whom",
+            "whose",
+            "which"
+          ],
+          "correctIndex": 1,
+          "explanation": "In formal grammar, 'whom' is used as the object of the preposition 'to'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-019",
+          "question": "Choose the correct determiner: There isn't ___ milk left.",
+          "options": [
+            "many",
+            "much",
+            "few",
+            "several"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Milk' is uncountable, so 'much' is appropriate.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-020",
+          "question": "Choose the correct determiner: Only ___ students answered all the questions correctly.",
+          "options": [
+            "a little",
+            "much",
+            "a few",
+            "any"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Students' is countable plural; 'a few' means a small number.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-021",
+          "question": "Choose the correct comparative: This route is ___ than the highway.",
+          "options": [
+            "short",
+            "shorter",
+            "shortest",
+            "more shortest"
+          ],
+          "correctIndex": 1,
+          "explanation": "The comparative form of the short adjective 'short' is 'shorter'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-022",
+          "question": "Choose the correct superlative: Of the three plans, this is the ___.",
+          "options": [
+            "practical",
+            "more practical",
+            "most practical",
+            "practicalest"
+          ],
+          "correctIndex": 2,
+          "explanation": "Use 'most practical' as the superlative form.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-023",
+          "question": "Choose the correct form: The patient feels ___ today.",
+          "options": [
+            "good",
+            "well",
+            "bestly",
+            "betterly"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Well' can function as an adjective meaning in good health.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-024",
+          "question": "Choose the correct adverb: The athlete ran ___.",
+          "options": [
+            "quick",
+            "quickly",
+            "quickness",
+            "quicker"
+          ],
+          "correctIndex": 1,
+          "explanation": "The adverb 'quickly' modifies the verb 'ran'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-025",
+          "question": "Choose the correct word: Please speak ___; the baby is asleep.",
+          "options": [
+            "quiet",
+            "quietly",
+            "quietness",
+            "quieterly"
+          ],
+          "correctIndex": 1,
+          "explanation": "The adverb 'quietly' describes how to speak.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-026",
+          "question": "Choose the correct conjunction: You will succeed ___ you work consistently.",
+          "options": [
+            "unless",
+            "if",
+            "although",
+            "whereas"
+          ],
+          "correctIndex": 1,
+          "explanation": "'If' introduces the condition for success.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-027",
+          "question": "Choose the correct conjunction: ___ she was nervous, she delivered the speech well.",
+          "options": [
+            "Because",
+            "Although",
+            "Unless",
+            "So that"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Although' introduces a contrast.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-028",
+          "question": "Choose the correct conjunction: Hurry up, ___ you will miss the bus.",
+          "options": [
+            "and",
+            "but",
+            "or",
+            "because"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Or' introduces a warning about an alternative consequence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-029",
+          "question": "Choose the correct conjunction: He studied hard ___ he could pass the examination.",
+          "options": [
+            "so that",
+            "although",
+            "unless",
+            "where"
+          ],
+          "correctIndex": 0,
+          "explanation": "'So that' introduces purpose.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-030",
+          "question": "Choose the correct modal: You ___ not park here; it is prohibited.",
+          "options": [
+            "may",
+            "must",
+            "must",
+            "could"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Must not' expresses prohibition.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-031",
+          "question": "Choose the correct modal: ___ I borrow your dictionary for a moment?",
+          "options": [
+            "Must",
+            "May",
+            "Should to",
+            "Ought"
+          ],
+          "correctIndex": 1,
+          "explanation": "'May I...?' is a polite way to ask permission.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-032",
+          "question": "Choose the correct modal: You ___ see a dentist if the pain continues.",
+          "options": [
+            "should",
+            "would",
+            "might to",
+            "can to"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Should' expresses advice.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-033",
+          "question": "Choose the correct modal: When she was five, she ___ already read simple books.",
+          "options": [
+            "can",
+            "could",
+            "must",
+            "may"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Could' expresses past ability.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-034",
+          "question": "Choose the correct passive form: The workers clean the classrooms every day.",
+          "options": [
+            "The classrooms cleaned every day.",
+            "The classrooms are cleaned every day.",
+            "The classrooms were cleaning every day.",
+            "The workers are cleaned every day."
+          ],
+          "correctIndex": 1,
+          "explanation": "The simple present passive is formed with 'am/is/are + past participle'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-035",
+          "question": "Choose the correct passive form: The manager will announce the results tomorrow.",
+          "options": [
+            "The results will be announced tomorrow.",
+            "The results are announced yesterday.",
+            "The results will announce tomorrow.",
+            "The manager will be announced the results."
+          ],
+          "correctIndex": 0,
+          "explanation": "The future passive is 'will be + past participle'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-036",
+          "question": "Choose the correct passive form: Someone was following us.",
+          "options": [
+            "We followed someone.",
+            "We were being followed.",
+            "We are followed.",
+            "We had followed."
+          ],
+          "correctIndex": 1,
+          "explanation": "The past continuous passive is 'was/were being + past participle'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-037",
+          "question": "Choose the correct reported speech: Meena said, 'I have finished my work.'",
+          "options": [
+            "Meena said that she had finished her work.",
+            "Meena said that I have finished my work.",
+            "Meena says she finished her work tomorrow.",
+            "Meena said that she has finish her work."
+          ],
+          "correctIndex": 0,
+          "explanation": "In reported speech with a past reporting verb, 'have finished' usually backshifts to 'had finished'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-038",
+          "question": "Choose the correct reported speech: He said to me, 'Are you ready?'",
+          "options": [
+            "He asked me was I ready.",
+            "He asked me if I was ready.",
+            "He told me that are you ready.",
+            "He asked that I am ready."
+          ],
+          "correctIndex": 1,
+          "explanation": "A yes/no question is reported using 'if' or 'whether' and statement word order.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-039",
+          "question": "Choose the correct reported command: Mother said to me, 'Do not waste food.'",
+          "options": [
+            "Mother told me do not waste food.",
+            "Mother advised me not to waste food.",
+            "Mother said me not waste food.",
+            "Mother told that I did not waste food."
+          ],
+          "correctIndex": 1,
+          "explanation": "A negative command can be reported with 'told/advised + object + not to + verb'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-040",
+          "question": "Choose the correct question tag: She can swim, ___?",
+          "options": [
+            "can she",
+            "can't she",
+            "doesn't she",
+            "isn't she"
+          ],
+          "correctIndex": 1,
+          "explanation": "A positive statement with 'can' takes the negative tag 'can't she'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-041",
+          "question": "Choose the correct question tag: They weren't late, ___?",
+          "options": [
+            "were they",
+            "weren't they",
+            "did they",
+            "do they"
+          ],
+          "correctIndex": 0,
+          "explanation": "A negative statement takes a positive tag; the auxiliary is 'were'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-042",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "He has been working here for 2022.",
+            "He has worked here since 2022.",
+            "He is working here since 2022.",
+            "He works here since 2022."
+          ],
+          "correctIndex": 1,
+          "explanation": "Use 'since' with a starting point and a present-perfect form for a continuing situation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-043",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "She discussed about the issue.",
+            "She discussed the issue.",
+            "She discussed on the issue.",
+            "She was discussed the issue."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Discuss' takes a direct object and does not normally require 'about'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-044",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "We entered into the room quietly.",
+            "We entered the room quietly.",
+            "We entered to the room quietly.",
+            "We entered in the room quietly."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Enter' is normally transitive and takes a direct object without 'into' in this usage.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-045",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "He is good in mathematics.",
+            "He is good at mathematics.",
+            "He is good on mathematics.",
+            "He is good with mathematicses."
+          ],
+          "correctIndex": 1,
+          "explanation": "The usual expression for skill is 'good at'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-046",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "She is married with a doctor.",
+            "She is married to a doctor.",
+            "She married with a doctor.",
+            "She is marry to a doctor."
+          ],
+          "correctIndex": 1,
+          "explanation": "The conventional construction is 'married to someone'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-047",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "I have less books than you.",
+            "I have fewer books than you.",
+            "I have fewest books than you.",
+            "I have lesser books than you."
+          ],
+          "correctIndex": 1,
+          "explanation": "Use 'fewer' with countable plural nouns such as 'books'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-048",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "There are much people outside.",
+            "There are many people outside.",
+            "There is many people outside.",
+            "There are much persons outside."
+          ],
+          "correctIndex": 1,
+          "explanation": "Use 'many' with countable plural nouns.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-049",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "The scissors is on the table.",
+            "The scissors are on the table.",
+            "The scissor are on the table.",
+            "The scissors has on the table."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Scissors' is normally treated as a plural-only noun and takes 'are'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-050",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "A pair of shoes are missing.",
+            "A pair of shoes is missing.",
+            "A pair of shoe are missing.",
+            "A pair shoes is missing."
+          ],
+          "correctIndex": 1,
+          "explanation": "The head noun 'pair' is singular, so it takes 'is'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-051",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "Ten kilometres are a long distance to walk.",
+            "Ten kilometres is a long distance to walk.",
+            "Ten kilometre are long distance.",
+            "Ten kilometres have a long distance."
+          ],
+          "correctIndex": 1,
+          "explanation": "A measurement considered as one total amount commonly takes a singular verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-052",
+          "question": "Choose the correct word: The new policy will ___ all employees.",
+          "options": [
+            "affect",
+            "effect",
+            "affection",
+            "effective"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Affect' is the verb meaning to influence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-053",
+          "question": "Choose the correct word: The medicine had an immediate ___.",
+          "options": [
+            "affect",
+            "effect",
+            "effective",
+            "effectively"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Effect' is a noun meaning result.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-054",
+          "question": "Choose the correct word: The teacher gave us a useful ___.",
+          "options": [
+            "advice",
+            "advise",
+            "advised",
+            "advising"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Advice' is the noun; 'advise' is the verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-055",
+          "question": "Choose the correct word: Please ___ me about the schedule change.",
+          "options": [
+            "advice",
+            "advise",
+            "advisement",
+            "advisable"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Advise' is the verb meaning to inform or recommend.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-056",
+          "question": "Choose the correct spelling.",
+          "options": [
+            "separate",
+            "seperate",
+            "separete",
+            "seperete"
+          ],
+          "correctIndex": 0,
+          "explanation": "The correct spelling is 'separate'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-057",
+          "question": "Choose the correct spelling.",
+          "options": [
+            "necessary",
+            "neccessary",
+            "necesary",
+            "necessery"
+          ],
+          "correctIndex": 0,
+          "explanation": "The correct spelling is 'necessary'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-058",
+          "question": "Choose the correct spelling.",
+          "options": [
+            "privilege",
+            "priviledge",
+            "privelege",
+            "privillage"
+          ],
+          "correctIndex": 0,
+          "explanation": "The correct spelling is 'privilege'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-059",
+          "question": "Choose the correct spelling.",
+          "options": [
+            "environment",
+            "enviroment",
+            "envirnoment",
+            "environement"
+          ],
+          "correctIndex": 0,
+          "explanation": "The correct spelling is 'environment'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-060",
+          "question": "Choose the synonym of 'diligent'.",
+          "options": [
+            "Hardworking",
+            "Careless",
+            "Uncertain",
+            "Impatient"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Diligent' means showing careful and persistent effort.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-061",
+          "question": "Choose the synonym of 'tranquil'.",
+          "options": [
+            "Peaceful",
+            "Crowded",
+            "Harsh",
+            "Restless"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Tranquil' means calm and peaceful.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-062",
+          "question": "Choose the synonym of 'commence'.",
+          "options": [
+            "Begin",
+            "Delay",
+            "Finish",
+            "Refuse"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Commence' means begin.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-063",
+          "question": "Choose the synonym of 'obstacle'.",
+          "options": [
+            "Barrier",
+            "Reward",
+            "Shortcut",
+            "Agreement"
+          ],
+          "correctIndex": 0,
+          "explanation": "An 'obstacle' is something that blocks progress.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-064",
+          "question": "Choose the antonym of 'optimistic'.",
+          "options": [
+            "Hopeful",
+            "Positive",
+            "Pessimistic",
+            "Confident"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Pessimistic' expresses the opposite outlook to 'optimistic'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-065",
+          "question": "Choose the antonym of 'generous'.",
+          "options": [
+            "Kind",
+            "Charitable",
+            "Stingy",
+            "Helpful"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Stingy' means unwilling to give or share.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-066",
+          "question": "Choose the antonym of 'transparent'.",
+          "options": [
+            "Clear",
+            "Opaque",
+            "Visible",
+            "Obvious"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Opaque' means not allowing light through; it contrasts with 'transparent'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-067",
+          "question": "Choose the antonym of 'temporary'.",
+          "options": [
+            "Brief",
+            "Short-lived",
+            "Permanent",
+            "Occasional"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Permanent' means lasting or intended to last indefinitely.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-068",
+          "question": "What does the idiom 'spill the beans' mean?",
+          "options": [
+            "Reveal a secret",
+            "Cook a meal",
+            "Make a mess",
+            "Waste money"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means disclose secret information.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-069",
+          "question": "What does the idiom 'cost an arm and a leg' mean?",
+          "options": [
+            "Be very expensive",
+            "Be free of charge",
+            "Cause physical injury",
+            "Require teamwork"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means cost a great deal of money.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-070",
+          "question": "What does the idiom 'get cold feet' mean?",
+          "options": [
+            "Become nervous and hesitate",
+            "Feel physically cold",
+            "Start running",
+            "Become angry"
+          ],
+          "correctIndex": 0,
+          "explanation": "It means lose confidence or become apprehensive before an action.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-071",
+          "question": "What does the idiom 'keep an eye on' mean?",
+          "options": [
+            "Watch or monitor",
+            "Ignore completely",
+            "Look away",
+            "Close one's eyes"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means watch something carefully.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-072",
+          "question": "Choose the correct meaning of 'metaphor'.",
+          "options": [
+            "A direct comparison without 'like' or 'as'",
+            "A comparison using 'like' or 'as'",
+            "A repeated consonant sound",
+            "An exaggeration for effect"
+          ],
+          "correctIndex": 0,
+          "explanation": "A metaphor describes one thing as another to suggest a comparison.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-073",
+          "question": "Choose the correct meaning of 'simile'.",
+          "options": [
+            "A comparison using 'like' or 'as'",
+            "A direct command",
+            "A contradiction in terms",
+            "A sound word"
+          ],
+          "correctIndex": 0,
+          "explanation": "A simile makes a comparison using words such as 'like' or 'as'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-074",
+          "question": "Which sentence contains personification?",
+          "options": [
+            "The wind whispered through the trees.",
+            "The wind was strong.",
+            "The trees were tall.",
+            "The leaves were green."
+          ],
+          "correctIndex": 0,
+          "explanation": "The wind is given the human action 'whispered'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-075",
+          "question": "Which sentence contains alliteration?",
+          "options": [
+            "Silver stars shimmered softly.",
+            "The sky is blue.",
+            "She opened the door.",
+            "The child read a book."
+          ],
+          "correctIndex": 0,
+          "explanation": "The repeated initial /s/ sound creates alliteration.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-076",
+          "question": "Which sentence is an example of a hyperbole?",
+          "options": [
+            "I have told you a million times.",
+            "The room is clean.",
+            "She arrived at noon.",
+            "The book is on the desk."
+          ],
+          "correctIndex": 0,
+          "explanation": "Hyperbole is deliberate exaggeration for emphasis.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-077",
+          "question": "Which activity best practises intensive reading?",
+          "options": [
+            "Study a short passage closely for details, vocabulary and structure",
+            "Read many texts rapidly for pleasure only",
+            "Search a timetable for one time",
+            "Listen to a song without focusing on words"
+          ],
+          "correctIndex": 0,
+          "explanation": "Intensive reading involves close, detailed examination of a text.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-078",
+          "question": "Which activity best practises extensive reading?",
+          "options": [
+            "Read a longer, accessible story for overall meaning and enjoyment",
+            "Analyze every suffix in one sentence",
+            "Copy a paragraph repeatedly",
+            "Memorize a list of grammar definitions"
+          ],
+          "correctIndex": 0,
+          "explanation": "Extensive reading emphasizes reading larger amounts for general understanding and enjoyment.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-079",
+          "question": "A learner reads a passage to find a person's name. Which reading skill is being used?",
+          "options": [
+            "Scanning",
+            "Skimming",
+            "Predicting",
+            "Proofreading"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scanning is used to locate a specific item of information.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-080",
+          "question": "A learner quickly reads a newspaper article to understand its main point. This is:",
+          "options": [
+            "Skimming",
+            "Scanning",
+            "Dictation",
+            "Proofreading"
+          ],
+          "correctIndex": 0,
+          "explanation": "Skimming means reading quickly for the overall idea.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-081",
+          "question": "Which is the clearest example of making an inference?",
+          "options": [
+            "Conclude that a character is worried from her trembling hands and repeated questions",
+            "Copy a date printed in the passage",
+            "Count the paragraphs",
+            "Identify a word's first letter"
+          ],
+          "correctIndex": 0,
+          "explanation": "An inference combines clues in the text with reasoning to reach a conclusion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-082",
+          "question": "Which question checks understanding of an author's purpose?",
+          "options": [
+            "Why did the author write this passage?",
+            "How many lines are on the page?",
+            "What is the fourth word?",
+            "Which letter is capitalized?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Author's purpose concerns the reason for creating the text.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-083",
+          "question": "Which pre-reading strategy activates prior knowledge?",
+          "options": [
+            "Ask learners what they already know about the topic",
+            "Require a full written summary before reading",
+            "Test punctuation from the passage",
+            "Ask learners to copy the final paragraph"
+          ],
+          "correctIndex": 0,
+          "explanation": "Activating prior knowledge helps learners connect new information with existing knowledge.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-084",
+          "question": "Which post-reading activity encourages personal response?",
+          "options": [
+            "Discuss how the text connects with learners' experiences",
+            "Predict the title without reading",
+            "Copy every sentence exactly",
+            "Identify only the font size"
+          ],
+          "correctIndex": 0,
+          "explanation": "Connecting a text with personal experience encourages a response beyond literal recall.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-085",
+          "question": "Which activity best develops listening for sequence?",
+          "options": [
+            "Arrange picture cards in the order events are heard",
+            "Identify one speaker's name only",
+            "Read a passage silently",
+            "Write a synonym for the title"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ordering events according to what is heard checks comprehension of sequence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-086",
+          "question": "Which activity best develops listening discrimination?",
+          "options": [
+            "Identify whether two spoken words begin with the same sound",
+            "Summarize a long story from memory",
+            "Write an essay on a new topic",
+            "Scan a printed timetable"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sound discrimination involves noticing differences or similarities between speech sounds.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-087",
+          "question": "Which teacher action supports listening comprehension before playing a recording?",
+          "options": [
+            "Introduce the context and set a clear listening purpose",
+            "Give the transcript and ask learners not to listen",
+            "Ask learners to memorize the recording",
+            "Correct spelling before revealing the topic"
+          ],
+          "correctIndex": 0,
+          "explanation": "Context and a listening purpose help learners focus on relevant information.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-088",
+          "question": "Which activity primarily develops pronunciation awareness?",
+          "options": [
+            "Listen to and compare minimal pairs such as 'ship' and 'sheep'",
+            "Write a summary of a story",
+            "Scan a bus timetable",
+            "Arrange paragraphs by topic"
+          ],
+          "correctIndex": 0,
+          "explanation": "Minimal-pair work draws attention to contrasts between speech sounds.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-089",
+          "question": "Which is a productive language skill?",
+          "options": [
+            "Speaking",
+            "Listening",
+            "Reading",
+            "Viewing"
+          ],
+          "correctIndex": 0,
+          "explanation": "Speaking is productive because learners create spoken language.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-090",
+          "question": "Which is a receptive language skill?",
+          "options": [
+            "Writing",
+            "Speaking",
+            "Reading",
+            "Presenting"
+          ],
+          "correctIndex": 2,
+          "explanation": "Reading is receptive because learners interpret written language.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-091",
+          "question": "Which task provides a genuine purpose for speaking?",
+          "options": [
+            "Role-play asking for directions to a local place",
+            "Repeat a grammar rule without context",
+            "Copy ten sentences silently",
+            "Underline every adjective"
+          ],
+          "correctIndex": 0,
+          "explanation": "Asking for directions gives learners a practical communicative purpose.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-092",
+          "question": "Which activity is most suitable for practising polite requests?",
+          "options": [
+            "Role-play borrowing an item using expressions such as 'Could I...?'",
+            "Recite irregular verbs only",
+            "Copy a paragraph about weather",
+            "Identify nouns in a poem"
+          ],
+          "correctIndex": 0,
+          "explanation": "Role-play provides a context for practising request forms and appropriate politeness.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-093",
+          "question": "Which writing task is an example of functional writing?",
+          "options": [
+            "Write a notice announcing a school event",
+            "Compose a fantasy poem only",
+            "List unrelated adjectives",
+            "Copy a story without a reader"
+          ],
+          "correctIndex": 0,
+          "explanation": "A notice communicates practical information for a specific audience.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-094",
+          "question": "Which feature is essential in a formal letter?",
+          "options": [
+            "Appropriate salutation and closing",
+            "Unrelated slang throughout",
+            "No clear purpose",
+            "Random paragraph order"
+          ],
+          "correctIndex": 0,
+          "explanation": "Formal letters conventionally use suitable greetings and closings.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-095",
+          "question": "Which activity is part of drafting in the writing process?",
+          "options": [
+            "Turn an outline into an initial version of the text",
+            "Check only final punctuation after publication",
+            "Evaluate classmates' marks",
+            "Choose a textbook cover"
+          ],
+          "correctIndex": 0,
+          "explanation": "Drafting develops planned ideas into an initial written text.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-096",
+          "question": "Which activity is proofreading?",
+          "options": [
+            "Check the final draft for spelling, punctuation and typographical errors",
+            "Generate ideas before writing",
+            "Reorganize the entire argument",
+            "Choose a topic for an essay"
+          ],
+          "correctIndex": 0,
+          "explanation": "Proofreading focuses on surface-level errors in a near-final text.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-097",
+          "question": "Which is the main purpose of revising a composition?",
+          "options": [
+            "Improve ideas, organization and clarity",
+            "Count the number of letters",
+            "Change every noun to a pronoun",
+            "Check attendance"
+          ],
+          "correctIndex": 0,
+          "explanation": "Revision addresses content and structure to improve the text.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-098",
+          "question": "Which approach makes feedback more useful to a learner?",
+          "options": [
+            "Identify a specific strength and give a clear next step",
+            "Write only 'poor work'",
+            "Compare the learner mockingly with peers",
+            "Give comments unrelated to the objective"
+          ],
+          "correctIndex": 0,
+          "explanation": "Specific, constructive feedback tells learners what is working and what to improve.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-099",
+          "question": "Which assessment is conducted during instruction to guide next steps?",
+          "options": [
+            "Formative assessment",
+            "Only final certification",
+            "Placement after graduation",
+            "Aptitude label"
+          ],
+          "correctIndex": 0,
+          "explanation": "Formative assessment gathers evidence during learning to inform teaching and feedback.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-002-100",
+          "question": "Which assessment is mainly used to summarize achievement at the end of a unit?",
+          "options": [
+            "Summative assessment",
+            "Informal observation only",
+            "Brainstorming",
+            "Peer rehearsal"
+          ],
+          "correctIndex": 0,
+          "explanation": "Summative assessment evaluates achievement at the end of a period or unit.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1995 @@
+{
+  "track": "maths",
+  "testId": "maths-telugu-full-mock-03",
+  "title": "Full-Length Mock Test 03 — Maths & Science (Telugu L1)",
+  "durationMinutes": 150,
+  "reviewMode": "after-test",
+  "sections": [
+    {
+      "id": "maths-telugu-full-mock-03-section-1",
+      "title": "Child Development & Pedagogy",
+      "questions": [
+        {
+          "id": "maths-telugu-full-mock-03-s1-q001",
+          "question": "Peer learning is effective when:",
+          "options": [
+            "Learners have clear roles and a shared learning goal",
+            "One learner does all the work",
+            "The task has no purpose",
+            "The teacher prohibits discussion"
+          ],
+          "correctIndex": 0,
+          "explanation": "Structured collaboration encourages participation and keeps the group focused on learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q002",
+          "question": "Which is a sound principle for selecting instructional materials?",
+          "options": [
+            "Check accuracy, accessibility, relevance and alignment with objectives",
+            "Choose solely by appearance",
+            "Ignore learner reading access",
+            "Use materials without reviewing them"
+          ],
+          "correctIndex": 0,
+          "explanation": "Materials should support the objectives and be accurate and accessible.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q003",
+          "question": "Which is an example of multiple means of action and expression?",
+          "options": [
+            "Allow an appropriate written, oral or visual demonstration of learning",
+            "Require the same response mode regardless of barriers",
+            "Remove assessment criteria",
+            "Let learners skip the objective"
+          ],
+          "correctIndex": 0,
+          "explanation": "Different response modes can provide suitable ways to demonstrate learning while retaining the intended goal.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q004",
+          "question": "Which practice can support belonging for a learner who feels excluded?",
+          "options": [
+            "Listen respectfully, address exclusion and support meaningful participation",
+            "Dismiss the concern",
+            "Ask the learner to solve it alone",
+            "Make the concern public without consent"
+          ],
+          "correctIndex": 0,
+          "explanation": "Listening and taking appropriate action can support safety and participation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q005",
+          "question": "Which response best supports conflict de-escalation?",
+          "options": [
+            "Use a calm tone, create space and follow safety procedures",
+            "Raise one's voice to overpower everyone",
+            "Crowd the learner aggressively",
+            "Invite peers to intervene physically"
+          ],
+          "correctIndex": 0,
+          "explanation": "Calm communication and attention to safety can help reduce escalation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q006",
+          "question": "Kohlberg’s conventional level of moral reasoning often involves concern with:",
+          "options": [
+            "Social approval, rules and maintaining social order",
+            "Only avoiding physical discomfort",
+            "Abstract principles in every decision",
+            "Memory capacity"
+          ],
+          "correctIndex": 0,
+          "explanation": "Conventional reasoning commonly focuses on interpersonal expectations, rules and social order.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q007",
+          "question": "Erikson’s trust versus mistrust conflict is associated primarily with:",
+          "options": [
+            "Infancy",
+            "Adolescence",
+            "Middle adulthood",
+            "Late adulthood"
+          ],
+          "correctIndex": 0,
+          "explanation": "Trust versus mistrust is the psychosocial conflict Erikson associated with infancy.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q008",
+          "question": "A person follows laws because they support social order. This most closely reflects:",
+          "options": [
+            "Conventional reasoning",
+            "Preconventional reasoning",
+            "Sensorimotor thought",
+            "Object permanence"
+          ],
+          "correctIndex": 0,
+          "explanation": "Maintaining social order is associated with conventional moral reasoning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q009",
+          "question": "Which classroom practice best supports intrinsic motivation?",
+          "options": [
+            "Offering meaningful choice and achievable challenge",
+            "Threatening punishment for every error",
+            "Using rewards as the only reason to learn",
+            "Publicly ranking children"
+          ],
+          "correctIndex": 0,
+          "explanation": "Choice, relevance and appropriately challenging work can support interest and internal motivation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q010",
+          "question": "A learner has difficulty reading printed text. Which adjustment may improve access?",
+          "options": [
+            "Offer accessible digital text or audio when appropriate",
+            "Reduce all learning goals automatically",
+            "Exclude the learner from reading tasks",
+            "Give unrelated work"
+          ],
+          "correctIndex": 0,
+          "explanation": "Accessible formats can reduce barriers while keeping the learner connected to meaningful goals.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q011",
+          "question": "Which approach is most respectful when communicating with families from diverse backgrounds?",
+          "options": [
+            "Use clear language and check understanding without assumptions",
+            "Assume families have identical resources",
+            "Use unexplained technical terms",
+            "Treat questions as resistance"
+          ],
+          "correctIndex": 0,
+          "explanation": "Accessible, respectful communication avoids assumptions and supports shared understanding.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q012",
+          "question": "Worked examples are useful when they:",
+          "options": [
+            "Make important steps and reasoning visible for learners to study",
+            "Replace all later practice",
+            "Hide the process",
+            "Require memorisation without understanding"
+          ],
+          "correctIndex": 0,
+          "explanation": "Worked examples expose a solution process and can support learners as they build skill.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q013",
+          "question": "A child struggles to consider another person’s viewpoint. In Piagetian terms, this may relate to:",
+          "options": [
+            "Egocentrism in early childhood thought",
+            "Formal operational mastery",
+            "Reliability",
+            "Negative reinforcement"
+          ],
+          "correctIndex": 0,
+          "explanation": "Piaget used egocentrism to describe difficulty taking another perspective, especially in preoperational thought.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q014",
+          "question": "Which statement about bullying is appropriate?",
+          "options": [
+            "Repeated harmful behaviour involving a power imbalance requires a safe and timely response",
+            "Bullying should always be dismissed as ordinary conflict",
+            "Only physical harm counts",
+            "Learners should manage every case alone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bullying commonly involves repetition and a power imbalance, and schools should respond through appropriate safeguarding procedures.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q015",
+          "question": "Which is an example of a higher-order thinking task?",
+          "options": [
+            "Compare two explanations and defend the more convincing one",
+            "Recall a definition word for word",
+            "Copy a paragraph",
+            "List letters in order"
+          ],
+          "correctIndex": 0,
+          "explanation": "Comparing and defending explanations involves analysis and evaluation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q016",
+          "question": "A child calls every four-legged animal a dog, then revises the idea after seeing a cat. The revision illustrates:",
+          "options": [
+            "Accommodation",
+            "Assimilation only",
+            "Reinforcement",
+            "Conservation"
+          ],
+          "correctIndex": 0,
+          "explanation": "The child changes an existing schema to account for new information, illustrating accommodation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q017",
+          "question": "Assessment reliability concerns:",
+          "options": [
+            "Consistency of measurement",
+            "Whether all questions are difficult",
+            "The attractiveness of a worksheet",
+            "The number of classroom posters"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reliability is about consistency of measurement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q018",
+          "question": "Language development is supported when adults:",
+          "options": [
+            "Engage children in meaningful conversation and shared reading",
+            "Discourage children from asking questions",
+            "Provide no opportunities to communicate",
+            "Correct every utterance harshly"
+          ],
+          "correctIndex": 0,
+          "explanation": "Responsive conversation and shared reading expose children to language in meaningful contexts.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q019",
+          "question": "Counselling in a school setting should be:",
+          "options": [
+            "Respectful, confidential within appropriate limits, and supportive",
+            "A public punishment",
+            "A guarantee that every problem disappears immediately",
+            "A replacement for safeguarding"
+          ],
+          "correctIndex": 0,
+          "explanation": "School counselling should protect dignity and privacy while observing safety and referral obligations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q020",
+          "question": "Which is a sound use of grouping?",
+          "options": [
+            "Use flexible groups that change with task and evidence of need",
+            "Keep learners permanently ranked by one test",
+            "Group only by gender",
+            "Prevent learners from working with others"
+          ],
+          "correctIndex": 0,
+          "explanation": "Flexible grouping allows support and collaboration to respond to changing learning goals and evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q021",
+          "question": "A teacher uses a concept map to help learners organise ideas. This mainly supports:",
+          "options": [
+            "Making relationships among concepts visible",
+            "Replacing all discussion",
+            "Measuring physical strength",
+            "Ensuring rote recall only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Concept maps represent links among ideas and can support organisation and review.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q022",
+          "question": "Which strategy is interleaving?",
+          "options": [
+            "Mix different but related problem types during practice",
+            "Practise one problem type exclusively every time",
+            "Avoid comparing methods",
+            "Skip feedback"
+          ],
+          "correctIndex": 0,
+          "explanation": "Interleaving mixes problem types so learners practise identifying which approach fits.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q023",
+          "question": "A teacher provides enlarged print to a learner with low vision. This is an example of:",
+          "options": [
+            "An access accommodation",
+            "A punishment",
+            "A summative grade",
+            "A behavioural extinction procedure"
+          ],
+          "correctIndex": 0,
+          "explanation": "Accessible materials can remove barriers without changing the learning goal.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q024",
+          "question": "Backward design begins by identifying:",
+          "options": [
+            "Desired learning outcomes and evidence of achievement",
+            "The colour of the classroom walls",
+            "The easiest activity regardless of purpose",
+            "Homework quantity only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Backward design starts with outcomes, then determines evidence and learning experiences.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q025",
+          "question": "Norm-referenced interpretation compares a learner’s performance with:",
+          "options": [
+            "The performance of a reference group",
+            "A fixed mastery criterion only",
+            "The learner’s preferred subject",
+            "The teacher’s mood"
+          ],
+          "correctIndex": 0,
+          "explanation": "Norm-referenced scores indicate standing relative to a specified comparison group.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q026",
+          "question": "Which example best illustrates a sensitive period?",
+          "options": [
+            "A period when experience may have especially strong effects on a particular ability",
+            "A time when learning is impossible",
+            "A fixed age when all children master every skill",
+            "A period without environmental influence"
+          ],
+          "correctIndex": 0,
+          "explanation": "A sensitive period is a time when particular experiences can have especially strong developmental effects.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q027",
+          "question": "A teacher should interpret developmental milestones as:",
+          "options": [
+            "Broad guides with individual variation, not rigid deadlines",
+            "Identical requirements for every child",
+            "A basis for public comparison",
+            "Proof that development cannot be supported"
+          ],
+          "correctIndex": 0,
+          "explanation": "Milestones describe common patterns, while children may develop at different rates.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q028",
+          "question": "Which is a responsible interpretation of a correlation?",
+          "options": [
+            "It indicates an association but does not alone establish cause",
+            "It proves one variable caused the other",
+            "It means both variables are identical",
+            "It eliminates the need for further evidence"
+          ],
+          "correctIndex": 0,
+          "explanation": "Correlation alone cannot rule out confounding factors or alternative explanations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q029",
+          "question": "Which practice can help prevent overload during a complex explanation?",
+          "options": [
+            "Signal key ideas and remove irrelevant distractions",
+            "Add unrelated facts continuously",
+            "Use several conflicting instructions",
+            "Avoid organizing the explanation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Signposting and reducing irrelevant information help learners focus on essential content.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s1-q030",
+          "question": "A teacher notices that an assessment item is confusing many learners. The appropriate response is to:",
+          "options": [
+            "Review its wording and intended construct before interpreting scores",
+            "Assume all learners lack ability",
+            "Ignore the item analysis",
+            "Increase its weight automatically"
+          ],
+          "correctIndex": 0,
+          "explanation": "An unexpectedly confusing item should be examined for ambiguity or construct mismatch.",
+          "explanationLanguage": "en"
+        }
+      ]
+    },
+    {
+      "id": "maths-telugu-full-mock-03-section-2",
+      "title": "Language-I — Telugu",
+      "questions": [
+        {
+          "id": "maths-telugu-full-mock-03-s2-q001",
+          "question": "విద్యార్థులు సహచర రచనపై ‘రెండు బలాలు, ఒక సూచన’ ఇవ్వడం?",
+          "options": [
+            "నిర్మాణాత్మక సహచర అభిప్రాయం",
+            "సమాధానాన్ని ఆధారం లేకుండా ఎంపిక చేయడం",
+            "పాఠ్యంతో సంబంధం లేని వ్యక్తిగత ఊహను చెప్పడం",
+            "కేవలం పదాల సంఖ్యను లెక్కించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "సరైన సమాధానం: నిర్మాణాత్మక సహచర అభిప్రాయం. ఈ ఎంపిక ప్రశ్నలో సూచించిన భాషా నైపుణ్యం లేదా బోధనా లక్ష్యాన్ని నేరుగా వివరిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q002",
+          "question": "జీవిత చరిత్రలో ప్రధానంగా ఎవరి జీవితం వివరించబడుతుంది?",
+          "options": [
+            "మరొక వ్యక్తి జీవితం",
+            "కేవలం రచయిత కల్పన",
+            "ఒక వస్తువు నిర్మాణం",
+            "ఒక పదం అర్థం"
+          ],
+          "correctIndex": 0,
+          "explanation": "జీవిత చరిత్రలో రచయిత కాకుండా మరొక వ్యక్తి జీవితాన్ని వివరిస్తారు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q003",
+          "question": "ప్రశ్నకు సమాధానం మాత్రమే కాక కారణం అడగడం?",
+          "options": [
+            "పాఠ్యాన్ని చూడకుండా ఊహించడం",
+            "కేవలం అక్షరాల సంఖ్యను లెక్కించడం",
+            "సమాధానాన్ని యథాతథంగా నకలు చేయడం",
+            "ఆలోచన ప్రక్రియను వెలికితీయడం"
+          ],
+          "correctIndex": 3,
+          "explanation": "సరైన సమాధానం: ఆలోచన ప్రక్రియను వెలికితీయడం. ప్రశ్నలో సూచించిన భాషా లేదా అభ్యసన చర్యకు ఈ అంశమే నేరుగా సంబంధించినది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q004",
+          "question": "చదివిన కథకు ప్రత్యామ్నాయ ముగింపు రాయమని అడగడం ఏ స్థాయి అభ్యాసాన్ని ప్రోత్సహిస్తుంది?",
+          "options": [
+            "సృజనాత్మక అన్వయం",
+            "కేవలం పద గుర్తింపు",
+            "అక్షరలేఖనం",
+            "నకలు"
+          ],
+          "correctIndex": 0,
+          "explanation": "ప్రత్యామ్నాయ ముగింపు ఊహాశక్తిని ఉపయోగించి పాఠ్యాన్ని సృజనాత్మకంగా విస్తరించడాన్ని కోరుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q005",
+          "question": "‘ఉదయం’కు వ్యతిరేక పదం ఏది?",
+          "options": [
+            "ప్రభాతం",
+            "సాయంత్రం",
+            "వెలుగు",
+            "పగలు"
+          ],
+          "correctIndex": 1,
+          "explanation": "‘సాయంత్రం’ ఉదయానికి వ్యతిరేక కాలసూచక పదం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q006",
+          "question": "పఠనంలో పదజాలం తెలియక విద్యార్థి ఇబ్బంది పడితే ఉపాధ్యాయుడు ముందుగా ఏమి చేయాలి?",
+          "options": [
+            "సందర్భం ద్వారా పదార్థాన్ని ఊహించేందుకు సహాయం చేయాలి",
+            "చదవనివ్వకూడదు",
+            "వెంటనే మార్కులు తగ్గించాలి",
+            "పాఠ్యాన్ని మార్చకుండా శిక్షించాలి"
+          ],
+          "correctIndex": 0,
+          "explanation": "సందర్భ సూచనలను ఉపయోగించి పదార్థాన్ని ఊహించే వ్యూహం పదజాల అభివృద్ధికి తోడ్పడుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q007",
+          "question": "చదివిన కథకు విద్యార్థి మరో శీర్షిక సూచించి కారణం చెబితే ఏ సామర్థ్యం వ్యక్తమవుతుంది?",
+          "options": [
+            "ప్రధాన భావాన్ని అర్థం చేసుకుని సమర్థించడం",
+            "పాఠ్యంతో సంబంధం లేని వ్యక్తిగత ఊహను చెప్పడం",
+            "సమాధానాన్ని ఆధారం లేకుండా ఎంపిక చేయడం",
+            "కేవలం పదాల సంఖ్యను లెక్కించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "సరైన సమాధానం: ప్రధాన భావాన్ని అర్థం చేసుకుని సమర్థించడం. ఈ ఎంపిక ప్రశ్నలో సూచించిన భాషా నైపుణ్యం లేదా బోధనా లక్ష్యాన్ని నేరుగా వివరిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q008",
+          "question": "పాఠ్యంలోని పాత్ర ప్రవర్తనకు ఆధారాలు చూపమని అడగడం?",
+          "options": [
+            "పాఠ్య ఆధారిత వివరణను ప్రోత్సహిస్తుంది",
+            "కేవలం కంఠస్థాన్ని కొలుస్తుంది",
+            "చదవడాన్ని ఆపుతుంది",
+            "అర్థం చెప్పకుండా నిరోధిస్తుంది"
+          ],
+          "correctIndex": 0,
+          "explanation": "పాఠ్య ఆధారాలు చూపడం అభిప్రాయాన్ని సమర్థించడానికి నేర్పుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q009",
+          "question": "‘కోపం’కు సమీపార్థక పదం ఏది?",
+          "options": [
+            "ఆగ్రహం",
+            "ఆనందం",
+            "శాంతి",
+            "ప్రేమ"
+          ],
+          "correctIndex": 0,
+          "explanation": "‘ఆగ్రహం’ కోపానికి సమానార్థక పదం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q010",
+          "question": "భాషా తరగతిలో నిజజీవిత పాఠ్యసామగ్రికి ఉదాహరణ ఏది?",
+          "options": [
+            "ప్రకటన లేదా బస్సు సమయ పట్టిక",
+            "అర్థంలేని అక్షరాల వరుస మాత్రమే",
+            "ఖాళీ కాగితం",
+            "కేవలం సంఖ్యల జాబితా"
+          ],
+          "correctIndex": 0,
+          "explanation": "ప్రకటనలు, సమయ పట్టికలు రోజువారీ భాషా వినియోగాన్ని ప్రతిబింబిస్తాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q011",
+          "question": "భాషా బోధనలో శ్రవణ నైపుణ్యాన్ని అభివృద్ధి చేయడానికి అనువైన చర్య ఏది?",
+          "options": [
+            "కథ విని ప్రధానాంశాలు చెప్పడం",
+            "నిశ్శబ్దంగా అక్షరాలు కాపీ చేయడం",
+            "కేవలం పదాలు లెక్కించడం",
+            "పరీక్ష మార్కులు నమోదు చేయడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "కథను శ్రద్ధగా విని ప్రధానాంశాలను చెప్పడం శ్రవణ అవగాహనను అభివృద్ధి చేస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q012",
+          "question": "పిల్లలు కథకు కొత్త పాత్రను జోడించి రాయడం?",
+          "options": [
+            "సృజనాత్మక రచన",
+            "కేవలం నకలు",
+            "పద గుర్తింపు మాత్రమే",
+            "విరామ చిహ్నాల పరీక్ష"
+          ],
+          "correctIndex": 0,
+          "explanation": "కొత్త పాత్రను ఊహించి చేర్చడం సృజనాత్మక రచనా కార్యాచరణ.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q013",
+          "question": "‘చిరు’ అనే ఉపసర్గ భావం ఏది?",
+          "options": [
+            "చిన్న",
+            "పెద్ద",
+            "దూర",
+            "వేగ"
+          ],
+          "correctIndex": 0,
+          "explanation": "‘చిరు’ అనేక పదాల్లో చిన్నదనం లేదా స్వల్పతను సూచిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q014",
+          "question": "రచనలో మొదటి ముసాయిదా తరువాత భావాల క్రమం, పేరాల నిర్మాణాన్ని మెరుగుపరచడం ఏ దశ?",
+          "options": [
+            "పునర్విమర్శ/సవరణ",
+            "ప్రచురణ మాత్రమే",
+            "పాఠ్య ఎంపికకు ముందరి దశ",
+            "కేవలం వినికిడి"
+          ],
+          "correctIndex": 0,
+          "explanation": "ముసాయిదా తరువాత ఆలోచనల క్రమం, నిర్మాణాన్ని మెరుగుపరచడం పునర్విమర్శలో భాగం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q015",
+          "question": "భాషా తరగతిలో విద్యార్థుల ప్రశ్నలను ప్రోత్సహించడం వల్ల ఏది పెరుగుతుంది?",
+          "options": [
+            "జిజ్ఞాస, స్వతంత్ర అభ్యాసం",
+            "నిష్క్రియత",
+            "కంఠస్థం మాత్రమే",
+            "సంభాషణ నిరోధం"
+          ],
+          "correctIndex": 0,
+          "explanation": "విద్యార్థుల ప్రశ్నలు జిజ్ఞాసను, చురుకైన అర్థాన్వేషణను ప్రోత్సహిస్తాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q016",
+          "question": "శతకంలో పునరావృతమయ్యే మకుటం ఏ పనికి తోడ్పడుతుంది?",
+          "options": [
+            "పద్యాల గుర్తింపు, అనుసంధానం",
+            "కేవలం అక్షరాల లెక్కింపు",
+            "నకలు మాత్రమే",
+            "పాఠ్యాన్ని చదవకపోవడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "సరైన సమాధానం: పద్యాల గుర్తింపు, అనుసంధానం. పాఠ్యాన్ని పరిశీలించి, సంబంధిత ఆధారంతో భావాన్ని వివరించడం ఈ నైపుణ్యానికి కేంద్రం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q017",
+          "question": "పిల్లలు ఒక పాఠ్యాన్ని చదివి మూడు స్థాయిల ప్రశ్నలు—నేరుగా, ఊహాత్మకంగా, విమర్శనాత్మకంగా—తయారు చేయడం ఏది?",
+          "options": [
+            "వివిధ స్థాయిల ప్రశ్న నిర్మాణం",
+            "కేవలం ప్రతిలేఖనం",
+            "వ్రాత వేగం",
+            "నిశ్శబ్దం"
+          ],
+          "correctIndex": 0,
+          "explanation": "ప్రశ్నల స్థాయిలను మార్చడం గుర్తింపు నుంచి విశ్లేషణ వరకు ఆలోచనను విస్తరిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q018",
+          "question": "‘అడవి’కి సమీపార్థక పదం ఏది?",
+          "options": [
+            "వనం",
+            "నగరం",
+            "పాఠశాల",
+            "సముద్రం"
+          ],
+          "correctIndex": 0,
+          "explanation": "‘వనం’ అనేది ‘అడవి’కి సమీపార్థక పదం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q019",
+          "question": "‘కన్నుల పండువ’ అనే నానుడి భావం ఏది?",
+          "options": [
+            "చూడటానికి ఎంతో ఆనందకరమైనది",
+            "కళ్లకు నొప్పి కలిగించేది",
+            "చీకటిగా ఉండేది",
+            "కనిపించనిది"
+          ],
+          "correctIndex": 0,
+          "explanation": "చూడటానికి ఎంతో అందంగా, ఆనందకరంగా ఉండేదాన్ని ‘కన్నుల పండువ’ అంటారు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q020",
+          "question": "భాషా అభ్యాసంలో సహవిద్యార్థులతో పాఠ్యాన్ని చర్చించడం వల్ల?",
+          "options": [
+            "వివిధ అర్థాలు, దృక్కోణాలు పంచుకోవచ్చు",
+            "వ్యక్తిగత ఆలోచన పూర్తిగా ఆగిపోతుంది",
+            "పాఠ్యం అవసరం ఉండదు",
+            "శ్రవణం తగ్గిపోతుంది"
+          ],
+          "correctIndex": 0,
+          "explanation": "సహచర్చ పాఠ్యంపై భిన్న దృక్కోణాలను వినడం, అర్థాన్ని నిర్మించడంలో సహాయపడుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q021",
+          "question": "తరగతిలో భిన్న సామర్థ్యాలున్న విద్యార్థులకు ఒకే అంశంపై వేర్వేరు సహాయ సూచనలు ఇవ్వడం?",
+          "options": [
+            "కేవలం పదాల సంఖ్యను లెక్కించడం",
+            "విభిన్నీకృత మద్దతు",
+            "పాఠ్యంతో సంబంధం లేని వ్యక్తిగత ఊహను చెప్పడం",
+            "సమాధానాన్ని ఆధారం లేకుండా ఎంపిక చేయడం"
+          ],
+          "correctIndex": 1,
+          "explanation": "సరైన సమాధానం: విభిన్నీకృత మద్దతు. ఈ ఎంపిక ప్రశ్నలో సూచించిన భాషా నైపుణ్యం లేదా బోధనా లక్ష్యాన్ని నేరుగా వివరిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q022",
+          "question": "పద్య పఠనంలో సరైన విరామాలు, లయను పాటించడం దేనికి తోడ్పడుతుంది?",
+          "options": [
+            "భావవ్యక్తీకరణకు",
+            "అక్షరాల సంఖ్య పెంచడానికి",
+            "కథా పాత్రలు మార్చడానికి",
+            "పదాల అర్థం తొలగించడానికి"
+          ],
+          "correctIndex": 0,
+          "explanation": "సరైన విరామాలు, లయ పద్య భావాన్ని స్పష్టంగా వ్యక్తం చేయడానికి సహాయపడతాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q023",
+          "question": "భాషా అభ్యాసంలో సమాచార ఖాళీ (information-gap) పని వల్ల?",
+          "options": [
+            "విద్యార్థులు సమాచారం పొందడానికి ప్రశ్నలు అడిగి సమాధానమివ్వాలి",
+            "విద్యార్థులు మాట్లాడకూడదు",
+            "పాఠ్యాన్ని కేవలం కాపీ చేయాలి",
+            "సంభాషణ అవసరం ఉండదు"
+          ],
+          "correctIndex": 0,
+          "explanation": "సమాచార ఖాళీ పనిలో విద్యార్థులు సమాచారాన్ని పంచుకోవడానికి అర్థవంతంగా సంభాషిస్తారు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q024",
+          "question": "విద్యార్థులు ఒక వాదనకు అనుకూల, ప్రతికూల కారణాలు రాయడం ఏ నైపుణ్యాన్ని పెంచుతుంది?",
+          "options": [
+            "విమర్శనాత్మక ఆలోచన",
+            "కేవలం కంఠస్థం",
+            "పదాల గుర్తింపు",
+            "వ్రాత వేగం"
+          ],
+          "correctIndex": 0,
+          "explanation": "రెండు వైపుల కారణాలను పరిశీలించడం విమర్శనాత్మక ఆలోచనను అభివృద్ధి చేస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q025",
+          "question": "‘మంచి బాలుడు’లో ‘మంచి’ ఏ పదభేదం?",
+          "options": [
+            "క్రియ",
+            "విశేషణం",
+            "సర్వనామం",
+            "అవ్యయం"
+          ],
+          "correctIndex": 1,
+          "explanation": "‘మంచి’ బాలుడి గుణాన్ని వివరిస్తుంది కాబట్టి విశేషణం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q026",
+          "question": "‘విమర్శ’ అనే పదానికి సందర్భానుసారంగా సమీపార్థం ఏది?",
+          "options": [
+            "పరిశీలనాత్మక విశ్లేషణ",
+            "అంధమైన ప్రశంస",
+            "నిశ్శబ్దం",
+            "అనుకరణ"
+          ],
+          "correctIndex": 0,
+          "explanation": "విమర్శ అంటే ఒక అంశాన్ని పరిశీలించి విశ్లేషించడం; సందర్భాన్ని బట్టి లోపాలను సూచించవచ్చు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q027",
+          "question": "భాషా అభ్యసనంలో పాత్రధారణ ఏ నైపుణ్యానికి ప్రత్యేకంగా అవకాశం కల్పిస్తుంది?",
+          "options": [
+            "మాట్లాడటం, సందర్భానుసార భాష వినియోగం",
+            "కేవలం నిశ్శబ్ద పఠనం",
+            "లెక్కింపు",
+            "చిత్రాల రంగులు గుర్తించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "పాత్రధారణ వాస్తవిక సందర్భాల్లో మాట్లాడే భాషను అభ్యసించే అవకాశం ఇస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q028",
+          "question": "విద్యార్థులు పేరాగ్రాఫ్‌కు తగిన ప్రధాన శీర్షికను ఎంచుకోవడం ఏ నైపుణ్యం?",
+          "options": [
+            "ప్రధాన భావాన్ని గుర్తించడం",
+            "అక్షర విభజన",
+            "ధ్వని అనుకరణ",
+            "వేగ రచన"
+          ],
+          "correctIndex": 0,
+          "explanation": "శీర్షిక ఎంపిక పేరాగ్రాఫ్‌లోని ప్రధాన భావాన్ని గుర్తించడంపై ఆధారపడి ఉంటుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q029",
+          "question": "‘నాయకుడు’ స్త్రీలింగ రూపం ఏది?",
+          "options": [
+            "నాయకి",
+            "నాయకులు",
+            "నాయకత్వం",
+            "నాయకుని"
+          ],
+          "correctIndex": 0,
+          "explanation": "నాయకి స్త్రీలింగ రూపంగా వాడబడుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s2-q030",
+          "question": "విద్యార్థులు ఒకరి మాటను మరొకరు తమ మాటల్లో పునరుక్తి చేసి ధృవీకరించడం ఏ నైపుణ్యాన్ని పెంచుతుంది?",
+          "options": [
+            "శ్రద్ధగా వినడం, భావ నిర్ధారణ",
+            "కేవలం వేగంగా మాట్లాడటం",
+            "కంఠస్థం",
+            "లేఖన అలంకారం"
+          ],
+          "correctIndex": 0,
+          "explanation": "పునరుక్తి ద్వారా విన్న భావాన్ని సరిగా గ్రహించామో ధృవీకరించవచ్చు.",
+          "explanationLanguage": "te"
+        }
+      ]
+    },
+    {
+      "id": "maths-telugu-full-mock-03-section-3",
+      "title": "Language-II — English",
+      "questions": [
+        {
+          "id": "maths-telugu-full-mock-03-s3-q001",
+          "question": "Choose the correct option: The captain, along with the players, ___ arriving shortly.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "The phrase 'along with the players' does not change the singular subject 'captain'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q002",
+          "question": "Choose the synonym of 'obstacle'.",
+          "options": [
+            "Barrier",
+            "Reward",
+            "Shortcut",
+            "Agreement"
+          ],
+          "correctIndex": 0,
+          "explanation": "An 'obstacle' is something that blocks progress.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q003",
+          "question": "Choose the correct word: Please ___ your name at the bottom of the page.",
+          "options": [
+            "write",
+            "right",
+            "rite",
+            "wright"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Write' is the verb meaning to form letters or words.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q004",
+          "question": "Choose the correct word: The meaning was ___ rather than directly stated.",
+          "options": [
+            "explicit",
+            "implicit",
+            "express",
+            "exposed"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Implicit' means suggested or understood without being directly stated.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q005",
+          "question": "Which sentence uses a colon correctly?",
+          "options": [
+            "Bring these items: a pencil, an eraser and a ruler.",
+            "Bring: these items a pencil, an eraser and a ruler.",
+            "Bring these: items a pencil, an eraser and a ruler.",
+            "Bring these items a pencil: an eraser and a ruler."
+          ],
+          "correctIndex": 0,
+          "explanation": "A colon can introduce a list after a complete clause.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q006",
+          "question": "Which sentence uses a hyphen correctly?",
+          "options": [
+            "She is a well-known author.",
+            "She is a well known-author.",
+            "She is a well known author in all cases.",
+            "She is a well-known-author."
+          ],
+          "correctIndex": 0,
+          "explanation": "A hyphen commonly joins words in a compound modifier before a noun.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q007",
+          "question": "Choose the correct form: When we arrived, the film ___.",
+          "options": [
+            "already starts",
+            "had already started",
+            "has already started",
+            "will already start"
+          ],
+          "correctIndex": 1,
+          "explanation": "The past perfect marks the film's start as earlier than our arrival.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q008",
+          "question": "Choose the correct conjunction: He studied hard ___ he could pass the examination.",
+          "options": [
+            "so that",
+            "although",
+            "unless",
+            "where"
+          ],
+          "correctIndex": 0,
+          "explanation": "'So that' introduces purpose.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q009",
+          "question": "Which activity practises scanning?",
+          "options": [
+            "Locate the date and venue in an event notice",
+            "Explain the author's overall purpose",
+            "Summarize the whole chapter",
+            "Evaluate the strength of an argument"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scanning searches quickly for particular pieces of information.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q010",
+          "question": "Choose the correct phrasal verb: She ___ an interesting point during the discussion.",
+          "options": [
+            "brought up",
+            "brought out",
+            "brought down",
+            "brought off"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Bring up' means introduce a topic for discussion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q011",
+          "question": "Choose the correct option: It was ___ who informed the principal.",
+          "options": [
+            "me",
+            "I",
+            "mine",
+            "my"
+          ],
+          "correctIndex": 1,
+          "explanation": "In formal standard English, the pronoun after a linking verb is nominative: 'I'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q012",
+          "question": "Choose the correct word: The medicine had an immediate ___.",
+          "options": [
+            "affect",
+            "effect",
+            "effective",
+            "effectively"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Effect' is a noun meaning result.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q013",
+          "question": "Choose the correct option: The teacher recommended that he ___ the passage again.",
+          "options": [
+            "reads",
+            "read",
+            "reading",
+            "has read"
+          ],
+          "correctIndex": 1,
+          "explanation": "The mandative subjunctive uses the base form 'read'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q014",
+          "question": "Which is an appropriate pre-reading activity?",
+          "options": [
+            "Discuss the title and predict the topic",
+            "Test every detail before learners see the text",
+            "Ask learners to memorize the passage",
+            "Correct pronunciation of unseen words"
+          ],
+          "correctIndex": 0,
+          "explanation": "Title discussion and prediction activate prior knowledge and prepare readers.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q015",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "The teacher explained us the rule.",
+            "The teacher explained the rule to us.",
+            "The teacher explained to us about the rule.",
+            "The teacher explained about the rule us."
+          ],
+          "correctIndex": 1,
+          "explanation": "A standard pattern is 'explain something to someone'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q016",
+          "question": "Choose the correct passive form: The workers clean the classrooms every day.",
+          "options": [
+            "The classrooms cleaned every day.",
+            "The classrooms are cleaned every day.",
+            "The classrooms were cleaning every day.",
+            "The workers are cleaned every day."
+          ],
+          "correctIndex": 1,
+          "explanation": "The simple present passive is formed with 'am/is/are + past participle'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q017",
+          "question": "Choose the synonym of 'obsolete'.",
+          "options": [
+            "Modern",
+            "Outdated",
+            "Useful",
+            "Popular"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Obsolete' means no longer in use or no longer useful.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q018",
+          "question": "Choose the antonym of 'temporary'.",
+          "options": [
+            "Brief",
+            "Permanent",
+            "Occasional",
+            "Short-lived"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Permanent' means lasting or intended to last indefinitely.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q019",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "Despite of the rain, we played.",
+            "Despite the rain, we played.",
+            "Although the rain, we played.",
+            "In spite the rain, we played."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Despite' is followed directly by a noun phrase; do not add 'of'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q020",
+          "question": "Which post-reading activity encourages personal response?",
+          "options": [
+            "Discuss how the text connects with learners' experiences",
+            "Predict the title without reading",
+            "Copy every sentence exactly",
+            "Identify only the font size"
+          ],
+          "correctIndex": 0,
+          "explanation": "Connecting a text with personal experience encourages a response beyond literal recall.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q021",
+          "question": "Choose the correct word: The teacher explained the rule ___.",
+          "options": [
+            "patient",
+            "patiently",
+            "patience",
+            "more patient"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Patiently' is an adverb modifying 'explained'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q022",
+          "question": "Choose the correct preposition: My birthday is ___ July.",
+          "options": [
+            "at",
+            "on",
+            "in",
+            "by"
+          ],
+          "correctIndex": 2,
+          "explanation": "Use 'in' with months.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q023",
+          "question": "Choose the correct form: I wish I ___ speak French fluently.",
+          "options": [
+            "can",
+            "could",
+            "will",
+            "am"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Could' expresses a wished-for ability in the present.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q024",
+          "question": "Choose the correct word: The construction ___ is closed today.",
+          "options": [
+            "cite",
+            "site",
+            "sight",
+            "seat"
+          ],
+          "correctIndex": 1,
+          "explanation": "A 'site' is a place where an activity or construction occurs.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q025",
+          "question": "Choose the correct option: She asked me, “Where do you live?”",
+          "options": [
+            "She asked me where did I live.",
+            "She asked me where I lived.",
+            "She asked me where do I live.",
+            "She asked where I live did."
+          ],
+          "correctIndex": 1,
+          "explanation": "Reported questions use statement word order, without do-support inversion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q026",
+          "question": "What does 'once in a blue moon' mean?",
+          "options": [
+            "Very rarely",
+            "Every evening",
+            "At the right moment",
+            "Unexpectedly soon"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means something happens very infrequently.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q027",
+          "question": "Which activity practises skimming?",
+          "options": [
+            "Read headings and topic sentences to identify the main idea",
+            "Search for a particular phone number",
+            "Check the spelling of one word",
+            "Count each punctuation mark"
+          ],
+          "correctIndex": 0,
+          "explanation": "Skimming is rapid reading for the general meaning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q028",
+          "question": "Choose the correct option: No sooner ___ the bell rung than the students rushed out.",
+          "options": [
+            "had",
+            "has",
+            "did",
+            "was"
+          ],
+          "correctIndex": 0,
+          "explanation": "The pattern is 'No sooner had...than', with inversion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q029",
+          "question": "Choose the correct form: I look forward to ___ from you.",
+          "options": [
+            "hear",
+            "heard",
+            "hearing",
+            "have heard"
+          ],
+          "correctIndex": 2,
+          "explanation": "In 'look forward to', 'to' is a preposition and is followed by a gerund.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s3-q030",
+          "question": "What does the idiom 'keep an eye on' mean?",
+          "options": [
+            "Watch or monitor",
+            "Ignore completely",
+            "Look away",
+            "Close one's eyes"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means watch something carefully.",
+          "explanationLanguage": "en"
+        }
+      ]
+    },
+    {
+      "id": "maths-telugu-full-mock-03-section-4",
+      "title": "Mathematics",
+      "questions": [
+        {
+          "id": "maths-telugu-full-mock-03-s4-q001",
+          "question": "Which activity best develops estimation skills?",
+          "options": [
+            "Predict a quantity, measure it, and discuss the difference",
+            "Copy exact answers",
+            "Memorize definitions",
+            "Avoid measurement tools"
+          ],
+          "correctIndex": 0,
+          "explanation": "Estimating and checking builds magnitude sense and reflection.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q002",
+          "question": "A prism has 9 edges. Which prism could it be?",
+          "options": [
+            "Triangular prism",
+            "Square-based pyramid",
+            "Pentagonal prism",
+            "Cube"
+          ],
+          "correctIndex": 0,
+          "explanation": "A triangular prism has 9 edges.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q003",
+          "question": "Why ask learners to estimate before calculating?",
+          "options": [
+            "To develop magnitude sense and check whether the result is reasonable",
+            "To replace exact calculation permanently",
+            "To encourage unchecked guessing",
+            "To avoid number operations"
+          ],
+          "correctIndex": 0,
+          "explanation": "An estimate provides a benchmark for checking an exact answer.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q004",
+          "question": "Two supplementary angles are in the ratio 2:3. Find the smaller angle.",
+          "options": [
+            "60°",
+            "72°",
+            "90°",
+            "108°"
+          ],
+          "correctIndex": 1,
+          "explanation": "Five parts equal 180°, so each part is 36°; smaller angle = 72°.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q005",
+          "question": "A learner gets a correct answer using an unusual but valid strategy. The teacher should:",
+          "options": [
+            "Accept and invite explanation of the strategy",
+            "Mark it wrong for not matching the textbook method",
+            "Discourage alternative methods",
+            "Ignore the reasoning"
+          ],
+          "correctIndex": 0,
+          "explanation": "Valid alternative strategies should be recognized and discussed to deepen mathematical thinking.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q006",
+          "question": "Solve: 7x − 9 = 40.",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctIndex": 2,
+          "explanation": "7x = 49, so x = 7.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q007",
+          "question": "If a = 3, evaluate 2a² − 5.",
+          "options": [
+            "8",
+            "11",
+            "13",
+            "18"
+          ],
+          "correctIndex": 2,
+          "explanation": "2 × 9 − 5 = 13.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q008",
+          "question": "What is the coefficient of x² in 9 − 4x + 6x²?",
+          "options": [
+            "−4",
+            "6",
+            "9",
+            "2"
+          ],
+          "correctIndex": 1,
+          "explanation": "The x² term is 6x², so its coefficient is 6.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q009",
+          "question": "If 4/7 of a number is 36, find the number.",
+          "options": [
+            "49",
+            "56",
+            "63",
+            "72"
+          ],
+          "correctIndex": 2,
+          "explanation": "Number = 36 × 7/4 = 63.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q010",
+          "question": "What is the prime factorisation of 60?",
+          "options": [
+            "2 × 3 × 10",
+            "2² × 3 × 5",
+            "2 × 5²",
+            "3² × 5"
+          ],
+          "correctIndex": 1,
+          "explanation": "60 = 2 × 2 × 3 × 5 = 2² × 3 × 5.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q011",
+          "question": "Express 0.375 as a fraction in simplest form.",
+          "options": [
+            "3/8",
+            "375/100",
+            "5/8",
+            "7/20"
+          ],
+          "correctIndex": 0,
+          "explanation": "0.375 = 375/1000; dividing numerator and denominator by 125 gives 3/8.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q012",
+          "question": "Which data display is particularly useful for showing change over time?",
+          "options": [
+            "Pie chart",
+            "Line graph",
+            "Pictograph only",
+            "Venn diagram"
+          ],
+          "correctIndex": 1,
+          "explanation": "A line graph makes trends and changes over ordered time points visible.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q013",
+          "question": "For y = 2x − 3, find y when x = −2.",
+          "options": [
+            "−7",
+            "−5",
+            "1",
+            "7"
+          ],
+          "correctIndex": 0,
+          "explanation": "y = 2(−2) − 3 = −7.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q014",
+          "question": "Which number is a perfect square?",
+          "options": [
+            "72",
+            "81",
+            "90",
+            "99"
+          ],
+          "correctIndex": 1,
+          "explanation": "81 = 9².",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q015",
+          "question": "The sum of the interior angles of a triangle is:",
+          "options": [
+            "90°",
+            "180°",
+            "270°",
+            "360°"
+          ],
+          "correctIndex": 1,
+          "explanation": "The interior angles of every Euclidean triangle sum to 180°.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q016",
+          "question": "What is 35% of 240?",
+          "options": [
+            "72",
+            "78",
+            "84",
+            "96"
+          ],
+          "correctIndex": 2,
+          "explanation": "0.35 × 240 = 84.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q017",
+          "question": "The point (−4, 0) lies on:",
+          "options": [
+            "Positive x-axis",
+            "Negative x-axis",
+            "Positive y-axis",
+            "Negative y-axis"
+          ],
+          "correctIndex": 1,
+          "explanation": "Its y-coordinate is zero and x is negative.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q018",
+          "question": "The point (0, −6) lies on the:",
+          "options": [
+            "Positive x-axis",
+            "Negative x-axis",
+            "Positive y-axis",
+            "Negative y-axis"
+          ],
+          "correctIndex": 3,
+          "explanation": "Its x-coordinate is zero and its y-coordinate is negative.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q019",
+          "question": "The probability of an impossible event is:",
+          "options": [
+            "−1",
+            "0",
+            "1/2",
+            "1"
+          ],
+          "correctIndex": 1,
+          "explanation": "An impossible event has probability zero.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s4-q020",
+          "question": "What is 15% of 240?",
+          "options": [
+            "24",
+            "30",
+            "36",
+            "40"
+          ],
+          "correctIndex": 2,
+          "explanation": "10% of 240 is 24 and 5% is 12; together they make 36.",
+          "explanationLanguage": "en"
+        }
+      ]
+    },
+    {
+      "id": "maths-telugu-full-mock-03-section-5",
+      "title": "Physical Science",
+      "questions": [
+        {
+          "id": "maths-telugu-full-mock-03-s5-q001",
+          "question": "Which is a renewable energy source?",
+          "options": [
+            "Coal",
+            "Petroleum",
+            "Solar energy",
+            "Natural gas"
+          ],
+          "correctIndex": 2,
+          "explanation": "Solar energy is replenished naturally on human timescales.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q002",
+          "question": "A 9 V battery is connected across a 3 Ω resistor. Current is:",
+          "options": [
+            "2 A",
+            "3 A",
+            "6 A",
+            "27 A"
+          ],
+          "correctIndex": 1,
+          "explanation": "Using I = V/R, current = 9/3 = 3 A.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q003",
+          "question": "Which is a chemical property of a substance?",
+          "options": [
+            "Melting point",
+            "Density",
+            "Flammability",
+            "Electrical conductivity"
+          ],
+          "correctIndex": 2,
+          "explanation": "Flammability describes a substance's ability to undergo combustion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q004",
+          "question": "During melting, the temperature of a pure substance generally:",
+          "options": [
+            "Rises continuously",
+            "Remains constant while melting occurs",
+            "Falls to zero",
+            "Becomes negative"
+          ],
+          "correctIndex": 1,
+          "explanation": "Energy supplied during the phase change is used as latent heat.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q005",
+          "question": "Which feedback is most actionable?",
+          "options": [
+            "Your graph needs units on both axes; add them and explain what each quantity measures",
+            "Wrong",
+            "Try harder",
+            "You are naturally bad at graphs"
+          ],
+          "correctIndex": 0,
+          "explanation": "Specific feedback identifies the gap and a concrete next step.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q006",
+          "question": "Which electromagnetic wave is commonly used for remote controls?",
+          "options": [
+            "Infrared",
+            "Gamma rays",
+            "X-rays",
+            "Ultraviolet only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Many household remote controls transmit signals using infrared radiation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q007",
+          "question": "The slope of a distance-time graph represents:",
+          "options": [
+            "Acceleration",
+            "Speed",
+            "Force",
+            "Momentum"
+          ],
+          "correctIndex": 1,
+          "explanation": "The slope gives change in distance per unit time, i.e. speed.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q008",
+          "question": "A learner gives an answer based on a misconception. An effective response is to:",
+          "options": [
+            "Use a probing question or demonstration to examine the idea",
+            "Publicly shame the learner",
+            "Accept it without discussion",
+            "Avoid returning to the concept"
+          ],
+          "correctIndex": 0,
+          "explanation": "Probing and evidence-based discussion help uncover and address misconceptions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q009",
+          "question": "A fuse is connected in a circuit to:",
+          "options": [
+            "Increase voltage",
+            "Protect against excessive current",
+            "Store charge",
+            "Measure resistance"
+          ],
+          "correctIndex": 1,
+          "explanation": "A fuse melts and breaks the circuit when current exceeds its rating.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q010",
+          "question": "A substance with pH less than 7 at room temperature is generally:",
+          "options": [
+            "Acidic",
+            "Basic",
+            "Neutral",
+            "Always a salt"
+          ],
+          "correctIndex": 0,
+          "explanation": "A pH below 7 indicates an acidic aqueous solution under the usual scale.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q011",
+          "question": "Convection in fluids occurs mainly due to:",
+          "options": [
+            "Bulk movement of fluid",
+            "Electron flow in a wire",
+            "Light reflection",
+            "Nuclear fission"
+          ],
+          "correctIndex": 0,
+          "explanation": "Convection transfers heat through the motion of liquid or gas.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q012",
+          "question": "Which is an example of a testable scientific question?",
+          "options": [
+            "How does water temperature affect the time sugar takes to dissolve under specified conditions?",
+            "Is science wonderful?",
+            "Which colour is the prettiest?",
+            "Should everyone like chemistry?"
+          ],
+          "correctIndex": 0,
+          "explanation": "The question identifies variables that can be observed and measured.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q013",
+          "question": "Which is a chemical change?",
+          "options": [
+            "Breaking glass",
+            "Dissolving sugar in water",
+            "Rusting iron",
+            "Cutting paper"
+          ],
+          "correctIndex": 2,
+          "explanation": "Rusting produces new iron oxide compounds.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q014",
+          "question": "A base that dissolves in water is called an:",
+          "options": [
+            "Alkali",
+            "Alloy",
+            "Oxide only",
+            "Indicator"
+          ],
+          "correctIndex": 0,
+          "explanation": "An alkali is a water-soluble base.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q015",
+          "question": "Which approach best supports an inclusive science classroom?",
+          "options": [
+            "Offer accessible materials, varied representations and appropriate participation supports",
+            "Require one response mode for everyone",
+            "Exclude learners who need extra time",
+            "Assess only speed"
+          ],
+          "correctIndex": 0,
+          "explanation": "Accessible resources and flexible supports improve participation across learner needs.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q016",
+          "question": "Which of these is a non-metal?",
+          "options": [
+            "Iron",
+            "Sulphur",
+            "Copper",
+            "Aluminium"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sulphur is classified as a non-metal.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q017",
+          "question": "The speed of sound in air generally increases when:",
+          "options": [
+            "Air temperature rises",
+            "Air pressure is reduced at constant temperature and density effects ignored",
+            "Frequency decreases always",
+            "Amplitude becomes zero"
+          ],
+          "correctIndex": 0,
+          "explanation": "In air, sound speed increases with temperature.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q018",
+          "question": "A student records a value that does not match the expected pattern. The teacher should encourage the student to:",
+          "options": [
+            "Check the measurement and procedure, then report the result honestly",
+            "Erase it without checking",
+            "Change it to match the class",
+            "Hide the entire trial"
+          ],
+          "correctIndex": 0,
+          "explanation": "Unexpected data should be checked, not altered to fit expectations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q019",
+          "question": "The image formed by a plane mirror is:",
+          "options": [
+            "Real and inverted",
+            "Virtual, erect and same size",
+            "Real and diminished",
+            "Virtual and always enlarged"
+          ],
+          "correctIndex": 1,
+          "explanation": "A plane mirror forms a virtual, erect image of the same size.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s5-q020",
+          "question": "Evaporation causes cooling because:",
+          "options": [
+            "High-energy particles escape from the surface",
+            "All particles stop moving",
+            "The liquid gains heat from nowhere",
+            "The mass becomes zero"
+          ],
+          "correctIndex": 0,
+          "explanation": "Escaping higher-energy particles lower the average energy of the remaining liquid.",
+          "explanationLanguage": "en"
+        }
+      ]
+    },
+    {
+      "id": "maths-telugu-full-mock-03-section-6",
+      "title": "Biological Science",
+      "questions": [
+        {
+          "id": "maths-telugu-full-mock-03-s6-q001",
+          "question": "The main role of red bone marrow is:",
+          "options": [
+            "Blood cell formation",
+            "Bile storage",
+            "Urine concentration",
+            "Air filtration"
+          ],
+          "correctIndex": 0,
+          "explanation": "Red bone marrow is a major site of haematopoiesis.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q002",
+          "question": "The large intestine primarily absorbs:",
+          "options": [
+            "Water and electrolytes",
+            "Most amino acids from food",
+            "Oxygen from inhaled air",
+            "Bile pigments for photosynthesis"
+          ],
+          "correctIndex": 0,
+          "explanation": "The colon absorbs water and electrolytes and helps form faeces.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q003",
+          "question": "A seed contains an embryonic:",
+          "options": [
+            "Plant",
+            "Fungus in every case",
+            "Animal",
+            "Bacterium"
+          ],
+          "correctIndex": 0,
+          "explanation": "A seed contains a plant embryo, usually with stored nutrients and a protective coat.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q004",
+          "question": "Antigens are molecules or structures that can be recognized by:",
+          "options": [
+            "Components of the immune system",
+            "Only red blood cells for oxygen",
+            "Plant xylem",
+            "Digestive bile exclusively"
+          ],
+          "correctIndex": 0,
+          "explanation": "Antigens are recognized by antibodies or immune-cell receptors and can provoke specific responses.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q005",
+          "question": "In parasitism, the parasite typically:",
+          "options": [
+            "Benefits while the host is harmed",
+            "Benefits and harms nobody",
+            "Is always larger than its host",
+            "Makes the host a producer"
+          ],
+          "correctIndex": 0,
+          "explanation": "Parasitism benefits one organism while negatively affecting the host.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q006",
+          "question": "Antibodies are produced by differentiated:",
+          "options": [
+            "B lymphocytes (plasma cells)",
+            "Red blood cells",
+            "Platelets",
+            "Neurons"
+          ],
+          "correctIndex": 0,
+          "explanation": "Activated B cells can differentiate into plasma cells that secrete antibodies.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q007",
+          "question": "Vitamin D is important for:",
+          "options": [
+            "Calcium absorption and bone health",
+            "Formation of bile only",
+            "Carrying oxygen in haemoglobin directly",
+            "Transmission of sound"
+          ],
+          "correctIndex": 0,
+          "explanation": "Vitamin D supports calcium and phosphate homeostasis and healthy bones.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q008",
+          "question": "The main product of photosynthesis that stores chemical energy is:",
+          "options": [
+            "Carbohydrate such as glucose",
+            "Urea",
+            "Lactic acid only",
+            "Mineral ash"
+          ],
+          "correctIndex": 0,
+          "explanation": "Photosynthesis stores captured light energy in carbohydrates formed from carbon dioxide and water.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q009",
+          "question": "Active transport differs from simple diffusion because it:",
+          "options": [
+            "Can move substances against a gradient using energy",
+            "Always moves water only",
+            "Never uses membrane proteins",
+            "Occurs only outside cells"
+          ],
+          "correctIndex": 0,
+          "explanation": "Active transport uses energy, often ATP or an ion gradient, to move substances against their gradient.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q010",
+          "question": "A teacher should respond to a misconception about evolution by:",
+          "options": [
+            "Exploring the learner's reasoning and examining scientific evidence respectfully",
+            "Mocking the learner",
+            "Replacing evidence with authority alone",
+            "Avoiding the topic permanently"
+          ],
+          "correctIndex": 0,
+          "explanation": "Respectful elicitation and evidence-based discussion can support conceptual understanding.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q011",
+          "question": "The pathogen responsible for cholera is a:",
+          "options": [
+            "Bacterium",
+            "Virus",
+            "Protozoan",
+            "Fungus"
+          ],
+          "correctIndex": 0,
+          "explanation": "Cholera is caused by the bacterium Vibrio cholerae.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q012",
+          "question": "The immune response after vaccination can be faster on later exposure because of:",
+          "options": [
+            "Immunological memory",
+            "Loss of all lymphocytes",
+            "Permanent fever",
+            "Reduced specificity"
+          ],
+          "correctIndex": 0,
+          "explanation": "Memory B and T cells support faster and stronger responses on subsequent exposure.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q013",
+          "question": "In an experiment testing fertilizer effects on plant growth, a relevant controlled variable is:",
+          "options": [
+            "Plant species and starting conditions",
+            "The growth measurement itself",
+            "The treatment being compared",
+            "The conclusion"
+          ],
+          "correctIndex": 0,
+          "explanation": "Keeping plant species and starting conditions similar helps isolate the fertilizer treatment's effect.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q014",
+          "question": "A dichotomous key identifies organisms through:",
+          "options": [
+            "A sequence of paired contrasting choices",
+            "Random guessing",
+            "DNA replication",
+            "A food web diagram"
+          ],
+          "correctIndex": 0,
+          "explanation": "Dichotomous keys guide identification through successive pairs of contrasting statements.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q015",
+          "question": "Fungi and many bacteria act as decomposers by:",
+          "options": [
+            "Breaking down dead organic matter",
+            "Producing sunlight",
+            "Stopping nutrient cycling",
+            "Making all minerals disappear"
+          ],
+          "correctIndex": 0,
+          "explanation": "Decomposers break down organic matter and release nutrients for reuse.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q016",
+          "question": "A reflex action is often:",
+          "options": [
+            "Rapid and involuntary",
+            "Always consciously planned",
+            "A hormonal response only",
+            "A learned language response only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reflexes provide rapid, often involuntary responses to particular stimuli.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q017",
+          "question": "Pollination is the transfer of pollen from:",
+          "options": [
+            "Anther to stigma",
+            "Stigma to ovule directly",
+            "Root to leaf",
+            "Ovary to sepal"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pollination is pollen transfer to a receptive stigma in flowering plants.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q018",
+          "question": "Which mineral is needed to make haemoglobin?",
+          "options": [
+            "Iron",
+            "Iodine",
+            "Fluoride",
+            "Sodium only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Iron is part of haemoglobin's haem groups and is essential for oxygen transport.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q019",
+          "question": "A pathogen is:",
+          "options": [
+            "An agent capable of causing disease",
+            "A nutrient required by every cell",
+            "A type of antibody only",
+            "A nonliving organelle"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pathogens include disease-causing viruses, bacteria, fungi, parasites and other agents.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-telugu-full-mock-03-s6-q020",
+          "question": "Organisms that make organic food from inorganic substances are called:",
+          "options": [
+            "Autotrophs",
+            "Heterotrophs",
+            "Parasites only",
+            "Scavengers only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Autotrophs synthesize organic compounds using light or chemical energy.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "track": "telugu",
+  "testId": "cdp-core-batch-06",
+  "title": "Child Development and Pedagogy — Core Batch 06",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "cdp-core-06",
+      "title": "Child Development and Pedagogy",
+      "questions": [
+        {
+          "id": "cdp-core-006-001",
+          "question": "Which developmental domain includes changes in reasoning and problem-solving?",
+          "options": [
+            "Cognitive",
+            "Physical only",
+            "Aesthetic only",
+            "Administrative"
+          ],
+          "correctIndex": 0,
+          "explanation": "Cognitive development includes changes in thinking, reasoning and problem-solving.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-002",
+          "question": "Which domain includes changes in coordination and movement?",
+          "options": [
+            "Physical and motor",
+            "Moral only",
+            "Linguistic only",
+            "Civic only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Physical and motor development concerns bodily growth, movement and coordination.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-003",
+          "question": "Changes in relationships, cooperation and peer interaction belong mainly to which domain?",
+          "options": [
+            "Social",
+            "Physical",
+            "Sensory only",
+            "Numerical"
+          ],
+          "correctIndex": 0,
+          "explanation": "Social development includes relationships and interaction with others.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-004",
+          "question": "Understanding and managing feelings is closely related to:",
+          "options": [
+            "Emotional development",
+            "Height growth",
+            "Handwriting mechanics only",
+            "School administration"
+          ],
+          "correctIndex": 0,
+          "explanation": "Emotional development includes recognizing, expressing and regulating feelings.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-005",
+          "question": "Why should a teacher consider several developmental domains together?",
+          "options": [
+            "Domains interact and influence one another",
+            "Each domain develops in complete isolation",
+            "Only physical development affects learning",
+            "Domains are identical"
+          ],
+          "correctIndex": 0,
+          "explanation": "Developmental domains are interconnected rather than wholly independent.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-006",
+          "question": "A learner's performance changes across settings. What should the teacher do first?",
+          "options": [
+            "Observe the context and gather more evidence",
+            "Immediately assign a permanent label",
+            "Assume deliberate misbehaviour",
+            "Ignore the variation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Contextual observation helps avoid premature conclusions about a learner.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-007",
+          "question": "Which approach best respects individual developmental variation?",
+          "options": [
+            "Use age ranges as broad guides, not rigid deadlines",
+            "Expect identical performance on the same birthday",
+            "Compare every learner publicly",
+            "Treat variation as failure"
+          ],
+          "correctIndex": 0,
+          "explanation": "Developmental milestones vary, so broad patterns should not become rigid expectations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-008",
+          "question": "A child can perform a task after watching a demonstration. This highlights the value of:",
+          "options": [
+            "Modelling",
+            "Punishment",
+            "Fixed grouping",
+            "Summative grading"
+          ],
+          "correctIndex": 0,
+          "explanation": "Demonstration provides a model that learners can observe and imitate.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-009",
+          "question": "Which classroom activity most directly encourages perspective-taking?",
+          "options": [
+            "Discuss how different characters may feel and why",
+            "Memorize a list silently",
+            "Copy a paragraph",
+            "Race to finish worksheets"
+          ],
+          "correctIndex": 0,
+          "explanation": "Considering characters' viewpoints gives learners practice taking another perspective.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-010",
+          "question": "A teacher asks learners to explain their reasoning rather than only state an answer. This promotes:",
+          "options": [
+            "Deeper thinking",
+            "Mechanical copying",
+            "Avoidance of feedback",
+            "Physical maturation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Explaining reasoning makes thinking visible and encourages deeper processing.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-011",
+          "question": "In information-processing terms, encoding means:",
+          "options": [
+            "Transforming information into a form that can be stored",
+            "Deleting all prior knowledge",
+            "Giving a final grade",
+            "Moving to a new classroom"
+          ],
+          "correctIndex": 0,
+          "explanation": "Encoding is the process of representing information for memory.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-012",
+          "question": "Retrieval cues are useful because they can:",
+          "options": [
+            "Help bring stored information to mind",
+            "Guarantee perfect recall",
+            "Replace learning entirely",
+            "Prevent forgetting in every case"
+          ],
+          "correctIndex": 0,
+          "explanation": "Cues can support access to information stored in memory.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-013",
+          "question": "Which classroom routine can help learners organize new information?",
+          "options": [
+            "Use concept maps to show relationships",
+            "Present disconnected facts without structure",
+            "Avoid headings and examples",
+            "Change terminology unpredictably"
+          ],
+          "correctIndex": 0,
+          "explanation": "Concept maps make relationships among ideas more visible.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-014",
+          "question": "Which approach best supports understanding of a misconception?",
+          "options": [
+            "Ask the learner to explain the thinking behind the answer",
+            "Simply mark it wrong and move on",
+            "Assume the learner did not study",
+            "Publicly ridicule the response"
+          ],
+          "correctIndex": 0,
+          "explanation": "Eliciting reasoning helps reveal the source of a misconception.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-015",
+          "question": "A teacher begins a lesson by eliciting what learners already know. This is intended to:",
+          "options": [
+            "Connect prior knowledge with new learning",
+            "Replace the lesson objective",
+            "Determine permanent ability",
+            "Avoid checking understanding"
+          ],
+          "correctIndex": 0,
+          "explanation": "Activating prior knowledge can provide a foundation for new concepts.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-016",
+          "question": "Which is an example of meaningful practice?",
+          "options": [
+            "Solve varied problems and explain the strategy used",
+            "Repeat a response without understanding",
+            "Copy the same answer without feedback",
+            "Avoid applying concepts"
+          ],
+          "correctIndex": 0,
+          "explanation": "Varied application and explanation encourage meaningful rather than merely mechanical practice.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-017",
+          "question": "Which factor is most likely to support persistence on a challenging task?",
+          "options": [
+            "A reachable goal with useful feedback",
+            "Repeated messages that failure is permanent",
+            "A task with no directions",
+            "Public embarrassment"
+          ],
+          "correctIndex": 0,
+          "explanation": "Clear attainable goals and useful feedback can help learners persist.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-018",
+          "question": "A learner chooses a challenging book because the topic is interesting. This suggests:",
+          "options": [
+            "Interest-based intrinsic motivation",
+            "External coercion only",
+            "Negative reinforcement necessarily",
+            "Lack of motivation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Choosing an activity for interest is consistent with intrinsic motivation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-019",
+          "question": "Which teacher response can undermine autonomy?",
+          "options": [
+            "Controlling every step without room for learner decisions",
+            "Offering structured choices",
+            "Explaining the purpose of a task",
+            "Inviting learner questions"
+          ],
+          "correctIndex": 0,
+          "explanation": "Excessive control can reduce learners' sense of agency.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-020",
+          "question": "A reward increases a behaviour but also reduces the learner's interest in the activity. What does this remind teachers?",
+          "options": [
+            "Rewards can have complex effects on motivation",
+            "Rewards always improve intrinsic motivation",
+            "Motivation is unaffected by classroom practice",
+            "Interest cannot change"
+          ],
+          "correctIndex": 0,
+          "explanation": "External rewards may affect intrinsic motivation differently depending on how they are used.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-021",
+          "question": "Which is a reasonable use of praise?",
+          "options": [
+            "Describe the effective strategy the learner used",
+            "Label the learner as superior to classmates",
+            "Praise only speed regardless of accuracy",
+            "Use praise to embarrass others"
+          ],
+          "correctIndex": 0,
+          "explanation": "Process-focused praise identifies useful strategies rather than relying on comparison.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-022",
+          "question": "Which statement about intelligence is most appropriate for teaching?",
+          "options": [
+            "A single score cannot describe every aspect of a learner's potential",
+            "Intelligence is fully captured by one test",
+            "Potential never changes with experience",
+            "Scores should determine all opportunities"
+          ],
+          "correctIndex": 0,
+          "explanation": "A single measure is limited and should not define a learner's entire potential.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-023",
+          "question": "Multiple-intelligences theory is commonly associated with:",
+          "options": [
+            "Howard Gardner",
+            "Ivan Pavlov",
+            "B. F. Skinner",
+            "Lawrence Kohlberg"
+          ],
+          "correctIndex": 0,
+          "explanation": "Howard Gardner proposed the theory of multiple intelligences.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-024",
+          "question": "Which caution applies when using learning-style labels?",
+          "options": [
+            "Do not assume matching instruction to a fixed label guarantees better learning",
+            "Every learner has one unchanging style",
+            "Labels are more important than learning goals",
+            "Learners should never experience varied formats"
+          ],
+          "correctIndex": 0,
+          "explanation": "Evidence does not justify rigidly assigning learners fixed styles and matching all teaching to them.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-025",
+          "question": "Which classroom practice can support language development?",
+          "options": [
+            "Provide rich conversation, reading and opportunities to express ideas",
+            "Discourage questions",
+            "Limit learners to copying",
+            "Correct every utterance in a humiliating way"
+          ],
+          "correctIndex": 0,
+          "explanation": "Meaningful interaction and language-rich experiences support language development.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-026",
+          "question": "A teacher gives wait time after asking a question. This can:",
+          "options": [
+            "Give learners time to formulate responses",
+            "Ensure only the fastest learner answers",
+            "Remove the need for thinking",
+            "Make questions unnecessary"
+          ],
+          "correctIndex": 0,
+          "explanation": "Wait time gives learners additional opportunity to process and respond.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-027",
+          "question": "Open-ended questions are useful because they can:",
+          "options": [
+            "Invite multiple reasoned responses",
+            "Always have no criteria",
+            "Prevent assessment",
+            "Require guessing only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Open-ended questions can elicit explanation, interpretation and diverse justified responses.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-028",
+          "question": "Which practice is most appropriate for multilingual learners?",
+          "options": [
+            "Use visuals, context and opportunities to use language meaningfully",
+            "Treat home languages as deficits",
+            "Exclude learners from discussion",
+            "Assume language proficiency equals intelligence"
+          ],
+          "correctIndex": 0,
+          "explanation": "Visual and contextual supports can improve access while respecting learners' linguistic resources.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-029",
+          "question": "A learner's first language can support additional-language learning by:",
+          "options": [
+            "Providing conceptual and linguistic resources for comparison",
+            "Preventing all further language learning",
+            "Making explicit teaching unnecessary",
+            "Determining a fixed achievement ceiling"
+          ],
+          "correctIndex": 0,
+          "explanation": "Existing language knowledge can serve as a resource for learning another language.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-030",
+          "question": "Which is a formative use of questioning?",
+          "options": [
+            "Use responses to decide whether to reteach or extend",
+            "Ask only to catch learners out",
+            "Record responses without considering them",
+            "Use questions solely for public ranking"
+          ],
+          "correctIndex": 0,
+          "explanation": "Formative questioning informs instructional decisions during learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-031",
+          "question": "A teacher uses a short pre-test before a unit. Its main purpose is to:",
+          "options": [
+            "Identify starting points and learning needs",
+            "Assign the final course grade",
+            "Replace instruction",
+            "Measure personality"
+          ],
+          "correctIndex": 0,
+          "explanation": "A pre-test can reveal prior knowledge and misconceptions before instruction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-032",
+          "question": "Which assessment method can capture practical performance?",
+          "options": [
+            "Observation using clear criteria",
+            "Only a multiple-choice recall test",
+            "Attendance register",
+            "Unstructured comparison"
+          ],
+          "correctIndex": 0,
+          "explanation": "Observation with criteria can assess skills demonstrated in action.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-033",
+          "question": "Why should assessment criteria be shared in advance?",
+          "options": [
+            "Learners can understand the target and plan their work",
+            "It guarantees everyone receives the same score",
+            "It removes the need for teaching",
+            "It makes feedback unnecessary"
+          ],
+          "correctIndex": 0,
+          "explanation": "Transparent criteria clarify expectations and support purposeful learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-034",
+          "question": "A teacher uses two different tasks to assess the same objective. This may help:",
+          "options": [
+            "Gather complementary evidence of learning",
+            "Guarantee identical scores",
+            "Eliminate all bias automatically",
+            "Avoid defining the objective"
+          ],
+          "correctIndex": 0,
+          "explanation": "Different aligned tasks may provide complementary evidence about achievement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-035",
+          "question": "Which statement best describes assessment for learning?",
+          "options": [
+            "Evidence is used to guide next steps in learning",
+            "Assessment occurs only after a course",
+            "Results are kept secret from learners",
+            "It is exclusively for ranking"
+          ],
+          "correctIndex": 0,
+          "explanation": "Assessment for learning uses evidence to support ongoing learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-036",
+          "question": "Assessment as learning emphasizes learners' role in:",
+          "options": [
+            "Monitoring and reflecting on their own learning",
+            "Receiving grades passively",
+            "Avoiding criteria",
+            "Comparing classmates only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Assessment as learning develops learner self-monitoring and reflection.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-037",
+          "question": "Which is a possible source of assessment bias?",
+          "options": [
+            "An item includes unfamiliar cultural references unrelated to the target skill",
+            "The criteria match the objective",
+            "Instructions are clear",
+            "Multiple forms of evidence are considered"
+          ],
+          "correctIndex": 0,
+          "explanation": "Irrelevant cultural assumptions may disadvantage some learners without measuring the intended skill.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-038",
+          "question": "A teacher notices that an assessment item is confusing many learners. The appropriate response is to:",
+          "options": [
+            "Review its wording and intended construct before interpreting scores",
+            "Assume all learners lack ability",
+            "Ignore the item analysis",
+            "Increase its weight automatically"
+          ],
+          "correctIndex": 0,
+          "explanation": "An unexpectedly confusing item should be examined for ambiguity or construct mismatch.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-039",
+          "question": "Which feedback timing is generally useful for improving a current task?",
+          "options": [
+            "Soon enough for the learner to apply it",
+            "Only after the topic is forgotten",
+            "Never provide feedback",
+            "Only at the end of the school year"
+          ],
+          "correctIndex": 0,
+          "explanation": "Timely feedback can help learners use guidance while the task remains relevant.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-040",
+          "question": "A learner revises an answer after receiving a hint. This illustrates:",
+          "options": [
+            "Feedback supporting improvement",
+            "A summative-only process",
+            "A fixed trait",
+            "Punishment"
+          ],
+          "correctIndex": 0,
+          "explanation": "A hint can guide the learner toward a more successful response.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-041",
+          "question": "Which classroom arrangement can support collaborative discussion?",
+          "options": [
+            "Small groups with a clear shared task and roles",
+            "Rows with a rule against interaction for every activity",
+            "Groups without any purpose",
+            "One learner completing all tasks"
+          ],
+          "correctIndex": 0,
+          "explanation": "A clear task and roles help make group interaction productive.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-042",
+          "question": "What is an important teacher responsibility during group work?",
+          "options": [
+            "Monitor participation and provide support when needed",
+            "Assume all groups function equally",
+            "Avoid observing learners",
+            "Allow exclusion to continue"
+          ],
+          "correctIndex": 0,
+          "explanation": "Monitoring helps ensure participation and allows timely instructional support.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-043",
+          "question": "Which strategy can help resolve a classroom disagreement constructively?",
+          "options": [
+            "Help learners describe the issue, listen and consider solutions",
+            "Encourage personal attacks",
+            "Choose a side without hearing anyone",
+            "Ignore safety concerns"
+          ],
+          "correctIndex": 0,
+          "explanation": "Structured listening and solution-building can support constructive conflict resolution.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-044",
+          "question": "A classroom rule is more likely to be understood when it is:",
+          "options": [
+            "Clear, positively stated and consistently applied",
+            "Changed without explanation each day",
+            "Known only to the teacher",
+            "Enforced differently based on popularity"
+          ],
+          "correctIndex": 0,
+          "explanation": "Clear and consistent rules help learners understand expectations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-045",
+          "question": "Which approach emphasizes preventing behaviour difficulties rather than reacting only afterward?",
+          "options": [
+            "Teach routines and design engaging, accessible lessons",
+            "Rely exclusively on punishment",
+            "Wait until problems escalate",
+            "Use public shaming"
+          ],
+          "correctIndex": 0,
+          "explanation": "Proactive routines and accessible instruction can reduce preventable difficulties.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-046",
+          "question": "A teacher wants to understand repeated off-task behaviour. Which is a useful first step?",
+          "options": [
+            "Look for patterns, triggers and task-related barriers",
+            "Assume the learner is intentionally disrespectful",
+            "Use a permanent label",
+            "Remove all learning opportunities"
+          ],
+          "correctIndex": 0,
+          "explanation": "Examining patterns and context can help identify factors contributing to behaviour.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-047",
+          "question": "Which response best reinforces a classroom expectation?",
+          "options": [
+            "Acknowledge the specific behaviour that met the expectation",
+            "Compare the learner with a classmate",
+            "Use sarcasm",
+            "Ignore the behaviour and criticize later"
+          ],
+          "correctIndex": 0,
+          "explanation": "Specific acknowledgement makes the expected behaviour clear.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-048",
+          "question": "Which statement about punishment is important?",
+          "options": [
+            "It may suppress behaviour without teaching a replacement skill",
+            "It always teaches the desired skill",
+            "It guarantees lasting change",
+            "It has no possible side effects"
+          ],
+          "correctIndex": 0,
+          "explanation": "Punishment alone may not teach the learner what to do instead.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-049",
+          "question": "Which approach is consistent with restorative practice?",
+          "options": [
+            "Support those affected, accountability and repairing harm",
+            "Focus only on exclusion",
+            "Ignore the impact of behaviour",
+            "Require public humiliation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Restorative approaches emphasize accountability, impact and repairing relationships where appropriate.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-050",
+          "question": "Which action supports a learner with a sensory access need?",
+          "options": [
+            "Provide appropriate materials or environmental adjustments",
+            "Assume the learner cannot participate",
+            "Remove the learning objective automatically",
+            "Require the same access method for everyone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Appropriate adjustments can reduce barriers to participation and learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-051",
+          "question": "An individualized education plan should be developed with attention to:",
+          "options": [
+            "The learner's assessed needs, goals and relevant team input",
+            "A stereotype based on diagnosis alone",
+            "Only the easiest tasks to grade",
+            "Unrelated class rankings"
+          ],
+          "correctIndex": 0,
+          "explanation": "Individualized planning should be based on the learner's needs and collaborative input.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-052",
+          "question": "Which is an example of assistive technology?",
+          "options": [
+            "Text-to-speech software used to access written material",
+            "A decorative wall chart only",
+            "A class seating chart",
+            "A paper attendance sheet"
+          ],
+          "correctIndex": 0,
+          "explanation": "Text-to-speech can provide access to written content for learners who benefit from it.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-053",
+          "question": "Which statement best reflects disability inclusion?",
+          "options": [
+            "Remove barriers and support meaningful participation",
+            "Assume diagnosis determines ability",
+            "Separate learners from all shared activities",
+            "Ignore individual access needs"
+          ],
+          "correctIndex": 0,
+          "explanation": "Inclusion involves identifying and reducing barriers while enabling meaningful participation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-054",
+          "question": "A teacher provides captions for a video. This primarily improves:",
+          "options": [
+            "Access to spoken content",
+            "The video's factual accuracy automatically",
+            "Learner ranking",
+            "The lesson's duration"
+          ],
+          "correctIndex": 0,
+          "explanation": "Captions make spoken content accessible through text and can support varied learners.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-055",
+          "question": "Which practice can reduce stereotype threat in a classroom?",
+          "options": [
+            "Communicate high, supportive expectations and emphasize growth and belonging",
+            "Highlight stereotypes before every test",
+            "Treat group membership as destiny",
+            "Publicly rank demographic groups"
+          ],
+          "correctIndex": 0,
+          "explanation": "Supportive expectations and a sense of belonging can help reduce stereotype-related pressures.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-056",
+          "question": "A teacher uses examples from learners' communities. The teacher should:",
+          "options": [
+            "Avoid assuming every learner shares the same experience",
+            "Treat one example as representative of everyone",
+            "Use community knowledge as a deficit",
+            "Avoid checking relevance"
+          ],
+          "correctIndex": 0,
+          "explanation": "Community connections should be respectful and should not generalize individual experiences.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-057",
+          "question": "Which is a feature of culturally sustaining practice?",
+          "options": [
+            "Value learners' cultural and linguistic resources in learning",
+            "Require learners to abandon their identities",
+            "Treat cultural difference as a problem",
+            "Use only one cultural viewpoint"
+          ],
+          "correctIndex": 0,
+          "explanation": "Culturally sustaining practice recognizes and supports learners' cultural and linguistic resources.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-058",
+          "question": "Which action best supports gender-fair teaching?",
+          "options": [
+            "Offer all learners equal access to varied roles and subjects",
+            "Assign tasks by gender stereotypes",
+            "Praise different behaviours according to gender",
+            "Limit participation based on assumptions"
+          ],
+          "correctIndex": 0,
+          "explanation": "Equitable access avoids restricting opportunities through gender stereotypes.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-059",
+          "question": "A teacher notices unequal participation in discussion. A useful adjustment is to:",
+          "options": [
+            "Use structured turn-taking and varied response options",
+            "Allow the same voices to dominate",
+            "Stop inviting quieter learners",
+            "Assume silence means no understanding"
+          ],
+          "correctIndex": 0,
+          "explanation": "Structured participation can broaden opportunities to contribute.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-060",
+          "question": "Which is an example of universal design in lesson planning?",
+          "options": [
+            "Offer text, diagrams and oral explanation for key ideas",
+            "Create access only after a learner fails",
+            "Require one format for every response",
+            "Remove the learning objective"
+          ],
+          "correctIndex": 0,
+          "explanation": "Multiple representations can make core content accessible to more learners from the outset.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-061",
+          "question": "Which statement about accommodations is accurate?",
+          "options": [
+            "They can change how a learner accesses or demonstrates learning",
+            "They always lower the learning goal",
+            "They are identical for every learner",
+            "They remove the need to assess learning"
+          ],
+          "correctIndex": 0,
+          "explanation": "Accommodations adjust access or response conditions without necessarily changing the target.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-062",
+          "question": "Which example is a modification rather than simply an accommodation?",
+          "options": [
+            "Changing the complexity or level of the expected learning outcome",
+            "Providing enlarged print",
+            "Allowing extra time when appropriate",
+            "Using an accessible seating location"
+          ],
+          "correctIndex": 0,
+          "explanation": "A modification changes the expected learning outcome or level.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-063",
+          "question": "A teacher is concerned about possible neglect. The teacher should:",
+          "options": [
+            "Follow the applicable safeguarding and reporting procedures",
+            "Investigate alone and promise secrecy",
+            "Discuss the suspicion with classmates",
+            "Ignore it without action"
+          ],
+          "correctIndex": 0,
+          "explanation": "Safeguarding concerns should be handled through established procedures and professional responsibilities.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-064",
+          "question": "Which practice protects learner dignity during correction?",
+          "options": [
+            "Address the behaviour calmly and privately when feasible",
+            "Use ridicule in front of peers",
+            "Publish mistakes with names",
+            "Compare the learner to siblings"
+          ],
+          "correctIndex": 0,
+          "explanation": "Calm, respectful correction helps preserve dignity and the teacher-learner relationship.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-065",
+          "question": "A learner shares sensitive information. The teacher should:",
+          "options": [
+            "Listen carefully and explain limits to confidentiality where relevant",
+            "Promise never to tell anyone under any circumstances",
+            "Share it with the whole class",
+            "Dismiss the learner immediately"
+          ],
+          "correctIndex": 0,
+          "explanation": "Teachers should respect privacy while being clear about safeguarding or other required disclosures.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-066",
+          "question": "Which situation most clearly calls for referral to a qualified specialist?",
+          "options": [
+            "A concern is persistent or beyond the teacher's professional expertise",
+            "A learner asks one ordinary question",
+            "A learner makes a minor mistake",
+            "A learner prefers a different pencil"
+          ],
+          "correctIndex": 0,
+          "explanation": "Persistent or specialized concerns may require support beyond a teacher's role.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-067",
+          "question": "Why is family-school communication valuable?",
+          "options": [
+            "It can support shared understanding and coordinated assistance",
+            "It guarantees identical home and school conditions",
+            "It replaces learner voice",
+            "It should occur only when problems arise"
+          ],
+          "correctIndex": 0,
+          "explanation": "Constructive communication can help families and schools coordinate support.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-068",
+          "question": "Which approach is most respectful when communicating with families from diverse backgrounds?",
+          "options": [
+            "Use clear language and check understanding without assumptions",
+            "Assume families have identical resources",
+            "Use unexplained technical terms",
+            "Treat questions as resistance"
+          ],
+          "correctIndex": 0,
+          "explanation": "Accessible, respectful communication avoids assumptions and supports shared understanding.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-069",
+          "question": "A teacher reflects on whether a lesson met its objective using learner work. This is:",
+          "options": [
+            "Evidence-informed reflection",
+            "A personality test",
+            "A punishment procedure",
+            "A fixed intelligence measure"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reviewing learner evidence helps teachers evaluate and improve instruction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-070",
+          "question": "Which is a key feature of professional collaboration?",
+          "options": [
+            "Share evidence and jointly plan responses to learner needs",
+            "Compete to conceal teaching strategies",
+            "Avoid discussing challenges",
+            "Make decisions based on rumours"
+          ],
+          "correctIndex": 0,
+          "explanation": "Collaboration involves sharing information and coordinating purposeful responses.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-071",
+          "question": "A teacher tries a new strategy and records its effects systematically. This resembles:",
+          "options": [
+            "Classroom action research",
+            "Random punishment",
+            "Norm-referenced testing",
+            "Maturation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Systematic inquiry into classroom practice is characteristic of action research.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-072",
+          "question": "Which ethical principle should guide the use of learner data?",
+          "options": [
+            "Use it for legitimate educational purposes and protect privacy",
+            "Share identifiable results freely",
+            "Use data to stereotype learners",
+            "Keep inaccurate records deliberately"
+          ],
+          "correctIndex": 0,
+          "explanation": "Learner data should be handled responsibly, accurately and with appropriate privacy protections.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-073",
+          "question": "Which practice is useful when interpreting attendance and achievement data?",
+          "options": [
+            "Consider context and avoid assuming one variable proves causation",
+            "Assume absence is the only cause of low scores",
+            "Ignore other evidence",
+            "Treat correlation as proof"
+          ],
+          "correctIndex": 0,
+          "explanation": "Data patterns require contextual interpretation and do not automatically establish causation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-074",
+          "question": "A teacher finds that a teaching method works for some learners but not others. The next step is to:",
+          "options": [
+            "Examine learner responses and adapt instruction thoughtfully",
+            "Declare the method universally effective",
+            "Blame the learners",
+            "Stop assessing progress"
+          ],
+          "correctIndex": 0,
+          "explanation": "Responsive teaching uses evidence to adapt methods to learner needs.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-075",
+          "question": "Which goal is written most clearly?",
+          "options": [
+            "By Friday, learners will compare two explanations using three pieces of evidence",
+            "Learners will understand everything",
+            "Do better in class",
+            "Be smart"
+          ],
+          "correctIndex": 0,
+          "explanation": "A clear goal identifies an observable performance and a relevant success condition.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-076",
+          "question": "Why should learning objectives use observable verbs?",
+          "options": [
+            "They help clarify what learners should demonstrate",
+            "They guarantee every learner succeeds",
+            "They replace content knowledge",
+            "They eliminate assessment"
+          ],
+          "correctIndex": 0,
+          "explanation": "Observable verbs make intended learning easier to communicate and assess.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-077",
+          "question": "Which task best assesses analysis?",
+          "options": [
+            "Compare two accounts and explain how their evidence differs",
+            "List five terms from memory",
+            "Copy a definition",
+            "Repeat a demonstrated movement"
+          ],
+          "correctIndex": 0,
+          "explanation": "Comparing accounts and evidence requires examining relationships and differences.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-078",
+          "question": "Which task best assesses creation?",
+          "options": [
+            "Design and justify an original solution to a defined problem",
+            "Select a memorized definition",
+            "Repeat a worked example exactly",
+            "Identify a page number"
+          ],
+          "correctIndex": 0,
+          "explanation": "Creating involves producing an original or newly organized response to a task.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-079",
+          "question": "Which task best assesses application?",
+          "options": [
+            "Use a principle to solve a new, relevant problem",
+            "Recite the principle only",
+            "Copy the heading",
+            "Name the textbook chapter"
+          ],
+          "correctIndex": 0,
+          "explanation": "Application requires using knowledge or a skill in a situation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-080",
+          "question": "Which task best assesses evaluation?",
+          "options": [
+            "Judge a proposal against stated criteria and justify the judgment",
+            "Recall a date",
+            "Copy a paragraph",
+            "Sort papers by colour"
+          ],
+          "correctIndex": 0,
+          "explanation": "Evaluation involves making and justifying judgments against criteria.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-081",
+          "question": "Which classroom question encourages critical thinking?",
+          "options": [
+            "What evidence would change your conclusion?",
+            "What is the first word on the page?",
+            "Who finished fastest?",
+            "Can you copy this sentence?"
+          ],
+          "correctIndex": 0,
+          "explanation": "The question asks learners to examine evidence and reconsider a conclusion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-082",
+          "question": "Which approach can help learners transfer knowledge flexibly?",
+          "options": [
+            "Practise applying concepts across varied contexts and examples",
+            "Use only one familiar example",
+            "Avoid explaining underlying principles",
+            "Teach isolated answers without connections"
+          ],
+          "correctIndex": 0,
+          "explanation": "Varied applications can help learners recognize when and how knowledge transfers.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-083",
+          "question": "Which is a useful way to develop learner independence?",
+          "options": [
+            "Gradually shift responsibility as learners demonstrate readiness",
+            "Remove support immediately for everyone",
+            "Complete every task for learners",
+            "Avoid teaching strategies"
+          ],
+          "correctIndex": 0,
+          "explanation": "Gradual release allows support to decrease as learners become more capable.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-084",
+          "question": "Which practice best combines challenge with support?",
+          "options": [
+            "Provide a demanding task with scaffolds matched to current needs",
+            "Give an impossible task without guidance",
+            "Offer only tasks already mastered",
+            "Remove feedback"
+          ],
+          "correctIndex": 0,
+          "explanation": "Appropriate scaffolding can help learners engage with challenging work.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-085",
+          "question": "A teacher asks learners to set a next-step goal based on feedback. This supports:",
+          "options": [
+            "Ownership of learning",
+            "Passive compliance only",
+            "Permanent ranking",
+            "Avoidance of reflection"
+          ],
+          "correctIndex": 0,
+          "explanation": "Setting a next step helps learners act on feedback and take ownership.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-086",
+          "question": "Which statement about peer comparison is most appropriate?",
+          "options": [
+            "Focus on progress and criteria rather than humiliating public rankings",
+            "Public ranking always motivates everyone",
+            "Comparison is the only valid feedback",
+            "Learners should never review their own progress"
+          ],
+          "correctIndex": 0,
+          "explanation": "Progress and criteria-focused feedback avoids the harms of unnecessary public ranking.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-087",
+          "question": "Which teaching response is appropriate when learners finish at different times?",
+          "options": [
+            "Plan meaningful extension and support activities",
+            "Assume early finishers learned everything",
+            "Make everyone wait without purpose",
+            "Punish learners who need more time"
+          ],
+          "correctIndex": 0,
+          "explanation": "Planned extension and support keep learning purposeful for learners working at different rates.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-088",
+          "question": "Which classroom practice helps make expectations predictable?",
+          "options": [
+            "Teach routines explicitly and revisit them when needed",
+            "Assume learners automatically know every rule",
+            "Change routines without notice",
+            "Use different rules for preferred learners"
+          ],
+          "correctIndex": 0,
+          "explanation": "Explicitly teaching routines helps learners understand and anticipate expectations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-089",
+          "question": "Which is an example of a logical consequence?",
+          "options": [
+            "A learner helps restore materials they deliberately scattered",
+            "The teacher assigns unrelated extra homework",
+            "The learner is mocked publicly",
+            "The whole class loses recess regardless of involvement"
+          ],
+          "correctIndex": 0,
+          "explanation": "A logical consequence is connected to the behaviour and supports repairing its impact.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-090",
+          "question": "Which response best supports conflict de-escalation?",
+          "options": [
+            "Use a calm tone, create space and follow safety procedures",
+            "Raise one's voice to overpower everyone",
+            "Crowd the learner aggressively",
+            "Invite peers to intervene physically"
+          ],
+          "correctIndex": 0,
+          "explanation": "Calm communication and attention to safety can help reduce escalation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-091",
+          "question": "Which is a sound principle for selecting instructional materials?",
+          "options": [
+            "Check accuracy, accessibility, relevance and alignment with objectives",
+            "Choose solely by appearance",
+            "Ignore learner reading access",
+            "Use materials without reviewing them"
+          ],
+          "correctIndex": 0,
+          "explanation": "Materials should support the objectives and be accurate and accessible.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-092",
+          "question": "Which practice can help prevent overload during a complex explanation?",
+          "options": [
+            "Signal key ideas and remove irrelevant distractions",
+            "Add unrelated facts continuously",
+            "Use several conflicting instructions",
+            "Avoid organizing the explanation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Signposting and reducing irrelevant information help learners focus on essential content.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-093",
+          "question": "Which strategy can support comprehension of an informational text?",
+          "options": [
+            "Preview structure, ask questions and summarize key ideas",
+            "Read without purpose or reflection",
+            "Copy every sentence mechanically",
+            "Skip unfamiliar concepts permanently"
+          ],
+          "correctIndex": 0,
+          "explanation": "Previewing, questioning and summarizing are strategies that support comprehension.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-094",
+          "question": "Which activity can support vocabulary learning?",
+          "options": [
+            "Use new words in varied meaningful sentences and contexts",
+            "Memorize an isolated list once only",
+            "Avoid encountering the words again",
+            "Copy words without meaning"
+          ],
+          "correctIndex": 0,
+          "explanation": "Repeated meaningful use across contexts can strengthen vocabulary knowledge.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-095",
+          "question": "Which classroom practice encourages respectful academic dialogue?",
+          "options": [
+            "Ask learners to build on or question ideas with reasons",
+            "Reward personal attacks",
+            "Treat disagreement as disobedience",
+            "Allow interruptions without norms"
+          ],
+          "correctIndex": 0,
+          "explanation": "Discussion norms can help learners engage critically while respecting one another.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-096",
+          "question": "Which is a useful indicator that a learner understands a concept?",
+          "options": [
+            "Can explain it and apply it in a different example",
+            "Can repeat the teacher's exact wording only",
+            "Has copied all notes",
+            "Finishes first regardless of accuracy"
+          ],
+          "correctIndex": 0,
+          "explanation": "Explanation and flexible application provide stronger evidence of understanding than copying alone.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-097",
+          "question": "What should a teacher do when assessment evidence conflicts?",
+          "options": [
+            "Gather additional evidence and investigate possible reasons",
+            "Select whichever score is highest without review",
+            "Ignore the conflict",
+            "Assume the learner cheated"
+          ],
+          "correctIndex": 0,
+          "explanation": "Conflicting evidence warrants further inquiry rather than an unsupported conclusion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-098",
+          "question": "Which principle should guide decisions about learner grouping?",
+          "options": [
+            "Use flexible, purposeful groupings and review their effects",
+            "Keep ability groups permanent",
+            "Group learners by stereotypes",
+            "Never explain group tasks"
+          ],
+          "correctIndex": 0,
+          "explanation": "Flexible grouping should serve learning goals and respond to changing evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-099",
+          "question": "Which practice best supports a learner returning after an extended absence?",
+          "options": [
+            "Identify essential missed learning and plan a manageable catch-up path",
+            "Assign every missed task at once without discussion",
+            "Assume the learner cannot catch up",
+            "Exclude the learner from current lessons"
+          ],
+          "correctIndex": 0,
+          "explanation": "A prioritized, supportive plan can help the learner reconnect with essential learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "cdp-core-006-100",
+          "question": "Which statement best summarizes effective pedagogy?",
+          "options": [
+            "Combine clear goals, responsive instruction, assessment and supportive relationships",
+            "Use one method regardless of learner response",
+            "Rely only on final examinations",
+            "Avoid reflecting on outcomes"
+          ],
+          "correctIndex": 0,
+          "explanation": "Effective pedagogy brings together purposeful instruction, evidence, adaptation and supportive relationships.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

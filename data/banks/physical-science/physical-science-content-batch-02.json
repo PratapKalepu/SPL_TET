@@ -1,0 +1,1314 @@
+{
+  "track": "maths",
+  "testId": "physical-science-content-batch-02",
+  "title": "AP Special TET Physical Science — Content & Pedagogy Batch 02",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "physical-science-content-02",
+      "title": "Physical Science Content and Pedagogy",
+      "questions": [
+        {
+          "id": "physical-science-content-002-001",
+          "question": "The SI unit of pressure is:",
+          "options": [
+            "Newton",
+            "Pascal",
+            "Joule",
+            "Watt"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pressure is measured in pascals (Pa), equivalent to N/m².",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-002",
+          "question": "A body covers 120 m in 20 s. Its average speed is:",
+          "options": [
+            "4 m/s",
+            "5 m/s",
+            "6 m/s",
+            "8 m/s"
+          ],
+          "correctIndex": 2,
+          "explanation": "Average speed = distance ÷ time = 120 ÷ 20 = 6 m/s.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-003",
+          "question": "A velocity-time graph has a horizontal line above the time axis. The body is moving with:",
+          "options": [
+            "Uniform velocity",
+            "Increasing acceleration",
+            "Decreasing velocity",
+            "Zero displacement"
+          ],
+          "correctIndex": 0,
+          "explanation": "A constant positive velocity is represented by a horizontal line above the time axis.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-004",
+          "question": "The slope of a distance-time graph represents:",
+          "options": [
+            "Acceleration",
+            "Speed",
+            "Force",
+            "Momentum"
+          ],
+          "correctIndex": 1,
+          "explanation": "The slope gives change in distance per unit time, i.e. speed.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-005",
+          "question": "A force of 20 N acts on a 5 kg body. Acceleration is:",
+          "options": [
+            "2 m/s²",
+            "4 m/s²",
+            "5 m/s²",
+            "10 m/s²"
+          ],
+          "correctIndex": 1,
+          "explanation": "Newton's second law gives a = F/m = 20/5 = 4 m/s².",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-006",
+          "question": "Momentum is the product of:",
+          "options": [
+            "Mass and velocity",
+            "Mass and acceleration",
+            "Force and distance",
+            "Power and time"
+          ],
+          "correctIndex": 0,
+          "explanation": "Linear momentum is p = mv.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-007",
+          "question": "The SI unit of momentum is:",
+          "options": [
+            "kg m/s",
+            "kg m/s²",
+            "N/m",
+            "J/s"
+          ],
+          "correctIndex": 0,
+          "explanation": "Momentum has units kg·m/s.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-008",
+          "question": "Action and reaction forces act on:",
+          "options": [
+            "The same body in the same direction",
+            "Different bodies in opposite directions",
+            "Different bodies in the same direction",
+            "Only stationary bodies"
+          ],
+          "correctIndex": 1,
+          "explanation": "Newton's third-law force pair acts on two interacting bodies in opposite directions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-009",
+          "question": "A 2 kg object moves at 3 m/s. Its kinetic energy is:",
+          "options": [
+            "3 J",
+            "6 J",
+            "9 J",
+            "18 J"
+          ],
+          "correctIndex": 2,
+          "explanation": "KE = ½mv² = ½ × 2 × 9 = 9 J.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-010",
+          "question": "A 10 N force moves an object 4 m in its direction. Work done is:",
+          "options": [
+            "2.5 J",
+            "14 J",
+            "40 J",
+            "400 J"
+          ],
+          "correctIndex": 2,
+          "explanation": "Work = force × displacement = 10 × 4 = 40 J.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-011",
+          "question": "If 600 J of work is done in 30 s, power is:",
+          "options": [
+            "20 W",
+            "30 W",
+            "60 W",
+            "180 W"
+          ],
+          "correctIndex": 0,
+          "explanation": "Power = work/time = 600/30 = 20 W.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-012",
+          "question": "The energy stored in food is primarily:",
+          "options": [
+            "Chemical energy",
+            "Sound energy",
+            "Magnetic energy",
+            "Elastic energy"
+          ],
+          "correctIndex": 0,
+          "explanation": "Food stores chemical potential energy.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-013",
+          "question": "The law of conservation of energy states that energy:",
+          "options": [
+            "Can be created freely",
+            "Can be destroyed completely",
+            "Changes form but total energy is conserved",
+            "Exists only as heat"
+          ],
+          "correctIndex": 2,
+          "explanation": "Energy transfers and transforms; it is not created or destroyed.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-014",
+          "question": "The value of acceleration due to gravity near Earth's surface is approximately:",
+          "options": [
+            "4.9 m/s²",
+            "8.9 m/s²",
+            "9.8 m/s²",
+            "98 m/s²"
+          ],
+          "correctIndex": 2,
+          "explanation": "Near Earth's surface, g is about 9.8 m/s².",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-015",
+          "question": "The weight of a 4 kg mass on Earth (g ≈ 10 m/s²) is:",
+          "options": [
+            "0.4 N",
+            "4 N",
+            "40 N",
+            "400 N"
+          ],
+          "correctIndex": 2,
+          "explanation": "Weight = mg = 4 × 10 = 40 N.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-016",
+          "question": "An object's mass on the Moon compared with Earth is:",
+          "options": [
+            "One-sixth",
+            "Six times",
+            "The same",
+            "Zero"
+          ],
+          "correctIndex": 2,
+          "explanation": "Mass is intrinsic and does not change with location.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-017",
+          "question": "The buoyant force on an immersed object equals the weight of:",
+          "options": [
+            "The object",
+            "The displaced fluid",
+            "The container",
+            "The surrounding air only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Archimedes' principle states that upthrust equals the weight of displaced fluid.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-018",
+          "question": "A hydrometer is used to compare:",
+          "options": [
+            "Electric currents",
+            "Relative density of liquids",
+            "Atmospheric temperature",
+            "Sound frequency"
+          ],
+          "correctIndex": 1,
+          "explanation": "A hydrometer measures liquid density or specific gravity.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-019",
+          "question": "The density of a 200 g object with volume 50 cm³ is:",
+          "options": [
+            "2 g/cm³",
+            "4 g/cm³",
+            "10 g/cm³",
+            "250 g/cm³"
+          ],
+          "correctIndex": 1,
+          "explanation": "Density = mass/volume = 200/50 = 4 g/cm³.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-020",
+          "question": "Why does a sharp knife cut more easily than a blunt one?",
+          "options": [
+            "It produces less pressure",
+            "It produces greater pressure for the same force",
+            "It has no friction",
+            "It reduces the applied force to zero"
+          ],
+          "correctIndex": 1,
+          "explanation": "A smaller contact area produces greater pressure for a given force.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-021",
+          "question": "The phenomenon responsible for a straw appearing bent in water is:",
+          "options": [
+            "Reflection",
+            "Refraction",
+            "Diffraction",
+            "Dispersion"
+          ],
+          "correctIndex": 1,
+          "explanation": "Light changes direction as it passes between media, causing refraction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-022",
+          "question": "A ray travelling from air into glass bends:",
+          "options": [
+            "Away from the normal",
+            "Towards the normal",
+            "Along the surface always",
+            "Without changing direction in all cases"
+          ],
+          "correctIndex": 1,
+          "explanation": "On entering a higher refractive-index medium obliquely, light bends towards the normal.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-023",
+          "question": "The refractive index of a medium is the ratio of:",
+          "options": [
+            "Speed in medium to speed in vacuum",
+            "Speed in vacuum to speed in medium",
+            "Wavelength to frequency",
+            "Frequency to time"
+          ],
+          "correctIndex": 1,
+          "explanation": "Absolute refractive index n = c/v.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-024",
+          "question": "A concave mirror can form a real, inverted image when the object is:",
+          "options": [
+            "Between pole and focus",
+            "At the pole only",
+            "Beyond the focus",
+            "Behind the mirror"
+          ],
+          "correctIndex": 2,
+          "explanation": "For an object beyond the focal point, a concave mirror forms a real, inverted image.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-025",
+          "question": "A convex mirror is commonly used as a vehicle rear-view mirror because it:",
+          "options": [
+            "Forms enlarged real images",
+            "Provides a wide field of view",
+            "Always inverts images",
+            "Converges parallel rays"
+          ],
+          "correctIndex": 1,
+          "explanation": "Convex mirrors provide a wide field of view and form virtual, erect, diminished images.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-026",
+          "question": "The splitting of white light into its component colours is:",
+          "options": [
+            "Reflection",
+            "Dispersion",
+            "Scattering only",
+            "Interference"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dispersion separates colours because refractive index varies with wavelength.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-027",
+          "question": "A rainbow is produced mainly by refraction, dispersion and:",
+          "options": [
+            "Nuclear fission",
+            "Internal reflection",
+            "Conduction",
+            "Magnetic induction"
+          ],
+          "correctIndex": 1,
+          "explanation": "Water droplets refract and disperse sunlight and internally reflect it.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-028",
+          "question": "The image formed on the retina is:",
+          "options": [
+            "Virtual and erect",
+            "Real and inverted",
+            "Virtual and inverted",
+            "Real and erect"
+          ],
+          "correctIndex": 1,
+          "explanation": "The eye lens forms a real, inverted image on the retina; the brain interprets it.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-029",
+          "question": "Myopia is commonly corrected using a:",
+          "options": [
+            "Convex lens",
+            "Concave lens",
+            "Cylindrical mirror",
+            "Plane glass slab"
+          ],
+          "correctIndex": 1,
+          "explanation": "A concave lens diverges incoming light to help focus distant images on the retina.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-030",
+          "question": "The unit of frequency is:",
+          "options": [
+            "Decibel",
+            "Hertz",
+            "Metre",
+            "Second"
+          ],
+          "correctIndex": 1,
+          "explanation": "Frequency is measured in hertz (Hz), or cycles per second.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-031",
+          "question": "If a wave has frequency 50 Hz and wavelength 4 m, its speed is:",
+          "options": [
+            "12.5 m/s",
+            "46 m/s",
+            "54 m/s",
+            "200 m/s"
+          ],
+          "correctIndex": 3,
+          "explanation": "Wave speed v = fλ = 50 × 4 = 200 m/s.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-032",
+          "question": "An echo is heard due to:",
+          "options": [
+            "Refraction of sound",
+            "Reflection of sound",
+            "Absorption of sound",
+            "Production of ultrasound"
+          ],
+          "correctIndex": 1,
+          "explanation": "An echo is reflected sound heard after a delay.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-033",
+          "question": "Ultrasound has a frequency:",
+          "options": [
+            "Below 20 Hz",
+            "Between 20 and 200 Hz",
+            "Above 20,000 Hz",
+            "Exactly 1,000 Hz"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ultrasound frequencies exceed the approximate upper human hearing limit of 20 kHz.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-034",
+          "question": "Sound travels fastest, in general, through:",
+          "options": [
+            "Vacuum",
+            "Gases",
+            "Liquids",
+            "Solids"
+          ],
+          "correctIndex": 3,
+          "explanation": "Sound usually travels fastest in solids because particles are strongly coupled.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-035",
+          "question": "The time period of a 5 Hz vibration is:",
+          "options": [
+            "0.2 s",
+            "2 s",
+            "5 s",
+            "25 s"
+          ],
+          "correctIndex": 0,
+          "explanation": "Time period T = 1/f = 1/5 = 0.2 s.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-036",
+          "question": "A tuning fork produces sound due to:",
+          "options": [
+            "Vibrations",
+            "Chemical reaction only",
+            "Refraction",
+            "Static charge"
+          ],
+          "correctIndex": 0,
+          "explanation": "A tuning fork's vibrating prongs set the surrounding air into vibration.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-037",
+          "question": "The Celsius temperature corresponding to 300 K is approximately:",
+          "options": [
+            "−27°C",
+            "0°C",
+            "27°C",
+            "300°C"
+          ],
+          "correctIndex": 2,
+          "explanation": "°C = K − 273.15, so 300 K is about 27°C.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-038",
+          "question": "Heat required to raise 2 kg of water by 5°C (c = 4200 J/kg°C) is:",
+          "options": [
+            "4,200 J",
+            "21,000 J",
+            "42,000 J",
+            "84,000 J"
+          ],
+          "correctIndex": 2,
+          "explanation": "Q = mcΔT = 2 × 4200 × 5 = 42,000 J.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-039",
+          "question": "The transfer of heat by bulk movement of fluid is:",
+          "options": [
+            "Conduction",
+            "Convection",
+            "Radiation",
+            "Reflection"
+          ],
+          "correctIndex": 1,
+          "explanation": "Convection transfers heat through movement of a fluid.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-040",
+          "question": "A thermos flask reduces heat transfer by using:",
+          "options": [
+            "Only a thick copper wall",
+            "Vacuum insulation and reflective surfaces",
+            "A black outer surface alone",
+            "A water-filled gap"
+          ],
+          "correctIndex": 1,
+          "explanation": "Vacuum reduces conduction and convection; reflective surfaces reduce radiation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-041",
+          "question": "The change from gas to liquid is called:",
+          "options": [
+            "Sublimation",
+            "Condensation",
+            "Freezing",
+            "Melting"
+          ],
+          "correctIndex": 1,
+          "explanation": "Condensation is the transition from gas to liquid.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-042",
+          "question": "Latent heat is energy absorbed or released during:",
+          "options": [
+            "A temperature rise only",
+            "A change of state without temperature change",
+            "Any change in speed",
+            "A change in mass"
+          ],
+          "correctIndex": 1,
+          "explanation": "Latent heat is associated with phase change at constant temperature.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-043",
+          "question": "Which is a chemical property of a substance?",
+          "options": [
+            "Melting point",
+            "Density",
+            "Flammability",
+            "Electrical conductivity"
+          ],
+          "correctIndex": 2,
+          "explanation": "Flammability describes a substance's ability to undergo combustion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-044",
+          "question": "An element consists of:",
+          "options": [
+            "One type of atom",
+            "Two or more compounds",
+            "Only molecules of different elements",
+            "A physically mixed set of substances"
+          ],
+          "correctIndex": 0,
+          "explanation": "An element is made of atoms with the same atomic number.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-045",
+          "question": "A compound differs from a mixture because a compound has:",
+          "options": [
+            "Components in any proportion",
+            "Components chemically combined in a fixed ratio",
+            "Components that retain all original properties",
+            "Components separable by filtration"
+          ],
+          "correctIndex": 1,
+          "explanation": "Compounds have chemically bonded elements in definite proportions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-046",
+          "question": "Which method separates miscible liquids with different boiling points?",
+          "options": [
+            "Simple sieving",
+            "Fractional distillation",
+            "Magnetic separation",
+            "Filtration"
+          ],
+          "correctIndex": 1,
+          "explanation": "Fractional distillation separates miscible liquids based on boiling-point differences.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-047",
+          "question": "Chromatography is particularly useful for separating:",
+          "options": [
+            "Large stones from sand",
+            "Dissolved coloured components",
+            "Iron from sulphur with a magnet",
+            "Oil from water using a funnel only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Chromatography separates mixture components through differing movement between phases.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-048",
+          "question": "The atomic number of an atom equals the number of:",
+          "options": [
+            "Neutrons",
+            "Protons",
+            "Protons plus neutrons",
+            "Electron shells"
+          ],
+          "correctIndex": 1,
+          "explanation": "Atomic number is the number of protons in the nucleus.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-049",
+          "question": "Isotopes of an element have the same number of:",
+          "options": [
+            "Neutrons",
+            "Nucleons",
+            "Protons",
+            "Mass number"
+          ],
+          "correctIndex": 2,
+          "explanation": "Isotopes share proton number but differ in neutron number.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-050",
+          "question": "An ion forms when an atom:",
+          "options": [
+            "Changes its proton count in ordinary chemical reactions",
+            "Gains or loses electrons",
+            "Changes into a different isotope only",
+            "Splits its nucleus in every case"
+          ],
+          "correctIndex": 1,
+          "explanation": "Electron gain or loss gives an atom a net electrical charge.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-051",
+          "question": "A solution with pH 9 is:",
+          "options": [
+            "Acidic",
+            "Neutral",
+            "Basic",
+            "Always pure water"
+          ],
+          "correctIndex": 2,
+          "explanation": "A pH above 7 is basic (alkaline) in the usual aqueous scale.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-052",
+          "question": "When an acid reacts with a base, the typical products are:",
+          "options": [
+            "Salt and water",
+            "Metal and oxygen",
+            "Hydrogen and carbon",
+            "Only carbon dioxide"
+          ],
+          "correctIndex": 0,
+          "explanation": "Neutralization typically produces salt and water.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-053",
+          "question": "Phenolphthalein in an alkaline solution is usually:",
+          "options": [
+            "Pink",
+            "Blue",
+            "Colourless",
+            "Black"
+          ],
+          "correctIndex": 0,
+          "explanation": "Phenolphthalein turns pink in alkaline conditions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-054",
+          "question": "Which is an example of oxidation in everyday life?",
+          "options": [
+            "Rusting of iron",
+            "Melting ice",
+            "Breaking glass",
+            "Dissolving salt"
+          ],
+          "correctIndex": 0,
+          "explanation": "Rusting involves oxidation of iron.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-055",
+          "question": "A catalyst changes the rate of a reaction by:",
+          "options": [
+            "Being permanently consumed as a reactant",
+            "Providing an alternative pathway with different activation energy",
+            "Changing the products into elements always",
+            "Increasing the mass of reactants"
+          ],
+          "correctIndex": 1,
+          "explanation": "A catalyst offers an alternative pathway and is regenerated overall.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-056",
+          "question": "Increasing temperature often increases reaction rate because particles:",
+          "options": [
+            "Move more slowly",
+            "Have more frequent effective collisions",
+            "Stop colliding",
+            "Lose all kinetic energy"
+          ],
+          "correctIndex": 1,
+          "explanation": "Higher temperature raises particle kinetic energy and the fraction of effective collisions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-057",
+          "question": "Which gas turns moist red litmus paper blue?",
+          "options": [
+            "Carbon dioxide",
+            "Ammonia",
+            "Oxygen",
+            "Hydrogen"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ammonia is alkaline in moist conditions and turns red litmus blue.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-058",
+          "question": "The chief component of natural gas is usually:",
+          "options": [
+            "Methane",
+            "Ethene",
+            "Carbon monoxide",
+            "Sulphur dioxide"
+          ],
+          "correctIndex": 0,
+          "explanation": "Natural gas consists predominantly of methane, though composition varies.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-059",
+          "question": "Which allotrope of carbon conducts electricity well?",
+          "options": [
+            "Diamond",
+            "Graphite",
+            "Sulphur",
+            "Phosphorus"
+          ],
+          "correctIndex": 1,
+          "explanation": "Graphite has delocalized electrons that can carry electrical charge.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-060",
+          "question": "The chemical formula of baking soda is:",
+          "options": [
+            "Na₂CO₃",
+            "NaHCO₃",
+            "CaCO₃",
+            "NaOH"
+          ],
+          "correctIndex": 1,
+          "explanation": "Baking soda is sodium hydrogen carbonate, NaHCO₃.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-061",
+          "question": "The formula of quicklime is:",
+          "options": [
+            "CaO",
+            "Ca(OH)₂",
+            "CaCO₃",
+            "CaCl₂"
+          ],
+          "correctIndex": 0,
+          "explanation": "Quicklime is calcium oxide, CaO.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-062",
+          "question": "Which gas is commonly used in fire extinguishers because it does not support combustion?",
+          "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Hydrogen",
+            "Chlorine"
+          ],
+          "correctIndex": 1,
+          "explanation": "Carbon dioxide can displace oxygen around a fire and is non-combustible.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-063",
+          "question": "The ozone layer absorbs much of the Sun's:",
+          "options": [
+            "Infrared radiation",
+            "Ultraviolet radiation",
+            "Radio waves",
+            "Visible green light"
+          ],
+          "correctIndex": 1,
+          "explanation": "Stratospheric ozone absorbs much of the harmful UV radiation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-064",
+          "question": "The major greenhouse gas emitted by burning fossil fuels is:",
+          "options": [
+            "Carbon dioxide",
+            "Neon",
+            "Argon",
+            "Helium"
+          ],
+          "correctIndex": 0,
+          "explanation": "Combustion of carbon-based fuels releases carbon dioxide.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-065",
+          "question": "Which is a fossil fuel?",
+          "options": [
+            "Wind",
+            "Coal",
+            "Tidal energy",
+            "Solar radiation"
+          ],
+          "correctIndex": 1,
+          "explanation": "Coal forms from ancient organic matter over geological time.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-066",
+          "question": "The main function of a transformer is to change:",
+          "options": [
+            "AC voltage",
+            "DC into nuclear energy",
+            "Frequency in every case",
+            "Electrical energy into mass"
+          ],
+          "correctIndex": 0,
+          "explanation": "A transformer steps AC voltage up or down through electromagnetic induction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-067",
+          "question": "A transformer works on the principle of:",
+          "options": [
+            "Electrolysis",
+            "Mutual induction",
+            "Photoelectric emission only",
+            "Thermal expansion"
+          ],
+          "correctIndex": 1,
+          "explanation": "Changing current in the primary coil induces voltage in the secondary coil.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-068",
+          "question": "The direction of induced current is described by:",
+          "options": [
+            "Lenz's law",
+            "Boyle's law",
+            "Ohm's law only",
+            "Pascal's principle"
+          ],
+          "correctIndex": 0,
+          "explanation": "Lenz's law states the induced current opposes the change producing it.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-069",
+          "question": "Ohm's law is expressed as:",
+          "options": [
+            "V = IR",
+            "P = IV²",
+            "F = ma²",
+            "Q = mc"
+          ],
+          "correctIndex": 0,
+          "explanation": "For an ohmic conductor under constant physical conditions, V = IR.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-070",
+          "question": "A 12 V source across a 4 Ω resistor produces current:",
+          "options": [
+            "2 A",
+            "3 A",
+            "4 A",
+            "48 A"
+          ],
+          "correctIndex": 1,
+          "explanation": "I = V/R = 12/4 = 3 A.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-071",
+          "question": "An appliance draws 2 A from a 230 V supply. Its power is:",
+          "options": [
+            "115 W",
+            "232 W",
+            "460 W",
+            "920 W"
+          ],
+          "correctIndex": 2,
+          "explanation": "P = VI = 230 × 2 = 460 W.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-072",
+          "question": "A 1 kW heater operates for 3 hours. Energy consumed is:",
+          "options": [
+            "0.3 kWh",
+            "3 kWh",
+            "30 kWh",
+            "300 kWh"
+          ],
+          "correctIndex": 1,
+          "explanation": "Energy = power × time = 1 kW × 3 h = 3 kWh.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-073",
+          "question": "The heating effect of current is the basis of an:",
+          "options": [
+            "Electric iron",
+            "Electric bell only",
+            "Compass",
+            "Photovoltaic cell"
+          ],
+          "correctIndex": 0,
+          "explanation": "An electric iron uses resistive heating to produce heat.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-074",
+          "question": "The magnetic field around a straight current-carrying wire forms:",
+          "options": [
+            "Concentric circles",
+            "Only straight parallel lines",
+            "A single point",
+            "No field"
+          ],
+          "correctIndex": 0,
+          "explanation": "The field lines are concentric circles around the wire.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-075",
+          "question": "The core of a common electromagnet is often made of:",
+          "options": [
+            "Soft iron",
+            "Wood",
+            "Glass",
+            "Copper alone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Soft iron magnetizes readily and loses much of its magnetism when current stops.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-076",
+          "question": "An electric bell uses:",
+          "options": [
+            "An electromagnet and make-break contact",
+            "Only a permanent magnet with no circuit",
+            "A convex lens",
+            "A chemical indicator"
+          ],
+          "correctIndex": 0,
+          "explanation": "Current energizes an electromagnet, repeatedly attracting the armature and interrupting the circuit.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-077",
+          "question": "The SI unit of magnetic flux is:",
+          "options": [
+            "Tesla",
+            "Weber",
+            "Henry per metre",
+            "Coulomb"
+          ],
+          "correctIndex": 1,
+          "explanation": "Magnetic flux is measured in webers (Wb).",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-078",
+          "question": "A solar cell converts light energy into:",
+          "options": [
+            "Electrical energy",
+            "Sound energy",
+            "Chemical fuel directly in all cases",
+            "Mechanical energy only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Photovoltaic cells convert incident light into electrical energy.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-079",
+          "question": "Which is a semiconductor commonly used in electronic devices?",
+          "options": [
+            "Silicon",
+            "Rubber",
+            "Wood",
+            "Porcelain"
+          ],
+          "correctIndex": 0,
+          "explanation": "Silicon is a widely used semiconductor material.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-080",
+          "question": "A diode ideally allows current to flow mainly:",
+          "options": [
+            "In one direction",
+            "Equally in both directions",
+            "Only through vacuum",
+            "Only when cooled below zero"
+          ],
+          "correctIndex": 0,
+          "explanation": "A diode conducts primarily in its forward direction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-081",
+          "question": "A series connection of cells generally increases the:",
+          "options": [
+            "Available voltage",
+            "Resistance of each cell to zero",
+            "Frequency of light",
+            "Mass of electrons"
+          ],
+          "correctIndex": 0,
+          "explanation": "Cell voltages add in series when connected with matching polarity.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-082",
+          "question": "A short circuit can cause dangerous heating because it creates:",
+          "options": [
+            "Very high resistance",
+            "A very low-resistance path and excessive current",
+            "No current",
+            "A larger fuse rating automatically"
+          ],
+          "correctIndex": 1,
+          "explanation": "A low-resistance path can draw excessive current and overheat conductors.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-083",
+          "question": "Which is the safest response to a person receiving an electric shock?",
+          "options": [
+            "Touch them immediately with bare hands",
+            "Disconnect the power if safe and call for emergency help",
+            "Pour water on the supply",
+            "Pull the person using a metal rod"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cut power safely first; avoid direct contact while the person may remain energized.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-084",
+          "question": "A student tests whether wire length affects resistance. Which variable should be kept constant?",
+          "options": [
+            "Wire material and thickness",
+            "Measured resistance",
+            "Chosen length",
+            "The independent variable"
+          ],
+          "correctIndex": 0,
+          "explanation": "Keeping material and cross-sectional area fixed helps isolate length's effect.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-085",
+          "question": "Which sequence best supports inquiry-based learning?",
+          "options": [
+            "Question, predict, investigate, record, interpret, communicate",
+            "Copy, memorize, repeat, conceal",
+            "Answer first, then invent data",
+            "Observe only the teacher's conclusion"
+          ],
+          "correctIndex": 0,
+          "explanation": "The sequence gives learners an evidence-based process for investigating questions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-086",
+          "question": "In a science experiment, a control setup is used to:",
+          "options": [
+            "Provide a comparison for interpreting the effect of a variable",
+            "Guarantee a preferred result",
+            "Replace all measurements",
+            "Change every factor at once"
+          ],
+          "correctIndex": 0,
+          "explanation": "A control provides a baseline against which the experimental condition can be compared.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-087",
+          "question": "A learner's claim is not supported by their data. The teacher should encourage them to:",
+          "options": [
+            "Revise the claim or collect further evidence",
+            "Change recorded data to fit the claim",
+            "Ignore contradictory results",
+            "Declare the investigation useless"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scientific claims should be aligned with evidence, and further testing may be warranted.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-088",
+          "question": "Which assessment best checks a learner's ability to use a measuring cylinder correctly?",
+          "options": [
+            "Observe the learner measure a liquid and read the meniscus",
+            "Ask for a definition of mass",
+            "Give a spelling quiz",
+            "Ask the learner to name a planet"
+          ],
+          "correctIndex": 0,
+          "explanation": "Direct performance observation checks the practical skill.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-089",
+          "question": "Why should learners read a liquid meniscus at eye level?",
+          "options": [
+            "To reduce parallax error",
+            "To increase the liquid's density",
+            "To change its boiling point",
+            "To make the reading larger"
+          ],
+          "correctIndex": 0,
+          "explanation": "Eye-level reading helps avoid parallax and improves measurement accuracy.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-090",
+          "question": "A teacher asks students to explain why an experiment may not establish causation. This develops:",
+          "options": [
+            "Critical evaluation of evidence",
+            "Rote copying",
+            "Only factual recall",
+            "Handwriting fluency"
+          ],
+          "correctIndex": 0,
+          "explanation": "Evaluating causal claims requires considering design, confounding variables and evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-091",
+          "question": "Which is an appropriate adaptation for a learner with low vision during practical work?",
+          "options": [
+            "Provide enlarged/high-contrast instructions and accessible equipment where possible",
+            "Exclude the learner from all experiments",
+            "Rely only on tiny labels",
+            "Remove verbal explanations"
+          ],
+          "correctIndex": 0,
+          "explanation": "Accessible formats and equipment can support safe and meaningful participation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-092",
+          "question": "A learner gives an answer based on a misconception. An effective response is to:",
+          "options": [
+            "Use a probing question or demonstration to examine the idea",
+            "Publicly shame the learner",
+            "Accept it without discussion",
+            "Avoid returning to the concept"
+          ],
+          "correctIndex": 0,
+          "explanation": "Probing and evidence-based discussion help uncover and address misconceptions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-093",
+          "question": "A teacher uses concept cartoons showing competing explanations of a phenomenon. They are useful for:",
+          "options": [
+            "Eliciting and discussing learners' ideas",
+            "Measuring electrical resistance",
+            "Replacing all scientific evidence",
+            "Providing only one memorized answer"
+          ],
+          "correctIndex": 0,
+          "explanation": "Contrasting viewpoints can stimulate reasoning and expose prior conceptions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-094",
+          "question": "Which task best assesses application rather than recall?",
+          "options": [
+            "Use heat-transfer principles to recommend insulation for a lunch container",
+            "State the definition of conduction",
+            "Copy a labelled diagram",
+            "List three chapter headings"
+          ],
+          "correctIndex": 0,
+          "explanation": "Applying principles to a design context requires transfer and decision-making.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-095",
+          "question": "A learner notices an unexpected pattern and proposes a new test. This demonstrates:",
+          "options": [
+            "Scientific curiosity and inquiry",
+            "Failure to follow any method",
+            "Only memorization",
+            "An invalid action in all investigations"
+          ],
+          "correctIndex": 0,
+          "explanation": "Noticing patterns and proposing tests are core inquiry practices.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-096",
+          "question": "Which classroom approach is most likely to support durable understanding?",
+          "options": [
+            "Connect demonstrations, models, discussion and explanation",
+            "Present facts once without feedback",
+            "Assess only memorized phrases",
+            "Avoid connecting concepts"
+          ],
+          "correctIndex": 0,
+          "explanation": "Multiple connected representations and active explanation support conceptual learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-097",
+          "question": "Why is it important to distinguish a scientific model from the real system?",
+          "options": [
+            "A model simplifies selected features and has limitations",
+            "A model always includes every detail",
+            "Models cannot be revised",
+            "A model is identical to direct observation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Models are selective representations and should be evaluated for scope and limitations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-098",
+          "question": "A teacher asks students to communicate results with a labelled table and graph. This develops:",
+          "options": [
+            "Scientific communication and data representation",
+            "Only physical strength",
+            "Unrelated language drills",
+            "Guessing"
+          ],
+          "correctIndex": 0,
+          "explanation": "Tables and graphs help communicate measured evidence clearly.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-099",
+          "question": "Which statement best describes a theory in science?",
+          "options": [
+            "A well-supported explanatory framework that accounts for evidence",
+            "A random guess with no testing",
+            "A fact that cannot be revised under any circumstances",
+            "A personal preference"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scientific theories are comprehensive explanations supported by multiple lines of evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "physical-science-content-002-100",
+          "question": "Which is a key feature of formative feedback?",
+          "options": [
+            "It is timely and helps the learner improve",
+            "It is given only after the course ends",
+            "It contains a grade without guidance",
+            "It compares students publicly"
+          ],
+          "correctIndex": 0,
+          "explanation": "Timely, specific feedback helps learners identify progress and next steps.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

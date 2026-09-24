@@ -1,0 +1,1314 @@
+{
+  "track": "telugu",
+  "testId": "english-l2-batch-06",
+  "title": "English Language-II — Core Batch 06",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "english-l2-06",
+      "title": "English Language-II",
+      "questions": [
+        {
+          "id": "english-l2-006-001",
+          "question": "Choose the correct option: If she ___ earlier, she would not have missed the bus.",
+          "options": [
+            "left",
+            "had left",
+            "has left",
+            "would leave"
+          ],
+          "correctIndex": 1,
+          "explanation": "The third conditional uses past perfect in the if-clause.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-002",
+          "question": "Choose the correct option: I wish I ___ more time to prepare yesterday.",
+          "options": [
+            "have",
+            "had",
+            "had had",
+            "would have"
+          ],
+          "correctIndex": 2,
+          "explanation": "For a wish about an unreal past situation, use the past perfect.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-003",
+          "question": "Choose the correct option: No sooner ___ the bell rung than the students rushed out.",
+          "options": [
+            "had",
+            "has",
+            "did",
+            "was"
+          ],
+          "correctIndex": 0,
+          "explanation": "The pattern is 'No sooner had...than', with inversion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-004",
+          "question": "Choose the correct option: Hardly had the lesson begun ___ the fire alarm rang.",
+          "options": [
+            "than",
+            "when",
+            "then",
+            "while"
+          ],
+          "correctIndex": 1,
+          "explanation": "The standard paired construction is 'hardly...when'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-005",
+          "question": "Choose the correct option: She speaks as though she ___ the subject thoroughly.",
+          "options": [
+            "knows",
+            "knew",
+            "will know",
+            "has know"
+          ],
+          "correctIndex": 1,
+          "explanation": "'As though' can take a past form to express an unreal or hypothetical comparison.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-006",
+          "question": "Choose the correct option: The teacher recommended that he ___ the passage again.",
+          "options": [
+            "reads",
+            "read",
+            "reading",
+            "has read"
+          ],
+          "correctIndex": 1,
+          "explanation": "The mandative subjunctive uses the base form 'read'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-007",
+          "question": "Choose the correct option: The report, together with its appendices, ___ ready.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "The singular head subject 'report' determines the verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-008",
+          "question": "Choose the correct option: More than one student ___ volunteered.",
+          "options": [
+            "have",
+            "has",
+            "are",
+            "were"
+          ],
+          "correctIndex": 1,
+          "explanation": "'More than one' is conventionally followed by a singular verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-009",
+          "question": "Choose the correct option: The number of applicants ___ increased this year.",
+          "options": [
+            "have",
+            "has",
+            "are",
+            "were"
+          ],
+          "correctIndex": 1,
+          "explanation": "'The number' is singular and takes 'has'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-010",
+          "question": "Choose the correct option: A number of applicants ___ waiting outside.",
+          "options": [
+            "is",
+            "was",
+            "are",
+            "has"
+          ],
+          "correctIndex": 2,
+          "explanation": "'A number of' takes a plural verb because it means several applicants.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-011",
+          "question": "Choose the correct option: Not only the pupils but also the teacher ___ excited.",
+          "options": [
+            "were",
+            "are",
+            "was",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "With 'not only...but also', the verb commonly agrees with the nearer subject, 'teacher'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-012",
+          "question": "Choose the correct option: Either the books or the notebook ___ missing.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "The nearer subject, 'notebook', is singular.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-013",
+          "question": "Choose the correct option: The news ___ encouraging.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "'News' is grammatically singular.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-014",
+          "question": "Choose the correct option: Mathematics ___ my favourite subject.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have"
+          ],
+          "correctIndex": 2,
+          "explanation": "The subject name 'Mathematics' takes a singular verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-015",
+          "question": "Choose the correct option: The police ___ investigating the incident.",
+          "options": [
+            "is",
+            "was",
+            "are",
+            "has"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Police' is normally treated as a plural noun.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-016",
+          "question": "Choose the correct option: She is one of the writers who ___ regularly for the magazine.",
+          "options": [
+            "contributes",
+            "contribute",
+            "contributing",
+            "has contributed"
+          ],
+          "correctIndex": 1,
+          "explanation": "The relative clause refers to the plural antecedent 'writers'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-017",
+          "question": "Choose the correct option: It was ___ who informed the principal.",
+          "options": [
+            "me",
+            "I",
+            "mine",
+            "my"
+          ],
+          "correctIndex": 1,
+          "explanation": "In formal standard English, the pronoun after a linking verb is nominative: 'I'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-018",
+          "question": "Choose the correct option: The prize was shared between Ravi and ___.",
+          "options": [
+            "I",
+            "me",
+            "myself",
+            "mine"
+          ],
+          "correctIndex": 1,
+          "explanation": "The object of the preposition 'between' takes the objective form 'me'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-019",
+          "question": "Choose the correct option: This is the student ___ project won first prize.",
+          "options": [
+            "who",
+            "whom",
+            "whose",
+            "which"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Whose' indicates possession and modifies 'project'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-020",
+          "question": "Choose the correct option: The person to ___ I spoke was helpful.",
+          "options": [
+            "who",
+            "whom",
+            "whose",
+            "which"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Whom' is the object of the preposition 'to' in formal usage.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-021",
+          "question": "Choose the correct option: The more you read, ___ your vocabulary becomes.",
+          "options": [
+            "rich",
+            "the richer",
+            "richer",
+            "the richest"
+          ],
+          "correctIndex": 1,
+          "explanation": "The correlative comparative pattern is 'the more..., the richer...'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-022",
+          "question": "Choose the correct option: This is by far the ___ explanation offered.",
+          "options": [
+            "clear",
+            "clearer",
+            "clearest",
+            "most clear than"
+          ],
+          "correctIndex": 2,
+          "explanation": "The superlative 'clearest' is used among the explanations considered.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-023",
+          "question": "Choose the correct option: The instructions were ___ confusing that several learners asked for help.",
+          "options": [
+            "so",
+            "such",
+            "too",
+            "very much"
+          ],
+          "correctIndex": 0,
+          "explanation": "'So + adjective + that' expresses a degree leading to a result.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-024",
+          "question": "Choose the correct option: It was ___ an interesting lecture that we stayed afterward.",
+          "options": [
+            "so",
+            "such",
+            "too",
+            "very"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Such + a/an + adjective + singular noun + that' is the correct structure.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-025",
+          "question": "Choose the correct option: The box is too heavy for me ___.",
+          "options": [
+            "lift",
+            "lifting",
+            "to lift",
+            "lifted"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Too + adjective + for + object + to-infinitive' expresses excess for an action.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-026",
+          "question": "Choose the correct option: She is old enough ___ independently.",
+          "options": [
+            "travel",
+            "travelling",
+            "to travel",
+            "travelled"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Adjective + enough + to-infinitive' expresses sufficient ability or condition.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-027",
+          "question": "Choose the correct option: I would sooner ___ at home than go out in the rain.",
+          "options": [
+            "stay",
+            "to stay",
+            "staying",
+            "stayed"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Would sooner' is followed by the base form of the verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-028",
+          "question": "Choose the correct option: He is accustomed to ___ early.",
+          "options": [
+            "rise",
+            "rising",
+            "rose",
+            "have risen"
+          ],
+          "correctIndex": 1,
+          "explanation": "In 'be accustomed to', 'to' is a preposition and is followed by a gerund.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-029",
+          "question": "Choose the correct option: She looks forward to ___ from you.",
+          "options": [
+            "hear",
+            "hearing",
+            "heard",
+            "have hear"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Look forward to' is followed by a noun or gerund.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-030",
+          "question": "Choose the correct option: The teacher had the learners ___ the dialogue in pairs.",
+          "options": [
+            "practise",
+            "to practise",
+            "practising",
+            "practised"
+          ],
+          "correctIndex": 0,
+          "explanation": "The causative structure 'have + object + base verb' is used here.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-031",
+          "question": "Choose the correct option: We were made ___ outside the room.",
+          "options": [
+            "wait",
+            "waiting",
+            "to wait",
+            "waited"
+          ],
+          "correctIndex": 2,
+          "explanation": "In the passive causative 'be made', the infinitive takes 'to'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-032",
+          "question": "Choose the correct option: Let the learners ___ their own examples.",
+          "options": [
+            "create",
+            "to create",
+            "creating",
+            "created"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Let + object + base verb' is the standard pattern.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-033",
+          "question": "Choose the correct option: She suggested ___ the meeting until Friday.",
+          "options": [
+            "postpone",
+            "to postpone",
+            "postponing",
+            "postponed"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Suggest' can be followed by a gerund.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-034",
+          "question": "Choose the correct option: He stopped ___ to the announcement.",
+          "options": [
+            "talk",
+            "to talk",
+            "talking",
+            "talked"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Stop talking' means cease the activity of talking.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-035",
+          "question": "Choose the correct option: He stopped ___ some water on his way home.",
+          "options": [
+            "buy",
+            "buying",
+            "to buy",
+            "bought"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Stop to buy' means pause another activity in order to buy something.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-036",
+          "question": "Choose the correct option: The principal made it clear that punctuality was ___.",
+          "options": [
+            "importance",
+            "important",
+            "importantly",
+            "import"
+          ],
+          "correctIndex": 1,
+          "explanation": "The adjective 'important' completes the linking-verb construction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-037",
+          "question": "Choose the correct option: Her explanation was both clear and ___.",
+          "options": [
+            "persuade",
+            "persuasive",
+            "persuasively",
+            "persuasion"
+          ],
+          "correctIndex": 1,
+          "explanation": "The adjective 'persuasive' is parallel to 'clear'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-038",
+          "question": "Choose the correct option: The speaker answered the question ___.",
+          "options": [
+            "confident",
+            "confidence",
+            "confidently",
+            "confide"
+          ],
+          "correctIndex": 2,
+          "explanation": "The adverb 'confidently' modifies the verb 'answered'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-039",
+          "question": "Choose the correct option: The learners worked ___ to complete the project.",
+          "options": [
+            "cooperative",
+            "cooperation",
+            "cooperatively",
+            "cooperate"
+          ],
+          "correctIndex": 2,
+          "explanation": "The adverb 'cooperatively' describes how they worked.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-040",
+          "question": "Choose the correct option: The evidence was ___ relevant to the claim.",
+          "options": [
+            "high",
+            "highly",
+            "height",
+            "higher"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Highly' is the adverb modifying 'relevant'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-041",
+          "question": "Choose the synonym of 'concise'.",
+          "options": [
+            "Brief but complete",
+            "Long and repetitive",
+            "Unclear",
+            "Unrelated"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Concise' means expressing much in few words without unnecessary detail.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-042",
+          "question": "Choose the synonym of 'scrutinize'.",
+          "options": [
+            "Examine closely",
+            "Ignore",
+            "Praise publicly",
+            "Copy quickly"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Scrutinize' means inspect or examine carefully.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-043",
+          "question": "Choose the synonym of 'ambiguous'.",
+          "options": [
+            "Having more than one possible meaning",
+            "Completely accurate",
+            "Easy to memorize",
+            "Very brief"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Ambiguous' describes something open to more than one interpretation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-044",
+          "question": "Choose the synonym of 'mitigate'.",
+          "options": [
+            "Make less severe",
+            "Make worse",
+            "Make permanent",
+            "Make visible"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Mitigate' means reduce the severity or harmfulness of something.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-045",
+          "question": "Choose the synonym of 'substantiate'.",
+          "options": [
+            "Support with evidence",
+            "Contradict without reason",
+            "Remove completely",
+            "Summarize briefly"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Substantiate' means provide evidence to support a claim.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-046",
+          "question": "Choose the antonym of 'plausible'.",
+          "options": [
+            "Credible",
+            "Reasonable",
+            "Implausible",
+            "Believable"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Implausible' means not seeming reasonable or likely.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-047",
+          "question": "Choose the antonym of 'rigorous'.",
+          "options": [
+            "Thorough",
+            "Strict",
+            "Lenient",
+            "Exacting"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Lenient' contrasts with rigorous in the sense of strictness.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-048",
+          "question": "Choose the antonym of 'expand'.",
+          "options": [
+            "Enlarge",
+            "Extend",
+            "Contract",
+            "Develop"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Contract' means become smaller or reduce in size.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-049",
+          "question": "Choose the antonym of 'reluctant'.",
+          "options": [
+            "Unwilling",
+            "Hesitant",
+            "Eager",
+            "Resistant"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Eager' expresses willingness and enthusiasm, unlike reluctant.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-050",
+          "question": "Choose the antonym of 'abundant'.",
+          "options": [
+            "Plentiful",
+            "Scarce",
+            "Ample",
+            "Numerous"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Scarce' means insufficient or in short supply.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-051",
+          "question": "What does the idiom 'read between the lines' mean?",
+          "options": [
+            "Understand an implied meaning",
+            "Read aloud slowly",
+            "Skip difficult words",
+            "Translate word for word"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means infer something that is not directly stated.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-052",
+          "question": "What does 'turn over a new leaf' mean?",
+          "options": [
+            "Start behaving in a better way",
+            "Turn a page physically",
+            "Forget a book",
+            "Repeat an old mistake"
+          ],
+          "correctIndex": 0,
+          "explanation": "The expression means make a fresh start and improve one's behaviour.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-053",
+          "question": "What does 'on the same wavelength' mean?",
+          "options": [
+            "Thinking in a similar way",
+            "Listening to the same radio",
+            "Disagreeing strongly",
+            "Speaking at the same time"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom describes people who understand or think similarly.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-054",
+          "question": "What does 'once in a blue moon' mean?",
+          "options": [
+            "Very rarely",
+            "Every evening",
+            "At the right moment",
+            "Unexpectedly every day"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means something happens very infrequently.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-055",
+          "question": "What does 'make ends meet' mean?",
+          "options": [
+            "Manage financially with available income",
+            "Join two pieces together",
+            "Finish a school term",
+            "Avoid making a decision"
+          ],
+          "correctIndex": 0,
+          "explanation": "The expression means have enough money to cover expenses.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-056",
+          "question": "Choose the correctly punctuated sentence.",
+          "options": [
+            "The learners' projects were displayed in the hall.",
+            "The learners projects' were displayed in the hall.",
+            "The learner's projects were displayed in the hall, when finished.",
+            "The learners projects were displayed in the hall."
+          ],
+          "correctIndex": 0,
+          "explanation": "The plural possessive 'learners'' correctly shows that the projects belong to the learners.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-057",
+          "question": "Choose the sentence with correct apostrophe use.",
+          "options": [
+            "It's important to check its spelling.",
+            "Its important to check it's spelling.",
+            "Its' important to check its spelling.",
+            "It's important to check it's spelling."
+          ],
+          "correctIndex": 0,
+          "explanation": "'It's' means 'it is'; 'its' is the possessive form.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-058",
+          "question": "Choose the correctly punctuated direct address.",
+          "options": [
+            "Ravi, please read the next paragraph.",
+            "Ravi please, read the next paragraph.",
+            "Ravi please read, the next paragraph.",
+            "Ravi; please read the next paragraph."
+          ],
+          "correctIndex": 0,
+          "explanation": "A comma separates the person's name from the rest of the sentence in direct address.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-059",
+          "question": "Choose the sentence with correct semicolon use.",
+          "options": [
+            "The lesson ended; the learners remained in the room.",
+            "The lesson; ended the learners remained in the room.",
+            "The lesson ended,; the learners remained in the room.",
+            "The lesson ended the; learners remained in the room."
+          ],
+          "correctIndex": 0,
+          "explanation": "A semicolon can join two closely related independent clauses.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-060",
+          "question": "Which sentence avoids a comma splice?",
+          "options": [
+            "The bell rang, and the learners left.",
+            "The bell rang, the learners left.",
+            "The bell rang, because, the learners left.",
+            "The bell, rang the learners left."
+          ],
+          "correctIndex": 0,
+          "explanation": "The conjunction 'and' correctly joins the two independent clauses.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-061",
+          "question": "Which sentence uses a non-defining relative clause correctly?",
+          "options": [
+            "My aunt, who lives in Guntur, is a teacher.",
+            "My aunt who lives in Guntur is a teacher,",
+            "My aunt, which lives in Guntur, is a teacher.",
+            "My aunt who, lives in Guntur is a teacher."
+          ],
+          "correctIndex": 0,
+          "explanation": "A non-defining relative clause is set off by commas and uses 'who' for a person.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-062",
+          "question": "Which sentence correctly uses inversion after a negative adverbial?",
+          "options": [
+            "Rarely do we see such careful work.",
+            "Rarely we do see such careful work.",
+            "Rarely we see do such careful work.",
+            "Rarely does we see such careful work."
+          ],
+          "correctIndex": 0,
+          "explanation": "A fronted negative adverbial such as 'rarely' triggers subject-auxiliary inversion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-063",
+          "question": "Which sentence has the correct word order in an indirect question?",
+          "options": [
+            "Could you tell me where the library is?",
+            "Could you tell me where is the library?",
+            "Could you tell where the library does?",
+            "Could you tell me where does the library is?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Indirect questions use statement word order rather than question inversion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-064",
+          "question": "Which sentence uses a cleft construction for emphasis?",
+          "options": [
+            "It was the head teacher who announced the result.",
+            "The head teacher announced the result yesterday.",
+            "The result was announced yesterday.",
+            "Yesterday the head teacher announced the result."
+          ],
+          "correctIndex": 0,
+          "explanation": "'It was...who' is a cleft structure that highlights the head teacher.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-065",
+          "question": "Which sentence correctly expresses a past regret?",
+          "options": [
+            "I wish I had listened more carefully.",
+            "I wish I listen more carefully yesterday.",
+            "I wish I would listened more carefully.",
+            "I wish I have listened more carefully."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Wish + past perfect' expresses regret about a past event.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-066",
+          "question": "Which sentence correctly uses 'despite'?",
+          "options": [
+            "Despite the heavy rain, the match continued.",
+            "Despite it was raining, the match continued.",
+            "Despite of the rain, the match continued.",
+            "Despite the rain was heavy, the match continued."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Despite' is followed by a noun phrase or gerund, not a finite clause introduced by 'it was'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-067",
+          "question": "Which sentence correctly uses 'although'?",
+          "options": [
+            "Although the task was difficult, she completed it.",
+            "Although of the difficulty, she completed it.",
+            "Although the task difficult, she completed it.",
+            "Although being difficult, but she completed it."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Although' introduces a finite subordinate clause.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-068",
+          "question": "Which sentence has the clearest pronoun reference?",
+          "options": [
+            "When Meena spoke to Latha, Meena offered to help with the project.",
+            "When Meena spoke to Latha, she offered to help with the project.",
+            "When she spoke to her, she offered to help.",
+            "Meena spoke to Latha, and she helped her."
+          ],
+          "correctIndex": 0,
+          "explanation": "Repeating 'Meena' removes the ambiguity about who offered help.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-069",
+          "question": "Which sentence avoids a dangling modifier?",
+          "options": [
+            "After completing the experiment, the learners recorded their observations.",
+            "After completing the experiment, the observations were recorded.",
+            "Having completed the experiment, the results were interesting.",
+            "To complete the experiment, the instructions were followed."
+          ],
+          "correctIndex": 0,
+          "explanation": "The introductory phrase correctly modifies 'the learners', who completed the experiment.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-070",
+          "question": "Which sentence uses parallel structure?",
+          "options": [
+            "The course aims to develop reading, writing and speaking skills.",
+            "The course aims to develop reading, to write and speaking skills.",
+            "The course aims to read, writing and to speak skills.",
+            "The course aims at reading, to write and speaking skills."
+          ],
+          "correctIndex": 0,
+          "explanation": "The three gerunds form a parallel series.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-071",
+          "question": "Which option is the best concise revision of 'Due to the fact that it was raining, the match was postponed'?",
+          "options": [
+            "Because it was raining, the match was postponed.",
+            "Due to rain being a fact, the match was postponed.",
+            "The match was postponed owing to the fact of rain.",
+            "The match, due to the fact that rain was occurring, was postponed."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Because' conveys the reason more directly and concisely.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-072",
+          "question": "Which sentence is most appropriate for an academic essay?",
+          "options": [
+            "The results suggest a relationship between reading frequency and vocabulary growth.",
+            "The results are super cool and prove everything.",
+            "Reading is, like, obviously the best thing ever.",
+            "The results totally show stuff about words."
+          ],
+          "correctIndex": 0,
+          "explanation": "The first sentence uses cautious, precise academic language.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-073",
+          "question": "Which sentence best signals a contrast in an academic paragraph?",
+          "options": [
+            "However, the second study reported a different pattern.",
+            "For example, the second study reported a different pattern.",
+            "Similarly, the second study reported a different pattern.",
+            "Therefore, the second study reported a different pattern."
+          ],
+          "correctIndex": 0,
+          "explanation": "'However' signals contrast with the preceding point.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-074",
+          "question": "Which sentence correctly introduces an example?",
+          "options": [
+            "Several strategies can support comprehension; for example, predicting and summarizing.",
+            "Several strategies can support comprehension, for example; predicting and summarizing.",
+            "Several strategies for example can support; comprehension predicting and summarizing.",
+            "For example several strategies; can support comprehension."
+          ],
+          "correctIndex": 0,
+          "explanation": "The phrase 'for example' appropriately introduces illustrative strategies.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-075",
+          "question": "Which is the strongest evidence for a claim in an informational text?",
+          "options": [
+            "Relevant, verifiable data from a credible source",
+            "An unrelated personal preference",
+            "A rumour with no source",
+            "A repeated assertion without support"
+          ],
+          "correctIndex": 0,
+          "explanation": "Relevant and verifiable evidence from a credible source provides stronger support.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-076",
+          "question": "Which reading strategy is most appropriate for identifying an author's purpose?",
+          "options": [
+            "Consider the text's content, language, structure and intended audience",
+            "Count every occurrence of the letter 'e'",
+            "Read only the first word of each sentence",
+            "Ignore the title and context"
+          ],
+          "correctIndex": 0,
+          "explanation": "Purpose can be inferred from content, rhetorical choices, structure and audience.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-077",
+          "question": "Which task best assesses the ability to distinguish fact from opinion?",
+          "options": [
+            "Classify statements and justify which can be verified and which express a viewpoint",
+            "Copy the paragraph without discussion",
+            "Identify only the longest sentence",
+            "Count the number of adjectives"
+          ],
+          "correctIndex": 0,
+          "explanation": "Fact-opinion discrimination involves evaluating verifiability and viewpoint.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-078",
+          "question": "Which question focuses on an author's tone?",
+          "options": [
+            "Which words reveal the writer's attitude toward the issue?",
+            "What is the passage's page number?",
+            "How many paragraphs are there?",
+            "Which word appears first?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Tone concerns the writer's attitude as conveyed through language.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-079",
+          "question": "Which activity best develops prediction while reading?",
+          "options": [
+            "Pause at a meaningful point and use textual clues to predict what may happen next",
+            "Read the ending first and copy it",
+            "List all the characters alphabetically",
+            "Count the sentences in the passage"
+          ],
+          "correctIndex": 0,
+          "explanation": "Prediction combines clues from the text with reasoned expectations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-080",
+          "question": "Which is a suitable task for evaluating a source's credibility?",
+          "options": [
+            "Check the author's expertise, evidence, publication context and corroboration",
+            "Trust it because the title is attractive",
+            "Accept it if it agrees with one's first impression",
+            "Ignore its date and supporting evidence"
+          ],
+          "correctIndex": 0,
+          "explanation": "Credibility evaluation considers authorship, evidence, context and confirmation from other sources.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-081",
+          "question": "Which listening task primarily checks understanding of gist?",
+          "options": [
+            "Choose the statement that best expresses the overall message",
+            "Write down every individual sound",
+            "Identify the exact minute the audio ends",
+            "Count how many times a word occurs"
+          ],
+          "correctIndex": 0,
+          "explanation": "Gist listening focuses on the overall message rather than every detail.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-082",
+          "question": "Which listening task primarily checks understanding of specific information?",
+          "options": [
+            "Note the time, location and cost mentioned in an announcement",
+            "Describe the speaker's general mood only",
+            "Summarize the topic without details",
+            "Predict the next lesson topic"
+          ],
+          "correctIndex": 0,
+          "explanation": "Specific-information listening requires retrieving particular details.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-083",
+          "question": "Which activity helps learners notice connected speech?",
+          "options": [
+            "Listen to short phrases and mark where words link or sounds change",
+            "Study written spelling without hearing speech",
+            "Memorize grammar definitions only",
+            "Read silently with no audio model"
+          ],
+          "correctIndex": 0,
+          "explanation": "Focused listening helps learners recognize linking and sound changes in natural speech.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-084",
+          "question": "Which activity supports fluency in speaking?",
+          "options": [
+            "Repeat a meaningful speaking task with feedback and a new communicative goal",
+            "Stop after every word for correction",
+            "Memorize isolated phonetic symbols only",
+            "Avoid interaction with classmates"
+          ],
+          "correctIndex": 0,
+          "explanation": "Repeated meaningful practice can improve fluency while feedback guides development.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-085",
+          "question": "Which task is most suitable for assessing spoken interaction?",
+          "options": [
+            "Observe how learners initiate, respond, clarify and take turns in a paired task",
+            "Assess only their spelling in a written quiz",
+            "Count the number of words in a prepared script",
+            "Grade them solely on speaking speed"
+          ],
+          "correctIndex": 0,
+          "explanation": "Interaction involves managing turns and responding meaningfully to another speaker.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-086",
+          "question": "Which task best assesses audience awareness in writing?",
+          "options": [
+            "Write the same announcement in suitable forms for younger pupils and parents",
+            "Copy a paragraph without knowing its reader",
+            "List punctuation rules from memory",
+            "Write unrelated sentences without a purpose"
+          ],
+          "correctIndex": 0,
+          "explanation": "Adapting a message for distinct audiences demonstrates awareness of audience and register.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-087",
+          "question": "Which is a useful editing check for a learner's draft?",
+          "options": [
+            "Check sentence boundaries, agreement, spelling and punctuation systematically",
+            "Change every sentence regardless of need",
+            "Count pages without reading the text",
+            "Remove all linking words"
+          ],
+          "correctIndex": 0,
+          "explanation": "A systematic edit checks key language conventions and sentence accuracy.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-088",
+          "question": "Which classroom practice best supports peer feedback?",
+          "options": [
+            "Provide clear criteria and model respectful, specific comments before learners exchange drafts",
+            "Ask learners to give unexplained grades",
+            "Encourage personal criticism",
+            "Let peers change each other's work without discussion"
+          ],
+          "correctIndex": 0,
+          "explanation": "Criteria and modelling help make peer feedback constructive and focused on the work.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-089",
+          "question": "Which statement best describes diagnostic assessment?",
+          "options": [
+            "It identifies learners' existing strengths and difficulties to inform instruction",
+            "It reports final achievement after a course",
+            "It ranks schools nationally",
+            "It replaces all classroom observation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Diagnostic assessment helps identify starting points and learning needs.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-090",
+          "question": "Which practice is most appropriate when a test item has two defensible answers?",
+          "options": [
+            "Review and revise the item before using its score for important decisions",
+            "Assume every learner misunderstood it",
+            "Keep the item unchanged regardless of evidence",
+            "Change the key secretly after scoring"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ambiguous items should be reviewed because they may not measure the intended learning clearly.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-091",
+          "question": "Which practice makes assessment criteria more transparent?",
+          "options": [
+            "Share the rubric and discuss examples of work at different performance levels",
+            "Keep criteria hidden until after grading",
+            "Use vague labels such as 'good' without explanation",
+            "Change expectations for each learner without notice"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sharing criteria and exemplars helps learners understand expectations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-092",
+          "question": "Which is an example of a performance-based language assessment?",
+          "options": [
+            "Learners deliver a short presentation for a defined audience and purpose",
+            "Learners memorize a list of terms without using them",
+            "Learners copy a model answer exactly",
+            "Learners count letters in a paragraph"
+          ],
+          "correctIndex": 0,
+          "explanation": "A presentation requires learners to demonstrate language use in a meaningful performance.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-093",
+          "question": "Which strategy supports learners with different reading levels in one class?",
+          "options": [
+            "Provide texts or scaffolds at varied levels while keeping a shared learning purpose",
+            "Give every learner an identical text regardless of access needs",
+            "Exclude learners who read slowly",
+            "Replace reading with unrelated copying"
+          ],
+          "correctIndex": 0,
+          "explanation": "Varied access supports can address reading differences while maintaining common goals.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-094",
+          "question": "Which is an appropriate way to use technology for language learning?",
+          "options": [
+            "Use a recording tool so learners can review speaking and set improvement goals",
+            "Use screens only as decoration",
+            "Replace all interaction with passive video viewing",
+            "Assess typing speed as a substitute for language ability"
+          ],
+          "correctIndex": 0,
+          "explanation": "Recording and reviewing speech can support reflection and targeted improvement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-095",
+          "question": "Which practice helps create an emotionally safe language classroom?",
+          "options": [
+            "Normalize mistakes as part of learning and respond respectfully to contributions",
+            "Publicly ridicule errors",
+            "Allow classmates to interrupt without limits",
+            "Discourage learners from asking questions"
+          ],
+          "correctIndex": 0,
+          "explanation": "Respectful responses and normalized errors support participation and risk-taking.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-096",
+          "question": "Which activity promotes metacognitive reading?",
+          "options": [
+            "Ask learners to explain which strategy they used, why they chose it and whether it worked",
+            "Ask only for the page number",
+            "Require silent copying of the passage",
+            "Give the interpretation before learners read"
+          ],
+          "correctIndex": 0,
+          "explanation": "Metacognition involves awareness and evaluation of one's learning strategies.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-097",
+          "question": "Which principle is central to communicative language teaching?",
+          "options": [
+            "Learners use language to exchange meaning for purposeful communication",
+            "Grammar explanations are the only acceptable activity",
+            "Learners should avoid pair work",
+            "Accuracy is assessed without regard to meaning"
+          ],
+          "correctIndex": 0,
+          "explanation": "Communicative teaching emphasizes purposeful language use and meaningful interaction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-098",
+          "question": "Which is a reasonable way to balance accuracy and fluency work?",
+          "options": [
+            "Use focused accuracy practice alongside tasks that prioritize sustained communication",
+            "Correct every error during every fluency task",
+            "Never address accuracy",
+            "Use only timed speaking without feedback"
+          ],
+          "correctIndex": 0,
+          "explanation": "A balanced approach gives learners opportunities to develop both control and communicative flow.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-099",
+          "question": "Which teacher question encourages evidence-based interpretation?",
+          "options": [
+            "Which detail in the text supports your answer?",
+            "Do you like the story?",
+            "Can you repeat the title?",
+            "How many pages did you read?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Asking for textual evidence connects interpretation to support in the text.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "english-l2-006-100",
+          "question": "Which is an appropriate approach to teaching grammar inductively?",
+          "options": [
+            "Provide examples and guide learners to notice and formulate a pattern",
+            "State a rule and prohibit learners from examining examples",
+            "Ask learners to memorize terms without context",
+            "Avoid checking whether learners noticed the pattern"
+          ],
+          "correctIndex": 0,
+          "explanation": "Inductive teaching guides learners to infer a rule from examples.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

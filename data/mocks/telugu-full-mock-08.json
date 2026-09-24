@@ -1,0 +1,1983 @@
+{
+  "track": "telugu",
+  "testId": "telugu-full-mock-08",
+  "title": "Full-Length Mock Test 08 — Telugu Paper-II A",
+  "durationMinutes": 150,
+  "reviewMode": "after-test",
+  "sections": [
+    {
+      "id": "telugu-full-mock-08-section-1",
+      "title": "Child Development & Pedagogy",
+      "questions": [
+        {
+          "id": "telugu-full-mock-08-s1-q001",
+          "question": "Peer learning is effective when:",
+          "options": [
+            "Learners have clear roles and a shared learning goal",
+            "One learner does all the work",
+            "The task has no purpose",
+            "The teacher prohibits discussion"
+          ],
+          "correctIndex": 0,
+          "explanation": "Structured collaboration encourages participation and keeps the group focused on learning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q002",
+          "question": "A rubric helps improve assessment by:",
+          "options": [
+            "Making criteria and performance levels explicit",
+            "Hiding expectations from learners",
+            "Removing feedback",
+            "Ensuring every answer receives full marks"
+          ],
+          "correctIndex": 0,
+          "explanation": "Rubrics clarify criteria and describe levels of performance.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q003",
+          "question": "Which approach is most consistent with a growth mindset?",
+          "options": [
+            "Abilities can develop through effective strategies, effort and support",
+            "Ability can never change",
+            "Mistakes prove a learner cannot improve",
+            "Only talent matters"
+          ],
+          "correctIndex": 0,
+          "explanation": "A growth mindset emphasises development through learning, strategies, effort and support.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q004",
+          "question": "Classroom action research is generally intended to:",
+          "options": [
+            "Investigate a local teaching question systematically to improve practice",
+            "Prove every result applies everywhere",
+            "Replace ethical review",
+            "Avoid gathering evidence"
+          ],
+          "correctIndex": 0,
+          "explanation": "Action research examines a practical question in context and uses findings to inform improvement.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q005",
+          "question": "Which is an example of intrinsic motivation?",
+          "options": [
+            "Reading a story because the learner enjoys it",
+            "Completing work only to avoid a penalty",
+            "Studying only for a prize",
+            "Participating solely for a mark"
+          ],
+          "correctIndex": 0,
+          "explanation": "Intrinsic motivation comes from interest or satisfaction in the activity itself.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q006",
+          "question": "Confidentiality in counselling means:",
+          "options": [
+            "Protecting private information subject to relevant ethical and safety limits",
+            "Sharing all information with classmates",
+            "Never reporting a safety concern",
+            "Posting details online"
+          ],
+          "correctIndex": 0,
+          "explanation": "Confidentiality protects privacy while recognizing applicable safety and professional obligations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q007",
+          "question": "Which statement about intelligence is most appropriate for teaching?",
+          "options": [
+            "Performance can be influenced by experience, opportunity and context",
+            "A single test captures every ability perfectly",
+            "Intelligence never changes in any respect",
+            "All learners show ability in the same way"
+          ],
+          "correctIndex": 0,
+          "explanation": "Assessment offers limited evidence; learning opportunities and context also shape performance.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q008",
+          "question": "Which example best illustrates a sensitive period?",
+          "options": [
+            "A period when experience may have especially strong effects on a particular ability",
+            "A time when learning is impossible",
+            "A fixed age when all children master every skill",
+            "A period without environmental influence"
+          ],
+          "correctIndex": 0,
+          "explanation": "A sensitive period is a time when particular experiences can have especially strong developmental effects.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q009",
+          "question": "Which principle should guide decisions about learner grouping?",
+          "options": [
+            "Use flexible, purposeful groupings and review their effects",
+            "Keep ability groups permanent",
+            "Group learners by stereotypes",
+            "Never explain group tasks"
+          ],
+          "correctIndex": 0,
+          "explanation": "Flexible grouping should serve learning goals and respond to changing evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q010",
+          "question": "A teacher wants to know whether an intervention helped. A sound evaluation should:",
+          "options": [
+            "Define outcomes and examine relevant evidence while considering other explanations",
+            "Use only a favourable anecdote",
+            "Assume any change was caused by the intervention",
+            "Ignore how outcomes were measured"
+          ],
+          "correctIndex": 0,
+          "explanation": "A credible evaluation connects evidence to defined outcomes and considers limitations and alternative explanations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q011",
+          "question": "A learner shares sensitive information. The teacher should:",
+          "options": [
+            "Listen carefully and explain limits to confidentiality where relevant",
+            "Promise never to tell anyone under any circumstances",
+            "Share it with the whole class",
+            "Dismiss the learner immediately"
+          ],
+          "correctIndex": 0,
+          "explanation": "Teachers should respect privacy while being clear about safeguarding or other required disclosures.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q012",
+          "question": "Why should a teacher consider several developmental domains together?",
+          "options": [
+            "Domains interact and influence one another",
+            "Each domain develops in complete isolation",
+            "Only physical development affects learning",
+            "Domains are identical"
+          ],
+          "correctIndex": 0,
+          "explanation": "Developmental domains are interconnected rather than wholly independent.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q013",
+          "question": "A teacher reviews common errors and reteaches a misunderstood concept. This is:",
+          "options": [
+            "Responsive use of assessment evidence",
+            "Permanent tracking",
+            "Punishment",
+            "Norm-referenced ranking"
+          ],
+          "correctIndex": 0,
+          "explanation": "Using error patterns to adjust teaching connects assessment with instruction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q014",
+          "question": "Understanding and managing feelings is closely related to:",
+          "options": [
+            "Emotional development",
+            "Height growth",
+            "Handwriting mechanics only",
+            "School administration"
+          ],
+          "correctIndex": 0,
+          "explanation": "Emotional development includes recognizing, expressing and regulating feelings.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q015",
+          "question": "Metacognition involves:",
+          "options": [
+            "Thinking about and regulating one’s own thinking",
+            "Memorising without awareness",
+            "Physical growth alone",
+            "Learning only through rewards"
+          ],
+          "correctIndex": 0,
+          "explanation": "Metacognition includes monitoring and regulating one’s cognitive processes.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q016",
+          "question": "Which response to a learner’s personal concern is most appropriate?",
+          "options": [
+            "Listen respectfully and refer to suitable support when needed",
+            "Diagnose the learner immediately",
+            "Discuss the concern with classmates",
+            "Promise absolute secrecy regardless of safety"
+          ],
+          "correctIndex": 0,
+          "explanation": "Respectful listening and appropriate referral support the learner without exceeding the teacher’s role.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q017",
+          "question": "A teacher allows brief movement breaks during a long lesson when suitable. This may help address:",
+          "options": [
+            "Attention and regulation needs",
+            "Assessment validity automatically",
+            "Moral reasoning stages",
+            "Object permanence"
+          ],
+          "correctIndex": 0,
+          "explanation": "Planned breaks may help some learners manage attention and regulation during extended tasks.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q018",
+          "question": "A teacher connects a new concept to learners’ everyday experiences. This supports:",
+          "options": [
+            "Meaningful learning",
+            "Mechanical copying only",
+            "Punitive discipline",
+            "Fixed grouping"
+          ],
+          "correctIndex": 0,
+          "explanation": "Connecting new ideas with prior knowledge and experience can support understanding.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q019",
+          "question": "An extension activity is appropriate when a learner:",
+          "options": [
+            "Has demonstrated the target learning and is ready for deeper challenge",
+            "Needs initial access to the task",
+            "Has not received instructions",
+            "Is being disciplined"
+          ],
+          "correctIndex": 0,
+          "explanation": "Extension provides additional depth or challenge after the core learning is demonstrated.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q020",
+          "question": "Observational learning is strongly associated with:",
+          "options": [
+            "Albert Bandura",
+            "B. F. Skinner only",
+            "Ivan Pavlov only",
+            "Edward Thorndike only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bandura highlighted learning through observing models and the consequences of their actions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q021",
+          "question": "Which is a metacognitive monitoring question?",
+          "options": [
+            "Do I understand this step, and how can I check?",
+            "What is my final grade?",
+            "Who is sitting nearby?",
+            "How long is the chapter title?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Monitoring involves checking one’s understanding and progress during a task.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q022",
+          "question": "A teacher reviews which distractors many learners selected on an MCQ. This can help identify:",
+          "options": [
+            "Common misconceptions or confusing items",
+            "Learners’ home addresses",
+            "The class timetable",
+            "Whether feedback is always harmful"
+          ],
+          "correctIndex": 0,
+          "explanation": "Distractor patterns can reveal misunderstandings and may also signal an item that needs review.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q023",
+          "question": "A learner chooses a challenging book because the topic is interesting. This suggests:",
+          "options": [
+            "Interest-based intrinsic motivation",
+            "External coercion only",
+            "Negative reinforcement necessarily",
+            "Lack of motivation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Choosing an activity for interest is consistent with intrinsic motivation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q024",
+          "question": "In operant conditioning, reinforcement is intended to:",
+          "options": [
+            "Increase the likelihood of a behaviour",
+            "Always reduce behaviour",
+            "Measure intelligence",
+            "Remove learning objectives"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reinforcement is a consequence that increases the probability of the behaviour it follows.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q025",
+          "question": "A learner uses a communication board to contribute to class discussion. The teacher should:",
+          "options": [
+            "Treat the contribution as meaningful communication and allow adequate response time",
+            "Ignore it because it is not spoken",
+            "Require speech as the only valid response",
+            "Assume the learner has no ideas"
+          ],
+          "correctIndex": 0,
+          "explanation": "Alternative and augmentative communication can support meaningful participation and should be respected.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q026",
+          "question": "Which is an appropriate use of a learning support team?",
+          "options": [
+            "Coordinate relevant observations and strategies while respecting privacy and roles",
+            "Share confidential information indiscriminately",
+            "Replace communication with the learner",
+            "Assign permanent labels without evidence"
+          ],
+          "correctIndex": 0,
+          "explanation": "A support team can coordinate appropriate responses while observing confidentiality and professional responsibilities.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q027",
+          "question": "Which practice helps prevent bullying?",
+          "options": [
+            "Establish clear norms, respond promptly and support affected learners",
+            "Treat bullying as harmless entertainment",
+            "Blame the targeted learner",
+            "Encourage retaliation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Clear expectations and consistent, supportive intervention help address bullying.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q028",
+          "question": "A teacher praises a learner’s effective revision strategy rather than calling them naturally brilliant. This emphasises:",
+          "options": [
+            "Process and strategy",
+            "Fixed ability labels",
+            "Peer ranking",
+            "Punishment"
+          ],
+          "correctIndex": 0,
+          "explanation": "Feedback about strategy directs attention toward actions learners can reflect on and improve.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q029",
+          "question": "Which is a potential benefit of structured cooperative learning?",
+          "options": [
+            "Learners can explain ideas to one another while each remains accountable",
+            "One learner does all the work",
+            "Assessment becomes unnecessary",
+            "Every learner must reach the same opinion"
+          ],
+          "correctIndex": 0,
+          "explanation": "Structured cooperation can support explanation and shared learning while maintaining individual accountability.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s1-q030",
+          "question": "Which is an example of assessment as learning?",
+          "options": [
+            "Learners monitor their progress against criteria and plan improvements",
+            "Teacher records a final grade only",
+            "School compares average scores publicly",
+            "Assessment occurs without learner reflection"
+          ],
+          "correctIndex": 0,
+          "explanation": "Assessment as learning develops learners’ capacity to monitor and regulate their own learning.",
+          "explanationLanguage": "en"
+        }
+      ]
+    },
+    {
+      "id": "telugu-full-mock-08-section-2",
+      "title": "Language-I — Telugu",
+      "questions": [
+        {
+          "id": "telugu-full-mock-08-s2-q001",
+          "question": "‘విద్యార్థిని’ ఏ లింగాన్ని సూచిస్తుంది?",
+          "options": [
+            "స్త్రీలింగం",
+            "పుంలింగం",
+            "నపుంసకలింగం",
+            "లింగరహితం"
+          ],
+          "correctIndex": 0,
+          "explanation": "విద్యార్థిని స్త్రీ విద్యార్థిని సూచిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q002",
+          "question": "వినిపించిన సమాచారంలో ముఖ్యాంశం, అనుబంధ వివరాలను వేరు చేయడం ఏది?",
+          "options": [
+            "శ్రవణ సమాచార ఎంపిక",
+            "రచన సవరణ",
+            "అక్షర గుర్తింపు",
+            "పదాల నకలు"
+          ],
+          "correctIndex": 0,
+          "explanation": "ముఖ్యమైన, అనుబంధ సమాచారాన్ని వేరు చేయడం శ్రవణ అవగాహనలో భాగం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q003",
+          "question": "‘ఆకాశం’కు పర్యాయపదం ఏది?",
+          "options": [
+            "గగనం",
+            "భూమి",
+            "సాగరం",
+            "వనం"
+          ],
+          "correctIndex": 0,
+          "explanation": "గగనం ఆకాశానికి పర్యాయపదం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q004",
+          "question": "భాషా బోధనలో పాత్రధారణ (Role play) ప్రధానంగా ఏ అంశానికి తోడ్పడుతుంది?",
+          "options": [
+            "సందర్భానుసార సంభాషణ సాధన",
+            "కేవలం అక్షరాల లెక్కింపు",
+            "నిశ్శబ్దంగా కూర్చోవడం",
+            "పరీక్ష సమయాన్ని తగ్గించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "పాత్రధారణ నిజజీవిత సందర్భాలను అనుకరించి భాషను అర్థవంతంగా ఉపయోగించే అవకాశాన్ని కల్పిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q005",
+          "question": "‘పరుగెత్తు’ ఏ పదభేదం?",
+          "options": [
+            "క్రియ",
+            "పాఠ్యంలోని శీర్షికను మాత్రమే గుర్తించడం",
+            "విషయానికి సంబంధం లేని ఉదాహరణను చెప్పడం",
+            "ఆధారం లేకుండా యాదృచ్ఛికంగా నిర్ణయించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "సరైన సమాధానం: క్రియ. ప్రశ్నలో పేర్కొన్న భాషా లక్షణం లేదా బోధనా చర్యకు ఇది సరిపడే వివరణ.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q006",
+          "question": "విద్యార్థి మాటలోని భావాన్ని గుర్తించి తర్వాత భాషా రూపాన్ని సవరించడం?",
+          "options": [
+            "సంబంధం లేని పదాన్ని యాదృచ్ఛికంగా ఎంచుకోవడం",
+            "భావవ్యక్తీకరణను గౌరవిస్తూ భాషా మద్దతు ఇవ్వడం",
+            "కేవలం వాక్య పొడవును లెక్కించడం",
+            "పాఠ్య ఆధారాన్ని పరిగణించకుండా నిర్ణయించడం"
+          ],
+          "correctIndex": 1,
+          "explanation": "సరైన సమాధానం: భావవ్యక్తీకరణను గౌరవిస్తూ భాషా మద్దతు ఇవ్వడం. ప్రశ్నలో పేర్కొన్న భాషా లేదా బోధనా సందర్భానికి ఈ సమాధానం సరిపోతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q007",
+          "question": "பாடநூல் தகவலை மற்றொரு நம்பகமான மூலத்துடன் ஒப்பிடுதல்?",
+          "options": [
+            "సమాధానాన్ని యథాతథంగా నకలు చేయడం",
+            "సమాచార ధృవీకరణ",
+            "కేవలం అక్షరాల సంఖ్యను లెక్కించడం",
+            "పాఠ్యాన్ని చూడకుండా ఊహించడం"
+          ],
+          "correctIndex": 1,
+          "explanation": "సరైన సమాధానం: సమాచార ధృవీకరణ. ప్రశ్నలో సూచించిన భాషా లేదా అభ్యసన చర్యకు ఈ అంశమే నేరుగా సంబంధించినది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q008",
+          "question": "వాక్యం పూర్తయిందని సూచించే సాధారణ చిహ్నం ఏది?",
+          "options": [
+            "పూర్ణవిరామం",
+            "ప్రశ్నార్థకం",
+            "ఉద్ధరణ చిహ్నం",
+            "కుండలీకరణం"
+          ],
+          "correctIndex": 0,
+          "explanation": "పూర్ణవిరామం సాధారణ ప్రకటన వాక్యాంతంలో వాడతారు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q009",
+          "question": "వినికిడి నైపుణ్యాన్ని పెంపొందించడానికి సరైన కార్యాచరణ ఏది?",
+          "options": [
+            "కథ విని ముఖ్యాంశాలు చెప్పడం",
+            "పాఠాన్ని నకలు చేయడం",
+            "నిశ్శబ్దంగా పదాలు రాయడం మాత్రమే",
+            "అక్షరాలను రంగులు వేయడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "కథ విని దాని ముఖ్యాంశాలను చెప్పడం శ్రద్ధగా వినడం, అర్థం చేసుకోవడం అభ్యసింపజేస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q010",
+          "question": "కథలోని సంఘటనలను మొదలు-మధ్య-ముగింపు క్రమంలో అమర్చడం ఏ నైపుణ్యం?",
+          "options": [
+            "కథా నిర్మాణ అవగాహన",
+            "వర్ణమాల కంఠస్థం",
+            "శబ్ద తీవ్రత",
+            "లేఖన వేగం"
+          ],
+          "correctIndex": 0,
+          "explanation": "సంఘటనల క్రమీకరణ కథా నిర్మాణాన్ని అర్థం చేసుకోవడానికి ఉపయోగపడుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q011",
+          "question": "‘ఆకాశం’ పదానికి సమానార్థక పదం ఏది?",
+          "options": [
+            "పాఠ్యాన్ని చూడకుండా ఊహించడం",
+            "గగనం",
+            "కేవలం అక్షరాల సంఖ్యను లెక్కించడం",
+            "సమాధానాన్ని యథాతథంగా నకలు చేయడం"
+          ],
+          "correctIndex": 1,
+          "explanation": "సరైన సమాధానం: గగనం. ప్రశ్నలో సూచించిన భాషా లేదా అభ్యసన చర్యకు ఈ అంశమే నేరుగా సంబంధించినది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q012",
+          "question": "‘నీలాకాశం’లో ‘నీల’ ఏ పాత్ర పోషిస్తుంది?",
+          "options": [
+            "విశేషణ పదభాగం",
+            "క్రియ",
+            "సర్వనామం",
+            "అవ్యయం"
+          ],
+          "correctIndex": 0,
+          "explanation": "‘నీల’ ఆకాశం యొక్క రంగును తెలిపే విశేషణ పదభాగం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q013",
+          "question": "ఫార్మేటివ్ అంచనా ప్రధానంగా ఎప్పుడు ఉపయోగపడుతుంది?",
+          "options": [
+            "బోధన జరుగుతున్న సమయంలో అభ్యసనాన్ని మెరుగుపరచడానికి",
+            "కోర్సు ముగిసిన తర్వాత ర్యాంకు మాత్రమే ఇవ్వడానికి",
+            "హాజరు నమోదు చేయడానికి",
+            "పాఠ్యపుస్తకం ఎంపికకు మాత్రమే"
+          ],
+          "correctIndex": 0,
+          "explanation": "ఫార్మేటివ్ అంచనా బోధన-అభ్యసన ప్రక్రియలోనే పురోగతిని తెలుసుకుని మెరుగుదలకు ఉపయోగపడుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q014",
+          "question": "వ్యాసానికి అనువైన శీర్షిక ఎలా ఉండాలి?",
+          "options": [
+            "విషయాన్ని స్పష్టంగా ప్రతిబింబించాలి",
+            "విషయంతో సంబంధం లేకుండా ఉండాలి",
+            "చాలా అస్పష్టంగా ఉండాలి",
+            "కేవలం సంఖ్యగా ఉండాలి"
+          ],
+          "correctIndex": 0,
+          "explanation": "శీర్షిక వ్యాసంలోని ప్రధాన విషయాన్ని సూచించాలి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q015",
+          "question": "భాషా తరగతిలో మౌఖిక కథనానికి ముందు కీలక పదాల జాబితా తయారు చేయడం?",
+          "options": [
+            "ఆలోచనల ప్రణాళిక",
+            "తుది సంపాదన",
+            "నకలు",
+            "శబ్ద పఠనం"
+          ],
+          "correctIndex": 0,
+          "explanation": "కీలక పదాలు కథనాన్ని క్రమబద్ధీకరించడానికి సహాయపడతాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q016",
+          "question": "భాషా తరగతిలో విద్యార్థుల ప్రశ్నలను ప్రోత్సహించడం వల్ల ఏది పెరుగుతుంది?",
+          "options": [
+            "జిజ్ఞాస, స్వతంత్ర అభ్యాసం",
+            "నిష్క్రియత",
+            "కంఠస్థం మాత్రమే",
+            "సంభాషణ నిరోధం"
+          ],
+          "correctIndex": 0,
+          "explanation": "విద్యార్థుల ప్రశ్నలు జిజ్ఞాసను, చురుకైన అర్థాన్వేషణను ప్రోత్సహిస్తాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q017",
+          "question": "విద్యార్థులు పాత్రధారణలో మర్యాదపూర్వక అభ్యర్థనలను ఉపయోగించడం ఏ అంశాన్ని సాధన చేస్తుంది?",
+          "options": [
+            "ప్రయోగాత్మక భాషా వినియోగం",
+            "కేవలం కంఠస్థం",
+            "అక్షరాల లెక్కింపు",
+            "నిశ్శబ్ద పఠనం"
+          ],
+          "correctIndex": 0,
+          "explanation": "వాస్తవిక సందర్భంలో అభ్యర్థనలు చేయడం భాషా ప్రయోగాన్ని సాధన చేస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q018",
+          "question": "‘వెలుగు’కి వ్యతిరేకార్థం ఏది?",
+          "options": [
+            "కాంతి",
+            "ప్రకాశం",
+            "చీకటి",
+            "దీపం"
+          ],
+          "correctIndex": 2,
+          "explanation": "‘చీకటి’ అనేది ‘వెలుగు’కు వ్యతిరేకార్థం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q019",
+          "question": "‘అందువల్ల’ అనే పదం సాధారణంగా ఏ సంబంధాన్ని చూపిస్తుంది?",
+          "options": [
+            "ఫలితం/నిర్గమనం",
+            "సంబోధన",
+            "ప్రశ్న",
+            "కాలవ్యవధి"
+          ],
+          "correctIndex": 0,
+          "explanation": "‘అందువల్ల’ ముందున్న కారణం నుంచి వచ్చే ఫలితాన్ని అనుసంధానిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q020",
+          "question": "‘లోకోపకారం’ పదాన్ని విడదీసినప్పుడు సరైన రూపం ఏది?",
+          "options": [
+            "లోక + ఉపకారం",
+            "లోకో + పకారం",
+            "లోకం + ఉపకారం",
+            "లోక + ఓపకారం"
+          ],
+          "correctIndex": 0,
+          "explanation": "‘లోక + ఉపకారం’ కలయికలో అ + ఉ కలిసి ఓ అవుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q021",
+          "question": "ఇంటి భాషను తరగతిలో గౌరవించడం ఏ దృక్పథాన్ని ప్రతిబింబిస్తుంది?",
+          "options": [
+            "భాషా వైవిధ్యాన్ని ఆదరించడం",
+            "భాషా భేదాలను అణచివేయడం",
+            "ఒకే ఉచ్చారణను బలవంతం చేయడం",
+            "విద్యార్థి మాటను నిరోధించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "ఇంటి భాషకు గౌరవం ఇవ్వడం భాషా వైవిధ్యాన్ని ఆదరించే బోధనా దృక్పథం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q022",
+          "question": "రచనలో అనুচ్ఛేదాల మధ్య సంబంధాన్ని చూపేది ఏది?",
+          "options": [
+            "పాఠ్యాన్ని చూడకుండా ఊహించడం",
+            "సమాధానాన్ని యథాతథంగా నకలు చేయడం",
+            "అనుసంధాన పదాలు, భావ క్రమం",
+            "కేవలం అక్షరాల సంఖ్యను లెక్కించడం"
+          ],
+          "correctIndex": 2,
+          "explanation": "సరైన సమాధానం: అనుసంధాన పదాలు, భావ క్రమం. ప్రశ్నలో సూచించిన భాషా లేదా అభ్యసన చర్యకు ఈ అంశమే నేరుగా సంబంధించినది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q023",
+          "question": "విభిన్న అభ్యాస స్థాయులున్న తరగతిలో సమర్థవంతమైన విధానం ఏది?",
+          "options": [
+            "అవసరానికి అనుగుణంగా భిన్న స్థాయి పనులు, మద్దతు ఇవ్వడం",
+            "అందరికీ ఒకే వేగం తప్పనిసరి చేయడం",
+            "సహాయం అవసరమైనవారిని విస్మరించడం",
+            "కేవలం వేగంగా పూర్తిచేసినవారికే బోధించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "భిన్నీకరించిన పనులు విద్యార్థుల వివిధ అవసరాలు, స్థాయులకు అనుగుణంగా ఉంటాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q024",
+          "question": "విద్యార్థి గద్యభాగాన్ని చదివి ప్రధాన ఉద్దేశాన్ని చెప్పడం ఏ నైపుణ్యం?",
+          "options": [
+            "ప్రధాన భావాన్ని గుర్తించడం",
+            "కేవలం అక్షరాల నకలు",
+            "వేగంగా పలకడం మాత్రమే",
+            "విరామచిహ్నాల లెక్కింపు"
+          ],
+          "correctIndex": 0,
+          "explanation": "గద్యభాగం యొక్క ప్రధాన ఉద్దేశాన్ని చెప్పడం భావగ్రహణ నైపుణ్యం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q025",
+          "question": "విద్యార్థులు రచనకు ముందు కీలక ఆలోచనలను జాబితా చేయడం ఏ దశ?",
+          "options": [
+            "రచన ప్రణాళిక",
+            "చివరి ప్రచురణ",
+            "పఠన మూల్యాంకనం",
+            "వినికిడి పరీక్ష"
+          ],
+          "correctIndex": 0,
+          "explanation": "ఆలోచనల జాబితా తయారీ రచనకు ముందు ప్రణాళికలో భాగం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q026",
+          "question": "రచయిత ఒకే సంఘటనను రెండు పాత్రల ద్వారా వేర్వేరుగా చూపితే ఏ అంశాన్ని పరిశీలించాలి?",
+          "options": [
+            "దృక్కోణ భేదాలు",
+            "అక్షరాల పరిమాణం",
+            "పేజీల సంఖ్య",
+            "ముద్రణ సంవత్సరం మాత్రమే"
+          ],
+          "correctIndex": 0,
+          "explanation": "పాత్రల దృక్కోణాలు వేర్వేరు కావడంతో వారి అనుభవాలు, అర్థాలు ఎలా మారాయో పోల్చాలి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q027",
+          "question": "విద్యార్థి పఠనంలో పదేపదే ఒకే రకమైన తప్పు చేస్తే ఉపాధ్యాయుడు ముందుగా ఏమి చేయాలి?",
+          "options": [
+            "తప్పు నమూనాను గుర్తించి కారణాన్ని పరిశీలించాలి",
+            "విద్యార్థిని శిక్షించాలి",
+            "అభ్యాసాన్ని నిలిపివేయాలి",
+            "తప్పును పట్టించుకోకూడదు"
+          ],
+          "correctIndex": 0,
+          "explanation": "తప్పు నమూనా, దాని కారణాన్ని తెలుసుకున్న తర్వాత తగిన సహాయం ప్రణాళిక చేయవచ్చు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q028",
+          "question": "భాషా బోధనలో స్థానిక కథలు, పాటలు ఉపయోగించడం వల్ల?",
+          "options": [
+            "పరిచిత సాంస్కృతిక సందర్భాల్లో భాషను నేర్చుకునే అవకాశం",
+            "అన్ని పాఠ్యాంశాలు తొలగిపోవడం",
+            "విద్యార్థుల భాషను నిరాకరించడం",
+            "మూల్యాంకనం అసాధ్యం కావడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "స్థానిక కథలు, పాటలు పరిచిత సందర్భాలను అందించి భాషా పాల్గొనడాన్ని పెంపొందిస్తాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q029",
+          "question": "వాక్యంలోని పదాల మధ్య చిన్న విరామాన్ని సూచించడానికి ఏ చిహ్నం వాడతారు?",
+          "options": [
+            "అల్పవిరామం",
+            "ప్రశ్నార్థకం",
+            "విస్మయాదిబోధకం",
+            "ఉద్ధరణ చిహ్నం"
+          ],
+          "correctIndex": 0,
+          "explanation": "చిన్న విరామాన్ని సూచించడానికి అల్పవిరామం ఉపయోగిస్తారు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s2-q030",
+          "question": "పదాన్ని అక్షర భాగాలుగా విడగొట్టి చదవడం ప్రారంభ పఠనంలో దేనికి తోడ్పడుతుంది?",
+          "options": [
+            "పద గుర్తింపు",
+            "వాదన నిర్మాణం",
+            "సృజనాత్మక రచన మాత్రమే",
+            "సామాజిక చర్చ"
+          ],
+          "correctIndex": 0,
+          "explanation": "పద భాగాలను గుర్తించడం పదాన్ని చదవడం, గుర్తించడం సులభం చేస్తుంది.",
+          "explanationLanguage": "te"
+        }
+      ]
+    },
+    {
+      "id": "telugu-full-mock-08-section-3",
+      "title": "Language-II — English",
+      "questions": [
+        {
+          "id": "telugu-full-mock-08-s3-q001",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "Due to the heavy traffic, we arrived late.",
+            "Due the heavy traffic, we arrived late.",
+            "Due to traffic was heavy, we arrived late.",
+            "Due of heavy traffic, we arrived late."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Due to' is followed by a noun phrase.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q002",
+          "question": "Choose the correct article: He is ___ honest officer.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 1,
+          "explanation": "Use 'an' before the vowel sound at the beginning of 'honest'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q003",
+          "question": "Choose the correct word: Please ___ your name at the bottom of the page.",
+          "options": [
+            "write",
+            "right",
+            "rite",
+            "wright"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Write' is the verb meaning to form letters or words.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q004",
+          "question": "Choose the correct word: Please ___ your answer with evidence from the passage.",
+          "options": [
+            "justify",
+            "justice",
+            "justified",
+            "justification"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Justify' is the verb meaning provide reasons or evidence for a claim.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q005",
+          "question": "What does 'once in a blue moon' mean?",
+          "options": [
+            "Very rarely",
+            "Every evening",
+            "At the right moment",
+            "Unexpectedly every day"
+          ],
+          "correctIndex": 0,
+          "explanation": "The idiom means something happens very infrequently.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q006",
+          "question": "Choose the antonym of 'plausible'.",
+          "options": [
+            "Credible",
+            "Reasonable",
+            "Implausible",
+            "Believable"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Implausible' means not seeming reasonable or likely.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q007",
+          "question": "Choose the correct option: The teacher asked us ___ our phones away.",
+          "options": [
+            "put",
+            "putting",
+            "to put",
+            "that put"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Ask + object + to-infinitive' is used for reported requests or instructions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q008",
+          "question": "Which sentence has the clearest pronoun reference?",
+          "options": [
+            "When Meena spoke to Latha, Meena offered to help with the project.",
+            "When Meena spoke to Latha, she offered to help with the project.",
+            "When she spoke to her, she offered to help.",
+            "Meena spoke to Latha, and she helped her."
+          ],
+          "correctIndex": 0,
+          "explanation": "Repeating 'Meena' removes the ambiguity about who offered help.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q009",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "She is senior than me.",
+            "She is senior to me.",
+            "She is more senior than me always.",
+            "She is senior from me."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Senior' is conventionally followed by 'to', not 'than'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q010",
+          "question": "Choose the synonym of 'interpret'.",
+          "options": [
+            "Explain the meaning",
+            "Destroy",
+            "Repeat exactly",
+            "Conceal"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Interpret' means explain or understand the meaning of something.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q011",
+          "question": "Choose the correct form: The bouquet of roses ___ lovely.",
+          "options": [
+            "look",
+            "looks",
+            "have looked",
+            "are looking"
+          ],
+          "correctIndex": 1,
+          "explanation": "The head of the subject is the singular noun 'bouquet'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q012",
+          "question": "Choose the correct conjunction: The bus was delayed; ___, we arrived after the bell.",
+          "options": [
+            "consequently",
+            "however",
+            "likewise",
+            "instead"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Consequently' signals a result.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q013",
+          "question": "Choose the correct option: More than one student ___ volunteered.",
+          "options": [
+            "have",
+            "has",
+            "are",
+            "were"
+          ],
+          "correctIndex": 1,
+          "explanation": "'More than one' is conventionally followed by a singular verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q014",
+          "question": "Choose the correct option: The number of applicants ___ increased this year.",
+          "options": [
+            "have",
+            "has",
+            "are",
+            "were"
+          ],
+          "correctIndex": 1,
+          "explanation": "'The number' is singular and takes 'has'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q015",
+          "question": "Choose the correct article: He hopes to become ___ engineer.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Engineer' begins with a vowel sound, requiring 'an'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q016",
+          "question": "Choose the correct meaning of 'meticulous'.",
+          "options": [
+            "Careless",
+            "Very careful about details",
+            "Unable to decide",
+            "Extremely noisy"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Meticulous' means showing great attention to detail.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q017",
+          "question": "Choose the correctly punctuated sentence.",
+          "options": [
+            "The learners' projects were displayed in the hall.",
+            "The learners projects' were displayed in the hall.",
+            "The learner's projects were displayed in the hall, when finished.",
+            "The learners projects were displayed in the hall."
+          ],
+          "correctIndex": 0,
+          "explanation": "The plural possessive 'learners'' correctly shows that the projects belong to the learners.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q018",
+          "question": "What does 'the ball is in your court' mean?",
+          "options": [
+            "It is your turn or responsibility to act",
+            "A game has ended",
+            "You have lost an opportunity",
+            "Someone has made a mistake"
+          ],
+          "correctIndex": 0,
+          "explanation": "The expression means the next action or decision is yours.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q019",
+          "question": "Choose the correct word: The instructions were ___, so nobody misunderstood them.",
+          "options": [
+            "explicit",
+            "implicit",
+            "implied",
+            "elusive"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Explicit' means stated clearly and directly.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q020",
+          "question": "Choose the correct form: I saw the child ___ across the road.",
+          "options": [
+            "run",
+            "ran",
+            "to ran",
+            "runs"
+          ],
+          "correctIndex": 0,
+          "explanation": "A bare infinitive can follow 'see' plus object when the whole action is observed.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q021",
+          "question": "Which activity best practises listening for specific information?",
+          "options": [
+            "Listen for the platform number announced",
+            "Describe the speaker's mood only",
+            "Predict the topic from a picture",
+            "Retell the whole recording from memory"
+          ],
+          "correctIndex": 0,
+          "explanation": "Listening for a platform number targets a specific detail.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q022",
+          "question": "Choose the correct word: A word with the opposite meaning is an ___.",
+          "options": [
+            "acronym",
+            "antonym",
+            "eponym",
+            "homonym"
+          ],
+          "correctIndex": 1,
+          "explanation": "An antonym is a word opposite in meaning to another word.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q023",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "The rich needs support.",
+            "The rich need support.",
+            "A rich need support.",
+            "The riches need support."
+          ],
+          "correctIndex": 1,
+          "explanation": "'The rich' refers to a group of people and takes a plural verb.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q024",
+          "question": "Choose the correct option: We have lived here ___ six months.",
+          "options": [
+            "since",
+            "during",
+            "for",
+            "by"
+          ],
+          "correctIndex": 2,
+          "explanation": "'For' introduces the duration of time.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q025",
+          "question": "Which question checks understanding of an author's purpose?",
+          "options": [
+            "Why did the author write this passage?",
+            "How many lines are on the page?",
+            "What is the fourth word?",
+            "Which letter is capitalized?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Author's purpose concerns the reason for creating the text.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q026",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "He is good in mathematics.",
+            "He is good at mathematics.",
+            "He is good on mathematics.",
+            "He is good with mathematicses."
+          ],
+          "correctIndex": 1,
+          "explanation": "The usual expression for skill is 'good at'.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q027",
+          "question": "Choose the correct option: We usually have ___ breakfast at seven.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 3,
+          "explanation": "Meals used in a general sense commonly take no article.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q028",
+          "question": "Choose the correct option: She has been waiting ___ 9 a.m.",
+          "options": [
+            "for",
+            "since",
+            "from",
+            "during"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Since' introduces the starting point of a period.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q029",
+          "question": "What does 'in a nutshell' mean?",
+          "options": [
+            "In a brief and concise form",
+            "Inside a shell",
+            "In a confusing way",
+            "After a long delay"
+          ],
+          "correctIndex": 0,
+          "explanation": "The expression introduces a brief summary.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "telugu-full-mock-08-s3-q030",
+          "question": "Which activity best develops listening discrimination?",
+          "options": [
+            "Identify whether two spoken words begin with the same sound",
+            "Summarize a long story from memory",
+            "Write an essay on a new topic",
+            "Scan a printed timetable"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sound discrimination involves noticing differences or similarities between speech sounds.",
+          "explanationLanguage": "en"
+        }
+      ]
+    },
+    {
+      "id": "telugu-full-mock-08-section-4",
+      "title": "Telugu Specialization",
+      "questions": [
+        {
+          "id": "telugu-full-mock-08-s4-q001",
+          "question": "భాషా అభ్యసనத்தில் ‘సहకార రచన’లో?",
+          "options": [
+            "విద్యార్థులు కలిసి పాఠ్యాన్ని రూపొందిస్తారు",
+            "ఒక్క విద్యార్థి మాత్రమే రాస్తాడు",
+            "రచనను పూర్తిగా నిషేధిస్తారు",
+            "ఉపాధ్యాయుడే సమాధానాలు చెబుతాడు"
+          ],
+          "correctIndex": 0,
+          "explanation": "సహకార రచనలో విద్యార్థులు ఆలోచనలు పంచుకొని కలిసి పాఠ్యాన్ని రూపొందిస్తారు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q002",
+          "question": "ఒక చిన్న కథకు పాత్రల లక్షణాల పట్టిక తయారు చేయించడం ప్రధానంగా దేనికి ఉపయోగపడుతుంది?",
+          "options": [
+            "పాత్ర విశ్లేషణ",
+            "అక్షరమాల కంఠస్థం",
+            "ఉచ్చారణ పరీక్ష",
+            "కేవలం నకలు"
+          ],
+          "correctIndex": 0,
+          "explanation": "పాత్రల చర్యలు, మాటలు, లక్షణాలను వర్గీకరించడం విశ్లేషణాత్మక పఠనానికి తోడ్పడుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q003",
+          "question": "‘వాళ్లు ఆట ఆడుతున్నారు’ వాక్యంలో క్రియ ఏది?",
+          "options": [
+            "వాళ్లు",
+            "ఆట",
+            "ఆడుతున్నారు",
+            "ఏదీ కాదు"
+          ],
+          "correctIndex": 2,
+          "explanation": "‘ఆడుతున్నారు’ చర్యను తెలిపే క్రియ.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q004",
+          "question": "పాత్ర చెప్పిన మాటలు, చేసిన పనులు సరిపోతున్నాయా చూడటం?",
+          "options": [
+            "సంబంధం లేని పదాన్ని యాదృచ్ఛికంగా ఎంచుకోవడం",
+            "పాత్ర ప్రవర్తన విశ్లేషణ",
+            "పాఠ్య ఆధారాన్ని పరిగణించకుండా నిర్ణయించడం",
+            "కేవలం వాక్య పొడవును లెక్కించడం"
+          ],
+          "correctIndex": 1,
+          "explanation": "సరైన సమాధానం: పాత్ర ప్రవర్తన విశ్లేషణ. ప్రశ్నలో పేర్కొన్న భాషా లేదా బోధనా సందర్భానికి ఈ సమాధానం సరిపోతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q005",
+          "question": "‘నిర్లక్ష్యం’కు వ్యతిరేక భావం ఏది?",
+          "options": [
+            "ఉపేక్ష",
+            "శ్రద్ధ",
+            "అలసత్వం",
+            "విముఖత"
+          ],
+          "correctIndex": 1,
+          "explanation": "నిర్లక్ష్యానికి విరుద్ధంగా శ్రద్ధ లేదా జాగ్రత్త ఉంటుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q006",
+          "question": "‘పూలు’ ఏకవచన రూపం ఏది?",
+          "options": [
+            "పూల",
+            "పువ్వు",
+            "పువ్వులు",
+            "పూలతో"
+          ],
+          "correctIndex": 1,
+          "explanation": "‘పూలు’కి ఏకవచన రూపం ‘పువ్వు’.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q007",
+          "question": "ప్రాస సాధారణంగా దేనిని ఆధారంగా చేసుకుంటుంది?",
+          "options": [
+            "పద్య పాదాల్లో ధ్వని సారూప్యం",
+            "వాక్యాల సంఖ్య",
+            "రచయిత పేరు",
+            "కథా స్థలం"
+          ],
+          "correctIndex": 0,
+          "explanation": "ప్రాసలో పద్య పాదాల్లో నిర్దిష్ట ధ్వని సారూప్యం ఉంటుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q008",
+          "question": "‘గురువు’ పదానికి సరైన బహువచన రూపం ఏది?",
+          "options": [
+            "గురువులు",
+            "గురువుల",
+            "గురువు",
+            "గురువైన"
+          ],
+          "correctIndex": 0,
+          "explanation": "‘గురువు’ పదానికి బహువచన రూపం ‘గురువులు’.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q009",
+          "question": "‘ఉదయం’కు వ్యతిరేకార్థకం ఏది?",
+          "options": [
+            "సాయంకాలం",
+            "ప్రభాతం",
+            "వేకువ",
+            "తెల్లవారుజాము"
+          ],
+          "correctIndex": 0,
+          "explanation": "సాయంకాలం రోజులో ఉదయానికి వ్యతిరేక సమయాన్ని సూచిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q010",
+          "question": "‘ధైర్యం’కు వ్యతిరేకార్థక పదం ఏది?",
+          "options": [
+            "సమాధానాన్ని యథాతథంగా నకలు చేయడం",
+            "పాఠ్యాన్ని చూడకుండా ఊహించడం",
+            "కేవలం అక్షరాల సంఖ్యను లెక్కించడం",
+            "భయం"
+          ],
+          "correctIndex": 3,
+          "explanation": "సరైన సమాధానం: భయం. ప్రశ్నలో సూచించిన భాషా లేదా అభ్యసన చర్యకు ఈ అంశమే నేరుగా సంబంధించినది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q011",
+          "question": "‘రాజు’ స్త్రీలింగ రూపం ఏది?",
+          "options": [
+            "రాణి",
+            "రాజులు",
+            "రాజ్యం",
+            "రాజుగా"
+          ],
+          "correctIndex": 0,
+          "explanation": "‘రాణి’ రాజుకు స్త్రీలింగ సమాన రూపం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q012",
+          "question": "రచనలో పేరాల మధ్య సరైన అనుసంధాన పదాలు ఉపయోగించడం వల్ల?",
+          "options": [
+            "భావాల ప్రవాహం మెరుగవుతుంది",
+            "ప్రతి పేరా స్వతంత్ర పదంగా మారుతుంది",
+            "విరామచిహ్నాలు అవసరం ఉండవు",
+            "వాక్యాలు ప్రశ్నలవుతాయి"
+          ],
+          "correctIndex": 0,
+          "explanation": "అనుసంధాన పదాలు పేరాల మధ్య తార్కిక సంబంధాన్ని స్పష్టం చేస్తాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q013",
+          "question": "విద్యార్థుల పదసంపదను పెంపొందించేందుకు అనుకూలమైన చర్య ఏది?",
+          "options": [
+            "కొత్త పదాలను సందర్భంలో ఉపయోగించడం",
+            "అర్థం చెప్పకుండా పదాలు రాయించడం",
+            "చదవడాన్ని తగ్గించడం",
+            "తప్పులకు మాత్రమే మార్కులు తగ్గించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "సందర్భోచిత వినియోగం ద్వారా పదాల అర్థం, ప్రయోగం రెండూ బలపడతాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q014",
+          "question": "పాఠ్యంలోని భావాన్ని కొత్త సందర్భంలో ఉపయోగించి ఉదాహరణ ఇవ్వడం ఏది?",
+          "options": [
+            "అన్వయ సామర్థ్యం",
+            "కేవలం అక్షరాల గుర్తింపు",
+            "నకలు",
+            "పఠనాన్ని ఆపడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "కొత్త సందర్భంలో భావాన్ని ఉపయోగించడం అన్వయ సామర్థ్యాన్ని సూచిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q015",
+          "question": "‘వచ్చాడు’ క్రియారూపం ఏ కాలాన్ని సూచిస్తుంది?",
+          "options": [
+            "భూతకాలం",
+            "వర్తమాన కాలం",
+            "భవిష్యత్ కాలం",
+            "ఆజ్ఞార్థకం"
+          ],
+          "correctIndex": 0,
+          "explanation": "‘వచ్చాడు’ గతంలో పూర్తైన చర్యను తెలియజేస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q016",
+          "question": "పదజాల బోధనలో పద కుటుంబాలను చూపించడం వల్ల?",
+          "options": [
+            "పదాల మధ్య రూప/అర్థ సంబంధాలను గుర్తించవచ్చు",
+            "పదాల వినియోగం ఆగిపోతుంది",
+            "పఠనం అవసరం ఉండదు",
+            "వ్యాకరణం తొలగిపోతుంది"
+          ],
+          "correctIndex": 0,
+          "explanation": "పద కుటుంబాలు సంబంధిత పదరూపాలు, అర్థాల మధ్య సంబంధాలను గుర్తించేందుకు సహాయపడతాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q017",
+          "question": "‘అమ్మ వంట చేసింది’లో క్రియ ఏది?",
+          "options": [
+            "చేసింది",
+            "అమ్మ",
+            "వంట",
+            "ఏదీ కాదు"
+          ],
+          "correctIndex": 0,
+          "explanation": "చర్యను తెలిపే పదం ‘చేసింది’.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q018",
+          "question": "పఠన దోషాల రికార్డు ఉంచడం ఉపాధ్యాయునికి ఏం తెలియజేస్తుంది?",
+          "options": [
+            "విద్యార్థికి అవసరమైన తదుపరి సహాయం",
+            "కేవలం హాజరు",
+            "కుటుంబ ఆదాయం",
+            "పాఠ్యపుస్తక ధర"
+          ],
+          "correctIndex": 0,
+          "explanation": "దోషాల నమూనాలను గమనించడం నిర్దిష్ట పఠన అవసరాలను గుర్తించడంలో ఉపయోగపడుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q019",
+          "question": "బహుళార్థక పదం అంటే ఏమిటి?",
+          "options": [
+            "ఒకే పదానికి సందర్భానుసారం అనేక అర్థాలు ఉండటం",
+            "అర్థం లేని పదం",
+            "ఎప్పుడూ ఒకే రూపంలో లేని వాక్యం",
+            "వ్యతిరేకార్థం మాత్రమే ఉన్న పదం"
+          ],
+          "correctIndex": 0,
+          "explanation": "బహుళార్థక పదం సందర్భాన్ని బట్టి ఒకటి కంటే ఎక్కువ అర్థాలను కలిగి ఉంటుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q020",
+          "question": "‘ఉపయుక్తం’కు దగ్గరైన అర్థం ఏది?",
+          "options": [
+            "ప్రయోజనకరమైనది",
+            "నిష్ప్రయోజనమైనది",
+            "అసాధ్యమైనది",
+            "విరుద్ధమైనది"
+          ],
+          "correctIndex": 0,
+          "explanation": "ఉపయుక్తం అంటే ఉపయోగపడేది లేదా ప్రయోజనకరమైనది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q021",
+          "question": "నిర్దిష్ట పేరు లేదా తేదీని వెతికే పఠన పద్ధతి ఏది?",
+          "options": [
+            "స్కానింగ్",
+            "స్కిమ్మింగ్",
+            "పునర్వ్యాఖ్యానం",
+            "మౌఖిక పఠనం"
+          ],
+          "correctIndex": 0,
+          "explanation": "స్కానింగ్ నిర్దిష్ట సమాచారాన్ని వేగంగా గుర్తిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q022",
+          "question": "స్వీయ మూల్యాంకనంలో విద్యార్థి తన పనికి ఆధారాలు చూపడం?",
+          "options": [
+            "కేవలం అక్షరాల సంఖ్యను లెక్కించడం",
+            "పాఠ్యాన్ని చూడకుండా ఊహించడం",
+            "తన పురోగతిని వాస్తవికంగా అంచనా వేయడం",
+            "సమాధానాన్ని యథాతథంగా నకలు చేయడం"
+          ],
+          "correctIndex": 2,
+          "explanation": "సరైన సమాధానం: తన పురోగతిని వాస్తవికంగా అంచనా వేయడం. ప్రశ్నలో సూచించిన భాషా లేదా అభ్యసన చర్యకు ఈ అంశమే నేరుగా సంబంధించినది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q023",
+          "question": "భాషా తరగతిలో జంటలుగా సమాచార ఖాళీ కార్యాచరణ చేయించడం?",
+          "options": [
+            "అర్థవంతమైన పరస్పర సంభాషణ",
+            "పాఠ్యంలోని శీర్షికను మాత్రమే గుర్తించడం",
+            "విషయానికి సంబంధం లేని ఉదాహరణను చెప్పడం",
+            "ఆధారం లేకుండా యాదృచ్ఛికంగా నిర్ణయించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "సరైన సమాధానం: అర్థవంతమైన పరస్పర సంభాషణ. ప్రశ్నలో పేర్కొన్న భాషా లక్షణం లేదా బోధనా చర్యకు ఇది సరిపడే వివరణ.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q024",
+          "question": "கதை முடிவை மாற்றி எழுதச் சொல்வது?",
+          "options": [
+            "పాఠ్యాన్ని చూడకుండా ఊహించడం",
+            "కేవలం అక్షరాల సంఖ్యను లెక్కించడం",
+            "సృజనాత్మకత, కారణాత్మక ఆలోచన",
+            "సమాధానాన్ని యథాతథంగా నకలు చేయడం"
+          ],
+          "correctIndex": 2,
+          "explanation": "సరైన సమాధానం: సృజనాత్మకత, కారణాత్మక ఆలోచన. ప్రశ్నలో సూచించిన భాషా లేదా అభ్యసన చర్యకు ఈ అంశమే నేరుగా సంబంధించినది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q025",
+          "question": "‘ఎవరు ఈ కథను చెప్పారు?’లో ప్రశ్నార్థక పదం ఏది?",
+          "options": [
+            "ఈ",
+            "కథను",
+            "ఎవరు",
+            "చెప్పారు"
+          ],
+          "correctIndex": 2,
+          "explanation": "‘ఎవరు’ వ్యక్తిని గురించి ప్రశ్నిస్తోంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q026",
+          "question": "భాషా బోధనలో ‘వాస్తవిక మూల్యాంకనం’కు ఉదాహరణ?",
+          "options": [
+            "నిజ జీవితానికి సరిపోయే ఆహ్వాన పత్రం రాయడం",
+            "పదాల జాబితాను మాత్రమే కంఠస్థం",
+            "పాఠ్యంతో సంబంధంలేని ప్రశ్న",
+            "హాజరు లెక్కించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "నిజ జీవితంలో ఉపయోగించే పత్రాన్ని రూపొందించడం భాషా వినియోగాన్ని వాస్తవికంగా అంచనా వేస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q027",
+          "question": "పఠన పాఠంలో విద్యార్థులు ముందుగా ప్రశ్నలు చూసి సంబంధిత సమాచారాన్ని వెతకడం ఏ పఠన విధానం?",
+          "options": [
+            "లక్ష్యిత సమాచార శోధన",
+            "కేవలం నిశ్శబ్ద పఠనం",
+            "అక్షరాల నకలు",
+            "శబ్ద పఠనం"
+          ],
+          "correctIndex": 0,
+          "explanation": "ప్రశ్నలకు అవసరమైన సమాచారాన్ని లక్ష్యంగా వెతకడం లక్ష్యిత శోధన పఠనం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q028",
+          "question": "పాఠం ప్రారంభంలో చిత్రాన్ని చూపి దాని గురించి మాట్లాడించడం?",
+          "options": [
+            "పూర్వజ్ఞానం, ఆసక్తి ప్రేరణ",
+            "తుది మూల్యాంకనం",
+            "సంపాదన",
+            "కంఠస్థం"
+          ],
+          "correctIndex": 0,
+          "explanation": "చిత్ర చర్చ విద్యార్థుల పూర్వజ్ఞానాన్ని మేల్కొలిపి ఆసక్తిని పెంచుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q029",
+          "question": "ఒకే అభ్యాస లక్ష్యానికి భిన్న స్థాయి పాఠ్యాలు ఇవ్వడం ఏ విధానానికి ఉదాహరణ?",
+          "options": [
+            "భేదీకృత బోధన",
+            "ఒకే రకమైన బోధన",
+            "శిక్షా విధానం",
+            "పరీక్ష రద్దు"
+          ],
+          "correctIndex": 0,
+          "explanation": "విద్యార్థుల స్థాయికి అనుగుణంగా పాఠ్యాన్ని మార్చడం భేదీకృత బోధన.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q030",
+          "question": "పాఠ్యంలోని ముఖ్య భావాన్ని మరో రూపంలో—ఉదాహరణకు భావపటం లేదా మౌఖిక వివరణగా—చూపడం ఏది?",
+          "options": [
+            "భావాన్ని పునఃప్రతినిధ్యం చేయడం",
+            "కేవలం నకలు",
+            "పఠనాన్ని నిలిపివేయడం",
+            "అర్థాన్ని దాచడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "భావాన్ని వేరే రూపంలో చూపడం దాన్ని పునఃప్రతినిధ్యం చేయడం; ఇది అవగాహనను బలపరుస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q031",
+          "question": "மாணவர் எழுத்தின் முதல் வரைவை இறுதி மதிப்பெண்ணாகக் கொள்ளாமல் திருத்த வாய்ப்பு தருதல்?",
+          "options": [
+            "సమాధానాన్ని యథాతథంగా నకలు చేయడం",
+            "రచన పునఃపరిశీలన ప్రక్రియ అని తెలియజేయడం",
+            "పాఠ్యాన్ని చూడకుండా ఊహించడం",
+            "కేవలం అక్షరాల సంఖ్యను లెక్కించడం"
+          ],
+          "correctIndex": 1,
+          "explanation": "సరైన సమాధానం: రచన పునఃపరిశీలన ప్రక్రియ అని తెలియజేయడం. ప్రశ్నలో సూచించిన భాషా లేదా అభ్యసన చర్యకు ఈ అంశమే నేరుగా సంబంధించినది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q032",
+          "question": "రచనలో పాఠకుడికి అవసరమైన నేపథ్య వివరాలు చేర్చడం ఏ లక్షణాన్ని పెంచుతుంది?",
+          "options": [
+            "స్పష్టత",
+            "అస్పష్టత",
+            "పునరుక్తి",
+            "అసంబద్ధత"
+          ],
+          "correctIndex": 0,
+          "explanation": "అవసరమైన నేపథ్యం పాఠకుడికి రచనను అర్థం చేసుకోవడంలో తోడ్పడుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q033",
+          "question": "‘గురువు విద్యార్థికి పుస్తకం ఇచ్చాడు’ వాక్యంలో కర్మ ఏది?",
+          "options": [
+            "గురువు",
+            "విద్యార్థికి",
+            "పుస్తకం",
+            "ఇచ్చాడు"
+          ],
+          "correctIndex": 2,
+          "explanation": "ఇచ్చిన వస్తువు ‘పుస్తకం’; ఇది కర్మ.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q034",
+          "question": "రచన పూర్తయ్యాక విషయ క్రమం, స్పష్టతను తిరిగి పరిశీలించడం ఏమని పిలుస్తారు?",
+          "options": [
+            "పునర్విమర్శ",
+            "మౌఖిక పఠనం",
+            "స్కానింగ్",
+            "అనువాదం"
+          ],
+          "correctIndex": 0,
+          "explanation": "పునర్విమర్శలో రచనలోని భావ క్రమం, స్పష్టత, సమగ్రతను పరిశీలించి మెరుగుపరుస్తారు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q035",
+          "question": "భాషా బోధనలో వినికిడి, మాట్లాడటం, చదవటం, రాయటం నైపుణ్యాలను పరస్పరం అనుసంధానించడం ఎందుకు?",
+          "options": [
+            "సమగ్ర భాషా సామర్థ్యాన్ని అభివృద్ధి చేయడానికి",
+            "ఒక నైపుణ్యాన్ని మాత్రమే ఉంచడానికి",
+            "మూల్యాంకనాన్ని తప్పించడానికి",
+            "పదజాలాన్ని తగ్గించడానికి"
+          ],
+          "correctIndex": 0,
+          "explanation": "నాలుగు భాషా నైపుణ్యాలు పరస్పరం మద్దతు ఇస్తాయి; అనుసంధానం సమగ్ర అభ్యాసానికి తోడ్పడుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q036",
+          "question": "‘రాముడు పుస్తకం చదివాడు’ వాక్యంలో కర్మ ఏది?",
+          "options": [
+            "రాముడు",
+            "పుస్తకం",
+            "చదివాడు",
+            "ఏదీ కాదు"
+          ],
+          "correctIndex": 1,
+          "explanation": "చదివే చర్యకు గురయ్యేది ‘పుస్తకం’; కాబట్టి అది కర్మ.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q037",
+          "question": "భాషా బోధనలో ప్రశ్నోత్తర చర్చ ఏ ప్రయోజనాన్ని అందిస్తుంది?",
+          "options": [
+            "అర్థగ్రహణం, ఆలోచన, మౌఖిక వ్యక్తీకరణకు అవకాశం",
+            "పిల్లల భాగస్వామ్యాన్ని తగ్గించడం",
+            "కేవలం నకలు రాయించడం",
+            "పాఠ్యాన్ని పూర్తిగా తొలగించడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "ప్రశ్నోత్తర చర్చ విద్యార్థులు భావాన్ని వివరించి తమ ఆలోచనలను వ్యక్తపరచేలా చేస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q038",
+          "question": "సమాచార పాఠ్యాన్ని చదివేటప్పుడు మూలం, రచయిత, తేదీని తనిఖీ చేయడం ఎందుకు ఉపయోగకరం?",
+          "options": [
+            "సమాచార విశ్వసనీయత, సందర్భాన్ని అంచనా వేయడానికి",
+            "అక్షరాల సంఖ్యను పెంచడానికి",
+            "పాఠ్యాన్ని కంఠస్థం చేయడానికి మాత్రమే",
+            "వాక్యాలను పద్యాలుగా మార్చడానికి"
+          ],
+          "correctIndex": 0,
+          "explanation": "మూలం, రచయిత, తేదీ ద్వారా సమాచార నేపథ్యం మరియు నమ్మకతను అంచనా వేయవచ్చు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q039",
+          "question": "పదజాలాన్ని సందర్భంలో నేర్పడం ఎందుకు ఉపయోగకరం?",
+          "options": [
+            "పదార్థం వినియోగాన్ని అర్థం చేసుకోవడానికి",
+            "పదాలను అర్థం లేకుండా కంఠస్థం చేయడానికి మాత్రమే",
+            "వాక్యాలను తొలగించడానికి",
+            "వినికిడిని ఆపడానికి"
+          ],
+          "correctIndex": 0,
+          "explanation": "సందర్భం పదం యొక్క అర్థం, ప్రయోగం రెండింటినీ అర్థం చేసుకోవడంలో సహాయపడుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q040",
+          "question": "పాఠ్యంలోని తెలియని పదానికి చుట్టూ ఉన్న వాక్యాలను చూడడం?",
+          "options": [
+            "పాఠ్యాన్ని చూడకుండా ఊహించడం",
+            "కేవలం అక్షరాల సంఖ్యను లెక్కించడం",
+            "సమాధానాన్ని యథాతథంగా నకలు చేయడం",
+            "సందర్భ సూచన వినియోగం"
+          ],
+          "correctIndex": 3,
+          "explanation": "సరైన సమాధానం: సందర్భ సూచన వినియోగం. ప్రశ్నలో సూచించిన భాషా లేదా అభ్యసన చర్యకు ఈ అంశమే నేరుగా సంబంధించినది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q041",
+          "question": "‘ఓ బాలకా!’లో ఏ భావం వ్యక్తమవుతుంది?",
+          "options": [
+            "సంబోధన",
+            "కరణం",
+            "కర్మ",
+            "కారణం"
+          ],
+          "correctIndex": 0,
+          "explanation": "ఎవరినైనా నేరుగా పిలిచే రూపం సంబోధన భావాన్ని తెలియజేస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q042",
+          "question": "విద్యార్థులు ఒకే అంశంపై ప్రశ్నలు తయారు చేసి వాటిని స్థాయులుగా వర్గీకరించడం?",
+          "options": [
+            "ప్రశ్న నిర్మాణం, ఆలోచనా స్థాయుల అవగాహన",
+            "పాఠ్యంతో సంబంధం లేని వ్యక్తిగత ఊహను చెప్పడం",
+            "కేవలం పదాల సంఖ్యను లెక్కించడం",
+            "సమాధానాన్ని ఆధారం లేకుండా ఎంపిక చేయడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "సరైన సమాధానం: ప్రశ్న నిర్మాణం, ఆలోచనా స్థాయుల అవగాహన. ఈ ఎంపిక ప్రశ్నలో సూచించిన భాషా నైపుణ్యం లేదా బోధనా లక్ష్యాన్ని నేరుగా వివరిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q043",
+          "question": "విద్యార్థి ఉచ్చారణలో చిన్న తప్పు చేసినా భావం స్పష్టంగా ఉన్నప్పుడు ఉపాధ్యాయుడి స్పందన ఎలా ఉండాలి?",
+          "options": [
+            "సంభాషణను కొనసాగిస్తూ అవసరమైనప్పుడు సున్నితమైన నమూనా ఇవ్వాలి",
+            "వెంటనే మాట్లాడటం ఆపించాలి",
+            "తప్పును శిక్షించాలి",
+            "మిగతా విద్యార్థుల ముందు అవమానించాలి"
+          ],
+          "correctIndex": 0,
+          "explanation": "సున్నితమైన నమూనా, ప్రోత్సాహం విద్యార్థి సంభాషణ ధైర్యాన్ని కాపాడతాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q044",
+          "question": "కథా రచనలో సంఘటనకు తగిన కారణం లేకపోతే ఏ ప్రశ్న ఉపయోగపడుతుంది?",
+          "options": [
+            "సమాధానాన్ని ఆధారం లేకుండా ఎంపిక చేయడం",
+            "కేవలం పదాల సంఖ్యను లెక్కించడం",
+            "పాఠ్యంతో సంబంధం లేని వ్యక్తిగత ఊహను చెప్పడం",
+            "‘ఈ సంఘటన ఎందుకు జరిగింది?’ అని అడగడం"
+          ],
+          "correctIndex": 3,
+          "explanation": "సరైన సమాధానం: ‘ఈ సంఘటన ఎందుకు జరిగింది?’ అని అడగడం. ఈ ఎంపిక ప్రశ్నలో సూచించిన భాషా నైపుణ్యం లేదా బోధనా లక్ష్యాన్ని నేరుగా వివరిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q045",
+          "question": "రచనలో వాక్యాల మధ్య తార్కిక సంబంధం స్పష్టంగా ఉండటం ఏ లక్షణం?",
+          "options": [
+            "సంఘటితత్వం",
+            "అక్షరాల సంఖ్య",
+            "శబ్ద తీవ్రత",
+            "వేగం"
+          ],
+          "correctIndex": 0,
+          "explanation": "వాక్యాల మధ్య సంబంధాలు సజావుగా ఉండటం రచన సంఘటితత్వాన్ని పెంచుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q046",
+          "question": "మౌఖిక కథనాన్ని అంచనా వేయేటప్పుడు ఏ అంశం పరిశీలించవచ్చు?",
+          "options": [
+            "క్రమబద్ధత, స్పష్టత",
+            "పుస్తకపు ధర",
+            "కాగితం రంగు",
+            "తరగతి గది పరిమాణం"
+          ],
+          "correctIndex": 0,
+          "explanation": "కథను క్రమంగా, స్పష్టంగా చెప్పగలగడం మౌఖిక కథన నైపుణ్యంలోని అంశాలు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q047",
+          "question": "పిల్లల భాషా అభివృద్ధిలో ఇంటి భాషా అనుభవాలను తెలుసుకోవడం ఉపాధ్యాయునికి ఎందుకు సహాయపడుతుంది?",
+          "options": [
+            "తెలిసిన భాషా వనరులపై బోధనను నిర్మించడానికి",
+            "పాఠ్యాన్ని తగ్గించడానికి మాత్రమే",
+            "విద్యార్థుల్ని వర్గీకరించి వేరుచేయడానికి",
+            "అంచనాను పూర్తిగా ఆపడానికి"
+          ],
+          "correctIndex": 0,
+          "explanation": "ఇంటి భాషా అనుభవాలు విద్యార్థుల ప్రస్తుత వనరులు, అవసరాలను అర్థం చేసుకునేందుకు తోడ్పడతాయి.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q048",
+          "question": "భాషా తరగతిలో సమూహపని నిర్వహించినప్పుడు ఉపాధ్యాయుని పాత్ర ఏమిటి?",
+          "options": [
+            "సహాయకుడు, మార్గదర్శి",
+            "ప్రతి సమాధానాన్ని ముందే చెప్పేవాడు",
+            "పిల్లల సంభాషణను ఆపేవాడు",
+            "కేవలం పరిశీలన లేకుండా మార్కులు వేసేవాడు"
+          ],
+          "correctIndex": 0,
+          "explanation": "ఉపాధ్యాయుడు అవసరమైన సహాయం అందిస్తూ విద్యార్థుల స్వతంత్ర భాగస్వామ్యాన్ని ప్రోత్సహిస్తాడు.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q049",
+          "question": "విద్యార్థి స్వీయ మూల్యాంకనం వల్ల ఏది పెంపొందుతుంది?",
+          "options": [
+            "తన అభ్యాసంపై ఆలోచన, బాధ్యత",
+            "ఇతరులపై ఆధారపడటం మాత్రమే",
+            "పాఠ్యాంశం తగ్గిపోవడం",
+            "సంభాషణ నిషేధం"
+          ],
+          "correctIndex": 0,
+          "explanation": "స్వీయ మూల్యాంకనం విద్యార్థి తన పురోగతి, తదుపరి లక్ష్యాలపై ఆలోచించేందుకు తోడ్పడుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q050",
+          "question": "‘విద్యార్థిని పాఠం చదివింది’ వాక్యంలో కర్త ఎవరు?",
+          "options": [
+            "విద్యార్థిని",
+            "పాఠం",
+            "చదివింది",
+            "ఏదీ కాదు"
+          ],
+          "correctIndex": 0,
+          "explanation": "చదివిన వ్యక్తి విద్యార్థిని; ఆమె కర్త.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q051",
+          "question": "పాఠ్యంలోని పాత్ర ప్రవర్తనకు ఆధారాలు చూపమని అడగడం?",
+          "options": [
+            "పాఠ్య ఆధారిత వివరణను ప్రోత్సహిస్తుంది",
+            "కేవలం కంఠస్థాన్ని కొలుస్తుంది",
+            "చదవడాన్ని ఆపుతుంది",
+            "అర్థం చెప్పకుండా నిరోధిస్తుంది"
+          ],
+          "correctIndex": 0,
+          "explanation": "పాఠ్య ఆధారాలు చూపడం అభిప్రాయాన్ని సమర్థించడానికి నేర్పుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q052",
+          "question": "పాఠ్యాన్ని చిన్న భాగాలుగా చదివించి మధ్యలో ప్రశ్నించడం?",
+          "options": [
+            "దశలవారీ భావగ్రహణ మద్దతు",
+            "కేవలం అక్షరాల లెక్కింపు",
+            "నకలు మాత్రమే",
+            "పాఠ్యాన్ని చదవకపోవడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "సరైన సమాధానం: దశలవారీ భావగ్రహణ మద్దతు. పాఠ్యాన్ని పరిశీలించి, సంబంధిత ఆధారంతో భావాన్ని వివరించడం ఈ నైపుణ్యానికి కేంద్రం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q053",
+          "question": "విద్యార్థి రచయిత అభిప్రాయాన్ని, దానికి ఇచ్చిన వాస్తవ ఆధారాలను వేరు చేస్తే ఏ నైపుణ్యం ప్రదర్శిస్తున్నాడు?",
+          "options": [
+            "విమర్శనాత్మక పఠనం",
+            "కేవలం శబ్ద పఠనం",
+            "అక్షరాభ్యాసం",
+            "వేగంగా నకలు చేయడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "అభిప్రాయం, వాస్తవ ఆధారాల మధ్య తేడాను గుర్తించడం విమర్శనాత్మక పఠన నైపుణ్యం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q054",
+          "question": "పాఠం ముగిసిన తర్వాత విద్యార్థులతో ‘ఏం నేర్చుకున్నావు?’ అని చర్చించడం ఏది?",
+          "options": [
+            "పునర్విమర్శ, స్వీయ ప్రతిబింబం",
+            "కేవలం హాజరు",
+            "శిక్షా విధానం",
+            "అక్షరాల నకలు"
+          ],
+          "correctIndex": 0,
+          "explanation": "అభ్యసనంపై ఆలోచించడం పునర్విమర్శ, స్వీయ ప్రతిబింబానికి తోడ్పడుతుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q055",
+          "question": "ஒரு கருத்துக்கு எதிர் கருத்தையும் ஆதாரத்துடன் எழுதுதல்?",
+          "options": [
+            "పాఠ్యాన్ని చూడకుండా ఊహించడం",
+            "సమాధానాన్ని యథాతథంగా నకలు చేయడం",
+            "వాదన నైపుణ్యాన్ని విస్తరించడం",
+            "కేవలం అక్షరాల సంఖ్యను లెక్కించడం"
+          ],
+          "correctIndex": 2,
+          "explanation": "సరైన సమాధానం: వాదన నైపుణ్యాన్ని విస్తరించడం. ప్రశ్నలో సూచించిన భాషా లేదా అభ్యసన చర్యకు ఈ అంశమే నేరుగా సంబంధించినది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q056",
+          "question": "సృజనాత్మక రచనకు అనువైన ప్రేరణ ఏది?",
+          "options": [
+            "చిత్రాన్ని చూసి కథ రాయడం",
+            "పుస్తకాన్ని మూసి ఉంచడం",
+            "రాయడానికి సమయం ఇవ్వకపోవడం",
+            "ఒకే వాక్యాన్ని యథాతథంగా కాపీ చేయడం"
+          ],
+          "correctIndex": 0,
+          "explanation": "చిత్రం విద్యార్థి ఊహాశక్తిని ప్రేరేపించి స్వతంత్ర కథనానికి దోహదం చేస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q057",
+          "question": "‘అయ్యో!’ ఏ రకమైన పదం?",
+          "options": [
+            "నామవాచకం",
+            "ఆశ్చర్యార్థక అవ్యయం",
+            "సర్వనామం",
+            "విశేషణం"
+          ],
+          "correctIndex": 1,
+          "explanation": "‘అయ్యో!’ భావోద్వేగాన్ని లేదా ఆశ్చర్యాన్ని వ్యక్తం చేసే అవ్యయం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q058",
+          "question": "‘చదువుతున్నాడు’ ఏ కాలాన్ని సూచిస్తుంది?",
+          "options": [
+            "వర్తమాన కాలం",
+            "భూతకాలం",
+            "భవిష్యత్ కాలం",
+            "కాలం కాదు"
+          ],
+          "correctIndex": 0,
+          "explanation": "‘చదువుతున్నాడు’ ప్రస్తుతం జరుగుతున్న చర్యను సూచిస్తుంది.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q059",
+          "question": "‘నీవు’ ఏ పురుషాన్ని సూచిస్తుంది?",
+          "options": [
+            "మధ్యమ పురుషం",
+            "ఉత్తమ పురుషం",
+            "ప్రథమ పురుషం",
+            "బహువచనం మాత్రమే"
+          ],
+          "correctIndex": 0,
+          "explanation": "వినే వ్యక్తిని సూచించే ‘నీవు’ మధ్యమ పురుషం.",
+          "explanationLanguage": "te"
+        },
+        {
+          "id": "telugu-full-mock-08-s4-q060",
+          "question": "తరగతిలో విద్యార్థి పలుకుబడి లేదా ఇంటి భాషను గౌరవించడం ఏ వైఖరిని ప్రతిబింబిస్తుంది?",
+          "options": [
+            "భాషా వైవిధ్యానికి గౌరవం",
+            "ఒకే పలుకుబడిని తక్కువచేయడం",
+            "విద్యార్థి మాటను నిషేధించడం",
+            "తప్పులకే ప్రాధాన్యం"
+          ],
+          "correctIndex": 0,
+          "explanation": "విద్యార్థుల భాషా నేపథ్యాన్ని గౌరవించడం సమగ్ర, సురక్షిత అభ్యాస వాతావరణానికి తోడ్పడుతుంది.",
+          "explanationLanguage": "te"
+        }
+      ]
+    }
+  ]
+}

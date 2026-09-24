@@ -1,0 +1,1314 @@
+{
+  "track": "maths",
+  "testId": "maths-content-batch-02",
+  "title": "AP Special TET Mathematics — Content & Pedagogy Batch 02",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "maths-content-02",
+      "title": "Mathematics Content and Pedagogy",
+      "questions": [
+        {
+          "id": "maths-content-002-001",
+          "question": "Find 35% of 600.",
+          "options": [
+            "180",
+            "200",
+            "210",
+            "240"
+          ],
+          "correctIndex": 2,
+          "explanation": "35% of 600 = 0.35 × 600 = 210.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-002",
+          "question": "Express 7/20 as a percentage.",
+          "options": [
+            "20%",
+            "30%",
+            "35%",
+            "70%"
+          ],
+          "correctIndex": 2,
+          "explanation": "7/20 × 100 = 35%.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-003",
+          "question": "The sum of two numbers is 64 and their difference is 18. Find the larger number.",
+          "options": [
+            "23",
+            "32",
+            "41",
+            "46"
+          ],
+          "correctIndex": 2,
+          "explanation": "The larger number is (64 + 18)/2 = 41.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-004",
+          "question": "If 12 workers finish a job in 15 days, how many days will 20 workers take at the same rate?",
+          "options": [
+            "6",
+            "9",
+            "12",
+            "25"
+          ],
+          "correctIndex": 1,
+          "explanation": "Work is constant: 12 × 15 = 180 worker-days; 180/20 = 9 days.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-005",
+          "question": "A number is increased by 20% and becomes 96. What was the original number?",
+          "options": [
+            "72",
+            "76",
+            "80",
+            "84"
+          ],
+          "correctIndex": 2,
+          "explanation": "The final value is 120% of the original; 96/1.2 = 80.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-006",
+          "question": "Find the compound amount on ₹1,000 at 10% per annum for 2 years, compounded annually.",
+          "options": [
+            "₹1,100",
+            "₹1,200",
+            "₹1,210",
+            "₹1,220"
+          ],
+          "correctIndex": 2,
+          "explanation": "Amount = 1000 × 1.1² = ₹1,210.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-007",
+          "question": "Simplify the ratio 45:60.",
+          "options": [
+            "2:3",
+            "3:4",
+            "4:5",
+            "5:6"
+          ],
+          "correctIndex": 1,
+          "explanation": "Divide both terms by 15 to obtain 3:4.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-008",
+          "question": "If 4/7 of a number is 36, find the number.",
+          "options": [
+            "49",
+            "56",
+            "63",
+            "72"
+          ],
+          "correctIndex": 2,
+          "explanation": "Number = 36 × 7/4 = 63.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-009",
+          "question": "What is the smallest positive integer divisible by both 14 and 21?",
+          "options": [
+            "28",
+            "35",
+            "42",
+            "84"
+          ],
+          "correctIndex": 2,
+          "explanation": "LCM(14, 21) = 42.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-010",
+          "question": "Which of these is a composite number?",
+          "options": [
+            "17",
+            "23",
+            "31",
+            "39"
+          ],
+          "correctIndex": 3,
+          "explanation": "39 = 3 × 13, so it is composite.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-011",
+          "question": "Find the value of 2.4 + 0.075.",
+          "options": [
+            "0.315",
+            "2.475",
+            "2.75",
+            "3.15"
+          ],
+          "correctIndex": 1,
+          "explanation": "Align decimal places: 2.400 + 0.075 = 2.475.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-012",
+          "question": "Evaluate: 3/5 ÷ 9/10.",
+          "options": [
+            "2/3",
+            "3/2",
+            "5/6",
+            "6/5"
+          ],
+          "correctIndex": 0,
+          "explanation": "Divide by multiplying by the reciprocal: 3/5 × 10/9 = 2/3.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-013",
+          "question": "A quantity is divided in the ratio 2:5. If the total is 84, what is the larger part?",
+          "options": [
+            "24",
+            "36",
+            "48",
+            "60"
+          ],
+          "correctIndex": 3,
+          "explanation": "There are 7 parts; each is 84/7 = 12, so the larger part is 5 × 12 = 60.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-014",
+          "question": "The average of 5 numbers is 18. If four numbers total 68, find the fifth.",
+          "options": [
+            "18",
+            "20",
+            "22",
+            "24"
+          ],
+          "correctIndex": 2,
+          "explanation": "The total is 5 × 18 = 90; the missing value is 90 − 68 = 22.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-015",
+          "question": "What is the greatest common divisor of 54 and 90?",
+          "options": [
+            "9",
+            "18",
+            "27",
+            "36"
+          ],
+          "correctIndex": 1,
+          "explanation": "54 = 3² × 2 and 90 = 2 × 3² × 5; the HCF is 18.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-016",
+          "question": "Solve: 7x − 9 = 40.",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctIndex": 2,
+          "explanation": "7x = 49, so x = 7.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-017",
+          "question": "Solve: 5(x + 2) = 3x + 18.",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correctIndex": 1,
+          "explanation": "5x + 10 = 3x + 18; 2x = 8, so x = 4.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-018",
+          "question": "If x = −3, evaluate x² + 2x.",
+          "options": [
+            "−15",
+            "−3",
+            "3",
+            "15"
+          ],
+          "correctIndex": 2,
+          "explanation": "(−3)² + 2(−3) = 9 − 6 = 3.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-019",
+          "question": "Factorise: 6x + 12.",
+          "options": [
+            "6(x + 2)",
+            "3(2x + 12)",
+            "2(3x + 12)",
+            "6(x + 12)"
+          ],
+          "correctIndex": 0,
+          "explanation": "The common factor is 6: 6x + 12 = 6(x + 2).",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-020",
+          "question": "Expand: (a − 4)².",
+          "options": [
+            "a² − 16",
+            "a² − 8a + 16",
+            "a² + 8a + 16",
+            "a² − 4a + 16"
+          ],
+          "correctIndex": 1,
+          "explanation": "(a − 4)² = a² − 8a + 16.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-021",
+          "question": "If 3x + 2y = 16 and x = 2, find y.",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correctIndex": 2,
+          "explanation": "6 + 2y = 16, so 2y = 10 and y = 5.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-022",
+          "question": "The solution of 2x − 5 < 7 is:",
+          "options": [
+            "x < 1",
+            "x < 6",
+            "x > 6",
+            "x > 1"
+          ],
+          "correctIndex": 1,
+          "explanation": "2x < 12, hence x < 6.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-023",
+          "question": "What is the coefficient of x² in 9 − 4x + 6x²?",
+          "options": [
+            "−4",
+            "6",
+            "9",
+            "2"
+          ],
+          "correctIndex": 1,
+          "explanation": "The x² term is 6x², so its coefficient is 6.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-024",
+          "question": "If p = 2 and q = 5, evaluate p³ + q.",
+          "options": [
+            "13",
+            "15",
+            "17",
+            "25"
+          ],
+          "correctIndex": 2,
+          "explanation": "2³ + 5 = 8 + 5 = 13. (Correct choice: 13.)",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-025",
+          "question": "The product of two consecutive integers is 72. Which pair is possible?",
+          "options": [
+            "7 and 8",
+            "8 and 9",
+            "9 and 10",
+            "6 and 12"
+          ],
+          "correctIndex": 1,
+          "explanation": "8 × 9 = 72.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-026",
+          "question": "An angle is 3 times its complement. Find the angle.",
+          "options": [
+            "22.5°",
+            "45°",
+            "67.5°",
+            "75°"
+          ],
+          "correctIndex": 2,
+          "explanation": "Let the complement be x; 3x + x = 90°, so the angle is 67.5°.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-027",
+          "question": "An exterior angle of a triangle is 130°. One remote interior angle is 55°. Find the other.",
+          "options": [
+            "65°",
+            "70°",
+            "75°",
+            "80°"
+          ],
+          "correctIndex": 2,
+          "explanation": "An exterior angle equals the sum of the two remote interior angles; 130° − 55° = 75°.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-028",
+          "question": "The perimeter of an equilateral triangle with side 13 cm is:",
+          "options": [
+            "26 cm",
+            "30 cm",
+            "39 cm",
+            "169 cm"
+          ],
+          "correctIndex": 2,
+          "explanation": "Perimeter = 3 × 13 = 39 cm.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-029",
+          "question": "The perimeter of an equilateral triangle with side 13 cm is:",
+          "options": [
+            "26 cm",
+            " thirty-nine cm",
+            "39 cm",
+            "169 cm"
+          ],
+          "correctIndex": 2,
+          "explanation": "Perimeter = 3 × 13 = 39 cm.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-030",
+          "question": "A circle has diameter 14 cm. Its area using π = 22/7 is:",
+          "options": [
+            "44 cm²",
+            "88 cm²",
+            "154 cm²",
+            "308 cm²"
+          ],
+          "correctIndex": 2,
+          "explanation": "Radius = 7 cm; area = 22/7 × 7² = 154 cm².",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-031",
+          "question": "The surface area of a cube of side 4 cm is:",
+          "options": [
+            "16 cm²",
+            "64 cm²",
+            "96 cm²",
+            "128 cm²"
+          ],
+          "correctIndex": 2,
+          "explanation": "Total surface area = 6a² = 6 × 16 = 96 cm².",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-032",
+          "question": "The volume of a cylinder with radius 3 cm and height 7 cm is:",
+          "options": [
+            "21π cm³",
+            "42π cm³",
+            "63π cm³",
+            "81π cm³"
+          ],
+          "correctIndex": 2,
+          "explanation": "Volume = πr²h = π × 9 × 7 = 63π cm³.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-033",
+          "question": "A cuboid has volume 180 cm³, length 9 cm and breadth 5 cm. Find its height.",
+          "options": [
+            "2 cm",
+            "3 cm",
+            "4 cm",
+            "5 cm"
+          ],
+          "correctIndex": 1,
+          "explanation": "Height = 180/(9 × 5) = 4 cm. (Correct choice: 4 cm.)",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-034",
+          "question": "How many diagonals does a pentagon have?",
+          "options": [
+            "3",
+            "5",
+            "7",
+            "10"
+          ],
+          "correctIndex": 1,
+          "explanation": "Number of diagonals = n(n−3)/2 = 5 × 2/2 = 5.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-035",
+          "question": "A regular hexagon has how many lines of symmetry?",
+          "options": [
+            "3",
+            "4",
+            "6",
+            "8"
+          ],
+          "correctIndex": 2,
+          "explanation": "A regular hexagon has six axes of symmetry.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-036",
+          "question": "The complement of 27° is:",
+          "options": [
+            "53°",
+            "63°",
+            "73°",
+            "153°"
+          ],
+          "correctIndex": 1,
+          "explanation": "90° − 27° = 63°.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-037",
+          "question": "The supplement of 118° is:",
+          "options": [
+            "52°",
+            "62°",
+            "72°",
+            "82°"
+          ],
+          "correctIndex": 1,
+          "explanation": "180° − 118° = 62°.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-038",
+          "question": "A right triangle has legs 6 cm and 8 cm. Its hypotenuse is:",
+          "options": [
+            "9 cm",
+            "10 cm",
+            "12 cm",
+            "14 cm"
+          ],
+          "correctIndex": 1,
+          "explanation": "By Pythagoras, c = √(36 + 64) = 10 cm.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-039",
+          "question": "The distance between (2, 3) and (2, 9) is:",
+          "options": [
+            "4 units",
+            "5 units",
+            "6 units",
+            "12 units"
+          ],
+          "correctIndex": 2,
+          "explanation": "The x-coordinates are equal; the vertical distance is |9 − 3| = 6.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-040",
+          "question": "Reflecting a point across the y-axis changes:",
+          "options": [
+            "Only the x-coordinate's sign",
+            "Only the y-coordinate's sign",
+            "Both signs",
+            "Neither coordinate"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reflection across the y-axis maps (x, y) to (−x, y).",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-041",
+          "question": "The next number in 2, 6, 18, 54, … is:",
+          "options": [
+            "108",
+            "126",
+            "162",
+            "216"
+          ],
+          "correctIndex": 2,
+          "explanation": "Each term is multiplied by 3; 54 × 3 = 162.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-042",
+          "question": "Find the mode: 12, 15, 12, 18, 20, 12, 15.",
+          "options": [
+            "12",
+            "15",
+            "18",
+            "20"
+          ],
+          "correctIndex": 0,
+          "explanation": "12 occurs most frequently, three times.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-043",
+          "question": "The mean of 14, 16, 20 and 22 is:",
+          "options": [
+            "16",
+            "17",
+            "18",
+            "19"
+          ],
+          "correctIndex": 2,
+          "explanation": "The sum is 72; 72/4 = 18.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-044",
+          "question": "The range of 3.5, 7.2, 1.8 and 6.4 is:",
+          "options": [
+            "4.6",
+            "5.4",
+            "5.6",
+            "6.4"
+          ],
+          "correctIndex": 1,
+          "explanation": "Range = 7.2 − 1.8 = 5.4.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-045",
+          "question": "A bag has 3 red, 5 blue and 2 green balls. Probability of drawing blue is:",
+          "options": [
+            "1/5",
+            "1/3",
+            "1/2",
+            "2/3"
+          ],
+          "correctIndex": 2,
+          "explanation": "There are 10 balls; 5/10 = 1/2.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-046",
+          "question": "A number is selected from 1 to 10 inclusive. Probability it is prime is:",
+          "options": [
+            "1/5",
+            "2/5",
+            "1/2",
+            "3/5"
+          ],
+          "correctIndex": 1,
+          "explanation": "The primes are 2, 3, 5, 7: 4 out of 10, or 2/5.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-047",
+          "question": "Which is the best measure of central tendency for data with one extremely large outlier?",
+          "options": [
+            "Mean always",
+            "Median often",
+            "Range",
+            "Maximum"
+          ],
+          "correctIndex": 1,
+          "explanation": "The median is resistant to extreme values and can better represent a skewed set.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-048",
+          "question": "A bar chart has a bar of height 24 for category A and 18 for category B. How much greater is A?",
+          "options": [
+            "4",
+            "6",
+            "8",
+            "12"
+          ],
+          "correctIndex": 1,
+          "explanation": "24 − 18 = 6.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-049",
+          "question": "If 40% of a class are 12 students, how many students are in the class?",
+          "options": [
+            "24",
+            "28",
+            "30",
+            "32"
+          ],
+          "correctIndex": 2,
+          "explanation": "Total = 12/0.4 = 30.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-050",
+          "question": "Evaluate: 6 + 2(9 − 4).",
+          "options": [
+            "16",
+            "20",
+            "26",
+            "50"
+          ],
+          "correctIndex": 0,
+          "explanation": "Brackets first: 9 − 4 = 5; then 6 + 2 × 5 = 16.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-051",
+          "question": "The value of 10⁰ is:",
+          "options": [
+            "0",
+            "1",
+            "10",
+            "100"
+          ],
+          "correctIndex": 1,
+          "explanation": "Any nonzero number raised to the zero power equals 1.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-052",
+          "question": "Simplify: 3² + 4².",
+          "options": [
+            "12",
+            "25",
+            "49",
+            "144"
+          ],
+          "correctIndex": 1,
+          "explanation": "9 + 16 = 25.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-053",
+          "question": "Which fraction is equivalent to 0.6?",
+          "options": [
+            "3/5",
+            "2/5",
+            "6/100",
+            "5/3"
+          ],
+          "correctIndex": 0,
+          "explanation": "0.6 = 6/10 = 3/5.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-054",
+          "question": "A sum of ₹5,000 earns simple interest of ₹750 in 3 years. Find the annual rate.",
+          "options": [
+            "4%",
+            "5%",
+            "6%",
+            "7.5%"
+          ],
+          "correctIndex": 1,
+          "explanation": "R = (SI × 100)/(P × T) = 75000/15000 = 5%.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-055",
+          "question": "An article sold for ₹720 at a loss of 10%. Its cost price was:",
+          "options": [
+            "₹648",
+            "₹760",
+            "₹800",
+            "₹820"
+          ],
+          "correctIndex": 2,
+          "explanation": "Selling price is 90% of cost; CP = 720/0.9 = ₹800.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-056",
+          "question": "A car travels 150 km in 2.5 hours. Average speed is:",
+          "options": [
+            "50 km/h",
+            "55 km/h",
+            "60 km/h",
+            "65 km/h"
+          ],
+          "correctIndex": 2,
+          "explanation": "150 ÷ 2.5 = 60 km/h.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-057",
+          "question": "A person walks 3 km north and then 4 km east. How far are they from the starting point?",
+          "options": [
+            "5 km",
+            "6 km",
+            "7 km",
+            "12 km"
+          ],
+          "correctIndex": 0,
+          "explanation": "The path forms a right triangle: √(3² + 4²) = 5 km.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-058",
+          "question": "If 6 machines make 240 items in 4 hours, how many items do 3 machines make in 4 hours at the same rate?",
+          "options": [
+            "60",
+            "120",
+            "180",
+            "240"
+          ],
+          "correctIndex": 1,
+          "explanation": "Half as many machines working the same time produce half as many items: 120.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-059",
+          "question": "Which expression represents 'five less than twice n'?",
+          "options": [
+            "5 − 2n",
+            "2(n − 5)",
+            "2n − 5",
+            "5n − 2"
+          ],
+          "correctIndex": 2,
+          "explanation": "Twice n is 2n; five less is 2n − 5.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-060",
+          "question": "If the perimeter of a square is 52 cm, its side length is:",
+          "options": [
+            "11 cm",
+            "12 cm",
+            "13 cm",
+            "14 cm"
+          ],
+          "correctIndex": 2,
+          "explanation": "Side = 52/4 = 13 cm.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-061",
+          "question": "A parallelogram has base 15 cm and height 8 cm. Its area is:",
+          "options": [
+            "46 cm²",
+            "60 cm²",
+            "120 cm²",
+            "240 cm²"
+          ],
+          "correctIndex": 2,
+          "explanation": "Area = base × perpendicular height = 15 × 8 = 120 cm².",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-062",
+          "question": "The sum of the interior angles of a hexagon is:",
+          "options": [
+            "540°",
+            "600°",
+            "720°",
+            "900°"
+          ],
+          "correctIndex": 2,
+          "explanation": "Sum = (n − 2) × 180° = 4 × 180° = 720°.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-063",
+          "question": "What is the remainder when 257 is divided by 9?",
+          "options": [
+            "2",
+            "3",
+            "5",
+            "7"
+          ],
+          "correctIndex": 2,
+          "explanation": "9 × 28 = 252; 257 − 252 = 5.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-064",
+          "question": "If two parallel lines are cut by a transversal, corresponding angles are:",
+          "options": [
+            "Always supplementary",
+            "Equal",
+            "Always right angles",
+            "Unequal"
+          ],
+          "correctIndex": 1,
+          "explanation": "Corresponding angles are equal when the lines are parallel.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-065",
+          "question": "Which is a rational number?",
+          "options": [
+            "√7",
+            "π",
+            "−11/4",
+            "√3"
+          ],
+          "correctIndex": 2,
+          "explanation": "−11/4 is a ratio of integers with nonzero denominator.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-066",
+          "question": "Evaluate: (−2)³.",
+          "options": [
+            "−8",
+            "−6",
+            "6",
+            "8"
+          ],
+          "correctIndex": 0,
+          "explanation": "(−2)³ = (−2)(−2)(−2) = −8.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-067",
+          "question": "What is the prime factorisation of 60?",
+          "options": [
+            "2 × 3 × 10",
+            "2² × 3 × 5",
+            "2 × 5²",
+            "3² × 5"
+          ],
+          "correctIndex": 1,
+          "explanation": "60 = 2 × 2 × 3 × 5 = 2² × 3 × 5.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-068",
+          "question": "The area of a trapezium with parallel sides 8 cm and 14 cm and height 5 cm is:",
+          "options": [
+            "45 cm²",
+            "50 cm²",
+            "55 cm²",
+            "70 cm²"
+          ],
+          "correctIndex": 2,
+          "explanation": "Area = 1/2(8 + 14) × 5 = 55 cm².",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-069",
+          "question": "A number leaves remainder 2 when divided by 5. Which could it be?",
+          "options": [
+            "20",
+            "22",
+            "25",
+            "30"
+          ],
+          "correctIndex": 1,
+          "explanation": "22 = 5 × 4 + 2.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-070",
+          "question": "Which pair of angles forms a linear pair?",
+          "options": [
+            "35° and 55°",
+            "70° and 110°",
+            "45° and 125°",
+            "90° and 80°"
+          ],
+          "correctIndex": 1,
+          "explanation": "A linear pair is adjacent and sums to 180°; 70° + 110° = 180°.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-071",
+          "question": "The diagonals of a rectangle are:",
+          "options": [
+            "Perpendicular in every rectangle",
+            "Equal in length",
+            "Unequal always",
+            "Parallel"
+          ],
+          "correctIndex": 1,
+          "explanation": "A rectangle's diagonals are equal and bisect each other.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-072",
+          "question": "Which quadrilateral has all sides equal and all angles 90°?",
+          "options": [
+            "Rhombus only",
+            "Rectangle only",
+            "Square",
+            "Kite"
+          ],
+          "correctIndex": 2,
+          "explanation": "A square has four equal sides and four right angles.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-073",
+          "question": "The area of a trapezium with parallel sides 8 cm and 14 cm and height 5 cm is:",
+          "options": [
+            "45 cm²",
+            "50 cm²",
+            "55 cm²",
+            "70 cm²"
+          ],
+          "correctIndex": 2,
+          "explanation": "Area = 1/2(8 + 14) × 5 = 55 cm².",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-074",
+          "question": "A number line point moves 7 units left from −2. Where does it land?",
+          "options": [
+            "−9",
+            "−5",
+            "5",
+            "9"
+          ],
+          "correctIndex": 0,
+          "explanation": "Moving left subtracts 7: −2 − 7 = −9.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-075",
+          "question": "A cylinder has radius 2 cm and height 10 cm. Its curved surface area is:",
+          "options": [
+            "20π cm²",
+            "40π cm²",
+            "44π cm²",
+            "80π cm²"
+          ],
+          "correctIndex": 1,
+          "explanation": "Curved surface area = 2πrh = 2π × 2 × 10 = 40π cm².",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-076",
+          "question": "A number line point moves 7 units left from −2. Where does it land?",
+          "options": [
+            "−9",
+            "−5",
+            "5",
+            "9"
+          ],
+          "correctIndex": 0,
+          "explanation": "Moving left subtracts 7: −2 − 7 = −9.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-077",
+          "question": "Find the value of 6 + 2(9 − 4).",
+          "options": [
+            "16",
+            "20",
+            "26",
+            "50"
+          ],
+          "correctIndex": 1,
+          "explanation": "Brackets first: 9 − 4 = 5; then 6 + 2 × 5 = 16. (Correct choice: 16.)",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-078",
+          "question": "The multiplicative inverse of −5/8 is:",
+          "options": [
+            "5/8",
+            "−8/5",
+            "8/5",
+            "−5/8"
+          ],
+          "correctIndex": 1,
+          "explanation": "The reciprocal of −5/8 is −8/5.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-079",
+          "question": "If 2/3 of a class are 24 students, how many students are in the class?",
+          "options": [
+            "30",
+            "32",
+            "36",
+            "40"
+          ],
+          "correctIndex": 2,
+          "explanation": "Total = 24 × 3/2 = 36.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-080",
+          "question": "A test score rises from 45 to 54. The percentage increase is:",
+          "options": [
+            "9%",
+            "15%",
+            "20%",
+            "25%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Increase = 9; 9/45 × 100 = 20%.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-081",
+          "question": "A 25% discount on ₹1,200 gives a selling price of:",
+          "options": [
+            "₹800",
+            "₹850",
+            "₹900",
+            "₹950"
+          ],
+          "correctIndex": 2,
+          "explanation": "Discount = ₹300; price after discount = ₹900.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-082",
+          "question": "If 8:12 = x:27, find x.",
+          "options": [
+            "12",
+            "16",
+            "18",
+            "24"
+          ],
+          "correctIndex": 2,
+          "explanation": "8/12 = x/27; x = 18.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-083",
+          "question": "A clock shows 3:00. The smaller angle between its hands is:",
+          "options": [
+            "60°",
+            "75°",
+            "90°",
+            "120°"
+          ],
+          "correctIndex": 2,
+          "explanation": "At 3:00 the minute hand is at 12 and hour hand at 3: the angle is 90°.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-084",
+          "question": "How many degrees does the minute hand rotate in 20 minutes?",
+          "options": [
+            "60°",
+            "90°",
+            "120°",
+            "180°"
+          ],
+          "correctIndex": 2,
+          "explanation": "It turns 360° in 60 minutes, or 6° per minute; 20 × 6° = 120°.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-085",
+          "question": "A regular polygon has each exterior angle 45°. How many sides does it have?",
+          "options": [
+            "6",
+            "8",
+            "10",
+            "12"
+          ],
+          "correctIndex": 1,
+          "explanation": "Number of sides = 360°/45° = 8.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-086",
+          "question": "Which data display is particularly useful for showing change over time?",
+          "options": [
+            "Pie chart",
+            "Line graph",
+            "Pictograph only",
+            "Venn diagram"
+          ],
+          "correctIndex": 1,
+          "explanation": "A line graph makes trends and changes over ordered time points visible.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-087",
+          "question": "In a class survey, 15 chose cricket, 9 chose football and 6 chose badminton. What fraction chose football?",
+          "options": [
+            "1/5",
+            "3/10",
+            "2/5",
+            "1/3"
+          ],
+          "correctIndex": 1,
+          "explanation": "Total responses = 30; football fraction = 9/30 = 3/10.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-088",
+          "question": "What is the probability of rolling an even number on a fair six-sided die?",
+          "options": [
+            "1/6",
+            "1/3",
+            "1/2",
+            "2/3"
+          ],
+          "correctIndex": 2,
+          "explanation": "Even outcomes are 2, 4 and 6: 3/6 = 1/2.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-089",
+          "question": "Which statement about the mean is correct?",
+          "options": [
+            "It is always one of the observed values",
+            "It is calculated by dividing the sum by the number of values",
+            "It is always the middle value",
+            "It is the difference between extremes"
+          ],
+          "correctIndex": 1,
+          "explanation": "The arithmetic mean equals the total of the observations divided by their count.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-090",
+          "question": "Which teaching aid is most suitable for exploring equivalent fractions?",
+          "options": [
+            "Fraction strips",
+            "A wall clock alone",
+            "A thermometer",
+            "A dictionary"
+          ],
+          "correctIndex": 0,
+          "explanation": "Fraction strips allow learners to align and compare equal fractional lengths.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-091",
+          "question": "To assess understanding of place value, a teacher asks a learner to represent 3,406 with base-ten blocks. This primarily assesses:",
+          "options": [
+            "Memorization of tables",
+            "Conceptual understanding of digit values",
+            "Reading fluency",
+            "Handwriting speed"
+          ],
+          "correctIndex": 1,
+          "explanation": "Base-ten blocks reveal whether the learner understands thousands, hundreds, tens and ones.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-092",
+          "question": "A learner gets a correct answer using an unusual but valid strategy. The teacher should:",
+          "options": [
+            "Accept and invite explanation of the strategy",
+            "Mark it wrong for not matching the textbook method",
+            "Discourage alternative methods",
+            "Ignore the reasoning"
+          ],
+          "correctIndex": 0,
+          "explanation": "Valid alternative strategies should be recognized and discussed to deepen mathematical thinking.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-093",
+          "question": "Which question best checks conceptual understanding of multiplication?",
+          "options": [
+            "Recite 9 times table",
+            "Explain why 4 × 6 and 6 × 4 give the same product",
+            "Write the symbol × ten times",
+            "Copy a solved sum"
+          ],
+          "correctIndex": 1,
+          "explanation": "Explaining the commutative property demonstrates understanding beyond recall.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-094",
+          "question": "A teacher notices many learners made the same error in a quiz. The next step should be to:",
+          "options": [
+            "Move to a new topic immediately",
+            "Analyze the error pattern and reteach the underlying idea",
+            "Punish the whole class",
+            "Remove the topic from instruction"
+          ],
+          "correctIndex": 1,
+          "explanation": "Common errors provide evidence about misconceptions and help the teacher plan targeted instruction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-095",
+          "question": "Which approach is suitable for teaching measurement to primary learners?",
+          "options": [
+            "Only state unit conversion rules",
+            "Let learners estimate, measure objects and compare units",
+            "Avoid real objects",
+            "Teach formulas without examples"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hands-on estimation and measurement connect units with meaningful quantities.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-096",
+          "question": "A learner has difficulty reading a word problem. Which support maintains the mathematical goal?",
+          "options": [
+            "Read the problem aloud or provide accessible text",
+            "Remove all mathematical reasoning",
+            "Give the answer directly",
+            "Exclude the learner from the task"
+          ],
+          "correctIndex": 0,
+          "explanation": "Accessible presentation can reduce reading barriers while preserving the intended mathematical thinking.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-097",
+          "question": "Which is an example of a rich mathematical task?",
+          "options": [
+            "Repeat the same computation 30 times",
+            "Find several ways to make 24 using four numbers and justify them",
+            "Copy formulas without use",
+            "Memorize one answer"
+          ],
+          "correctIndex": 1,
+          "explanation": "A rich task allows multiple approaches and requires explanation and justification.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-098",
+          "question": "In a mathematics lesson, wait time after asking a question can:",
+          "options": [
+            "Reduce all learner participation",
+            "Give learners time to think and formulate responses",
+            "Guarantee every answer is correct",
+            "Replace assessment"
+          ],
+          "correctIndex": 1,
+          "explanation": "Wait time supports reflection and can broaden participation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-099",
+          "question": "Which assessment is most directly aligned with a lesson objective on constructing triangles?",
+          "options": [
+            "A multiple-choice vocabulary quiz only",
+            "Observing learners construct triangles and explain their choices",
+            "A spelling test",
+            "An attendance record"
+          ],
+          "correctIndex": 1,
+          "explanation": "Performance evidence directly matches the construction skill and reasoning objective.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "maths-content-002-100",
+          "question": "A teacher uses peer discussion before whole-class responses. This can support:",
+          "options": [
+            "Mathematical language and comparison of reasoning",
+            "Only silent individual recall",
+            "Eliminating student thinking",
+            "Avoiding explanations"
+          ],
+          "correctIndex": 0,
+          "explanation": "Peer discussion lets learners rehearse mathematical language and compare methods.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}

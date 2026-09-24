@@ -1,0 +1,1314 @@
+{
+  "track": "maths",
+  "testId": "biology-content-batch-04",
+  "title": "AP Special TET Biological Science — Content & Pedagogy Batch 04",
+  "durationMinutes": 100,
+  "sections": [
+    {
+      "id": "biology-content-04",
+      "title": "Biological Science Content and Pedagogy",
+      "questions": [
+        {
+          "id": "biology-content-004-001",
+          "question": "Which organelle is the main site of aerobic respiration in eukaryotic cells?",
+          "options": [
+            "Mitochondrion",
+            "Golgi apparatus",
+            "Ribosome",
+            "Lysosome"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mitochondria contain the machinery for most stages of aerobic cellular respiration.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-002",
+          "question": "During photosynthesis, the oxygen released is derived mainly from:",
+          "options": [
+            "Water",
+            "Carbon dioxide",
+            "Glucose",
+            "Chlorophyll"
+          ],
+          "correctIndex": 0,
+          "explanation": "In oxygenic photosynthesis, water is split during the light-dependent reactions, releasing oxygen.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-003",
+          "question": "Which blood vessels generally carry blood away from the heart?",
+          "options": [
+            "Arteries",
+            "Veins",
+            "Capillaries only",
+            "Lymph vessels"
+          ],
+          "correctIndex": 0,
+          "explanation": "Arteries carry blood away from the heart; pulmonary arteries are an exception to the usual oxygenation pattern.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-004",
+          "question": "The tiny air sacs in the lungs where gas exchange occurs are called:",
+          "options": [
+            "Alveoli",
+            "Bronchi",
+            "Tracheae",
+            "Pleura"
+          ],
+          "correctIndex": 0,
+          "explanation": "Alveoli provide a large, thin surface for gas exchange with surrounding capillaries.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-005",
+          "question": "Which part of the digestive system absorbs most digested nutrients?",
+          "options": [
+            "Small intestine",
+            "Oesophagus",
+            "Large intestine",
+            "Stomach only"
+          ],
+          "correctIndex": 0,
+          "explanation": "The small intestine has villi and microvilli that provide a large absorptive surface.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-006",
+          "question": "Bile assists digestion primarily by:",
+          "options": [
+            "Emulsifying fats",
+            "Breaking proteins into amino acids directly",
+            "Converting starch to glucose directly",
+            "Digesting DNA"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bile salts disperse large fat globules into smaller droplets, aiding lipase action.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-007",
+          "question": "The enzyme in saliva that begins starch digestion is:",
+          "options": [
+            "Salivary amylase",
+            "Pepsin",
+            "Trypsin",
+            "Lipase from pancreas"
+          ],
+          "correctIndex": 0,
+          "explanation": "Salivary amylase begins hydrolysis of starch in the mouth.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-008",
+          "question": "The functional unit of the lung involved in gas exchange is the:",
+          "options": [
+            "Alveolus",
+            "Larynx",
+            "Epiglottis",
+            "Diaphragm"
+          ],
+          "correctIndex": 0,
+          "explanation": "Alveoli are the microscopic sacs across which oxygen and carbon dioxide diffuse.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-009",
+          "question": "Which hormone helps regulate the body's metabolic rate?",
+          "options": [
+            "Thyroxine",
+            "Insulin only",
+            "Secretin",
+            "Melatonin only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Thyroid hormones, including thyroxine, influence metabolic activity in many tissues.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-010",
+          "question": "The adrenal glands release adrenaline especially during:",
+          "options": [
+            "Acute stress responses",
+            "Food absorption in the villi only",
+            "Bone formation only",
+            "Sleep exclusively"
+          ],
+          "correctIndex": 0,
+          "explanation": "Adrenaline supports the fight-or-flight response by affecting heart rate, airflow and energy availability.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-011",
+          "question": "Which structure prevents food from entering the trachea during swallowing?",
+          "options": [
+            "Epiglottis",
+            "Uvula alone",
+            "Vocal cord",
+            "Diaphragm"
+          ],
+          "correctIndex": 0,
+          "explanation": "The epiglottis helps cover the laryngeal inlet during swallowing.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-012",
+          "question": "The main nitrogenous waste in human urine is:",
+          "options": [
+            "Urea",
+            "Glucose",
+            "Starch",
+            "Glycogen"
+          ],
+          "correctIndex": 0,
+          "explanation": "The liver converts toxic ammonia to urea, which is carried in blood to the kidneys for excretion.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-013",
+          "question": "The pupil's size is controlled by muscles in the:",
+          "options": [
+            "Iris",
+            "Retina",
+            "Cornea",
+            "Optic nerve"
+          ],
+          "correctIndex": 0,
+          "explanation": "The iris adjusts pupil diameter to regulate the amount of light entering the eye.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-014",
+          "question": "The image in the human eye is focused on the:",
+          "options": [
+            "Retina",
+            "Iris",
+            "Sclera",
+            "Optic chiasm"
+          ],
+          "correctIndex": 0,
+          "explanation": "The cornea and lens focus light onto the retina, where photoreceptors detect it.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-015",
+          "question": "The sensory receptors responsible for hearing are located in the:",
+          "options": [
+            "Cochlea",
+            "Semicircular canals",
+            "Eustachian tube",
+            "Pinna"
+          ],
+          "correctIndex": 0,
+          "explanation": "Hair cells in the cochlea convert sound-related vibrations into neural signals.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-016",
+          "question": "The semicircular canals are chiefly associated with:",
+          "options": [
+            "Balance and rotational movement",
+            "Smell",
+            "Taste",
+            "Blood filtration"
+          ],
+          "correctIndex": 0,
+          "explanation": "The semicircular canals detect angular acceleration and contribute to balance.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-017",
+          "question": "Which blood group is commonly described as the universal red-cell donor in the ABO/Rh system?",
+          "options": [
+            "O negative",
+            "AB positive",
+            "A positive",
+            "B negative"
+          ],
+          "correctIndex": 0,
+          "explanation": "O-negative red cells lack A, B and Rh(D) antigens, though transfusion decisions require compatibility testing.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-018",
+          "question": "A person with genotype Aa is described as:",
+          "options": [
+            "Heterozygous",
+            "Homozygous dominant",
+            "Homozygous recessive",
+            "Asexual"
+          ],
+          "correctIndex": 0,
+          "explanation": "Heterozygous means having two different alleles at a genetic locus.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-019",
+          "question": "A recessive phenotype is generally expressed in a simple complete-dominance model when the genotype is:",
+          "options": [
+            "Homozygous recessive",
+            "Heterozygous",
+            "Homozygous dominant",
+            "Any genotype with a dominant allele"
+          ],
+          "correctIndex": 0,
+          "explanation": "In complete dominance, the recessive phenotype appears when both alleles are recessive.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-020",
+          "question": "The observable characteristics of an organism are its:",
+          "options": [
+            "Phenotype",
+            "Genotype only",
+            "Karyotype only",
+            "Allele frequency"
+          ],
+          "correctIndex": 0,
+          "explanation": "Phenotype includes observable or measurable traits arising from genotype and environmental effects.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-021",
+          "question": "A gene is best described as:",
+          "options": [
+            "A DNA sequence contributing to a functional product",
+            "A complete cell organelle",
+            "A type of tissue",
+            "A whole chromosome in every case"
+          ],
+          "correctIndex": 0,
+          "explanation": "A gene is a DNA sequence that can encode a functional RNA or, through mRNA, a polypeptide.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-022",
+          "question": "The structure formed by two sister chromatids joined at a centromere is a:",
+          "options": [
+            "Duplicated chromosome",
+            "Ribosome",
+            "Spindle fibre",
+            "Nucleosome-free enzyme"
+          ],
+          "correctIndex": 0,
+          "explanation": "After DNA replication, each chromosome consists of sister chromatids joined at the centromere region.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-023",
+          "question": "Crossing over during meiosis contributes to:",
+          "options": [
+            "Genetic variation",
+            "Making identical clones only",
+            "Doubling chromosome number",
+            "Preventing all mutations"
+          ],
+          "correctIndex": 0,
+          "explanation": "Crossing over exchanges DNA between homologous chromosomes and creates new allele combinations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-024",
+          "question": "Which reproductive method usually produces offspring genetically very similar to one parent?",
+          "options": [
+            "Asexual reproduction",
+            "Cross-fertilization",
+            "Meiosis followed by fertilization",
+            "Pollination between different plants"
+          ],
+          "correctIndex": 0,
+          "explanation": "Asexual reproduction involves one parent and typically produces genetically similar offspring, aside from mutations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-025",
+          "question": "In humans, fertilization normally occurs in the:",
+          "options": [
+            "Oviduct (fallopian tube)",
+            "Uterus lining",
+            "Cervix",
+            "Vagina"
+          ],
+          "correctIndex": 0,
+          "explanation": "Fertilization most commonly takes place in the uterine tube, often in its ampulla.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-026",
+          "question": "The placenta enables exchange between maternal and fetal circulations while normally:",
+          "options": [
+            "Keeping the two blood supplies largely separate",
+            "Mixing all maternal and fetal blood freely",
+            "Replacing the fetal heart",
+            "Producing red cells for the mother"
+          ],
+          "correctIndex": 0,
+          "explanation": "The placental barrier supports exchange without normally allowing unrestricted mixing of maternal and fetal blood.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-027",
+          "question": "The menstrual cycle is regulated through interactions among the:",
+          "options": [
+            "Hypothalamus, pituitary and ovaries",
+            "Lungs, kidneys and skin only",
+            "Pancreas and salivary glands only",
+            "Bones and skeletal muscles only"
+          ],
+          "correctIndex": 0,
+          "explanation": "The hypothalamic-pituitary-ovarian axis coordinates hormonal changes during the menstrual cycle.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-028",
+          "question": "A sexually transmitted infection caused by a bacterium is:",
+          "options": [
+            "Gonorrhoea",
+            "Influenza",
+            "Chickenpox",
+            "Ringworm"
+          ],
+          "correctIndex": 0,
+          "explanation": "Gonorrhoea is caused by the bacterium Neisseria gonorrhoeae.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-029",
+          "question": "Antibiotics are generally ineffective against viruses because viruses:",
+          "options": [
+            "Use host-cell machinery and lack the bacterial targets antibiotics act on",
+            "Have a bacterial cell wall",
+            "Are larger than bacteria",
+            "Are all harmless"
+          ],
+          "correctIndex": 0,
+          "explanation": "Antibiotics target bacterial structures or processes that viruses do not possess.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-030",
+          "question": "The body’s first-line physical barriers against infection include:",
+          "options": [
+            "Skin and mucous membranes",
+            "Antibodies alone",
+            "Memory B cells only",
+            "Red blood cells"
+          ],
+          "correctIndex": 0,
+          "explanation": "Intact skin and mucous membranes help block pathogen entry.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-031",
+          "question": "A balanced diet should provide:",
+          "options": [
+            "Appropriate amounts of energy and essential nutrients",
+            "Only carbohydrates",
+            "Only protein and no fats",
+            "Unlimited vitamins regardless of need"
+          ],
+          "correctIndex": 0,
+          "explanation": "A balanced diet supplies energy, macronutrients, vitamins, minerals, fibre and water in suitable amounts.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-032",
+          "question": "Which mineral is needed to make haemoglobin?",
+          "options": [
+            "Iron",
+            "Iodine",
+            "Fluoride",
+            "Sodium only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Iron is part of haemoglobin's haem groups and is essential for oxygen transport.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-033",
+          "question": "The deficiency disease associated with vitamin D deficiency in children is:",
+          "options": [
+            "Rickets",
+            "Scurvy",
+            "Pellagra",
+            "Night blindness"
+          ],
+          "correctIndex": 0,
+          "explanation": "Vitamin D deficiency can impair bone mineralization and cause rickets in children.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-034",
+          "question": "The process of maintaining a relatively stable internal environment is:",
+          "options": [
+            "Homeostasis",
+            "Evolution",
+            "Pollination",
+            "Translocation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Homeostasis regulates internal conditions such as temperature, glucose and water balance.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-035",
+          "question": "Sweating cools the body mainly through:",
+          "options": [
+            "Evaporation of water from the skin",
+            "Conduction from the heart",
+            "Freezing of blood",
+            "Stopping circulation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Evaporation requires heat energy, which is taken from the skin and helps cool the body.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-036",
+          "question": "Which ecological relationship benefits both participating species?",
+          "options": [
+            "Mutualism",
+            "Parasitism",
+            "Predation",
+            "Amensalism"
+          ],
+          "correctIndex": 0,
+          "explanation": "In mutualism, both species gain a benefit, although the degree of dependence can vary.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-037",
+          "question": "In a food web, decomposers are important because they:",
+          "options": [
+            "Break down organic matter and recycle nutrients",
+            "Create energy from nothing",
+            "Consume only top predators",
+            "Stop nutrient cycling"
+          ],
+          "correctIndex": 0,
+          "explanation": "Decomposers release nutrients from dead material and wastes, making them available again in ecosystems.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-038",
+          "question": "Primary succession can begin on:",
+          "options": [
+            "Bare rock with little or no soil",
+            "A mature forest with intact soil only",
+            "A cultivated field every time",
+            "A river containing only fish"
+          ],
+          "correctIndex": 0,
+          "explanation": "Primary succession begins on surfaces where soil is absent or very poorly developed.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-039",
+          "question": "An organism's carrying capacity is the:",
+          "options": [
+            "Population size an environment can sustain over time under given conditions",
+            "Number of species in its genus",
+            "Maximum body mass of one individual",
+            "Rate of mutation in a population"
+          ],
+          "correctIndex": 0,
+          "explanation": "Carrying capacity depends on resources and environmental constraints and can change over time.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-040",
+          "question": "Which gas is a major contributor to human-caused global warming?",
+          "options": [
+            "Carbon dioxide",
+            "Helium",
+            "Neon",
+            "Argon"
+          ],
+          "correctIndex": 0,
+          "explanation": "Carbon dioxide is a long-lived greenhouse gas whose increased concentration contributes to warming.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-041",
+          "question": "The ozone layer in the stratosphere helps protect life by absorbing much of the Sun's:",
+          "options": [
+            "Ultraviolet radiation",
+            "Visible light",
+            "Radio waves",
+            "Sound waves"
+          ],
+          "correctIndex": 0,
+          "explanation": "Stratospheric ozone absorbs much of the biologically harmful ultraviolet radiation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-042",
+          "question": "Conservation of an endangered species in its natural habitat is:",
+          "options": [
+            "In-situ conservation",
+            "Ex-situ conservation",
+            "Artificial selection only",
+            "Domestication"
+          ],
+          "correctIndex": 0,
+          "explanation": "In-situ conservation protects species within their natural ecosystems.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-043",
+          "question": "A seed begins germination when suitable conditions permit the embryo to:",
+          "options": [
+            "Resume growth using stored reserves",
+            "Begin photosynthesis before any growth",
+            "Turn directly into a fruit",
+            "Lose all living cells"
+          ],
+          "correctIndex": 0,
+          "explanation": "Germination involves renewed embryo growth, initially supported by stored food reserves.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-044",
+          "question": "The first leaves that emerge from a germinating seedling are commonly called:",
+          "options": [
+            "Cotyledons",
+            "Sepals",
+            "Anthers",
+            "Stigmas"
+          ],
+          "correctIndex": 0,
+          "explanation": "Cotyledons are embryonic seed leaves and may store or transfer nutrients to the developing seedling.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-045",
+          "question": "Which plant response involves growth toward gravity?",
+          "options": [
+            "Gravitropism",
+            "Phototropism",
+            "Thigmonasty",
+            "Chemotaxis in animals"
+          ],
+          "correctIndex": 0,
+          "explanation": "Gravitropism is directional growth in response to gravity; roots commonly show positive gravitropism.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-046",
+          "question": "A lichen is a close association typically involving a fungus and:",
+          "options": [
+            "A photosynthetic alga or cyanobacterium",
+            "A mammalian cell",
+            "A flowering plant root only",
+            "A virus alone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Lichens are symbiotic associations between fungi and photosynthetic partners such as algae or cyanobacteria.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-047",
+          "question": "Which feature distinguishes amphibians from reptiles in a typical school-level comparison?",
+          "options": [
+            "Many amphibians have moist skin and a life cycle involving aquatic larvae",
+            "All amphibians have feathers",
+            "All reptiles undergo metamorphosis in water",
+            "Amphibians are invertebrates"
+          ],
+          "correctIndex": 0,
+          "explanation": "Many amphibians have permeable skin and aquatic larval stages, though there is diversity among species.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-048",
+          "question": "Birds are characterized by having:",
+          "options": [
+            "Feathers",
+            "Hair and mammary glands",
+            "Eight legs",
+            "Gills throughout adulthood"
+          ],
+          "correctIndex": 0,
+          "explanation": "Feathers are a defining feature of birds.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-049",
+          "question": "Mammals are distinguished by the presence of:",
+          "options": [
+            "Mammary glands that produce milk",
+            "Feathers in every species",
+            "An exoskeleton",
+            "Chloroplasts"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mammary glands are a defining mammalian feature.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-050",
+          "question": "An adaptation is a heritable characteristic that:",
+          "options": [
+            "Can increase reproductive success in a particular environment",
+            "Always appears because an organism needs it",
+            "Must benefit every species in every habitat",
+            "Is identical to a temporary response"
+          ],
+          "correctIndex": 0,
+          "explanation": "Adaptations are inherited traits shaped by evolutionary processes and their effects depend on context.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-051",
+          "question": "Which statement about natural selection is accurate?",
+          "options": [
+            "Individuals vary, and heritable differences can affect reproductive success",
+            "Organisms consciously choose mutations they need",
+            "Every individual evolves during its lifetime",
+            "Natural selection always produces perfection"
+          ],
+          "correctIndex": 0,
+          "explanation": "Natural selection changes populations across generations when heritable variation influences survival or reproduction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-052",
+          "question": "A teacher introduces classification by asking learners to group leaves using observable traits. This encourages:",
+          "options": [
+            "Evidence-based grouping and comparison",
+            "Guessing hidden genetic sequences",
+            "Memorizing all scientific names first",
+            "Ignoring similarities"
+          ],
+          "correctIndex": 0,
+          "explanation": "Grouping specimens by observable features helps learners develop and justify classification criteria.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-053",
+          "question": "A biological drawing should generally use:",
+          "options": [
+            "Clear lines, suitable labels and accurate proportions",
+            "Heavy shading that hides structures",
+            "Decorative colours instead of labels",
+            "Unmeasured artistic embellishment"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scientific drawings prioritize clarity, accuracy, proportion and informative labels.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-054",
+          "question": "When learners use a microscope, the teacher should first emphasize:",
+          "options": [
+            "Safe handling, correct focusing and careful slide preparation",
+            "Starting at the highest power without focusing",
+            "Looking directly into the lamp",
+            "Touching lenses with fingers"
+          ],
+          "correctIndex": 0,
+          "explanation": "Safe microscope use includes careful carrying, starting with low power and avoiding contamination or damage to lenses.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-055",
+          "question": "A control group in an investigation provides:",
+          "options": [
+            "A comparison against which the treatment can be evaluated",
+            "Proof that the hypothesis must be true",
+            "A substitute for collecting data",
+            "A guarantee of no experimental error"
+          ],
+          "correctIndex": 0,
+          "explanation": "A suitable control provides a baseline for assessing the effect of the independent variable.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-056",
+          "question": "In an experiment testing fertilizer effects on plant growth, a relevant controlled variable is:",
+          "options": [
+            "Plant species and starting conditions",
+            "The growth measurement itself",
+            "The treatment being compared",
+            "The conclusion"
+          ],
+          "correctIndex": 0,
+          "explanation": "Keeping plant species and starting conditions similar helps isolate the fertilizer treatment's effect.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-057",
+          "question": "Students should record observations during practical work:",
+          "options": [
+            "Promptly, accurately and with units where appropriate",
+            "Only after deciding what result is expected",
+            "By changing unexpected values",
+            "Without noting the procedure"
+          ],
+          "correctIndex": 0,
+          "explanation": "Timely and accurate records preserve evidence and make results easier to interpret.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-058",
+          "question": "A claim in a science report should be supported by:",
+          "options": [
+            "Relevant observations or data and a reasoned explanation",
+            "The number of students who agree",
+            "A personal preference alone",
+            "A copied conclusion unrelated to results"
+          ],
+          "correctIndex": 0,
+          "explanation": "Scientific claims are stronger when linked to evidence and logical reasoning.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-059",
+          "question": "If a learner gives an incorrect answer, a useful teacher response is to:",
+          "options": [
+            "Ask a probing question to uncover the reasoning and guide revision",
+            "Label the learner as incapable",
+            "Immediately end the discussion",
+            "Provide no opportunity to reconsider"
+          ],
+          "correctIndex": 0,
+          "explanation": "Probing questions help reveal thinking and support constructive conceptual change.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-060",
+          "question": "A misconception is best addressed by:",
+          "options": [
+            "Eliciting prior ideas, presenting evidence and helping learners compare explanations",
+            "Repeating the correct statement louder only",
+            "Punishing the learner for the idea",
+            "Avoiding all discussion"
+          ],
+          "correctIndex": 0,
+          "explanation": "Learners benefit when prior conceptions are made explicit and evaluated against evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-061",
+          "question": "Which assessment is especially suitable for evaluating a student's practical skill?",
+          "options": [
+            "A performance task with an observation rubric",
+            "A spelling test alone",
+            "A survey of favourite subjects",
+            "A single unrelated recall question"
+          ],
+          "correctIndex": 0,
+          "explanation": "A practical task and rubric can directly assess technique, safety, observation and recording.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-062",
+          "question": "Peer discussion in biology can support learning when students:",
+          "options": [
+            "Explain their reasoning and consider evidence respectfully",
+            "Replace evidence with voting",
+            "Copy one answer without discussion",
+            "Are discouraged from asking questions"
+          ],
+          "correctIndex": 0,
+          "explanation": "Structured peer explanation can expose reasoning and help learners refine ideas.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-063",
+          "question": "A field notebook should include:",
+          "options": [
+            "Date, location, conditions, observations and relevant method details",
+            "Only a final opinion",
+            "Names of friends unrelated to the activity",
+            "No units or context"
+          ],
+          "correctIndex": 0,
+          "explanation": "Contextual notes make field observations useful for interpretation and later comparison.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-064",
+          "question": "When teaching reproduction, a teacher should:",
+          "options": [
+            "Use accurate, age-appropriate terminology and invite respectful questions",
+            "Encourage teasing about questions",
+            "Present myths as biological facts",
+            "Exclude scientific vocabulary"
+          ],
+          "correctIndex": 0,
+          "explanation": "Respectful, accurate teaching supports understanding and a safe classroom climate.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-065",
+          "question": "A teacher adapting a lesson for learners with visual impairments could provide:",
+          "options": [
+            "Tactile models, verbal descriptions and accessible large-print or digital material as appropriate",
+            "Only colour-coded diagrams without explanation",
+            "A task requiring sight with no alternative",
+            "Less challenging learning goals automatically"
+          ],
+          "correctIndex": 0,
+          "explanation": "Accessible representations preserve learning goals while reducing barriers to participation.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-066",
+          "question": "An effective biology practical safety rule is to:",
+          "options": [
+            "Follow instructions, use protective equipment when required and report spills or injuries",
+            "Taste laboratory materials to identify them",
+            "Mix chemicals without permission",
+            "Run while carrying glassware"
+          ],
+          "correctIndex": 0,
+          "explanation": "Following procedures and reporting incidents reduces risk during practical activities.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-067",
+          "question": "Which classroom question promotes higher-order thinking about ecosystems?",
+          "options": [
+            "How might removing a predator change several populations, and what evidence would test your prediction?",
+            "What is the spelling of ecosystem?",
+            "Copy the definition exactly",
+            "How many letters are in 'habitat'?"
+          ],
+          "correctIndex": 0,
+          "explanation": "The question asks learners to reason about interactions and propose evidence to evaluate a prediction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-068",
+          "question": "A teacher asks students to compare two explanations of a disease outbreak. Students should consider:",
+          "options": [
+            "Evidence quality, plausibility and whether the explanation fits the data",
+            "Which explanation sounds more dramatic",
+            "The author's popularity alone",
+            "Whether the explanation confirms their first opinion"
+          ],
+          "correctIndex": 0,
+          "explanation": "Evaluating explanations requires checking evidence, reasoning and fit with observations.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-069",
+          "question": "A reliable way to communicate uncertainty in a biological investigation is to:",
+          "options": [
+            "Describe limitations, variability and the strength of evidence",
+            "Claim certainty from one observation",
+            "Hide results that do not fit",
+            "Avoid mentioning the sample size"
+          ],
+          "correctIndex": 0,
+          "explanation": "Transparent reporting of limitations and variability helps readers judge conclusions appropriately.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-070",
+          "question": "Which statement correctly describes a food-chain arrow?",
+          "options": [
+            "It points from the food organism toward the consumer",
+            "It always points toward the producer",
+            "It shows the direction animals move",
+            "It means both organisms are the same trophic level"
+          ],
+          "correctIndex": 0,
+          "explanation": "Food-chain arrows indicate the direction of energy transfer, from the organism being eaten to the eater.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-071",
+          "question": "A learner sees mould growing on bread. The teacher can use this to introduce:",
+          "options": [
+            "Fungal growth and the role of environmental conditions",
+            "The claim that all fungi are plants",
+            "The idea that mould is a bacterium",
+            "A conclusion that all spores cause disease"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bread mould provides an accessible context for discussing fungi and factors influencing growth; safe handling is essential.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-072",
+          "question": "To reduce contamination in a simple microbial investigation, learners should:",
+          "options": [
+            "Use approved procedures, clean equipment and avoid opening cultures unnecessarily",
+            "Touch culture surfaces with bare hands",
+            "Keep unknown cultures at body temperature at home",
+            "Dispose of cultures in ordinary bins without guidance"
+          ],
+          "correctIndex": 0,
+          "explanation": "Microbial work requires appropriate containment, hygiene and disposal under teacher-approved safety procedures.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-073",
+          "question": "A teacher uses a simulation to demonstrate natural selection. Learners should also discuss:",
+          "options": [
+            "Which aspects the model represents and which real-world factors it omits",
+            "Why simulations never need evaluation",
+            "That model results prove every detail of nature",
+            "That all individuals respond identically"
+          ],
+          "correctIndex": 0,
+          "explanation": "Discussing model assumptions and limitations helps learners interpret simulations critically.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-074",
+          "question": "The best reason to revisit a concept after a formative quiz is to:",
+          "options": [
+            "Use evidence of learner understanding to adjust instruction",
+            "Fill time regardless of results",
+            "Punish students who scored low",
+            "Avoid addressing identified difficulties"
+          ],
+          "correctIndex": 0,
+          "explanation": "Formative evidence can guide reteaching, practice or extension based on learner needs.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-075",
+          "question": "A student proposes that plants obtain most of their dry mass directly from soil. A useful investigation or discussion should emphasize:",
+          "options": [
+            "Evidence that much plant biomass is built from carbon fixed from atmospheric carbon dioxide",
+            "That soil is the only source of plant matter",
+            "That plants do not need water",
+            "That minerals are converted directly into all sugars"
+          ],
+          "correctIndex": 0,
+          "explanation": "Photosynthetic carbon fixation means much of a plant's biomass carbon comes from carbon dioxide, while water and mineral nutrients are also essential.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-076",
+          "question": "Which practice supports inclusive group work in a biology lesson?",
+          "options": [
+            "Assigning meaningful roles and offering different ways to contribute",
+            "Letting one student perform every task",
+            "Giving some learners no access to materials",
+            "Grading participation by speaking volume"
+          ],
+          "correctIndex": 0,
+          "explanation": "Clear roles and varied participation routes can support equitable involvement and make group learning accessible.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-077",
+          "question": "A learner reports a result that contradicts a textbook example. The teacher should:",
+          "options": [
+            "Examine the method, repeat if appropriate and discuss how context or error may explain the difference",
+            "Insist the observation cannot be real",
+            "Alter the student's record",
+            "Declare the textbook wrong immediately"
+          ],
+          "correctIndex": 0,
+          "explanation": "Unexpected evidence should be investigated carefully, with attention to method, context and uncertainty.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-078",
+          "question": "Which statement about correlation is scientifically appropriate?",
+          "options": [
+            "A correlation alone does not establish that one variable causes the other",
+            "Any correlation proves direct causation",
+            "Correlation means the variables are identical",
+            "Correlation cannot be studied with data"
+          ],
+          "correctIndex": 0,
+          "explanation": "Correlations may arise from confounding factors or chance, so causal claims require further evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-079",
+          "question": "A good biological investigation question should be:",
+          "options": [
+            "Focused, investigable and feasible with available methods",
+            "So broad that no evidence can address it",
+            "Based only on a preferred conclusion",
+            "Impossible to measure or observe"
+          ],
+          "correctIndex": 0,
+          "explanation": "A focused, feasible question helps learners plan a meaningful investigation and collect relevant evidence.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-080",
+          "question": "In a lesson on human health, trustworthy information should be checked against:",
+          "options": [
+            "Credible scientific or public-health sources and the quality of supporting evidence",
+            "Anonymous posts alone",
+            "Popularity rankings only",
+            "Anecdotes treated as universal proof"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reliable health learning relies on credible sources and evidence rather than popularity or isolated anecdotes.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-081",
+          "question": "Why should students avoid releasing classroom organisms into the wild?",
+          "options": [
+            "They may disrupt ecosystems or spread disease, and release may violate local rules",
+            "All organisms are harmless outside",
+            "Release always increases biodiversity safely",
+            "Organisms cannot survive outside classrooms"
+          ],
+          "correctIndex": 0,
+          "explanation": "Unapproved releases can create ecological and biosecurity risks; follow local guidance and responsible disposal practices.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-082",
+          "question": "Which cell structure contains chlorophyll and captures light energy?",
+          "options": [
+            "Chloroplast",
+            "Mitochondrion",
+            "Lysosome",
+            "Golgi body"
+          ],
+          "correctIndex": 0,
+          "explanation": "Chlorophyll in chloroplasts absorbs light used in photosynthesis.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-083",
+          "question": "Which molecule carries hereditary information in most organisms?",
+          "options": [
+            "DNA",
+            "Cellulose",
+            "Glycogen",
+            "Triglyceride"
+          ],
+          "correctIndex": 0,
+          "explanation": "DNA stores hereditary information in most organisms.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-084",
+          "question": "Which process produces two genetically similar daughter cells for growth and repair?",
+          "options": [
+            "Mitosis",
+            "Meiosis",
+            "Fertilization",
+            "Budding in all organisms"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mitosis supports growth and repair and usually produces genetically similar daughter cells.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-085",
+          "question": "Which structure in the small intestine increases absorptive surface area?",
+          "options": [
+            "Villi",
+            "Alveoli",
+            "Nephrons",
+            "Bronchioles"
+          ],
+          "correctIndex": 0,
+          "explanation": "Villi and their microvilli greatly increase the small intestine's absorptive surface.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-086",
+          "question": "Which component of blood transports oxygen using haemoglobin?",
+          "options": [
+            "Red blood cells",
+            "Platelets",
+            "Most white blood cells",
+            "Lymphocytes only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Red blood cells contain haemoglobin, which binds and transports oxygen.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-087",
+          "question": "Which organ produces bile?",
+          "options": [
+            "Liver",
+            "Pancreas",
+            "Kidney",
+            "Spleen"
+          ],
+          "correctIndex": 0,
+          "explanation": "The liver produces bile; the gallbladder stores and concentrates it.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-088",
+          "question": "Which plant structure absorbs most water from soil?",
+          "options": [
+            "Roots, especially root hairs",
+            "Petals",
+            "Stamens",
+            "Fruit wall"
+          ],
+          "correctIndex": 0,
+          "explanation": "Root hairs increase surface area and aid water and mineral absorption.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-089",
+          "question": "Which process describes water vapour loss from aerial plant parts?",
+          "options": [
+            "Transpiration",
+            "Guttation",
+            "Fertilization",
+            "Germination"
+          ],
+          "correctIndex": 0,
+          "explanation": "Transpiration is the loss of water vapour from plant surfaces, especially through stomata.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-090",
+          "question": "Which is an example of a producer in a terrestrial food chain?",
+          "options": [
+            "Green grass",
+            "Hawk",
+            "Earthworm",
+            "Fungus decomposer"
+          ],
+          "correctIndex": 0,
+          "explanation": "Green plants produce organic matter using photosynthesis and form the base of many food chains.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-091",
+          "question": "What is the main role of decomposers in an ecosystem?",
+          "options": [
+            "Recycle nutrients by breaking down dead matter",
+            "Create sunlight",
+            "Prevent decay",
+            "Consume only living producers"
+          ],
+          "correctIndex": 0,
+          "explanation": "Decomposers break down organic remains and return nutrients to the environment.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-092",
+          "question": "Which term refers to all the populations of different species in an area?",
+          "options": [
+            "Community",
+            "Organism",
+            "Biome only",
+            "Abiotic factor"
+          ],
+          "correctIndex": 0,
+          "explanation": "A community comprises populations of different species living and interacting in an area.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-093",
+          "question": "Which instrument is commonly used to measure temperature in a school investigation?",
+          "options": [
+            "Thermometer",
+            "Balance",
+            "Ruler",
+            "Stopwatch"
+          ],
+          "correctIndex": 0,
+          "explanation": "A thermometer measures temperature.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-094",
+          "question": "Why should a student repeat an experiment?",
+          "options": [
+            "To assess consistency and improve confidence in the findings",
+            "To guarantee the expected result",
+            "To avoid recording observations",
+            "To make the hypothesis true"
+          ],
+          "correctIndex": 0,
+          "explanation": "Repeating trials helps reveal variability and whether results are consistent.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-095",
+          "question": "In a graph, the dependent variable is usually placed on the:",
+          "options": [
+            "Vertical (y) axis",
+            "Horizontal (x) axis in every case",
+            "Graph border",
+            "Legend only"
+          ],
+          "correctIndex": 0,
+          "explanation": "The measured response or dependent variable is commonly plotted on the y-axis.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-096",
+          "question": "Which is an example of formative assessment?",
+          "options": [
+            "A short check during a lesson used to adapt teaching",
+            "A final certificate only",
+            "An attendance register",
+            "A seating plan"
+          ],
+          "correctIndex": 0,
+          "explanation": "Formative assessment provides information during learning that can guide feedback and instruction.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-097",
+          "question": "A learner with a misconception should be supported through:",
+          "options": [
+            "Questions, evidence and opportunities to revise their explanation",
+            "Ridicule",
+            "Removing them from discussion",
+            "Asking them to memorize without understanding"
+          ],
+          "correctIndex": 0,
+          "explanation": "Eliciting reasoning and examining evidence can help learners refine their conceptions.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-098",
+          "question": "Which approach helps make a biology lesson accessible to diverse learners?",
+          "options": [
+            "Use varied representations and accessible participation options",
+            "Use one format without considering access",
+            "Provide diagrams with no labels or description",
+            "Exclude practical alternatives"
+          ],
+          "correctIndex": 0,
+          "explanation": "Multiple representations and flexible ways to participate can reduce learning barriers.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-099",
+          "question": "When collecting field data, students should record:",
+          "options": [
+            "Date, site, conditions and observations",
+            "Only their final opinion",
+            "Unverified assumptions as facts",
+            "No method information"
+          ],
+          "correctIndex": 0,
+          "explanation": "Contextual field notes help make observations interpretable and reproducible.",
+          "explanationLanguage": "en"
+        },
+        {
+          "id": "biology-content-004-100",
+          "question": "A scientific conclusion should be based primarily on:",
+          "options": [
+            "Evidence collected and the limits of the investigation",
+            "The answer the class prefers",
+            "A guess made before the experiment",
+            "The most confident speaker"
+          ],
+          "correctIndex": 0,
+          "explanation": "Conclusions should follow from evidence and acknowledge relevant limitations.",
+          "explanationLanguage": "en"
+        }
+      ]
+    }
+  ]
+}
