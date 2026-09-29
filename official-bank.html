@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="te">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="AP Special TET Paper-II A 2,700 question practice bank with Telugu explanations.">
+  <title>AP TET | Paper-II A Official Question Bank</title>
+  <link rel="stylesheet" href="css/official-bank.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <div class="brand">AP TET Practice</div>
+      <div class="subtitle">Paper-II A · Official Question Bank Practice</div>
+    </div>
+    <a class="home-link" href="index.html">← Home</a>
+  </header>
+
+  <main class="container">
+    <section class="hero card">
+      <div class="eyebrow">IN-SERVICE TEACHER RESOURCE</div>
+      <h1>Paper-II A — 2,700 Question Practice Bank</h1>
+      <p>ప్రశ్నను ప్రయత్నించండి → సమాధానాన్ని చూడండి → ఎందుకు సరైందో తెలుగులో నేర్చుకోండి. అన్ని విభాగాల వివరణలు తెలుగులోనే ఉంటాయి.</p>
+    </section>
+
+    <section class="toolbar card">
+      <div class="field">
+        <label for="subjectSelect">విభాగం / Subject</label>
+        <select id="subjectSelect"></select>
+      </div>
+
+      <div class="field number-field">
+        <label for="questionNumberInput">ప్రశ్న సంఖ్య</label>
+        <input id="questionNumberInput" type="number" min="1" inputmode="numeric" placeholder="ఉదా: 597">
+      </div>
+
+      <button id="goToQuestionBtn" class="primary-btn">ప్రశ్నకు వెళ్లండి</button>
+      <button id="clearNumberBtn" class="secondary-btn">Clear</button>
+      <button id="randomBtn" class="secondary-btn">Random Question</button>
+    </section>
+
+    <p class="search-help">స్పష్టమైన నావిగేషన్ కోసం: ముందుగా Subject ఎంచుకుని, ఆ విభాగంలోని ప్రశ్న సంఖ్యను నమోదు చేసి “ప్రశ్నకు వెళ్లండి” నొక్కండి. “All Paper-II A Subjects” ఎంచుకుంటే అదే సంఖ్య ఉన్న ప్రశ్నలు అన్ని విభాగాల నుంచి చూపబడతాయి.</p>
+
+    <section class="stats">
+      <div class="stat card"><strong id="totalCount">0</strong><span>చూపబడుతున్న ప్రశ్నలు</span></div>
+      <div class="stat card"><strong id="answeredCount">0</strong><span>ఈ sessionలో attempt చేసినవి</span></div>
+      <div class="stat card"><strong id="progressPct">0%</strong><span>ప్రస్తుత progress</span></div>
+    </section>
+
+    <section class="progress-wrap card">
+      <div class="progress-label"><span id="positionLabel">Question 1</span><span id="subjectLabel"></span></div>
+      <div class="progress-track"><div id="progressBar" class="progress-bar"></div></div>
+    </section>
+
+    <section id="questionCard" class="question-card card">
+      <div class="question-meta">
+        <span id="questionNumber"></span>
+        <span id="questionSubject"></span>
+      </div>
+
+      <div id="questionTopic" class="topic-chip"></div>
+      <div id="questionText" class="question-text"></div>
+      <div id="options" class="options"></div>
+
+      <div class="actions">
+        <button id="revealBtn" class="primary-btn">సమాధానం చూడండి</button>
+        <button id="prevBtn" class="secondary-btn">← Previous</button>
+        <button id="nextBtn" class="secondary-btn">Next →</button>
+      </div>
+
+      <div id="answerPanel" class="answer-panel hidden">
+        <div id="answerStatus" class="answer-status"></div>
+        <div class="correct-answer"><strong>సరైన సమాధానం:</strong> <span id="correctAnswer"></span></div>
+        <div class="explanation">
+          <div class="explanation-title">📖 వివరణ</div>
+          <p id="explanationText"></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="source-note card">
+      <strong>మూల వనరు గమనిక</strong>
+      <p>ఈ practice resource మీరు అందించిన Paper-II A question-bank PDF ఆధారంగా రూపొందించబడింది. ప్రశ్నల wording, options మరియు answer keys మూల వనరుకు అనుగుణంగా ఉంచబడ్డాయి. వివరణలు మాత్రం learnersకు అర్థమయ్యేలా అదనంగా తెలుగులో రూపొందించబడ్డాయి; అవి PDFలోని verbatim explanations అని భావించకండి.</p>
+    </section>
+  </main>
+
+  <script src="js/official-bank.js"></script>
+</body>
+</html>
