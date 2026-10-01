@@ -50,3 +50,15 @@ button:disabled{opacity:.48;cursor:not-allowed}
 .actions .primary-btn{margin-right:0;width:100%}.actions .secondary-btn{flex:1;min-width:0}
 .explanation p{font-size:15px;line-height:1.75}
 }
+
+.danger-btn{min-height:43px;border-radius:9px;padding:8px 14px;font:inherit;font-weight:800;cursor:pointer;border:1px solid #e2a3a0;background:#fff5f4;color:#b43732}
+.danger-btn:hover{background:#ffebe9}
+.modal{position:fixed;inset:0;z-index:100;display:grid;place-items:center;padding:16px;background:rgba(13,32,49,.52)}
+.modal.hidden{display:none!important}
+.modal-box{width:min(460px,100%);background:#fff;border:1px solid var(--border);border-radius:16px;padding:24px;box-shadow:0 20px 60px rgba(0,0,0,.22);text-align:center}
+.modal-icon{font-size:32px;margin-bottom:4px}
+.modal-box h2{margin:4px 0 8px;font-size:22px;color:#16324a}
+.modal-box p{margin:0;color:#60758a;line-height:1.65}
+.modal-actions{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-top:18px}
+.modal-actions button{width:100%}
+@media(max-width:620px){.toolbar .danger-btn{width:100%}.modal-box{padding:20px}.modal-actions{grid-template-columns:1fr}.modal-box h2{font-size:20px}}

@@ -7,7 +7,7 @@
   <title>AP TET | Paper 2 A Telugu Content.pdf</title>
   <link rel="stylesheet" href="css/official-bank.css">
 </head>
-<body data-bank="data/paper2a-telugu-content.json">
+<body data-bank="data/paper2a-telugu-content.json" data-storage-key="aptet-v4-telugu-180">
   <header class="topbar">
     <div>
       <div class="brand">AP TET Practice</div>
@@ -37,6 +37,7 @@
       <button id="goToQuestionBtn" class="primary-btn">ప్రశ్నకు వెళ్లండి</button>
       <button id="clearNumberBtn" class="secondary-btn">Clear</button>
       <button id="randomBtn" class="secondary-btn">Random Question</button>
+      <button id="resetBtn" class="danger-btn">Reset 180 Questions</button>
     </section>
 
     <p class="search-help">ప్రశ్నను వెతకడానికి text search లేదు. ప్రశ్న సంఖ్యను నమోదు చేసి “ప్రశ్నకు వెళ్లండి” నొక్కండి. Previous / Nextతో వరుసగా ముందుకు వెళ్లవచ్చు.</p>
@@ -84,6 +85,30 @@
     </section>
   </main>
 
-  <script src="js/telugu-content.js"></script>
+  <div id="resumeModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="resumeTitle">
+    <div class="modal-box">
+      <div class="modal-icon">↩️</div>
+      <h2 id="resumeTitle">మీ practice కొనసాగించాలా?</h2>
+      <p id="resumeMessage">మీ saved progress కనుగొనబడింది.</p>
+      <div class="modal-actions">
+        <button id="resumeContinueBtn" class="primary-btn">Continue Practice</button>
+        <button id="resumeFreshBtn" class="secondary-btn">Start Fresh</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="resetModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="resetTitle">
+    <div class="modal-box">
+      <div class="modal-icon">♻️</div>
+      <h2 id="resetTitle">Progress Reset చేయాలా?</h2>
+      <p id="resetMessage"></p>
+      <div class="modal-actions">
+        <button id="confirmResetBtn" class="danger-btn">Yes, Reset</button>
+        <button id="cancelResetBtn" class="secondary-btn">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/telugu-content.js?v=4"></script>
 </body>
 </html>
